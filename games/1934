@@ -15,14 +15,14 @@ Kowalski, Urbanski;
 Musch;
 Baltimore Canton: Burtscher, Mack, Musch, Kowalski, Dales, Nickels, Brown, Law, Lang, Urbanski, Schwanke. 
 
-11/11/1934; Baltimore Canton; ; 2-3; Brooklyn Celtic ; away
+11/11/1934; Baltimore Canton; 2-3; Brooklyn Celtic ; away
 Lang, og;
 Baltimore Canton: Burtscher, Musch, Mack, Kowalski, Dales, Nickels, Maxwell, Kilban, Lang, Schwanke, Lowe. 
 
 11/18/1934; Baltimore Canton; 3-1; Brooklyn Celtic ; home;
 Schwanke, Lowe;
 
-11/25/1934; Baltimore Canton; ; 2-3; Kearny Scots ; away
+11/25/1934; Baltimore Canton; 2-3; Kearny Scots ; away
 Schwanke, Lowe;
 Baltimore Canton: Burtscher, Musch, Mack, Amrhein, Dales, Kowalski, Lowe, Maxwell, Lang, Law, Schwanke. 
 
@@ -47,7 +47,7 @@ Law, Maxwell;
 Baltimore Canton: Burtschner, Mack, Musch, Nickel, Amrhein, Kowalski, Brown, Maxwell, Lang, Law, Schwanke. 
 
   1/13/1935; Baltimore Canton; 3-0; Kearny Scots ; home;
-Maxwell, Mack, Lang.;
+Maxwell, Mack, Lang;
 
   3/24/1935; Baltimore Canton; 3-1; New York Americans ; home; 
 Lang, Schwanke, Mack;
@@ -84,7 +84,7 @@ Baltimore Canton: Denson, Seward, Mack, Kowalski, Dales, Winterling, Brown, Maxw
   9/30/1934; Brookhattan; 0-0; Kearny Scots ; away; 
 Brookhattan: Aronauer, Slaven, Glover, Slone, Lynch, Morton, DeVivo (Fisher), Tolan, Drysdale (Grosz), Wortmann, Sheppell.
 
-10/07/1934; Brookhattan; 0-2; New York Americans; neutral (N)
+10/07/1934; Brookhattan; 0-2; New York Americans; neutral
 Brookhattan: Aronauer, Anderson (Slaven), Glover, Morton, Slone, Lynch, Devivo (Tollan), Fisher, Drysdale, Wortmann, Sheppell.
 
 10/14/1934; Brookhattan; 1-2; Kearny Irish ; home; 
@@ -136,7 +136,7 @@ Wortmann, og;
 Brookhattan: Aronauer, Slaven, Glover, Morton, Slone, Lynch, DeVivo, Tollan, Carroll, Wortmann (Fisher), Sheppell. 
 Carroll, Carroll, DeVivo, Fisher;
 
-  2/10/1935; Brookhattan; 2-1; New York Americans (N)
+  2/10/1935; Brookhattan; 2-1; New York Americans; neutral
 Brookhattan: Aronauer, Slaven, Glover, Slone, Lynch, Martyn, DeVivo, Tolan, Carroll (Fisher), Wortmann, Grosz. 
 DeVivo, DeVivo;
 
@@ -273,7 +273,7 @@ Smith, Odessa;
   9/30/1934; Brooklyn Hispano; 1-2; Kearny Irish ; home; , 1-2. 
 Sacks;
 
-10/07/1934; Brooklyn Hispano; 6-0; Brooklyn Celtic (N), 6-0. 
+10/07/1934; Brooklyn Hispano; 6-0; Brooklyn Celtic; neutral
 Sacks, Edesa, Edesa, Edesa, Edesa, McCrindle;
 
 10/14/1934; Brooklyn Hispano; 2-2; Baltimore Canton ; home; , 2-2
@@ -293,7 +293,7 @@ Brooklyn Hispano: Othen, Brandolini, A. Burroughs, Maurino, Jogis, Singer, Smith
 Brooklyn Hispano: Othen, Brandolini, A. Burroughs, Maurino, Jogis, Singer, Salcedo, Smith, Sacks, McCrindle, H. Burroughs. 
 McCrindle, Salcedo;
 
-12/02/1934; Brooklyn Hispano; 1-0; Brooklyn Celtic (N), 1-0. 
+12/02/1934; Brooklyn Hispano; 1-0; Brooklyn Celtic; neutral
 Ruddy;
 
 12/09/1934; Brooklyn Hispano; 2-0; Kearny Irish ; away; 
@@ -514,7 +514,7 @@ Kearny Scots: Davis, Paterson, Zipkowski, McGregor, Aitken, Lennon, Robinson, Va
 *New York Americans, 1934-35
 
   9/23/1934; New York Americans; 4-2; Brooklyn Hispano ; home
-New York Americans: Chesney, Grosz, Moorhouse, Wyles, Fleming, McManus, Schwarcz, Collins (Milne), Michaels, Kunter, Brown. 
+New York Americans: Chesney, Grosz, Moorhouse, Wyles, Fleming, McManus, Schwarcz, Collins (Milne), Michaels, Kuntner, Brown. 
 Michaels, Michaels, Schwarcz, Brown;
 
   9/30/1934; New York Americans; 3-1; Newark Germans ; away; 
@@ -539,9 +539,9 @@ New York Americans: Chesney, Grosz, Moorhouse, Wyles, Fleming, McManus, Schwarcz
 Schwarcz, Collins;
 New York Americans: Chesney, Grosz, Moorhouse, Michaels, Fleming, McManus, Schwarcz, Kuntner, Collins, Milne, Pearson. 
 
-11/25/1934; New York Americans; 1-4; Brookhattan (N)
+11/25/1934; New York Americans; 1-4; Brookhattan; neutral
 Brown;
-New York Americans: Chesney, Moorhouse, Grosz, Wyles, Fleming, McManus, Schwarcz, Kunter, Michaels, Collins, Brown. 
+New York Americans: Chesney, Moorhouse, Grosz, Wyles, Fleming, McManus, Schwarcz, Kuntner, Michaels, Collins, Brown. 
 
 12/02/1934; New York Americans; 2-0; Baltimore Canton ; away
 Moorhouse, Moorhouse;
@@ -566,7 +566,7 @@ Moorhouse, Collins, Collins, Collins;
 New York Americans: Chesney, Grosz, Moorhouse, Brown, Fleming, Wyles, Schwarcz, Kuntner, Collins, McManus, Mazza. 
 Moorhouse;
 
-  2/10/1935; New York Americans; 1-2; Brookhattan (N)
+  2/10/1935; New York Americans; 1-2; Brookhattan; neutral
 New York Americans: Chesney, Grosz, Moorhouse, Collins, Fleming, Wyles, Schwarcz, Kuntner (Michaels), Cunliffe, McManus (Milne), Ramirez. 
 Cunliffe;
 
@@ -575,7 +575,7 @@ Collins, Michaels;
 
   3/24/1935; New York Americans; 1-3; Baltimore Canton ; away; 
 Kuntner;
-New York Americans: Chesney, Wyles, Gross, McManus, Foran, Fleming, Schwarcz, C. Brown, Michaels, Kunter, Collins. 
+New York Americans: Chesney, Wyles, Gross, McManus, Foran, Fleming, Schwarcz, C. Brown, Michaels, Kuntner, Collins. 
 
   4/07/1935; New York Americans; 3-1; Brooklyn Celtic ; home; 
 Schwarcz, Michaels, Brown;
@@ -591,10 +591,10 @@ New York Americans: Chesney, Grosz, Tehel, Foran (Michaels), Fleming, Wyles, Sch
 
   4/28/1935; New York Americans; 1-3; Newark Germans ; away; 
 Michaels;
-New York Americans: Chesney, Grosz, Tehel, Wyles, Fleming, McManus, Schwarcz, Collins, Michaels, Kunter, Moorhouse. 
+New York Americans: Chesney, Grosz, Tehel, Wyles, Fleming, McManus, Schwarcz, Collins, Michaels, Kuntner, Moorhouse. 
 
   5/05/1935; New York Americans; 6-4; Baltimore Canton ; home; 
-Moorhouse, Moorhouse, Schwarcz, Michaels, Foran, Kunter;
+Moorhouse, Moorhouse, Schwarcz, Michaels, Foran, Kuntner;
 New York Americans: Chesney, Grosz, Tehel, Wyles, Lennon, McManus, Schwarcz, Foran, Michaels, Kuntner, Moorhouse. 
 
   5/12/1935; New York Americans; 0-1; Philadelphia German-American ; home; 
@@ -612,7 +612,7 @@ Newark Germans: Cengia, Bazewicz, McKay, Ballantyne, Mieth, Richter, Wittek, Mur
 
 10/14/1934; Newark Germans; 2-1; Kearny Scots ; away; , 
 Richter, Murray;
-Newark Germans: Cengia, Bazewicz, McKay, Ballantyne, Mieth, Richter, Wittek, McGrath (McMurdo), Murray, Nolan, Mueller.. 
+Newark Germans: Cengia, Bazewicz, McKay, Ballantyne, Mieth, Richter, Wittek, McGrath (McMurdo), Murray, Nolan, Mueller
 
 10/21/1934; Newark Germans; 0-2; New York Americans ; away
 
