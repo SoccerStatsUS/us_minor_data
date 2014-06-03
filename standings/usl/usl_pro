@@ -1,0 +1,66 @@
+Competition: USL Pro
+Season: 2011
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+
+*American Division
+1    ;   Orlando City             ;   24   ;   15  ;    6   ;    3   ;    36   ;   16  ;    +20  ;   51      
+2    ;   Wilmington Hammerheads   ;   24   ;   14  ;    3   ;    7   ;    42   ;   30  ;    +12  ;   45 
+3    ;   Richmond Kickers         ;   24   ;   12  ;    5   ;    7   ;    35   ;   21  ;    +14  ;   41
+4    ;   Charleston Battery       ;   24   ;   10  ;    5   ;    9   ;    24   ;   25  ;    −1   ;   35
+5    ;   Charlotte Eagles         ;   24   ;   9   ;    6   ;    9   ;    32   ;   29  ;    +3   ;   33
+6    ;   Antigua Barracuda        ;   24   ;   9   ;    2   ;    13  ;    32   ;   32  ;    0    ;   29
+
+*National Division
+
+1       ;  Rochester Rhinos          ; 24   ;   12   ;   4    ;   8   ;    31  ;    23   ;   +8  ;    40
+2       ;  Harrisburg City Islanders ; 24   ;   10   ;   7    ;   7   ;    37  ;    30   ;   +7  ;    37
+3       ;  Los Angeles Blues         ; 24   ;    8   ;   9    ;   7   ;    34  ;    29   ;   +5  ;    33
+4       ;  Pittsburgh Riverhounds    ; 24   ;    7   ;   6    ;   11  ;    23  ;    32   ;   −9  ;    27
+5       ;  F.C. New York             ; 24   ;    6   ;   7    ;   11  ;    27  ;    37   ;   −10 ;    25
+6       ;  Dayton Dutch Lions        ; 24   ;    2   ;   6    ;   16  ;    21  ;    54   ;   −33 ;    12
+
+Key: team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+
+*; Sevilla FC Puerto Rico  ; 0; 0; 0; 0; 0; 0; 0; 0
+*; River Plate Puerto Rico ; 0; 0; 0; 0; 0; 0; 0; 0
+*; Puerto Rico United      ; 0; 0; 0; 0; 0; 0; 0; 0
+
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+Season: 2012
+
+1      ; Orlando City            ;  24    ;  17   ;   6   ;    1     ;  50   ;   18  ;    +32  ;   57
+2      ; Rochester Rhinos        ;  24    ;  12   ;   5   ;    7     ;  27   ;   23  ;    +4   ;   41
+3      ; Charleston Battery      ;  24    ;  12   ;   2   ;    10    ;  36   ;   26  ;    +10  ;   38
+4      ; Richmond Kickers        ;  24    ;  11   ;   5   ;    8     ;  31   ;   27  ;    +4   ;   38
+5      ; Wilmington Hammerheads  ;  24    ;  10   ;   7   ;    7     ;  34   ;   32  ;    +2   ;   37
+6      ; Harrisburg City Islanders; 24    ;  10   ;   7   ;    7     ;  34   ;   29  ;    +5   ;   37
+7      ; Charlotte Eagles        ;  24    ;11     ; 3     ;  10      ;34     ; 26    ;  +8     ; 36      
+8      ; Los Angeles Blues       ;  24    ;9      ; 3     ;  12      ;26     ; 29    ;  −3     ; 30
+9      ; Dayton Dutch Lions      ;  24    ;4      ; 10    ;  10      ;20     ; 29    ;  −9     ; 22
+10     ; Pittsburgh Riverhounds  ;  24    ;4      ; 5     ;  15      ;20     ; 39    ;  −19    ; 17
+11     ; Antigua Barracuda       ;  24    ;5      ; 1     ;  18      ;16     ; 50    ;  −34    ; 16
+
+
+
+Season: 2013
+BlockSource: http://en.wikipedia.org/wiki/2013_USL_Pro_season
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+
+1     ;  Richmond Kickers         ; 26     ; 15     ; 10     ; 1      ; 51     ; 24     ; +27    ; 55   
+2     ;  Orlando City             ; 26     ; 16     ; 6      ; 4      ; 54     ; 26     ; +28    ; 54    
+3     ;  Charleston Battery       ; 26     ; 13     ; 6      ; 7      ; 48     ; 29     ; +19    ; 45
+4     ;  Harrisburg City Islanders; 26     ; 14     ; 2      ; 10     ; 55     ; 39     ; +16    ; 44
+5     ;  Charlotte Eagles         ; 26     ; 10     ; 11     ; 5      ; 44     ; 39     ; +5     ; 41
+6     ;  Los Angeles Blues        ; 26     ; 11     ; 7      ; 8      ; 52     ; 37     ; +15    ; 40
+7     ;  Pittsburgh Riverhounds   ; 26     ; 10     ; 8      ; 8      ; 36     ; 33     ; +3     ; 38
+8     ;  Dayton Dutch Lions       ; 26     ; 10     ; 7      ; 9      ; 43     ; 46     ; −3     ; 37
+9     ;  Wilmington Hammerheads   ; 26     ; 11     ; 4      ; 11     ; 35     ; 39     ; −4     ; 36
+10    ;  VSI Tampa Bay            ; 26     ; 9      ; 5      ; 12     ; 41     ; 39     ; +2     ; 32
+11    ;  Rochester Rhinos         ; 26     ; 6      ; 10     ; 10     ; 25     ; 39     ; −14    ; 28
+12    ;  Phoenix FC               ; 26     ; 5      ; 7      ; 14     ; 28     ; 41     ; −13    ; 22
+13    ;  Antigua Barracuda        ; 26     ; 0      ; 0      ; 26     ; 11     ; 91     ; −80    ; 0

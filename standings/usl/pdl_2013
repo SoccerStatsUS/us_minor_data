@@ -1,0 +1,101 @@
+Competition: USL Premier Developmental League
+Season: 2013
+BlockSource: http://en.wikipedia.org/wiki/2013_PDL_season
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+
+*Central Conference
+*Great Lakes Division
+
+1   ;    Forest City London     ; 14     ; 10     ; 2      ; 2      ; 32     ; 15     ; +17    ; 32
+2   ;    Michigan Bucks         ; 14     ; 8      ; 3      ; 3      ; 36     ; 17     ; +19    ; 27
+3   ;    Chicago Fire Premier   ; 14     ; 6      ; 0      ; 8      ; 23     ; 28     ; −5     ; 18
+4   ;    K-W United FC          ; 14     ; 5      ; 3      ; 6      ; 23     ; 21     ; +2     ; 18
+5   ;    Toronto Lynx           ; 14     ; 5      ; 2      ; 7      ; 13     ; 24     ; −11    ; 17
+6   ;    Chicago Inferno        ; 14     ; 4      ; 3      ; 7      ; 16     ; 27     ; −11    ; 15
+7   ;    River City Rovers      ; 14     ; 4      ; 1      ; 9      ; 19     ; 30     ; −11    ; 13
+
+*Heartland Division[edit]
+
+1   ;    Thunder Bay Chill      ; 14     ; 12     ; 1      ; 1      ; 35     ; 10     ; +25    ; 37
+2   ;    Real Colorado Foxes    ; 14     ; 9      ; 2      ; 3      ; 28     ; 14     ; +14    ; 29
+3   ;    Des Moines Menace      ; 14     ; 6      ; 2      ; 6      ; 19     ; 16     ; +3     ; 20
+4   ;    Kansas City Brass      ; 14     ; 5      ; 1      ; 8      ; 20     ; 35     ; −15    ; 16
+5   ;    St. Louis Lions        ; 14     ; 4      ; 3      ; 7      ; 20     ; 28     ; −8     ; 15
+6   ;    Springfield Demize     ; 14     ; 3      ; 5      ; 6      ; 14     ; 20     ; −6     ; 14
+7   ;    WSA Winnipeg           ; 14     ; 3      ; 2      ; 9      ; 19     ; 28     ; −9     ; 11
+
+*Eastern Conference
+*Mid Atlantic Division
+
+1   ;Ocean City Nor'easters     ; 14     ; 11     ; 1      ; 2      ; 40     ; 15     ; +25    ; 34
+2   ;Baltimore Bohemians        ; 14     ; 8      ; 5      ; 1      ; 42     ; 15     ; +27    ; 29
+3   ;Reading United             ; 14     ; 8      ; 5      ; 1      ; 39     ; 12     ; +27    ; 29
+4   ;Jersey Express S.C.        ; 14     ; 8      ; 5      ; 1      ; 38     ; 15     ; +23    ; 29
+5   ;Long Island Rough Riders   ; 14     ; 7      ; 2      ; 5      ; 28     ; 22     ; +6     ; 20
+6   ;F.A. Euro - New York Magic ; 14     ; 4      ; 2      ; 8      ; 18     ; 33     ; -15    ; 14
+7   ;NJ-LUSO Rangers FC         ; 14     ; 4      ; 1      ; 9      ; 13     ; 36     ; -23    ; 13
+8   ;Central Jersey Spartans    ; 14     ; 2      ; 0      ; 12     ; 13     ; 35     ; -22    ; 6
+9   ;Westchester Flames         ; 14     ; 0      ; 1      ; 13     ; 9      ; 57     ; -48    ; 1
+*Note: Long Island Rough Riders deducted three points.
+
+*Northeast Division
+
+1   ;    Ottawa Fury             ; 14     ; 11     ; 2      ; 1      ; 40     ; 7      ; +33    ; 35
+2   ;    GPS Portland Phoenix    ; 14     ; 7      ; 4      ; 3      ; 20     ; 17     ; +3     ; 25
+3   ;    Vermont Voltage         ; 14     ; 6      ; 3      ; 5      ; 28     ; 28     ; 0      ; 21
+4   ;    Western Mass Pioneers   ; 14     ; 5      ; 6      ; 3      ; 23     ; 15     ; +8     ; 21
+5   ;    Real Boston Rams        ; 14     ; 4      ; 2      ; 8      ; 18     ; 28     ; −10    ; 14
+6   ;    Connecticut FC Azul     ; 14     ; 2      ; 6      ; 6      ; 13     ; 19     ; −6     ; 12
+7   ;    Seacoast United Phantoms; 14     ; 0      ; 5      ; 9      ; 2      ; 30     ; −28    ; 5
+
+*South Atlantic Division
+
+1   ;    Carolina Dynamo                ; 14     ; 9      ; 3      ; 2      ; 29     ; 9      ; +20    ; 30
+2   ;    Virginia Beach Piranhas        ; 14     ; 7      ; 3      ; 4      ; 24     ; 20     ; +4     ; 24
+3   ;    Northern Virginia Royals       ; 14     ; 5      ; 5      ; 4      ; 21     ; 16     ; +5     ; 20
+4   ;    West Virginia Chaos            ; 14     ; 5      ; 2      ; 7      ; 20     ; 25     ; −5     ; 17
+5   ;    SC United Bantams              ; 14     ; 5      ; 1      ; 8      ; 20     ; 26     ; −6     ; 16
+6   ;    King's Warriors                ; 14     ; 4      ; 0      ; 10     ; 20     ; 38     ; −18    ; 12
+
+*Southern Conference
+*Mid South Division
+
+1  ;     Austin Aztex           ; 14     ; 11     ; 2      ; 1      ; 38     ; 8      ; +30    ; 35
+2  ;     Laredo Heat            ; 14     ; 8      ; 4      ; 2      ; 30     ; 13     ; +17    ; 28
+3  ;     Oklahoma City FC       ; 14     ; 8      ; 2      ; 4      ; 33     ; 21     ; +12    ; 26
+4  ;     West Texas Sockers     ; 14     ; 3      ; 3      ; 8      ; 27     ; 41     ; −14    ; 12
+5  ;     Houston Dutch Lions    ; 14     ; 3      ; 2      ; 9      ; 18     ; 34     ; −16    ; 11
+6  ;     El Paso Patriots       ; 14     ; 1      ; 3      ; 10     ; 13     ; 42     ; −29    ; 6
+
+*Southeast Division
+
+1     ;  Ocala Stampede                 ; 14     ; 11     ; 0      ; 3      ; 40     ; 16     ; +24    ; 33
+2     ;  Panama City Beach Pirates      ; 14     ; 10     ; 1      ; 3      ; 20     ; 11     ; +9     ; 31
+3     ;  Orlando City U-23              ; 14     ; 8      ; 2      ; 4      ; 27     ; 14     ; +13    ; 26
+4     ;  VSI Tampa Bay FC               ; 14     ; 6      ; 5      ; 3      ; 25     ; 13     ; +12    ; 23
+5     ;  Mississippi Brilla             ; 14     ; 6      ; 1      ; 7      ; 28     ; 24     ; +4     ; 19
+6     ;  IMG Academy Bradenton          ; 14     ; 4      ; 5      ; 5      ; 16     ; 17     ; −1     ; 17
+7     ;  SW Florida Adrenaline          ; 14     ; 2      ; 4      ; 8      ; 24     ; 36     ; −12    ; 10
+8     ;  Fort Lauderdale Schulz Academy ; 14     ; 0      ; 0      ; 14     ; 9      ; 58     ; −49    ; 0
+
+*Western Conference
+*Northwest Division
+
+1     ;  Victoria Highlanders           ; 14     ; 8      ; 4      ; 2      ; 31     ; 18     ; +13    ; 28
+2     ;  Portland Timbers U23's         ; 14     ; 7      ; 4      ; 3      ; 18     ; 12     ; +6     ; 25
+3     ;  Vancouver Whitecaps FC U-23    ; 14     ; 7      ; 3      ; 4      ; 30     ; 22     ; +8     ; 24
+4     ;  Seattle Sounders FC U-23       ; 14     ; 4      ; 5      ; 5      ; 18     ; 23     ; −5     ; 17
+5     ;  Kitsap Pumas                   ; 14     ; 3      ; 7      ; 4      ; 22     ; 24     ; −2     ; 16
+6     ;  Washington Crossfire           ; 14     ; 4      ; 3      ; 7      ; 15     ; 18     ; −3     ; 15
+7     ;  North Sound SeaWolves          ; 14     ; 2      ; 2      ; 10     ; 15     ; 32     ; −17    ; 8
+
+*Southwest Division
+
+1     ;  Fresno Fuego                   ; 14     ; 11     ; 2      ; 1      ; 32     ; 8      ; +24    ; 35
+2     ;  Ventura County Fusion          ; 14     ; 7      ; 4      ; 3      ; 18     ; 16     ; +2     ; 25
+3     ;  Los Angeles Misioneros         ; 14     ; 7      ; 3      ; 4      ; 16     ; 14     ; +2     ; 24
+4     ;  BYU Cougars                    ; 14     ; 6      ; 2      ; 6      ; 18     ; 19     ; −1     ; 20
+5     ;  FC Tucson                      ; 14     ; 5      ; 4      ; 5      ; 31     ; 17     ; +14    ; 19
+6     ;  OC Blues Strikers FC           ; 14     ; 1      ; 3      ; 10     ; 15     ; 48     ; −33    ; 6
+7     ;  Southern California Seahorses  ; 14     ; 1      ; 2      ; 11     ; 17     ; 29     ; −12    ; 5

@@ -1,0 +1,76 @@
+Competition: Lone Star Soccer Alliance
+BlockSource: http://homepages.sover.net/~spectrum/lssa.html
+Key: team; games; wins; losses; goals_for; goals_against; points
+
+
+Season: 1987
+
+Dallas Express             ; 6;   6;   0;   16;   5;   12
+Houston Dynamos            ; 6;   3;   3;   15;  12;    6
+Austin Thunder             ; 6;   2;   4;    8;   9;    4
+San Antonio International  ; 6;   1;   5;    6;  19;    2
+
+
+Season: 1988
+
+Dallas Mean Green          ; 8 ;  8 ;  0 ;  19 ;  4 ;  16
+Houston Dynamos            ; 8 ;  5 ;  3 ;   8 ;  8 ;  10
+Austin Thunder             ; 8 ;  4 ;  4 ;  12 ; 11 ;   8
+Houston Alianza            ; 8 ;  3 ;  5 ;  11 ; 13 ;   6
+San Antonio International  ; 8 ;  0 ;  8 ;   5 ; 16 ;   0
+
+
+Season: 1989
+
+Dallas Inter              ; 10;  10 ;  0 ;  34 ;  5 ;  20
+Austin Thunder            ; 10;   6 ;  4 ;  15 ; 11 ;  12
+Houston Dynamos           ; 10;   6 ;  4 ;  22 ; 14 ;  12
+Wichita Fallas Fever      ; 10;   4 ;  6 ;  17 ; 22 ;   8
+Houston Alianza           ; 10;   4 ;  6 ;  16 ; 23 ;   8
+San Antonio International ; 10;   0 ; 10 ;   6 ; 26 ;   0
+
+
+Key: team; games; wins; losses; ties; goals_for; goals_against; points
+Season: 1990
+
+*     Northern Division
+Dallas Inter              ; 10 ;  8 ;  1 ;  1 ;  26 ;  6 ; 17
+Oklahoma City Spirit      ; 10 ;  6 ;  4 ;  0 ;  22 ; 17 ; 12
+Wichita Falls Fever       ; 10 ;  6 ;  4 ;  0 ;  19 ; 14 ; 12
+Wichita Blue              ; 10 ;  1 ;  9 ;  0 ;   8 ; 30 ;  2
+
+*     Southern Division
+San Antonio Alamo         ; 10 ;  5 ;  4 ;  1 ;  18 ; 17 ; 11
+Austin Thunder            ; 10 ;  5 ;  5 ;  0 ;  16 ;  9 ; 10
+Houston Alianza           ; 10 ;  4 ;  6 ;  0 ;  10 ; 16 ;  8
+Houston Dynamos           ; 10 ;  4 ;  6 ;  0 ;   9 ; 17 ;  8
+
+
+Season: 1991
+Key: team; games; wins; losses; goals_for; goals_against; points
+
+*     Northern Division
+Dallas Inter              ; 12 ;  9 ;  3 ;  35;  20;  18
+Wichita Falls Fever       ; 12 ;  8 ;  4 ;  30;  16;  16
+Oklahoma City Spirit      ; 12 ;  6 ;  6 ;  21;  18;  12
+Wichita Blue              ; 12 ;  2 ; 10 ;   8;  28;   4
+
+*     Southern Division
+Austin Thunder            ; 12 ;  9 ;  3 ;  24;   7;  18
+Houston Alianza           ; 12 ;  7 ;  5 ;  25;  20;  14
+Houston International     ; 12 ;  1 ; 11 ;  12;  46;   2
+
+
+Season: 1992
+
+*     Northern Division
+Tulsa Pride               ; 14;  10 ;  4 ;  53;  12;  20
+Oklahoma City Spirit      ; 14;   9 ;  5 ;  22;  16;  18
+Wichita Falls Fever       ; 13;   5 ;  8 ;  27;  29;  10
+Wichita Blue              ; 14;   3 ; 11 ;   9;  55;   6
+
+*     Southern Division
+Dallas Inter              ; 14;  11 ;  3 ;  42;  14;  22
+America F. C.             ; 14;   9 ;  5 ;  30;  22;  18
+Austin Thunder            ; 13;   5 ;  8 ;  16;  28;  10
+San Antonio XLR8          ; 12;   2 ; 10 ;  18;  38;   4

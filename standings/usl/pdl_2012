@@ -1,0 +1,112 @@
+Competition: USL Premier Developmental League
+Season: 2012
+BlockSource: http://en.wikipedia.org/wiki/2012_PDL_season
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+
+*Central Conference
+*Great Lakes Division
+
+1     ;  Michigan Bucks        ;  16     ; 13     ; 2      ; 1      ; 46     ; 10     ; +36    ; 41
+2     ;  Forest City London    ;  16     ; 7      ; 4      ; 5      ; 28     ; 21     ; +7     ; 25
+3     ;  River City Rovers    ;  16     ; 7      ; 2      ; 7      ; 24     ; 32     ; −8     ; 23
+ * Although River City Rovers qualified for post season play, they ceded the match that was to be played 7/17 to Forest City London.
+4     ;  Cincinnati Kings      ;  16     ; 6      ; 3      ; 7      ; 28     ; 33     ; −5     ; 21
+5     ;  Chicago Fire Premier  ;  16     ; 6      ; 3      ; 7      ; 22     ; 26     ; −4     ; 21
+6     ;  Toronto Lynx          ;  16     ; 6      ; 2      ; 8      ; 22     ; 25     ; −3     ; 20
+7     ;  Hamilton Rage         ;  16     ; 4      ; 3      ; 9      ; 23     ; 35     ; −12    ; 15
+8     ;  Chicago Inferno       ;  16     ; 4      ; 3      ; 9      ; 21     ; 32     ; −11    ; 15
+
+
+*Heartland Division
+
+1     ;  Thunder Bay Chill     ;  16     ; 13     ; 1      ; 2      ; 41     ; 10     ; +31    ; 40
+2     ;  Real Colorado Foxes   ;  16     ; 8      ; 4      ; 4      ; 19     ; 19     ; 0      ; 28
+3     ;  Des Moines Menace     ;  16     ; 8      ; 3      ; 5      ; 30     ; 22     ; +8     ; 27
+4     ;  Springfield Demize    ;  16     ; 5      ; 4      ; 7      ; 23     ; 29     ; −6     ; 19
+5     ;  Kansas City Brass     ;  16     ; 6      ; 1      ; 9      ; 30     ; 31     ; −1     ; 19
+6     ;  WSA Winnipeg          ;  16     ; 3      ; 5      ; 8      ; 15     ; 28     ; −13    ; 14
+7     ;  St. Louis Lions       ;  16     ; 3      ; 2      ; 11     ; 16     ; 35     ; −19    ; 11
+
+*Eastern Conference
+*Mid Atlantic Division
+
+1   ;    Ocean City Nor'easters       ;   16   ;   13   ;   0   ;    3   ;    36  ;    13   ;   +23   ;  39
+2   ;    Reading United               ;   16   ;   11   ;   3   ;    2   ;    33  ;    11   ;   +22   ;  36
+3   ;    Jersey Express               ;   16   ;   10   ;   3   ;    3   ;    33  ;    16   ;   +17   ;  33
+4   ;    New Jersey Rangers           ;   16   ;   8    ;   3   ;    5   ;    28  ;    25   ;   +3    ;  27
+5   ;    Long Island Rough Riders     ;   16   ;   6    ;   3   ;    7   ;    26  ;    22   ;   +4    ;  21
+6   ;    Baltimore Bohemians          ;   16   ;   5    ;   4   ;    7   ;    20  ;    24   ;   −4    ;  19
+7   ;    Brooklyn Knights             ;   16   ;   5    ;   2   ;    9   ;    31  ;    37   ;   −6    ;  17
+8   ;    Central Jersey Spartans      ;   16   ;   4    ;   2   ;    10  ;    13  ;    31   ;   −18   ;  14
+9   ;    Bermuda Hogges               ;   16   ;   4    ;   2   ;    10  ;    17  ;    38   ;   −21   ;  14
+10  ;    Westchester Flames           ;   16   ;   2    ;   2   ;    12  ;    20  ;    40   ;   −20   ;  8
+
+*Northeast Division
+
+1     ;  Ottawa Fury                   ;  16   ;   10  ;    3   ;    3   ;    30   ;   14   ;   +16  ;   33
+2     ;  GPS Portland Phoenix          ;  16   ;   10  ;    2   ;    4   ;    29   ;   17   ;   +12  ;   32
+3     ;  Western Mass Pioneers         ;  16   ;   6   ;    6   ;    4   ;    18   ;   11   ;   +7   ;   24
+4     ;  Worcester Hydra               ;  16   ;   6   ;    5   ;    5   ;    23   ;   19   ;   +4   ;   23
+5     ;  Connecticut FC Azul           ;  16   ;   6   ;    5   ;    5   ;    24   ;   14   ;   +10  ;   23
+6     ;  Seacoast United Phantoms      ;  16   ;   5   ;    5   ;    6   ;    14   ;   20   ;   −6   ;   20
+7     ;  Vermont Voltage               ;  16   ;    3   ;    2   ;    11   ;   21   ;   34   ;   −13 ;    11
+8     ;  Boston Victory                ;  16   ;    3   ;    2   ;    11   ;   6    ;   36   ;   −30 ;    11
+
+*South Atlantic Division
+
+1     ;  Carolina Dynamo           ;      16    ;  11  ;    4   ;    1   ;    37  ;    10  ;    +27  ;   37
+2     ;  Real Maryland Monarchs    ;      16    ;  8   ;    4   ;    4   ;    33  ;    22  ;    +11  ;   28
+3     ;  West Virginia Chaos       ;      16    ;  8   ;    3   ;    5   ;    22  ;    22  ;    0    ;   27
+4     ;  Nashville Metros          ;      16    ;  7   ;    3   ;    6   ;    24  ;    15  ;    +9   ;   24
+5     ;  Fredericksburg Hotspur    ;      16    ;  6   ;    2   ;    8   ;    23  ;    34  ;    −11  ;   20
+6     ;  Palmetto FC Bantams       ;      16    ;  4   ;    7   ;    5   ;    16  ;    18  ;    −2   ;   19
+7     ;  Northern Virginia Royals  ;      16    ;  5   ;    4   ;    7   ;    14  ;    23  ;    −9   ;   19
+8     ;  King's Warriors           ;      16    ;  4     ;  2     ;  10    ;  17    ;  24     ; −7   ;   14
+9     ;  Virginia Beach Piranhas   ;      16    ;  3   ;    3   ;    10  ;    16  ;    34  ;    −18  ;   12
+
+*Southern Conference
+*Mid South Division
+
+1   ;    Laredo Heat          ;   16   ;   10   ;   3   ;    3    ;   31    ;  15  ;    +16  ;   33
+2   ;    Austin Aztex         ;   16   ;   9    ;   2   ;    5    ;   40    ;  13  ;    +27  ;   29
+3   ;    El Paso Patriots     ;   16   ;   7    ;   2   ;    7    ;   26    ;  24  ;    +2   ;   23
+4   ;    Texas Dutch Lions    ;   16   ;   5    ;   2   ;    9    ;   22    ;  47  ;    −25  ;   17
+5   ;    New Orleans Jesters  ;   16   ;   3    ;   7   ;    6    ;   26    ;  34  ;    −8   ;   16
+6   ;    West Texas Sockers   ;   16   ;   3    ;   6   ;    7    ;   18    ;  30  ;    −12  ;   15
+
+*Southeast Division
+
+1     ;  Ocala Stampede                 ; 16     ; 11     ; 2      ; 3      ; 35     ; 20     ; +15    ; 35
+2     ;  Orlando City U-23              ; 16     ; 8      ; 5      ; 3      ; 31     ; 17     ; +14    ; 29
+3     ;  Bradenton Academics            ; 16     ; 8      ; 2      ; 6      ; 23     ; 14     ; +9     ; 26
+4     ;  Mississippi Brilla             ; 16     ; 8      ; 1      ; 7      ; 32     ; 25     ; +7     ; 25
+5     ;  VSI Tampa Flames               ; 16     ; 7      ; 4      ; 5      ; 23     ; 20     ; +3     ; 25
+6     ;  Panama City Beach Pirates      ; 16     ; 6      ; 3      ; 7      ; 19     ; 19     ; 0      ; 21
+7     ;  Fort Lauderdale Schulz Academy ; 16     ; 3      ; 3      ; 10     ; 10     ; 39     ; −29    ; 12
+8     ;  FC JAX Destroyers              ; 16     ;  1     ;  4     ;  11    ;  17    ;  36    ;  −19   ;  7
+
+*Western Conference
+*Northwest Division
+
+1     ;  Seattle Sounders FC U-23       ; 16     ; 11     ; 3      ; 2      ; 33     ; 17     ; +16    ; 36
+2     ;  Portland Timbers U23's         ; 16     ; 10     ; 2      ; 4      ; 35     ; 16     ; +19    ; 32
+3     ;  Kitsap Pumas                   ; 16     ; 10     ; 2      ; 4      ; 29     ; 18     ; +11    ; 32
+4     ;  Washington Crossfire           ; 16     ; 8      ; 1      ; 7      ; 17     ; 21     ; −4     ; 25
+5     ;  Vancouver Whitecaps FC U-23    ; 16     ; 7      ; 3      ; 6      ; 35     ; 20     ; +15    ; 24
+6     ;  Victoria Highlanders           ; 16     ;  6     ;  4     ;  6     ;  21    ;  18    ;  +3    ;  22
+7     ;  North Sound SeaWolves          ; 16     ;  4     ;  0     ;  12    ;  16    ;  40    ;  −24   ;  12
+8     ;  Fraser Valley Mariners         ; 16     ;  0     ;  1     ;  15    ;  4     ;  40    ;  −36   ;  1
+
+*Southwest Division
+
+1     ;  Ventura County Fusion          ; 16     ; 12     ; 2      ; 2      ; 42     ; 13     ; +29    ; 38
+2     ;  FC Tucson                      ; 16     ; 9      ; 4      ; 3      ; 21     ; 16     ; +5     ; 31
+3     ;  Fresno Fuego                   ; 16     ; 8      ; 3      ; 5      ; 28     ; 24     ; +4     ; 27
+4     ;  Los Angeles Misioneros         ; 16     ; 5      ; 7      ; 4      ; 29     ; 23     ; +6     ; 22
+5     ;  Ogden Outlaws                  ; 16     ; 6      ; 3      ; 7      ; 21     ; 27     ; −6     ; 21
+6     ;  BYU Cougars                    ; 16     ; 6      ; 2      ; 8      ; 27     ; 25     ; +2     ; 20
+7     ;  Orange County Blue Star        ; 16     ; 5      ; 5      ; 6      ; 30     ; 26     ; +4     ; 20
+8     ;  Southern California Seahorses  ; 16     ; 3      ; 3      ; 10     ; 21     ; 36     ; −15    ; 12
+9     ;  Pali Blues                     ; 16     ;     2  ;     3  ;     11 ;     16 ;     45 ;     −29;     9

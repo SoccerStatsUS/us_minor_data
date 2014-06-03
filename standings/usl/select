@@ -1,0 +1,37 @@
+Competition: USISL Select League
+Season: 1996
+BlockSource: http://en.wikipedia.org/wiki/1996_USISL_Select_League
+
+Key: position; team; games; wins; losses; shootout_wins; goals_for; goals_against; goal_difference; points
+
+*Eastern Conference
+*North Atlantic Division
+1    ; Long Island Rough Riders ; 18  ;    11  ;    7   ;    0    ;   39  ;    31  ;    +8  ;    33
+2    ; Richmond Kickers         ; 18  ;    10  ;    8   ;    0    ;   34  ;    24  ;    +10 ;    28
+3    ; Connecticut Wolves       ; 18  ;    7   ;    7   ;    4    ;   37  ;    37  ;    +6  ;    25
+4    ; Delaware Wizards         ; 18  ;    5   ;    12  ;    1    ;   20  ;    29  ;    -9  ;    16
+5    ; Cape Cod Crusaders       ; 18  ;    4   ;    13  ;    1    ;   13  ;    24  ;    -11 ;    9
+6    ; New York/New Jersey Stallions;  18;      2 ;      16;      0  ;     19;      52;      -33 ;    6
+
+*South Atlantic Division
+1    ; Carolina Dynamo          ; 18  ;    14  ;    3   ;    1    ;   37  ;    15  ;    +22 ;    43
+2    ; South Carolina Shamrocks ; 18  ;    12  ;    6   ;    1    ;   42  ;    31  ;    +11 ;    34
+3    ; Hampton Roads Mariners   ; 18  ;    9   ;    5   ;    4    ;   32  ;    15  ;    +17 ;    31
+4    ; Tampa Bay Cyclones       ; 18  ;    9   ;    8   ;    1    ;   40  ;    32  ;    +8  ;    28
+5    ; Raleigh Flyers           ; 18  ;    7   ;    11  ;    0    ;   25  ;    26  ;    -1  ;    21
+
+*Western Conference
+*Central Division
+1    ;   Milwaukee Rampage      ; 18  ;    8   ;    3   ;    5    ;   36  ;    19  ;    +17 ;    33
+2    ;   Minnesota Thunder      ; 18  ;    10  ;    8   ;    0    ;   31  ;    16  ;    +15 ;    30
+3    ;   New Orleans Riverboat Gamblers ; 18  ;    7   ;    9   ;    2    ;   31  ;    36  ;    -5  ;    23
+4    ;   Ohio Xoggz             ; 18  ;    5   ;    12  ;    1    ;   26  ;    34  ;    -8  ;    16
+5    ;   Chicago Stingers       ; 18  ;    4   ;    13  ;    1    ;   29  ;    41  ;    -12 ;    13
+
+*Pacific Division
+1    ;   California Jaguars     ; 18  ;    11  ;    6   ;    1    ;   30  ;    21  ;    +9  ;    34
+2    ;   Sacramento Scorpions   ; 18  ;    9   ;    7   ;    2    ;   23  ;    22  ;    +1  ;    29
+3    ;   El Paso Patriots       ; 18  ;    9   ;    8   ;    1    ;   30  ;    23  ;    +7  ;    28
+4    ;   New Mexico Chiles      ; 18  ;    9   ;    9   ;    0    ;   24  ;    24  ;    0   ;    27
+5    ;   Reno Rattlers          ; 18  ;    1   ;    12  ;    5    ;   13  ;    33  ;    -20 ;    8
+

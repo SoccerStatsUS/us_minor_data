@@ -1,0 +1,30 @@
+Competition: United Soccer League (1984-1985)
+BlockSource: http://homepages.sover.net/~spectrum/usl-old.html
+
+Season: 1984
+Key: team; games; wins; ties; losses; goals_for; goals_against; points; percentage
+
+*                            Southern Division
+Ft Lauderdale Sun        ;  24 ; 15 ;  0 ;  9 ;  53 ; 34 ; 122 ; .625
+Charlotte Gold           ;  24 ; 11 ;  0 ; 13 ;  48 ; 59 ; 105 ; .458
+Jacksonville Tea Men     ;  24 ; 11 ;  0 ; 13 ;  46 ; 50 ;  98 ; .458
+ 
+*        Northern Division
+Buffalo Storm            ;  24 ; 11 ;  0 ; 13 ;  48 ; 41 ;  96 ; .458
+New York Nationals       ;  24 ; 10 ;  0 ; 14 ;  32 ; 53 ;  84 ; .417
+Rochester Flash          ;  24 ;  7 ;  0 ; 17 ;  27 ; 49 ;  65 ; .292
+         
+*         Western Division
+Oklahoma City Stampede   ;  24 ; 15 ;  0 ;  9 ;  55 ; 42 ; 127 ; .625
+Houston Dynamos          ;  24 ; 13 ;  0 ; 11 ;  54 ; 38 ; 112 ; .542
+Dallas Americans         ;  24 ; 14 ;  0 ; 10 ;  37 ; 34 ; 110 ; .583
+
+Season: 1985
+Key: team; games; wins; ties; losses; goals_for; goals_against; percentage
+
+South Florida Sun          ; 6 ;  4 ;  0 ;  2 ;   9 ;  8 ; .667
+Dallas Americans           ; 6 ;  3 ;  0 ;  3 ;  12 ;  9 ; .500 
+Tulsa Tornados             ; 6 ;  3 ;  0 ;  3 ;   7 ;  7 ; .500 
+El Paso/Juarez Gamecocks   ; 6 ;  2 ;  0 ;  4 ;  10 ; 15 ; .333 
+
+

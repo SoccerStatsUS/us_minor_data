@@ -1,0 +1,60 @@
+BlockSource: http://homepages.sover.net/~spectrum/wsa.html
+Competition: Western Soccer Alliance
+
+Season: 1985
+Key: team; games_played; wins; ties; losses; goals_for; goals_against; points
+
+San Jose Earthquakes       ;   7 ;  4 ;  1 ;  2 ;  10 ;  9 ; 13
+Victoria Riptide           ;   7 ;  3 ;  1 ;  3 ;  16 ; 11 ; 10
+F. C. Seattle              ;   7 ;  3 ;  1 ;  3 ;  13 ; 13 ; 10
+F. C. Portland             ;   7 ;  1 ;  2 ;  4 ;   8 ; 16 ;  5
+
+Season: 1986
+
+Hollywood Kickers         ;  14 ;  8 ;  4 ;  2 ;  21;  13 ;  28
+F. C. Portland            ;  14 ;  6 ;  2 ;  6 ;  20;  19 ;  20
+Seattle Storm             ;  14 ;  6 ;  2 ;  6 ;  19;  22 ;  20
+Los Angeles Heat          ;  14 ;  4 ;  5 ;  5 ;  15;  14 ;  17
+San Diego Nomads          ;  14 ;  4 ;  4 ;  6 ;  18;  20 ;  16
+San Jose Earthquakes      ;  14 ;  3 ;  4 ;  7 ;  23;  32 ;  13
+Edmonton Brickmen         ;  14 ;  3 ;  3 ;  8 ;  18;  28 ;  12
+
+Season: 1987
+
+Key: team; games_played; wins; losses; overtime_wins; overtime_losses; pk_wins; pk_losses; goals_for; goals_against; points
+
+San Diego Nomads          ; 10 ;  6 ;  4 ;  1 ;  0 ;  1 ;  1 ; 17 ;  9 ;  31
+Seattle Storm             ; 10 ;  5 ;  5 ;  1 ;  1 ;  1 ;  1 ; 16 ; 14 ;  31
+San Jose Earthquakes      ; 10 ;  5 ;  5 ;  1 ;  1 ;  0 ;  1 ; 21 ; 13 ;  31
+F. C. Portland            ; 10 ;  5 ;  5 ;  2 ;  0 ;  0 ;  0 ;  9 ; 16 ;  24
+Los Angeles Heat          ; 10 ;  5 ;  5 ;  0 ;  1 ;  0 ;  0 ;  9 ; 15 ;  24
+California Kickers        ; 10 ;  4 ;  6 ;  0 ;  2 ;  2 ;  0 ; 11 ; 16 ;  23
+
+Key: team; games_played; wins; losses; goals_for; goals_against; points
+
+Season: 1988
+
+Seattle Storm             ; 12 ; 10 ;  2 ;  25 ; 10 ;  83
+San Diego Nomads          ; 12 ;  9 ;  3 ;  23 ; 17 ;  76
+San Jose Earthquakes      ; 12 ;  7 ;  5 ;  20 ; 19 ;  61
+Los Angeles Heat          ; 12 ;  7 ;  5 ;  20 ; 17 ;  61
+California Kickers        ; 12 ;  3 ;  9 ;  17 ; 28 ;  35
+F. C. Portland            ; 12 ;  1 ; 11 ;  16 ; 32 ;  22
+
+Season: 1989
+
+
+*     North Division
+San Francisco Bay Blackhawks ;  16 ; 11 ;  5 ;  37 ; 26 ;  98
+Portland Timbers             ;  16 ; 11 ;  5 ;  32 ; 25 ;  92
+Seattle Storm                ;  16 ; 10 ;  6 ;  32 ; 23 ;  87
+Sacramento Senators          ;  16 ;  3 ; 13 ;  20 ; 43 ;  40
+
+*     South Division
+San Diego Nomads             ;  16 ; 12 ;  4 ;  30 ; 18 ;  99
+Los Angeles Heat             ;  16 ; 10 ;  6 ;  35 ; 19 ;  81
+Real Santa Barbara           ;  16 ;  5 ; 11 ;  20 ; 35 ;  51
+Arizona Condors              ;  16 ;  5 ; 11 ;  25 ; 39 ;  50
+California Kickers           ;  16 ;  5 ; 11 ;  17 ; 30 ;  42
+
+

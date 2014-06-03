@@ -1,0 +1,2050 @@
+Competition: USL Premier Developmental League
+Season: 2013
+Key: number; position; name; games_played; points; minutes; goals; assists; shots; fouls; nothing
+
+
+Team: Chicago Fire U-23
+BlockSource: http://www.uslsoccer.com/teams/2013/22315.html#STATS
+
+
+97; D; Albert, Keaton; 7; -; 295; -; -; 1; 3; 
+95; D; Beasley, Peter; 3; -; 111; -; -; -; -; 
+55; F; Calistri, Joey; 3; 2; 254; 1; -; 2; 1; 
+88; M; Ciesiulka, Bryan; 11; 8; 937; 3; 2; 15; 2; 
+24; M; Conner, Andrew; 5; -; 289; -; -; 1; 4; 
+83; M; Cortez, Felipe; 13; 6; 922; 2; 2; 6; 2; 
+35; D; Doody, Patrick; 5; -; 412; -; -; 1; 1; 
+55; F; Engel, Tyler; 4; 2; 275; 1; -; 3; 1; 
+5; F; Epps, Roderick; 4; 2; 173; 1; -; -; -; 
+53; F; Farina, Jeff; 2; -; 65; -; -; 1; 1; 
+; ; Fernandez, Collin; 1; -; 44; -; -; -; -; 
+21; D; Figura, Daniel; 12; -; 990; -; -; -; 6; 
+80; M; Garza, Arturo; 2; 2; 30; 1; -; -; -; 
+99; F; Gutierrez, Marco; 8; -; 410; -; -; 1; 1; 
+99; D; Keller, Daniel; 7; 2; 504; 1; -; 1; 1; 
+0; GK; Kikolski, Piotr; 2; -; 135; -; -; -; -; 
+74; M; Lindley, Cameron; 2; -; 134; -; -; 1; 2; 
+95; M; Lunar, Brian; 4; -; 160; -; -; 1; 2; 
+0; GK; Lyon, Charles; 8; -; 675; -; -; -; -; 
+97; D; McGuinness, William; 9; -; 547; -; -; -; 1; 
+2; M; Medina, Luis; 7; 4; 158; 2; -; 4; -; 
+1; GK; Miller, Tyler; 4; -; 360; -; -; -; -; 
+88; D; Myall, James; 3; -; 169; -; -; 1; 3; 
+5; M; Ogbonna, Chisom; 2; -; 105; -; -; -; 1; 
+; ; Petts, Harrison; 1; -; 45; -; -; -; -; 
+44; D; Pineda, Mauricio; 2; -; 70; -; -; -; 1; 
+35; M; Pothast, Eric; 7; -; 630; -; -; 3; 4; 
+34; F; Prince, Christopher; 10; 10; 714; 5; -; 7; 5; 
+74; M; Ritter, Chris; 2; -; 180; -; -; -; 2; 
+82; D; Salmeron, Joel; 4; -; 295; -; -; -; 1; 
+80; F; Selvaggi, David; 11; 4; 503; 2; -; 4; 5; 
+88; F; Shipp, Harrison; 2; 2; 180; 1; -; -; 1; 
+5; F; Torres, Javier; 2; -; 51; -; -; -; -; 
+35; M; Totsch, Sean; 11; 2; 907; 1; -; 4; 5; 
+34; M; Underwood, Alex; 2; -; 30; -; -; -; 2; 
+44; M; Wahl, Brady; 11; -; 853; -; -; 3; 7; 
+74; D; Wheeler, Trevor; 5; 2; 308; 1; -; -; 2; 
+
+Team: Chicago Inferno
+BlockSource: http://www.uslsoccer.com/teams/2013/42834719.html#STATS
+
+
+20; F; Ahmed-Shaibu, Lukman; 5; -; 137; -; -; 1; 6; 
+8; M; Alvarez, Noel; 9; 2; 771; 1; -; 9; 12; 
+12; D; Ashley, Dustin; 12; 3; 1035; 1; 1; 2; 8; 
+11; F; Balarabe, Sadik; 5; 2; 225; 1; -; 4; 4; 
+19; F; Ben, Gerald; 3; -; 95; -; -; 5; 5; 
+2; D; Briggs, Christian; 11; 4; 990; 2; -; 5; 6; 
+18; ; Brindle, Jacob; 7; 2; 395; 1; -; 3; 5; 
+5; M; Caban, David; 12; 2; 941; 1; -; -; 6; 
+7; M; Carneiro, Pedro; 12; 1; 753; -; 1; 3; 11; 
+22; M; Castanon Garcia, Cesar; 1; -; 9; -; -; -; -; 
+23; M; Clark, Joshua; 6; 1; 373; -; 1; 7; 6; 
+17; M; Clark, Jonathan; 3; -; 142; -; -; -; 2; 
+16; M; Dinuzzo, Anthony; 4; -; 78; -; -; -; 3; 
+1; GK; Gal, Jeff; 2; -; 180; -; -; -; -; 
+3; F; Gurson, Gordon; 1; -; 28; -; -; -; 1; 
+21; D; Ingram, Matt; 3; -; 132; -; -; 1; 4; 
+13; M; Islami, Kelmend; 11; -; 745; -; -; 10; 2; 
+9; F; Kannah, Isaac; 12; 12; 977; 5; 2; 18; 11; 
+14; M; Kreutz, Timothy; 6; 1; 386; -; 1; 6; 2; 
+10; M; LeSeth, Jayson; 8; 1; 595; -; 1; 8; 10; 
+6; D; Mau, John; 12; 2; 1065; 1; -; 2; 6; 
+25; GK; Petricek, Brett; 7; -; 565; -; -; -; 1; 
+1; GK; Rubin, Jack; 2; -; 155; -; -; -; -; 
+22; M; Schillinger, Donald; 4; -; 263; -; -; 1; 6; 
+4; D; Son, Jonghyun; 8; -; 531; -; -; 5; 7; 
+
+Team: Forest City London
+BlockSource: http://www.uslsoccer.com/teams/2013/13598680.html#STATS
+
+11; M; Ayris, Jordan; 11; 25; 922; 10; 5; 32; 9; 
+17; M; Beresford, Brandon; 13; -; 880; -; -; 3; 17; 
+19; F; Boyd, Aaron; 14; 26; 1124; 11; 4; 48; 14; 
+12; F; Bujouves, Anastasios; 5; -; 70; -; -; 5; 2; 
+20; D; De Carolis, Alexander; 10; 3; 722; 1; 1; 8; 7; 
+2; GK; De Zorzi, Rene; 8; 2; 377; 1; -; 3; 2; 
+1; GK; Haynes, Mark; 6; -; 540; -; -; -; 1; 
+24; D; Hemming, Tyler; 13; 2; 1100; -; 2; 6; 9; 
+3; M; Hughes, Joshua; 14; 2; 1167; 1; -; 10; 3; 
+15; F; Ivanovich, Jovan; 5; 4; 193; 2; -; 2; 1; 
+7; D; Johnson, Beau; 14; 3; 1065; -; 3; 6; 10; 
+45; F; Lange, Martin; 13; 3; 999; 1; 1; 14; 14; 
+5; F; Lewis, Alex; 11; -; 256; -; -; 2; -; 
+12; F; Majestic, Matthew; 1; -; 23; -; -; 2; -; 
+18; M; McFall, Connor; 6; -; 95; -; -; 3; 2; 
+8; M; Owens, Thomas; 10; 5; 871; 2; 1; 10; 16; 
+4; D; Pineda, Sebastian; 5; -; 173; -; -; 3; 4; 
+30; GK; Richardson, Reece; 7; -; 630; -; -; -; -; 
+10; F; Sanchez, Isaac; 8; -; 178; -; -; 3; 3; 
+6; GK; Schneebeli, Aaron; 5; -; 113; -; -; -; -; 
+27; M; Spearman, Denver; 9; 2; 458; 1; -; 6; 16; 
+9; M; Troccoli, Renan; 12; 4; 376; 2; -; 6; 4; 
+22; F; Twinem, Joel; 3; -; 54; -; -; -; 1; 
+23; D; Winters, Ruairidh; 9; -; 786; -; -; 5; 4; 
+
+Team: K-W United FC
+BlockSource: http://www.uslsoccer.com/teams/2013/33862327.html#STATS
+
+23; F; Budalic, Niki; 4; -; 32; -; -; -; -; 
+26; D; Camargo, Sergio; 3; -; 116; -; -; 1; -; 
+22; D; Camillo, Adam; 11; 2; 923; 1; -; 4; 3; 
+24; D; Chapman, Jay; 14; 8; 1009; 3; 2; 17; 10; 
+27; D; Cochran, Alec; 3; -; 270; -; -; -; 3; 
+8; M; Collins, Liam; 14; 4; 1034; 2; -; 12; 7; 
+6; D; Grant, Tristan; 9; 2; 549; 1; -; -; 7; 
+10; M; Grocott, William; 12; 7; 966; 3; 1; 14; 10; 
+1; GK; Ingham, Nathan; 11; -; 945; -; -; -; 1; 
+9; F; James, Evan; 14; 9; 936; 4; 1; 21; 9; 
+12; D; Jull, Bennett; 2; -; 96; -; -; -; -; 
+20; F; Kaseke, Tapiwa; 8; -; 225; -; -; 5; 3; 
+17; D; Keely, Shane; 6; 2; 289; 1; -; 2; 1; 
+13; GK; MacLeod, Darrin; 5; -; 360; -; -; -; -; 
+11; D; Polakiewicz, Adam; 3; -; 241; -; -; -; -; 
+7; M; Portillo, Justin; 13; 3; 1042; 1; 1; 5; 9; 
+19; D; Stone, Austin; 11; -; 773; -; -; -; 6; 
+5; D; Uzo, Uchenna; 11; 2; 850; 1; -; 3; 11; 
+4; M; Warburton, Jack; 13; -; 1107; -; -; 1; 17; 
+14; F; Whiteman-Asiamah, Jarek; 13; 9; 860; 4; 1; 19; 13; 
+2; M; Williams, Scott; 1; -; 45; -; -; -; 2; 
+15; D; Wynter, Tevin; 7; -; 293; -; -; -; 3; 
+21; F; Zadro, Tomislav; 10; 5; 722; 2; 1; 8; 11; 
+
+Team: Michigan Bucks
+BlockSource: http://www.uslsoccer.com/teams/2013/22344.html#STATS
+
+18; D; Addai, Jeffrey; 6; -; 430; -; -; 5; 2; 
+17; F; Bartman, Nazeem; 2; -; 29; -; -; -; 1; 
+16; F; Ben, Gerald; 9; 18; 615; 8; 2; 13; 4; 
+21; D; Carn-Saferstein, Adam; 3; -; 192; -; -; -; -; 
+14; M; Catalano, Thomas; 11; 10; 874; 3; 4; 13; 16; 
+; ; Cochran, Alec; 5; -; 307; -; -; -; 3; 
+2; D; Cope, Kevin; 10; 2; 900; 1; -; 4; 3; 
+23; ; Dillon, Joseph; 4; -; 306; -; -; -; 4; 
+13; D; Givens, Stewart; 9; 6; 706; 1; 4; 6; 5; 
+1; GK; Grinwis, Adam; 10; -; 900; -; -; -; 1; 
+; ; Halep, Mirsad; 1; -; 60; -; -; -; 1; 
+11; D; Harris, Sebastian; 7; 3; 223; 1; 1; 5; 5; 
+15; D; Kaba, Mahamoudou; 9; -; 592; -; -; 1; 3; 
+3; D; Keener, Ryan; 10; -; 592; -; -; 2; 6; 
+; M; McGuigan, John; 4; -; 101; -; -; 2; 2; 
+; F; Montague, Adam; 4; 6; 184; 2; 2; 6; 3; 
+; M; Ofili, Christian; 1; -; 14; -; -; -; -; 
+7; F; Peters, Dion; 10; 9; 537; 4; 1; 12; 2; 
+; D; Ruggles, Drew; 10; 3; 612; 1; 1; 9; 3; 
+25; M; Steinberger, Zach; 13; 22; 1047; 10; 2; 19; 13; 
+30; GK; Steinwascher, Nathan; 5; 2; 282; 1; -; 1; -; 
+; M; Stokes, Jason; 6; 3; 221; 1; 1; 4; 1; 
+; M; Tahmi-Masoleh, Pedram; 2; -; 29; -; -; -; 1; 
+9; D; Thomas, Quincy; 5; -; 219; -; -; -; 3; 
+26; M; Ugarte, Marcos; 8; -; 447; -; -; -; 5; 
+10; F; Uzoigwe, Kenny; 4; -; 43; -; -; 1; 3; 
+22; M; Vest-Hansen, Anders; 6; 2; 365; 1; -; 4; 5; 
+6; M; Walker, William; 11; 2; 908; -; 2; 8; 10; 
+4; D; Walker, Nicholas; 12; 2; 897; -; 2; 3; 7; 
+5; M; Walker, Matt; 12; 10; 955; 2; 6; 19; 4; 
+
+Team: River City Rovers
+BlockSource: http://www.uslsoccer.com/teams/2013/33862330.html#STATS
+
+19; M; Andriot, Walker; 5; -; 250; -; -; -; -; 
+0; GK; Ball, Joachim; 1; -; 90; -; -; -; -; 
+2; F; Ballard, Richard; 7; 2; 568; 1; -; 3; 11; 
+9; F; Bertran, Humberto; 13; 6; 726; 3; -; 19; 7; 
+; D; DeChurch-Silva, Dimitri; 1; -; 25; -; -; -; -; 
+7; F; Gonya, Lwandiso; 8; 2; 580; 1; -; 7; 9; 
+0; GK; Hafling, Taylor; 10; -; 855; -; -; -; -; 
+14; M; Hamilton, Shaquille; 8; 1; 380; -; 1; 6; 5; 
+6; D; Henke, Sebastian; 11; -; 798; -; -; 3; 8; 
+0; GK; Hubbard, Chris; 3; -; 225; -; -; -; -; 
+; F; Jones, Timothy; 4; -; 17; -; -; -; -; 
+23; M; Khan, Suleiman; 5; -; 60; -; -; -; -; 
+18; M; Kiembi, Pierce; 12; 3; 543; 1; 1; 5; 13; 
+17; F; Manga, John; 7; 4; 510; 2; -; 7; 5; 
+15; M; Matsoso, Napo; 6; 2; 434; 1; -; 6; 6; 
+13; D; May, Peter; 11; 2; 935; 1; -; 7; 4; 
+16; D; Mehicic, Sanjin; 4; -; 233; -; -; -; 2; 
+1; M; Mendoza, Vincent; 5; -; 136; -; -; -; 9; 
+; M; Mfeka, Lindokuhle; 2; -; 176; -; -; 1; 6; 
+10; M; Miller, Asa; 6; -; 375; -; -; 2; 3; 
+4; D; Ramirez, Luis; 11; 2; 990; 1; -; 2; 4; 
+21; M; Seetane, Lepekola; 6; 2; 537; -; 2; 3; 4; 
+12; M; Sejdic, Amar; 1; -; 180; -; -; 4; 4; 
+6; F; Sparks, Kyle; 6; -; 288; 1; -; 3; 3; 
+11; M; Stankovic, Aljosa; 1; -; 3; -; -; -; -; 
+22; M; Tarver, Robertson; 11; -; 707; -; -; -; 6; 
+5; F; Terry, Dylan; 13; 13; 990; 5; 3; 24; 6; 
+8; M; Tychowski, Callum; 11; -; 528; -; -; 1; 2; 
+; F; Warsame, Mustaf; 3; 2; 60; 1; -; 3; -; 
+3; M; Weiss, Hezekiah; 8; 1; 589; -; 1; 2; ; 
+
+Team: Toronto Lynx
+BlockSource: http://www.uslsoccer.com/teams/2013/22392.html#STATS
+
+13; D; Andoh, Jesse; 2; -; 91; -; -; -; 1; 
+5; D; Crawford, Eric; 10; -; 819; -; -; 1; 4; 
+11; M; Derayeh, Andrew; 7; -; 385; -; -; 2; 4; 
+23; M; Doran, Anthony; 1; -; 6; -; -; 1; 1; 
+10; F; Galvani, James; 12; 2; 679; 1; -; 11; 6; 
+25; M; Gordon, Justin; 9; -; 305; -; -; 4; 4; 
+3; M; Grist, Lloyd; 13; 5; 1124; 2; 1; 12; 4; 
+16; M; Henderson, Jamie; 10; -; 399; -; -; 2; 2; 
+1; GK; Henry, Triston; 1; -; 180; -; -; -; -; 
+2; D; Home, Callum; 14; 4; 1177; 2; -; 5; 16; 
+6; M; Hoyle, Stephen; 10; 1; 321; -; 1; 2; 7; 
+12; M; Iannacito, Daniel; 1; -; 87; -; -; -; 1; 
+26; GK; Janssen, Adam; 6; -; 513; -; -; -; -; 
+17; M; Kowal, Maksym; 11; 4; 563; 2; -; 11; 4; 
+14; M; McNamara, Mikael; 12; 4; 1078; 2; -; 8; 20; 
+12; ; Mitchell, Chris; 1; -; 90; -; -; -; 1; 
+22; D; Moody, Henry; 9; -; 605; -; -; 3; 3; 
+18; M; Muir, David; 8; 1; 661; -; 1; 3; 17; 
+24; F; Novak, Anthony; 8; -; 472; -; -; 3; 5; 
+15; M; Olazabal, Erick; 4; -; 116; -; -; 2; -; 
+8; M; Orritt, Sam; 4; -; 185; -; -; 6; 5; 
+21; M; Osorio, Matthew; 8; -; 233; -; -; 1; 2; 
+20; D; Parolini, Jonathan; 9; -; 392; -; -; -; 7; 
+19; M; Portillo, Joshua; 3; -; 107; -; -; -; 1; 
+8; ; Semenets, Alex; 3; -; 225; -; -; 6; 3; 
+1; GK; Silva, Matthew; 7; -; 567; -; -; -; -; 
+4; D; Smith, Terence; 11; -; 499; -; -; -; 1; 
+9; M; Veidman, Leigh; 13; 2; 1148; 1; -; 16; 18; 
+7; F; Wilde, Mackenzie; 13; 3; 565; 1; 1; 10; 12; 
+
+Team: Des Moines Menace
+BlockSource: http://www.uslsoccer.com/teams/2013/22322.html#STATS
+
+3; D; Alabi, Fatai; 10; 4; 725; 2; -; 8; 6; 
+0; GK; Angevine, Scott; 12; -; 1080; -; -; -; 1; 
+19; D; Bales, Charles; 1; -; 3; -; -; -; -; 
+25; D; Barrenechea, Jeffrey; 6; -; 433; -; -; -; 3; 
+23; D; Becker, Jordan; 3; -; 233; -; -; 2; -; 
+20; M; Chester, Karl; 9; 2; 525; 1; -; 9; 5; 
+5; D; Diem, Taylor; 13; 3; 1034; 1; 1; 7; 12; 
+2; D; Edward, Albert; 6; 1; 496; -; 1; 4; 1; 
+8; D; Fricke, Brandon; 13; 4; 1147; 2; -; 3; 6; 
+26; D; Halfhill, Garrett; 4; -; 89; -; -; -; -; 
+7; M; Harmon, Chris; 12; 6; 818; 2; 2; 18; 6; 
+17; M; Hoek, Sean; 11; 2; 571; 1; -; 12; 11; 
+10; M; Jupic, Husref; 4; 2; 152; 1; -; 2; 1; 
+18; M; Kyei, Jeffrey; 5; -; 82; -; -; 1; -; 
+16; M; Lax, Dylan; 14; 1; 1190; -; 1; 7; 12; 
+1; GK; Pais, Mark; 2; -; 180; -; -; -; -; 
+19; F; Portillos, Zachary; 8; 2; 224; 1; -; 3; 2; 
+18; D; Poulter, Nicholas; 1; -; 90; -; -; -; 1; 
+24; M; Roberson, Stephen; 8; -; 265; -; -; 2; 3; 
+20; F; Roget, Cameron; 2; -; 54; -; -; 1; 2; 
+11; F; Santamaria, David; 12; 2; 522; 1; -; 15; 6; 
+9; M; Sebele, Abel; 11; 8; 598; 2; 4; 17; 1; 
+4; M; Taublieb, Zev; 2; -; 56; -; -; 2; -; 
+13; M; Thaden, Michael; 3; 1; 168; -; 1; 4; 1; 
+22; ; Thomas, Robert; 3; -; 53; -; -; 1; 2; 
+14; F; Tulloch, McKauley; 12; 8; 983; 2; 4; 40; 5; 
+15; D; Vollmer, James; 13; 1; 1141; -; 1; 5; 10; 
+12; F; Wright, Nico; 12; 6; 824; 3; -; 20; 8; 
+
+Team: Kansas City Brass
+BlockSource: http://www.uslsoccer.com/teams/2013/22339.html#STATS
+
+21; M; Aguilar, Nick; 6; 3; 243; 1; 1; 5; 3; 
+22; GK; Allen, Brendan; 3; -; 270; -; -; 2; 1; 
+13; F; Balthazar, Zachary; 2; -; 107; -; -; 1; 2; 
+12; GK; Bass, Ryan; 8; -; 586; -; -; -; 2; 
+15; M; Brock, Tanner; 14; 4; 1118; 1; 2; 8; 7; 
+19; F; Chronopoulos, John; 7; -; 438; -; -; 2; 4; 
+18; F; Cumings, Kyle; 8; -; 430; -; -; 3; 2; 
+4; D; DeJulio, Eric; 6; -; 134; -; -; -; 2; 
+23; D; Galvan, Fernando; 5; -; 104; -; -; -; 2; 
+10; M; Green, Jordan; 14; 5; 1260; -; 5; 15; 9; 
+2; D; Gueye, Ousmane; 12; -; 871; -; -; -; 11; 
+20; M; Jantsch, Bryan; 6; -; 321; -; -; 4; 3; 
+11; M; McCrillis, Samuel; 4; -; 196; -; -; 4; 2; 
+7; F; McDevitt, Matthew; 13; 17; 1058; 8; 1; 51; 18; 
+14; F; McDonald, Nick; 13; 6; 715; 3; -; 13; 11; 
+3; D; Newman, Chad; 13; -; 1170; -; -; 3; 10; 
+17; D; O'Connor, Jack; 8; 1; 712; -; 1; 2; 6; 
+5; D; Oakley, Michael; 11; 2; 990; 1; -; 12; 6; 
+6; D; Oliver, Paul; 9; -; 738; -; -; 7; 11; 
+11; F; Opperman, Nate; 1; 2; 30; 1; -; 3; -; 
+8; M; Perez Macias, Ruben; 12; 4; 1031; 2; -; 7; 14; 
+24; F; Reckmeyer, Mike; 1; -; 34; -; -; -; -; 
+9; F; Rideout, Jordan; 3; 4; 210; 2; -; 5; 2; 
+27; F; Sinclair, Odaine; 3; 2; 162; 1; -; 2; 1; 
+1; GK; Spangler, Steve; 5; -; 405; -; -; -; -; 
+16; M; Walker, Walter; 6; 1; 192; -; 1; 3; 4; 
+9; F; Yeverino, Ricardo; 3; 1; 167; -; 1; 11; 4; 
+
+Real Colorado Foxes
+BlockSource: http://www.uslsoccer.com/teams/2013/13598684.html#STATS
+
+13; F; Akindele, Sheldon; 1; -; 25; -; -; -; -; 
+11; M; Armstrong, Ri; 6; 1; 344; -; 1; 5; 7; 
+15; M; Beerman, Jake; 4; -; 45; -; -; -; -; 
+26; F; Bell, Austin; 2; -; 50; -; -; 1; -; 
+25; M; Burt, Jordan; 7; -; 540; -; -; 3; 5; 
+6; M; DePuy, Nicholas; 2; -; 180; -; -; 1; 4; 
+19; D; Dia, Amadou; 3; 2; 184; 1; -; 1; 2; 
+3; D; Donaldson, Lorne; 10; 6; 757; 1; 4; 10; 4; 
+7; M; Elias, Raul; 6; -; 264; -; -; 5; 1; 
+15; M; Emory, Steven; 3; -; 270; -; -; 6; 4; 
+5; D; Fallin, Josh; 13; -; 1165; -; -; 1; 12; 
+20; M; Freeman, Patrick; 6; -; 299; -; -; 2; 6; 
+19; M; Gilbert, Jamie; 9; 2; 780; 1; -; 7; 13; 
+14; F; Gore, Oliver; 14; 34; 1203; 15; 4; 53; 20; 
+4; M; Hammett, Matthew; 1; -; 45; -; -; 1; 1; 
+12; M; Hemmi, Masaki; 2; -; 123; -; -; 2; 1; 
+4; M; Lind, Michael; 13; -; 1170; -; -; 6; 8; 
+18; M; Mejia, Andrew; 8; 2; 549; 1; -; 8; 10; 
+0; GK; Niemeyer, Shay; 2; -; 135; -; -; -; -; 
+15; D; Ogletree, Michael; 2; 1; 101; -; 1; 1; 1; 
+18; D; Ohtake-Gordon, Akio; 3; 2; 148; 1; -; 1; 3; 
+12; F; Palma, Estevan; 7; 3; 221; 1; 1; 6; 4; 
+31; GK; Perez, Roberto; 2; -; 135; -; -; -; -; 
+22; D; Ramirez, Andres; 4; -; 169; -; -; -; 2; 
+; ; Randle, Tannor; 1; -; 20; -; -; -; -; 
+3; M; Rehl, John; 1; 1; 15; -; 1; -; -; 
+6; M; Remaley, Matt; 5; -; 70; -; -; 1; 1; 
+23; M; Rosales, Antonio; 2; -; 83; -; -; 1; 1; 
+1; GK; Rosales, Miguel; 13; -; 1080; -; -; -; -; 
+9; F; Salvaggione, Chris; 3; 3; 89; 1; 1; 5; 1; 
+2; D; Sandoval, Sean; 6; -; 435; -; -; 1; 1; 
+10; F; Skipworth, Aaron; 14; 9; 904; 4; 1; 20; 11; 
+24; D; Taphorn, Matthew; 7; 2; 548; 1; -; 2; 8; 
+9; M; Tarnoczi, Alex; 10; 3; 641; 1; 1; 13; 7; 
+8; M; Thompson, Craig; 4; -; 303; -; -; 5; 4; 
+17; D; Woodson, Kyle; 12; -; 857; -; -; 3; 3; 
+
+Team: Springfield Demize
+BlockSource: http://www.uslsoccer.com/teams/2013/6188458.html#MAIN
+
+24; F; Adams, Daryl; 12; 5; 400; 1; 3; 7; 8; 
+0; GK; Baker, Christopher; 3; -; 270; -; -; -; -; 
+21; M; Barbero, Gerard; 4; 2; 256; 1; -; 4; 4; 
+4; M; Cairns, Rhys; 13; -; 1170; -; -; 1; 17; 
+7; F; Craig, Alan; 9; 2; 375; -; 2; 1; 2; 
+25; F; Ferreira, Tiago; 1; -; 32; -; -; 1; 1; 
+9; F; Heath-Preston, Mark; 8; 6; 698; 3; -; 16; 22; 
+6; D; Henry, Brian; 12; -; 970; -; -; 2; 12; 
+14; D; Kaumbutho, Kimathi; 7; -; 478; -; -; -; 4; 
+17; M; Keith, Grant; 9; -; 300; -; -; -; 3; 
+13; M; Kennetz, Dennis; 11; 2; 902; 1; -; 4; 12; 
+11; M; Martin, Eric; 14; 14; 1247; 6; 2; 19; 18; 
+18; D; McDaniel, Patrick; 8; -; 717; -; -; 2; 6; 
+23; D; Montellano, Juan; 9; -; 497; -; -; 3; 8; 
+23; M; Nagel, Alec; 1; -; 14; -; -; -; 1; 
+18; D; Restrepo, Sebastian; 4; -; 240; -; -; -; -; 
+2; D; Reyes, Javier; 12; 1; 1050; -; 1; 4; 11; 
+19; M; Roberts, Jack; 6; -; 413; -; -; 7; 5; 
+8; D; Rogers, Craig; 7; 1; 624; -; 1; 2; 4; 
+25; M; Salas, Julian; 9; 4; 430; 2; -; 7; 2; 
+1; GK; Spangenberg, Trevor; 11; -; 990; -; -; -; -; 
+3; M; Twist, Colby; 1; -; 5; -; -; -; -; 
+16; D; Van Berkom, Philip; 14; -; 1251; -; -; 1; 15; 
+5; F; Wallace, Cameron; 2; -; 12; -; -; -; 1; 
+22; D; Walton, Matthew; 3; -; 63; -; -; -; 1; 
+21; F; de Hoog, Jeremy; 6; -; 451; -; -; 4; 7; 
+
+Team: St. Louis Lions
+BlockSource: http://www.uslsoccer.com/teams/2013/4069049.html#STATS
+
+
+14; M; Alihodzic, Emir; 2; -; 132; -; -; 2; -; 
+12; F; Bilyeu, Justin; 1; -; 58; -; -; -; -; 
+11; F; Brown, Jonathan; 11; -; 917; -; -; 6; 16; 
+6; M; Cawsey, Jacob; 12; 5; 988; 2; 1; 15; 15; 
+9; F; Childers, Bryce; 10; 2; 389; 1; -; 4; 5; 
+3; D; Clarke, Alexander; 9; -; 607; -; -; 1; 6; 
+8; F; Cojocov, Vadim; 10; 8; 608; 4; -; 13; 7; 
+27; D; Dunlop, David; 4; 4; 164; 2; -; 7; 6; 
+16; D; Edemba, Ifeanyi; 6; -; 431; -; -; 1; 5; 
+1; GK; Fazekas, Noah; 10; -; 900; -; -; -; 1; 
+10; F; Grant, Garbhan; 7; -; 355; -; -; 3; 2; 
+30; GK; Hamerlinck, Andrew; 2; -; 180; -; -; -; -; 
+20; D; Hollstrom, Zachary; 2; -; 180; -; -; -; -; 
+26; M; Keys, Paul; 12; 5; 759; 2; 1; 11; 10; 
+2; D; Kranz, Greg; 11; -; 608; -; -; 7; 9; 
+19; D; Kunda, Yousif; 4; -; 56; -; -; -; 1; 
+23; M; Lovegrove, Dean; 10; 4; 830; 1; 2; 7; 11; 
+15; F; Matthews, Chris; 10; -; 298; -; -; 2; 1; 
+12; M; Maw, Jai; 3; -; 143; -; -; 2; 4; 
+21; D; McClure, Jeff; 11; -; 655; -; -; 3; 9; 
+13; D; Mesle, Michael; 8; -; 546; -; -; -; 4; 
+24; F; Minor, Kevin; 7; 2; 353; 1; -; 4; 1; 
+1; GK; Neidlinger, Jeff; 1; -; 90; -; -; -; -; 
+4; D; Noumbi, Yannick; 5; -; 297; -; -; -; 2; 
+21; F; Pryor, Carson; 4; 1; 453; 1; 2; 10; 5; 
+7; M; Smith, Steven; 4; -; 282; -; -; -; 3; 
+5; D; Sundberg, Johan; 3; 2; 215; 1; -; 1; 1; 
+25; F; Walsh, Zachary 8; 10; 4; 538; 2; -; 9; 8; 
+18; D; Ward, Joshua; 9; 2; 810; 1; -; 7; 2; 
+17; D; Waters, Jamie; 8; -; 810; -; -; 3; 2; 
+
+Team: Thunder Bay Chill
+BlockSource: http://www.uslsoccer.com/teams/2013/22389.html#STATS
+
+21; M; Adan, Pedro; 14; 6; 1100; 3; -; 8; 13; 
+8; M; Addai, Godwin; 8; -; 267; -; -; 5; 4; 
+6; M; Altamirano, Jose; 12; 4; 718; 2; -; 9; 9; 
+12; GK; Alvarado, Daniel; 6; -; 530; -; -; -; -; 
+16; M; Andrade, Kyle; 1; -; 167; -; -; -; 7; 
+23; M; Augruso, Adam; 5; 2; 223; 1; -; 2; 1; 
+13; M; Campano Franco, Sergio; 13; 18; 845; 7; 4; 25; 6; 
+15; M; Chameraud, Thomas; 10; 3; 646; 1; 1; 4; 17; 
+17; D; Dillon, Paul; 14; 9; 1245; 2; 5; 15; 4; 
+14; F; Hoy, Gavin; 13; -; 373; -; -; 3; 10; 
+2; D; Hutchings, Tyrin; 7; -; 425; -; -; -; 1; 
+18; M; Intermoia, Nolan; 14; 12; 1260; 6; -; 14; 7; 
+5; D; Nishanian, Lee; 9; -; 480; -; -; -; 5; 
+7; F; Oliveira Silva, Sullivan; 2; -; 44; -; -; 2; 2; 
+9; F; Omoregie, Sunny; 12; 21; 812; 8; 5; 27; 11; 
+1; GK; Paterson, Stephen; 8; -; 720; -; -; -; -; 
+22; GK; Pytyck, Mackenzie; 1; -; 10; -; -; -; -; 
+3; M; Roberts, Dominic; 10; 2; 612; -; 2; 13; 13; 
+24; D; Robertson, Zetroy; 10; 1; 605; -; 1; 3; 2; 
+4; D; Sjoberg, Axel; 14; 8; 1258; 4; -; 6; 5; 
+20; F; Thomas, Zephaniah; 12; 7; 715; 1; 5; 27; 8; 
+10; M; Villon, Abraham; 11; 3; 708; -; 3; 7; 16; 
+19; D; Zanette, Kristian; 5; -; 75; -; -; 1; 1; 
+
+Team: WSA Winnipeg
+BlockSource: http://www.uslsoccer.com/teams/2013/33862333.html#STATS
+
+25; D; Allieu, Michael; 13; -; 730; -; -; -; 6; 
+22; D; Amador, Omar; 13; -; 870; -; -; 6; 12; 
+9; F; Badescu, Aaron; 7; 2; 346; 1; -; 3; 2; 
+11; F; Danto, Moses; 13; 18; 1025; 8; 2; 22; 23; 
+3; F; Del Grosso, Paulo; 3; -; 90; -; -; 2; 1; 
+2; GK; Del Grosso, Lucas; 2; -; 36; -; -; -; -; 
+23; M; Demelo, Daniel; 1; -; 27; -; -; 2; -; 
+12; F; Douglas, Nathan; 12; 7; 1029; 2; 3; 21; 11; 
+21; GK; Farago, Tyson; 14; 1; 1224; -; 1; -; -; 
+6; M; Hiebert, Kyle; 11; -; 679; -; -; 2; 11; 
+41; M; Iida, Jiyu; 12; 1; 633; -; 1; -; 13; 
+5; M; Kabamba, Balex; 9; -; 785; -; -; 2; 6; 
+14; M; Moraldo, Kyle; 7; -; 585; -; -; 1; 3; 
+19; F; Musse, Ali; 14; 13; 1115; 6; 1; 25; 8; 
+8; F; Mustapha, Hamza; 10; 3; 249; 1; 1; 2; 5; 
+15; D; Nordman, Kristjan; 14; -; 1054; -; -; 1; 36; 
+27; M; Ramjiawan, Ryan; 9; -; 611; -; -; 9; 5; 
+16; D; Rosales, William; 10; -; 390; -; -; 3; 2; 
+4; M; Silva, Braden; 14; 2; 771; 1; -; 6; 19; 
+17; D; Smith, Jordan; 14; 1; 1260; -; 1; 1; 18; 
+71; D; Smith, Erick; 7; -; 142; -; -; 1; 4; 
+
+Team: Baltimore Bohemians
+BlockSource: http://www.uslsoccer.com/teams/2013/42834749.html#STATS
+
+7; M; Arjona, Julio; 9; 4; 588; 2; -; 17; 19; 
+15; D; Ballo, Oumar; 7; -; 541; -; -; 3; 3; 
+23; M; Caltabiano, Geaton; 14; 15; 1019; 4; 7; 22; 9; 
+9; F; Caringi, Peter; 12; 37; 1007; 16; 5; 45; 16; 
+18; GK; Davis, Zachary; 1; -; 15; -; -; -; -; 
+5; D; Fernandez, Marquez; 14; 6; 1192; 3; -; 9; 24; 
+10; M; Forbess, Kaoru; 8; 6; 542; 2; 2; 15; 3; 
+17; F; Francois, Christiano; 2; 1; 80; -; 1; 1; 3; 
+13; M; Gamble, Michael; 8; 10; 663; 4; 2; 26; 5; 
+19; M; Graham, Brian; 14; 3; 396; 1; 1; 8; 3; 
+27; D; Harris, Malcolm; 11; -; 555; -; -; 4; 11; 
+30; GK; Harris, Andrew; 11; -; 990; -; -; -; 1; 
+18; GK; Kane, Zachary; 3; 2; 255; 1; -; 1; -; 
+21; D; Kansaye, Mamadou; 14; 7; 1232; 3; 1; 10; 10; 
+3; M; Kapor, Milovan; 7; 5; 522; 2; 1; 12; 7; 
+4; D; LeVine, Steven; 10; -; 434; -; -; -; -; 
+6; M; Martz, Austin; 6; 5; 439; 2; 1; 10; 3; 
+11; M; Molloy, Michael; 9; -; 138; -; -; 4; 1; 
+20; D; Nelson, Jacob; 4; -; 76; -; -; 1; 6; 
+14; F; Onwuka, Kingsley; 4; -; 65; -; -; 3; -; 
+6; D; Paddock, Liam; 1; -; 49; -; -; -; 2; 
+16; M; Raley, Michael; 2; -; 136; -; -; -; -; 
+8; D; Roberts, Hugh; 13; 1; 1170; -; 1; 6; 27; 
+2; D; Shinsky, Matt; 10; -; 641; -; -; -; 3; 
+22; M; Shinsky, Joseph; 4; 1; 264; -; 1; 4; 1; 
+16; M; Spurrier, Vaughn; 3; -; 63; -; -; 1; 2; 
+24; M; Tana, Samuel; 5; -; 59; -; -; -; -; 
+26; D; Welsh, Daniel; 3; -; 190; -; -; -; 3; 
+26; D; Wulff, Christian; 5; -; 379; -; -; 3; 3; 
+
+Team: Central Jersey Spartans
+BlockSource: http://www.uslsoccer.com/teams/2013/20204266.html#STATS
+
+26; F; Austino, Stevan; 9; -; 521; -; -; 2; 2; 
+25; D; Avalos, Bryant; 8; -; 406; -; -; -; -; 
+18; D; Ballard, Timothy; 5; -; 307; -; -; 2; 4; 
+19; M; Ballobi, Guy-Serge; 11; 1; 711; -; 1; 5; 21; 
+14; M; Bilay, Alex; 10; 2; 618; 1; -; 3; 8; 
+22; M; Braga, Rafael; 12; 3; 813; 1; 1; 3; 5; 
+2; D; Christiansen, William; 2; -; 62; -; -; -; -; 
+4; D; Correia, Dennis; 8; -; 720; -; -; 2; 14; 
+8; M; German, Jonathan; 6; 1; 370; -; 1; 3; 3; 
+1; GK; Graziani, Stephen; 7; -; 540; -; -; -; -; 
+9; M; Grotti, Mitchell; 13; 5; 1071; 1; 3; 13; 13; 
+11; F; Hoppenot, Maxime; 11; 6; 731; 3; -; 6; 9; 
+21; D; Kemmerer, Kieran; 12; -; 1000; -; -; 2; -; 
+5; D; Listwan, Eugene; 1; -; 90; -; -; -; 1; 
+2; M; Luke, Derek; 9; 1; 702; -; 1; 3; -; 
+3; M; McGoldrick, Mark; 11; 4; 990; 2; -; 13; 11; 
+13; M; Nigro, Matthew; 9; -; 648; -; -; 3; 1; 
+7; M; Pereira, Brian; 4; -; 217; -; -; 3; 3; 
+7; GK; Perrella, Matthew; 5; -; 315; -; -; 1; -; 
+0; GK; Richards, John; 4; 4; 315; 2; -; 1; 1; 
+10; F; Tahi, Claude; 12; 8; 818; 4; -; 20; 8; 
+12; D; Whalen, Ryan; 11; 3; 990; 1; 1; 8; 7; 
+6; D; Whitaker, Matthew; 11; -; 909; -; -; 2; 3; 
+
+Team: FA Euro – New York Magic
+BlockSource: http://www.uslsoccer.com/teams/2013/58152751.html#STATS
+
+8; M; Alumbaugh, Brian; 3; -; 55; -; -; -; -; 
+11; F; Archer, Samuel; 2; -; 130; -; -; 4; -; 
+7; F; Bagot, Gabriel; 7; -; 521; -; -; 18; 8; 
+0; GK; Bahlool, Mohammed; 1; -; 7; -; -; -; -; 
+26; F; Bakkioui, Viktor; 2; -; 70; -; -; 1; 1; 
+14; M; Balsamo, Marco; 5; -; 323; -; -; -; 3; 
+2; D; Billington, Alexander; 12; -; 1035; -; -; 9; 8; 
+4; D; Colton, Gavin; 10; 2; 828; 1; -; 2; 10; 
+29; M; Congdon, Will; 4; -; 147; -; -; -; 3; 
+18; M; Coni, Mathias; 3; -; 124; -; -; -; 1; 
+32; M; Dillane, Colm; 3; 3; 251; 1; 1; 4; 2; 
+30; D; Falanga, Dominick; 8; 2; 313; 1; -; 1; 6; 
+25; D; Haywood, Leron; 1; -; 90; -; -; -; -; 
+5; M; Issroff, Daniel; 3; -; 94; -; -; -; -; 
+23; F; Janneh, Alagie; 9; 10; 519; 5; -; 13; 4; 
+24; D; Jean-Baptiste, Matthieu; 8; -; 634; -; -; 2; 5; 
+35; M; Lindo, Kalief; 2; -; 62; -; -; -; 1; 
+22; M; Luongo, Angelo; 5; -; 88; -; -; -; 1; 
+10; M; Maabdi, Adam; 4; -; 304; -; -; 9; 2; 
+20; D; Maddux, Cabell; 11; -; 694; -; -; 1; 8; 
+21; F; Marcel, Cristian; 9; 8; 385; 4; -; 11; 4; 
+15; D; Marcu, Benjamin; 11; -; 666; -; -; 1; 2; 
+13; M; Marcu, Adam; 14; 3; 973; 1; 1; 12; 8; 
+31; M; Matthews, Nick; 1; -; 19; -; -; -; -; 
+16; D; McDonald, Cian; 9; 1; 798; -; 1; 15; 4; 
+12; GK; McElhinney, Conor; 3; -; 270; -; -; -; -; 
+17; F; Murphy, Brendan; 4; 1; 192; -; 1; 4; -; 
+6; M; Nadaner, Evin; 8; -; 577; -; -; 3; 6; 
+1; GK; Naples, Alexander; 11; -; 983; -; -; -; 1; 
+27; F; Olukanmi, Nathan; 5; -; 371; -; -; 3; 2; 
+3; D; Pezzulo, Renato; 10; -; 879; -; -; -; 9; 
+28; F; Ramos, Jovani; 9; 9; 637; 4; 1; 16; 4; 
+9; F; Turan, Cemil; 2; -; 85; -; -; 2; -; 
+19; F; Watkin, Jonathon; 8; 5; 720; 1; 3; 11; 9; 
+
+Team: Jersey Express
+BlockSource: http://www.uslsoccer.com/teams/2013/8986443.html#STATS
+
+2; D; Abidor, David; 2; -; 14; -; -; -; -; 
+15; M; Acevedo, Andres; 7; 2; 149; -; 2; 2; 1; 
+12; D; Amaral, Benito; 9; -; 516; -; -; 3; 5; 
+3; D; Caso, Clint; 3; -; 225; -; -; 4; 2; 
+22; M; Coulibaly, Abdoulaye; 10; 14; 577; 5; 4; 13; 6; 
+1; GK; Dawson, Jon; 9; -; 810; -; -; -; -; 
+10; F; Dos Santos, Julio Cesar; 3; 4; 185; 1; 2; 2; 1; 
+24; D; Garcia, Christopher; 2; -; 91; -; -; 1; -; 
+20; D; Hines, Walter; 13; 4; 1067; 1; 2; 5; 8; 
+16; M; Janneh, Lamin; 11; 1; 636; -; 1; 1; 6; 
+7; F; Karcz, Christopher; 11; 13; 984; 6; 1; 40; 8; 
+11; F; Keegan, Jake; 9; 12; 664; 6; -; 34; 4; 
+1; GK; Kitson, Neal; 5; -; 450; -; -; -; -; 
+2; D; Lebo, Christopher; 8; -; 600; -; -; 4; 4; 
+4; M; Ligety, Ido; 11; 5; 931; 1; 3; 5; 13; 
+5; D; Makowski, Christopher; 9; -; 746; -; -; 2; 5; 
+10; M; Martinez, Brayan; 7; 4; 613; 1; 2; 17; 12; 
+10; D; Matteo, Jeffrey; 2; -; 17; -; -; -; -; 
+24; M; McNamara, Thomas; 4; 11; 356; 4; 3; 6; 2; 
+6; M; Moon, Thomas; 14; 2; 833; -; 2; 11; 4; 
+3; D; Niouky, Louis Joseph; 11; 6; 734; 2; 2; 5; 16; 
+8; M; Otto, Ansger; 6; 4; 287; 1; 2; 15; 5; 
+19; F; Ovenseri, Joseph; 8; 8; 503; 3; 2; 32; 8; 
+9; M; Pila, Lebogang; 6; 6; 458; 3; -; -; 7; 
+14; M; Sangary, Moriken; 13; 6; 766; 3; -; 25; 25; 
+17; D; Viaggio, Nicholas; 6; -; 540; -; -; 2; 5; 
+18; F; Vinson, Jamal; 2; -; 58; -; -; -; 1; 
+
+Team: Long Island Rough Riders
+BlockSource: http://www.uslsoccer.com/teams/2013/22341.html#STATS
+
+10; M; Arikian, Ben; 8; 3; 594; 1; 1; 13; 7;
+15; M; Arnone, Tyler; 9; 4; 701; 1; 2; 15; 3;
+19; M; Barea, Stephan; 11; 10; 960; 3; 4; 16; 6;
+16; M; Barnathan, Dakota; 7; 2; 459; 1; -; 9; 7;
+24; F; Botte, Tyler; 13; 14; 771; 6; 2; 18; 6;
+14; F; Castaneda, Orlando; 11; 2; 315; 1; -; 8; 4;
+11; M; Gabriele, Adriano; 9; 2; 635; -; 2; 11; 8;
+4; D; Garcia, Kevin; 11; -; 847; -; -; 8; 10;
+5; D; Gwyther, Daniel; 8; -; 575; -; -; -; 3;
+22; M; Iovino, Dominic; 8; -; 297; -; -; 6; 3;
+1; GK; Joergensen, Marco; 9; -; 810; -; -; -; -;
+3; D; Kenny, Dane; 7; 1; 241; -; 1; -; 5;
+7; F; Knowles, Kevin; 8; 8; 370; 4; -; 12; 7;
+2; D; Kramer, Danny; 10; 2; 811; -; 2; 3; 3;
+22; GK; Lafferty, Brendan; 3; -; 270; -; -; 1; 1;
+21; D; Mueller, Stefan; 4; -; 363; -; -; 2; 3;
+9; D; Posillico, Joseph; 9; 2; 440; -; 2; 1; 2;
+12; GK; Poulin, Gary; 1; -; 90; -; -; -; -;
+26; D; Robinson, Richard; 8; -; 422; -; -; -; 4;
+23; M; Roche, Stephen; 12; 11; 1022; 5; 1; 28; 18;
+13; F; Sarle, Dominick; 13; 12; 1059; 5; 2; 26; 9;
+27; D; Weinzimer, Adam; 2; -; 7; -; -; -; -;
+6; D; Wharf, Thomas; 10; -; 808; -; -; 2; 4;
+
+; Team: NJ Luso Rangers
+; BlockSource: http://www.uslsoccer.com/teams/2013/8986441.html#STATS
+
+14; M; Andre, Luis; 9; -; 631; -; -; 1; 1;
+23; F; Boucher, Naeem; 1; -; 2; -; -; -; -;
+23; D; Brito, Alex; 13; -; 1043; -; -; 2; 2;
+20; M; Cornwell, David; 10; 2; 629; -; 2; 3; 3;
+2; D; Cunha, Phillip; 10; -; 848; -; -; -; 6;
+8; M; Flott, Allan; 2; -; 180; -; -; 2; 3;
+9; F; Gamero, Franco; 11; 2; 601; 1; -; 12; 1;
+18; F; Golestani, Jared; 5; 2; 372; 1; -; 8; 3;
+8; M; Gomez, Zachary; 1; -; 45; -; -; -; -;
+15; M; Hamza, Yusuf; 14; 1; 1014; -; 1; 3; 3;
+11; F; Harr, Hayden; 4; -; 158; -; -; 2; 2;
+13; D; Hemme, Samuel; 7; -; 482; -; -; 3; 3;
+11; M; Herrera, Fredy; 2; -; 60; -; -; 1; -;
+26; GK; Killian, Paul; 9; -; 776; -; -; -; -;
+1; GK; Krauze, Rafal; 6; -; 483; -; -; -; -;
+23; D; Lochhead, Jameson; 9; -; 750; -; -; 3; 5;
+10; M; Malijani, Samson; 2; -; 156; -; -; 2; 1;
+8; M; Mclaughlin, Jeffrey; 6; 2; 480; 1; -; 16; -;
+10; M; Orozco Grisales, Sebastian; 9; 7; 742; 3; 1; 12; 4;
+5; M; Rasoilo, Daniel; 14; 1; 1130; -; 1; 5; 13;
+4; D; Santos, Nuno; 6; -; 188; -; -; 1; 2;
+7; M; Smith, Dawyne; 2; -; 97; -; -; 1; -;
+7; M; Sommer, Mathew; 6; 2; 140; 1; -; 1; -;
+22; M; Stecyk, Curtis; 9; -; 542; -; -; 9; 2;
+19; F; Stennett, Rahim Ali; 9; 11; 708; 5; 1; 13; 2;
+19; F; Tayou, Franck; 2; -; 64; -; -; 1; 1;
+16; D; Tayou, Uzi; 1; -; 90; -; -; -; -;
+17; D; Vilar, Pedro; 13; -; 1095; -; -; 7; 8;
+21; M; Zalewski, Kevin; 5; 2; 361; 1; -; 9; -;
+
+Team: Ocean City Nor'easters
+BlockSource: http://www.uslsoccer.com/teams/2013/13598680.html#STATS
+
+
+
+Team: Reading United AC
+BlockSource: http://www.uslsoccer.com/teams/2013/22373.html#STATS
+
+8; M; Alashe, Fatai; 9; 3; 721; 1; 1; 8; 6; 
+5; D; Baker, Matthew; 2; -; 101; -; -; -; -; 
+7; F; Baker, Stephen; 8; 2; 204; 1; -; 7; 4; 
+0; GK; Bono, Alexander; 8; -; 660; -; -; -; -; 
+20; D; Campbell, Shane; 11; 3; 666; 1; 1; -; 2; 
+5; D; Charpie, Wesley; 10; 5; 862; 2; 1; 7; 5; 
+10; M; Dacres, Kadeem; 12; 8; 909; 3; 2; 17; 9; 
+12; D; Dolezal, Jonathan; 6; -; 398; -; -; 2; 3; 
+10; F; Follensbee, Bryce; 5; -; 72; -; -; 1; 1; 
+12; M; Griffith, Owen; 3; -; 146; -; -; 1; 3; 
+17; D; Lowe, Damion; 10; 2; 768; 1; -; 8; 12; 
+11; F; Madison, Darius; 13; 5; 749; 2; 1; 26; 12; 
+16; M; Marini, Dante; 12; 9; 791; 4; 1; 12; 7; 
+1; GK; McCarthy, John; 7; -; 600; -; -; -; -; 
+9; D; McConnell, William; 2; -; 243; -; -; 1; 1; 
+9; F; Ndjock, Larry; 6; 9; 351; 4; 1; 14; 9; 
+18; M; Neuman, Stephen; 8; 8; 632; 3; 2; 19; 1; 
+13; D; Ockford, James; 8; -; 720; -; -; 3; 4; 
+20; M; Pahkasalo, Alexi; 1; 1; 18; -; 1; 1; -; 
+19; F; Pinto Neto, Mario; 12; 15; 698; 7; 1; 21; 9; 
+6; M; Plumhoff, Jason; 14; 17; 800; 4; 9; 18; 4; 
+4; M; Rosenberry, Keegan; 8; -; 658; -; -; 3; 6; 
+18; M; Salandy-Defour, Marcus; 4; -; 206; -; -; 4; 4; 
+8; M; Sanchez, Emanuel; 12; 12; 425; 4; 4; 12; 2; 
+2; D; Schoenle, Eric; 2; -; 59; -; -; -; 2; 
+15; D; Slogic, Patrick; 4; 2; 348; 1; -; -; 5; 
+14; M; Snoh, Melvin; 4; -; 88; -; -; 1; 1; 
+17; D; Sweat, Benjamin; 8; 4; 579; 1; 2; 4; 4; 
+14; M; Vale, Jordan; 8; -; 266; -; -; 7; 4; 
+
+Team: Westchester Flames
+BlockSource: http://www.uslsoccer.com/teams/2013/13598680.html#STATS
+
+13; M; Abraham, Michael; 7; 2; 448; 1; -; 7; 4; 
+18; M; Aguilar, Gabriel; 2; -; 86; -; -; -; -; 
+12; D; Aikens, Zachary; 3; -; 270; -; -; -; -; 
+8; M; Alobeidy, Mustaffa; 7; -; 332; -; -; 2; 1; 
+8; D; Berisha, Endri; 8; -; 456; -; -; 3; 7; 
+19; M; Butte, Charles; 3; -; 141; -; -; 1; 1; 
+1; GK; Cherry, Kristopher; 1; -; 90; -; -; -; -; 
+13; F; Corrado, Antonio; 3; -; 196; -; -; 3; 1; 
+10; M; Correa, Kevin; 2; -; 165; -; -; 3; 4; 
+15; M; Costa, Nicholas; 1; -; 70; -; -; 1; -; 
+20; D; Danaher, Matthew; 10; -; 749; -; -; 6; 3; 
+12; F; Davis, Gregory; 1; -; 79; -; -; 1; 1; 
+21; M; Esposito, Giovanni; 3; -; 238; -; -; -; -; 
+5; D; Folla, Leo; 1; -; 90; -; -; -; 1; 
+4; D; Gosse, Zachary; 3; -; 270; -; -; 1; 2; 
+7; M; Heredia, Richard; 7; 4; 556; 2; -; 8; 12; 
+14; M; Kane, Baba; 10; -; 689; -; -; -; 10; 
+18; D; Kirschenbaum, Sam; 7; -; 260; -; -; 2; 1; 
+4; D; Kramarchuk, Mark; 11; -; 951; -; -; -; 5; 
+15; D; Lopez, Larry; 2; -; 101; -; -; 1; 1; 
+0; D; Malaret, Alfredo; 1; -; 90; -; -; -; -; 
+18; D; McCann, Alan; 4; -; 358; -; -; 1; 2; 
+11; D; McLain, Laquan; 13; -; 1039; -; -; 1; 5; 
+10; F; McLaren, Reco; 3; 1; 270; -; 1; 14; 1; 
+1; D; McPartland, Brian; 2; -; 180; -; -; 1; -; 
+16; M; Ogoo, Housainou; 10; 2; 894; 1; -; 7; 12; 
+1; GK; Pizzuti, Michael; 2; -; 180; -; -; -; -; 
+3; F; Poetzsch, Kyle; 11; 3; 954; 1; 1; 15; 4; 
+2; M; Pullinen, Adam; 2; -; 56; -; -; -; 2; 
+12; F; Reid, Dwayne; 4; 7; 360; 2; 3; 15; 6; 
+10; M; Ruiz, Daniel; 1; -; 45; -; -; -; 2; 
+15; F; Salawu, Rilwan; 3; 2; 270; 1; -; 5; 6; 
+2; M; Sanchez, Jhonathan; 9; -; 341; -; -; 1; 6; 
+5; D; Sorice, Nicholas; 6; -; 540; -; -; 3; 4; 
+10; M; Sylvester, Sikele; 4; 2; 306; 1; -; 7; 3; 
+6; D; Waters, Jonathan; 5; -; 297; -; -; 1; 5; 
+0; GK; Wilkinson, Andre; 9; -; 810; -; -; 7; 1; 
+17; M; Williams, Ryan; 3; -; 104; -; -; -; 1; 
+9; M; Zubillaga, Jorge; 13; -; 522; -; -; 16; 4; 
+
+
+Team: CFC Azul
+BlockSource: http://www.uslsoccer.com/teams/2013/42834731.html#STATS
+
+3; D; Barna, David; 5; -; 324; -; -; 1; 1; 
+23; D; Bartoah, Abraham; 12; -; 417; -; -; 11; 12; 
+21; M; Blandin, Alex; 6; -; 146; -; -; 1; 3; 
+2; D; Boucher, Patrick; 9; 5; 765; 1; 3; 5; 12; 
+7; F; Brewer, Justin; 2; 2; 91; 1; -; 1; 3; 
+26; F; Brito, Graciano; 6; 6; 475; 3; -; 22; 11; 
+26; F; Cange, Jemmy; 1; -; 45; -; -; 3; 1; 
+9; M; Costa, Mario; 6; -; 270; -; -; 1; -; 
+9; F; Dimecili, Mario; 7; 6; 536; 3; -; 17; 8; 
+1; GK; Esposito, Andrew; 14; -; 1215; -; -; -; -; 
+15; M; Fitzpatrick, Conor; 9; -; 689; -; -; 8; 9; 
+22; M; Grant, Mark; 10; -; 707; -; -; 15; 4; 
+20; D; Harrsen, Simon; 12; 4; 982; 2; -; 4; 8; 
+19; M; Hinton Semedo, Michael; 4; -; 266; -; -; 3; 4; 
+17; D; Ipina, Kevin; 10; -; 846; -; -; 1; 5; 
+8; M; Lewis, Kevin; 5; -; 271; -; -; 2; 2; 
+11; M; Menzies, Jesse; 5; -; 397; -; -; 6; 4; 
+6; M; Mitchell, Matthew; 5; -; 230; -; -; 3; 3; 
+25; M; Narro, Sony; 10; -; 739; -; -; 7; 15; 
+4; D; Nett, Simon; 12; 1; 954; -; 1; 7; 14; 
+14; M; Obasi, Onua; 13; 2; 1053; 1; -; 14; 23; 
+18; GK; Occhialini, Anthony; 1; -; 45; -; -; -; -; 
+16; F; Perry, Luke; 10; 4; 860; 1; 2; 6; 10; 
+5; D; Raj, Jonathan; 5; -; 389; -; -; -; 3; 
+24; F; Sandoval, Stanley; 3; -; 56; -; -; 2; 3; 
+12; D; Sweeney, Sean; 4; -; 315; -; -; 1; 3; 
+10; M; Templeton, Paul; 8; 2; 488; 1; -; 11; 6; 
+11; M; Zobre, Bryan; 3; -; 250; -; -; -; 1; 
+
+Team: GPS Portland Phoenix
+BlockSource: http://www.uslsoccer.com/teams/2013/20204270.html#STATS
+
+7; M; Appiah, Emmanuel; 10; 1; 502; -; 1; 11; 7; 
+23; GK; Blum, Oliver; 8; -; 720; -; -; -; -; 
+5; D; Bompart, Clement; 3; 1; 215; -; 1; 3; 10; 
+11; M; Da Silva, Cau�; 13; 13; 970; 5; 3; 24; 17; 
+16; M; Diebold, Will; 11; -; 949; -; -; 5; 18; 
+22; F; Freese, Josh; 4; -; 112; -; -; 3; 3; 
+19; M; Galvin, Daniel; 9; -; 389; -; -; 4; 3; 
+6; D; Harries, Neil; 11; -; 945; -; -; 2; 9; 
+4; M; Havey, Benjamin; 3; -; 270; -; -; 3; 3; 
+18; F; Hoxsie, Trevor; 1; -; 17; -; -; -; -; 
+2; D; Israel, Richardo; 3; 2; 196; 1; -; 5; 1; 
+16; M; Kaurin, Nemanja; 1; -; 10; -; -; -; -; 
+12; D; Lupinelli, Jonathan; 13; 2; 1170; -; 2; 7; 9; 
+3; D; Manier, Gilbert; 13; 2; 1170; 1; -; 7; 14; 
+15; D; Melville, Nicholas; 8; 3; 231; 1; 1; 1; 3; 
+10; F; Omanga, Pierre; 13; 16; 1110; 7; 2; 28; 15; 
+1; GK; Perron, Adam; 3; -; 270; -; -; -; -; 
+9; M; Rosa, Sean; 13; 4; 972; 1; 2; 10; 14; 
+26; M; Shangraw, Kyle; 9; 3; 743; 1; 1; 8; 7; 
+8; D; Short, Nathaniel; 6; 1; 540; -; 1; 1; 9; 
+4; D; Steele, Malcolm; 1; -; 70; -; -; -; -; 
+25; F; Wadham, Josh; 6; -; 360; -; -; 4; 6; 
+20; D; Webson, Kamali; 10; -; 609; -; -; 3; 10; 
+33; F; Weightman, Nicholas; 8; 1; 184; -; 1; 3; 2; 
+14; F; Yeboah, Anthony; 2; -; 62; -; -; 2; -; 
+
+
+Team: Ottawa Fury
+BlockSource: http://www.uslsoccer.com/teams/2013/22365.html#STATS
+
+7; M; Barden, Jonathan; 10; -; 668; -; -; 6; 15; 
+12; M; Barron, Jacob; 13; 6; 1004; 1; 4; 3; 13; 
+10; F; Basso, Carlo; 13; 7; 468; 3; 1; 20; 9; 
+9; M; Beauge, William; 8; 4; 293; 2; -; 8; 5; 
+14; F; Becker, Yannis; 4; 6; 212; 3; -; 9; 2; 
+1; GK; Bush, Chad; 10; -; 865; -; -; -; -; 
+23; GK; Carlson, Nils; 4; -; 360; -; -; -; -; 
+6; D; Dawkins, Joseph; 8; 2; 357; 1; -; 1; 10; 
+21; D; Farahani, Jordian; 11; 2; 673; 1; -; 3; 15; 
+4; D; Foster, Shaun; 12; 2; 1029; 1; -; 4; 6; 
+45; F; Haworth, Carl; 12; 36; 930; 12; 12; 46; 6; 
+5; D; Jelicic, Nikolas; 8; 2; 645; 1; -; 2; 6; 
+15; M; Jones, Eddie; 13; 14; 896; 5; 4; 17; 16; 
+14; M; Keller, Abraham; 6; 4; 150; 1; 2; 4; 4; 
+16; ; Letourneau-Mathieu, Francis; 1; -; 90; -; -; -; 1; 
+13; ; Maheu, Justin; 2; -; 49; -; -; -; -; 
+18; M; Manginas, Panagiotis; 6; -; 329; -; -; -; 1; 
+11; M; Miliani, Loic; 12; 14; 820; 5; 4; 11; 7; 
+22; F; Murphy, Robert; 2; -; 75; -; -; -; 1; 
+8; M; Owusu-Ansah, Yaw Kennedy; 3; -; 158; -; -; 4; 2; 
+2; D; Piperkov, Arthur; 11; 2; 888; -; 2; 4; 10; 
+3; M; Rajkovic, Sandro; 12; 1; 715; -; 1; 1; 6; 
+20; M; Sousa, Andrew; 6; 8; 371; 3; 2; 11; 5; 
+19; M; VanCompernolle, Jacob; 14; 1; 1168; -; 1; 5; 9; 
+17; M; Zrnic, Emir; 6; -; 204; -; -; 2; 5; 
+
+
+Team: Real Boston Rams
+BlockSource: http://www.uslsoccer.com/teams/2013/58152654.html#STATS
+
+3; M; Adair, Daniel; 9; -; 380; -; -; 2; 4; 
+12; F; Anderson, Eric; 7; 2; 286; 1; -; 4; 1; 
+8; F; Andrade, Manuel; 8; 6; 572; 3; -; 15; 14; 
+4; D; Ballard, Paxton; 8; -; 594; -; -; 3; 7; 
+2; D; Ballenthin, Thomas; 9; -; 624; -; -; 5; 3; 
+6; D; Baumann, Anthony; 10; -; 735; -; -; 3; 7; 
+22; D; Campbell, Keegan; 14; 1; 1186; -; 1; 4; 8; 
+0; GK; Conrad, Brett; 6; -; 540; -; -; -; 1; 
+24; D; Dambra, Davide; 11; 2; 971; 1; -; 3; 10; 
+23; F; DeNormandie, Cole; 12; 6; 940; 2; 2; 17; 17; 
+17; M; Ferreira, Danielson; 2; -; 11; -; -; -; -; 
+20; M; Ferreira, Victor; 1; -; 49; -; -; 2; -; 
+5; M; Finkelstein, Luke; 12; 5; 1029; 2; 1; 9; 22; 
+19; M; Hilger, John; 6; -; 385; 1; 1; 3; 7; 
+16; D; Keys, Matthew; 14; 1; 1260; -; 1; 7; 12; 
+11; M; Latif, Paul; 10; 3; 615; 1; 1; 5; 1; 
+10; F; Machado, Fabio; 3; 3; 270; 1; 1; 6; 3; 
+13; M; Maduro, Ryan; 2; -; 179; -; -; 2; 3; 
+15; D; Markes, Alexander; 2; -; 124; -; -; -; 2; 
+18; M; Nakamura, Kento; 11; -; 582; -; -; 2; 4; 
+21; M; Oost-Lievense, Russell; 2; -; 178; -; -; -; 3; 
+25; D; Roche, Max; 1; -; 80; -; -; -; 1; 
+7; M; Santos, Gustavo; 3; -; 131; -; -; 1; -; 
+1; GK; Segel, Keady; 9; -; 733; -; -; -; 1; 
+10; M; Sousa, Andrew; 6; 5; 504; 2; 1; 12; 9; 
+9; F; Sozeri, Ali; 13; 6; 723; 3; -; 18; 16; 
+14; ; Stoker, Christopher; 2; -; 119; -; -; -; -; 
+
+
+Team: Seacoast United Phantoms
+BlockSource: http://www.uslsoccer.com/teams/2013/22354.html#STATS
+
+19; F; Bianchi, Paul; 4; -; 315; -; -; 3; 4; 
+29; M; Brewster, Benjamin; 10; -; 865; -; -; 2; 16; 
+16; M; Candido, Matheus; 3; -; 225; -; -; -; 3; 
+15; M; Carter, Terrence; 3; -; 242; -; -; 1; 3; 
+31; D; Cox, Simon; 6; -; 467; -; -; -; 4; 
+5; D; Dunn, Ryan; 11; -; 955; -; -; 6; 9; 
+17; M; Eckford, Jonathan; 1; -; 82; -; -; -; -; 
+14; F; FaydHerbe deMaudave, Donovan; 12; -; 941; -; -; 20; 9; 
+2; F; George, Dylan; 7; -; 384; -; -; 6; 4; 
+4; D; Goodwin, James; 3; -; 159; -; -; -; 2; 
+7; D; Hilton, Bradley; 8; -; 607; -; -; 3; 4; 
+27; F; Jones, Edward; 12; -; 810; -; -; 3; -; 
+8; M; Masi, Eric; 2; -; 71; -; -; 1; 2; 
+1; GK; Mazalauski, Anthony; 2; -; 118; -; -; -; -; 
+10; M; McLarney, Robert; 9; -; 621; -; -; 4; 8; 
+11; F; Moody, Thomas; 9; -; 606; -; -; 14; 4; 
+20; D; Moss, Ambry; 8; -; 720; -; -; 1; 4; 
+16; M; Palumbo, Steven; 1; -; 37; -; -; 1; -; 
+12; M; Petruccelli, James; 4; -; 156; -; -; 1; -; 
+17; F; Rosenkalt, Jacob; 1; -; 90; -; -; 1; -; 
+13; M; Rowling, Scott; 7; -; 551; -; -; 3; 4; 
+9; F; Sandgren, Philip; 9; 1; 424; -; 1; 4; 10; 
+13; F; Schwarz, Mark; 1; -; 8; -; -; -; -; 
+1; GK; Sinclair, Giovanni; 10; -; 865; -; -; -; -; 
+30; D; Thomas, Jordan; 11; 2; 953; 1; -; 3; 6; 
+6; D; Twum-Barima, Joey; 11; -; 788; -; -; 3; 5; 
+18; M; Warwick, Drew; 2; -; 98; -; -; -; -; 
+0; GK; Worra, Travis; 3; -; 182; -; -; -; -; 
+
+
+Team: Vermont Voltage
+BlockSource: http://www.uslsoccer.com/teams/2013/22396.html#STATS
+
+17; M; Almeida, Lucas; 13; 9; 1126; 3; 3; 18; 18; 
+0; GK; Blais, Tyler; 1; -; 90; -; -; -; -; 
+11; M; Brech, Jacob; 3; 2; 270; 1; -; 5; 1; 
+99; GK; Brooks-Newton, Ryan; 6; -; 540; -; -; -; -; 
+20; F; Bukoski, Chance; 11; 11; 945; 5; 1; 15; 6; 
+9; F; Carvalho Cordeiro, Lucas; 12; 12; 1030; 6; -; 23; 6; 
+6; M; Gallegos, Roberto; 7; -; 158; -; -; -; 3; 
+18; D; Garcia, Mitchell; 10; 2; 900; -; 2; 6; 6; 
+11; M; Gilbert, Liam; 11; 2; 919; 1; -; 10; 11; 
+15; M; Hadzalic, Haris; 3; 2; 57; 1; -; -; 2; 
+22; M; Karam, Alfred; 2; 1; 85; -; 1; -; -; 
+13; M; Maffey, Juan; 2; -; 115; -; -; 1; 1; 
+7; D; Maric, Mario; 10; 3; 757; 1; 1; 5; 6; 
+2; M; Martinuzzi, Filippo; 3; -; 197; -; -; 2; 2; 
+5; D; Mason, James; 2; -; 71; -; -; -; 1; 
+2; M; Milicevic, Luka; 8; 2; 428; 1; -; 5; 2; 
+12; M; Moore, Brendon; 1; -; 70; -; -; -; 1; 
+14; M; Nikolic, Darko; 5; 2; 98; 1; -; 2; 3; 
+8; M; O'Brien, Kyle; 11; 6; 706; 3; -; 7; 7; 
+0; GK; Perez, Benjamin; 5; -; 450; -; -; -; -; 
+5; D; Ristic, Ivan; 11; 3; 990; 1; 1; 3; 8; 
+12; M; Rivas, Joaquin; 11; 3; 946; 1; 1; 15; 5; 
+13; D; Ruesga, Jose; 3; -; 36; -; -; -; -; 
+26; F; Tola-Isaac, Mayowa; 2; -; 32; -; -; 2; -; 
+0; GK; Vitale, Joseph; 1; -; 90; -; -; -; -; 
+24; D; Vuckovic, Bojan; 11; 2; 834; -; 2; 12; 7; 
+5; D; Widdy, Bolivar; 6; 2; 540; 1; -; 1; 6; 
+26; D; Williams, Garfield; 1; -; 8; -; -; -; -; 
+4; D; Williams, Ben; 8; -; 411; -; -; 1; 4; 
+
+
+Team: Carolina Dynamo
+BlockSource: http://www.uslsoccer.com/teams/2013/22307.html#STATS
+
+4; M; Brace, James; 6; 1; 326; -; 1; 5; 1; 
+18; M; Bronico, Brandt; 13; 10; 749; 5; -; 5; 3; 
+3; D; Campbell, Jonathan; 8; -; 658; -; -; 2; 1; 
+21; M; Davis, Sean; 9; 3; 581; 1; 1; 6; 4; 
+23; D; Dunker, Austin; 9; -; 654; -; -; 1; 2; 
+13; M; Durand, Kevin; 12; 1; 571; -; 1; 6; 8; 
+8; D; Eggleston, Nate; 3; -; 170; -; -; -; -; 
+9; M; Fender, Holden; 8; 3; 528; 1; 1; 1; 2; 
+26; GK; Ford, Peyton; 6; -; 495; -; -; -; -; 
+16; D; Howard, Charles; 6; -; 297; -; -; 1; 3; 
+5; D; Ibeagha, Sebastien; 5; 2; 450; 1; -; -; -; 
+7; F; Ilhan, Hakan; 14; 16; 731; 6; 4; 13; -; 
+16; F; Kouyateh, Hassan; 2; -; 49; -; -; -; -; 
+0; GK; Long, Alexander; 2; -; 180; -; -; -; -; 
+11; M; Lovitz, Daniel; 5; 1; 298; -; 1; 3; -; 
+22; D; Mahdi, Ali; 11; 4; 655; 2; -; 2; 2; 
+19; M; Marshall, Warren; 4; -; 181; -; -; -; 4; 
+10; M; Martinez, Alex; 10; 9; 580; 2; 5; 5; -; 
+24; D; McBride, Sam; 9; -; 518; -; -; 1; 4; 
+8; M; McCready, Thomas; 1; -; 67; -; -; -; -; 
+17; F; Nyepon, Mamadee; 12; 17; 538; 7; 3; 13; 3; 
+2; D; Reifschneider, Aaron; 7; 2; 433; 1; -; 2; 5; 
+14; M; Reittinger, David; 5; -; 273; -; -; 1; -; 
+12; F; Rex, Arthur; 6; -; 404; -; -; 7; 2; 
+20; M; Rodriguez, Joaquin; 6; 3; 296; -; 3; 2; 2; 
+8; F; Rotunda, Alex; 5; -; 166; -; -; 1; 1; 
+1; GK; Rusling, Tom; 6; -; 540; -; -; -; -; 
+15; D; Simonin, Clement; 9; 1; 737; -; 1; 1; 2; 
+6; M; Smith, James; 12; 5; 515; 2; 1; 4; 2; 
+25; D; Yearwood, Austin; 9; 2; 617; 1; -; -; 1; 
+
+
+Team: Northern Virginia Royals
+BlockSource: http://www.uslsoccer.com/teams/2013/22363.html#STATS
+
+
+25; M; Abranchess, Joel; 4; -; 119; -; -; 1; 1; 
+9; F; Asihel, Mulu; 9; 4; 349; 2; -; 7; 3; 
+23; F; Barnd, Joseph; 7; -; 367; -; -; 7; 4; 
+26; D; Best, Derrick; 4; -; 289; -; -; 2; 3; 
+12; M; Burke, Richard; 3; -; 238; -; -; -; 3; 
+3; D; Carter, Alonzio; 3; -; 254; -; -; 4; 6; 
+30; D; Colcombe, Brice; 5; -; 374; -; -; 1; 1; 
+16; M; Flott, Allan; 8; -; 552; -; -; 5; 5; 
+17; M; Foglesong, Nathan; 6; -; 224; -; -; 3; 4; 
+13; M; Giron, Angel; 11; 2; 456; 1; -; 5; 5; 
+5; D; Harrell, Michael; 13; -; 769; -; -; 3; 2; 
+31; GK; Helmick, Joel; 13; 1; 1170; -; 1; -; -; 
+10; D; Hughes, Maurice; 2; -; 162; -; -; 1; 3; 
+26; D; Iwunze, Yannick; 5; 1; 365; -; 2; -; 4; 
+12; F; Katongole, Stanley; 5; 2; 320; 1; -; 2; 2; 
+25; M; Mahmoud, Fadi; 3; -; 141; -; -; 4; 2; 
+6; M; Maimone, Christopher; 1; -; 23; -; -; -; -; 
+14; M; Majano, Bernardo; 2; -; 169; -; -; 1; 3; 
+11; M; Martinez, Eber; 12; 5; 1016; 2; 1; 11; 19; 
+19; D; Mitchell, Scott; 11; -; 879; -; -; -; 4; 
+4; D; Newsome, Laurent; 12; 1; 722; -; 1; 6; 11; 
+15; M; O'Reilly, Sean; 6; -; 398; -; -; 6; 4; 
+8; D; Renfrow, Grady; 2; -; 75; -; -; 1; 1; 
+27; D; Roberts, Kevin; 2; -; 14; -; -; -; 1; 
+22; M; Rodriguez, Francisco; 5; -; 160; -; -; 5; 1; 
+2; D; Sheta, Ahmed; 13; 9; 1153; 4; 1; 41; 19; 
+21; F; Stamatis, William; 8; 5; 503; 2; 1; 14; 3; 
+28; D; Tayou, Uzi; 8; -; 518; -; -; -; 2; 
+29; F; Tayou, Franck; 9; 17; 808; 8; 1; 25; 9; 
+14; F; Torres, Aladino; 1; -; 7; -; -; -; -; 
+20; D; Zhu, Kevin; 5; -; 206; -; -; -; 4; 
+
+
+Team: SC United Bantams
+BlockSource: http://www.uslsoccer.com/teams/2013/42834752.html#STATS
+
+21; M; Amirkhania, Ara; 6; -; 349; -; -; 2; 3; 
+1; GK; Beebe, Robert; 14; -; 1170; -; -; -; -; 
+19; F; Belair, Robert; 5; 4; 337; 2; -; 8; 6; 
+15; M; Cates, Danny; 12; 2; 970; -; 2; 2; 6; 
+10; M; Duggan, Christopher; 3; -; 210; -; -; 1; 3; 
+23; M; Eads, William; 3; -; 130; -; -; 2; 2; 
+16; D; Fielden, Kevin; 13; -; 1125; -; -; 2; 3; 
+4; D; Freeman, Matthew; 3; -; 236; -; -; 1; 2; 
+18; M; Freiburger, Ryan; 11; 3; 661; 1; 1; 4; 4; 
+4; M; Hurst, Ryan; 4; 2; 208; 1; -; 3; -; 
+3; M; Jaramillo, Nestor; 14; 4; 969; 1; 2; 9; 9; 
+6; M; Kenga, David; 5; 2; 209; 1; -; 3; 5; 
+7; M; L'Amoreaux, Devin; 11; 7; 739; 2; 3; 4; 6; 
+20; D; Lontrato, Joseph; 14; 7; 1001; 3; 1; 4; 11; 
+17; D; McManis, Matthew; 6; -; 495; -; -; 1; 4; 
+8; M; Metcalf, Jack; 9; 3; 692; 1; 1; 11; 5; 
+11; F; Millard, James; 3; -; 186; -; -; -; -; 
+9; F; Montry, Benjamin; 5; 2; 207; 1; -; 4; 2; 
+12; D; Ramm, Jamie; 7; -; 250; -; -; -; 2; 
+22; M; Reid, Jack; 3; 2; 177; 1; -; 2; 3; 
+2; F; Riddle, Hunter; 11; 3; 380; 1; 1; 4; 5; 
+5; M; Rittmeyer, Nicholas; 6; -; 354; -; -; 4; 3; 
+9; M; Ryan, Avery; 2; 2; 102; 1; -; 3; -; 
+17; M; Stockinger, Alex; 8; 6; 629; 3; -; 8; 3; 
+11; M; Teno, Stephen; 2; -; 54; -; -; -; 1; 
+13; M; Troyer, Braeden; 10; -; 773; -; -; 1; 3; 
+; ; Troyer, Jordan; 1; -; 45; -; -; -; -; 
+0; GK; Uldrick, Landon; 2; -; 47; -; -; -; -; 
+14; D; Valikonis, Thomas; 8; 2; 419; 1; -; -; 1; 
+15; M; Wyer, Hunter; 3; -; 214; -; -; 2; 1; 
+
+
+Team: So. WV King's Warriors
+BlockSource: http://www.uslsoccer.com/teams/2013/42834755.html#STATS
+
+6; M; Angel Tamayo, Gustavo; 8; -; 642; -; -; 5; 8; 
+13; M; Angelicola, Nicola; 3; 2; 111; 1; -; 6; 1; 
+17; D; Arango, Jonathan; 1; -; 12; -; -; -; -; 
+25; M; Barancoski, Fabricio; 2; 1; 130; -; 1; 2; 2; 
+7; M; Bardales, Benjamin; 12; -; 693; -; -; 13; 13; 
+34; F; Brissett, Odaine; 3; -; 37; -; -; 1; 1; 
+12; M; DeAngelo, Noah; 6; -; 142; -; -; 1; -; 
+27; M; Forbes, Billy; 11; 17; 892; 7; 3; 37; 4; 
+9; M; Gonzalez, Joswar; 4; -; 270; -; -; -; 3; 
+29; D; Gonzalez Giron, Jorge; 9; -; 645; -; -; 1; 2; 
+11; F; Grant, Jonathan; 11; 11; 677; 5; 1; 27; 8; 
+31; D; Grant, Lewis; 7; 1; 687; -; 1; 2; 2; 
+14; M; Hays, Curt; 7; 4; 278; 2; -; 3; 6; 
+23; F; Jackson, Joseph; 10; 1; 405; -; 1; 11; 12; 
+26; D; Lopez, Jhon; 7; -; 520; -; -; -; 6; 
+16; D; Mahon, Laurence; 5; -; 237; -; -; -; 1; 
+32; F; Mejia, Deybi; 2; 2; 65; 1; -; 3; 2; 
+5; D; Millage, Stephen; 5; 2; 280; 1; -; 3; 4; 
+18; M; Miller, Austin; 8; 1; 350; -; 1; 5; 5; 
+4; F; Mitchell, Mark; 3; -; 179; -; -; 1; 2; 
+0; GK; Moffit, Stephen; 4; -; 360; -; -; -; -; 
+0; GK; Mozzo, Erik; 9; -; 810; -; -; -; -; 
+21; D; Oyuga, Stephen; 9; -; 658; -; -; 2; 4; 
+19; M; Prescod, Zari; 6; 2; 463; 2; -; 10; 8; 
+21; M; Robbins, Carter; 13; -; 1068; -; -; 4; 7; 
+24; M; Robinson, Mikey; 9; 3; 740; -; 3; 5; 13; 
+15; M; Rose, David; 9; 2; 454; -; 2; 3; 5; 
+22; D; Sherwood, Harry; 9; 3; 631; 1; 1; 8; 10; 
+20; M; Teos, Miguel; 11; 1; 449; -; 1; 5; 7; 
+
+
+Team: Virginia Beach Piranhas
+BlockSource: http://www.uslsoccer.com/teams/2013/6757867.html#STATS
+
+7; F; Baker, Kyle; 9; 2; 445; 1; -; 3; 3; 
+25; GK; Bojang, Famara; 12; -; 1073; -; -; -; 2; 
+10; D; Causey, Bryan; 14; 1; 1204; -; 1; 3; 14; 
+22; M; Corliss, Jacob; 3; -; 23; -; -; -; 1; 
+12; F; Cunningham, Brian; 4; 1; 133; -; 1; 2; 2; 
+4; M; Cyrus, Tyler; 12; 7; 1061; 3; 1; 7; 13; 
+6; D; Downs Villegas, Christopher Joa; 12; 4; 1023; 2; -; 4; 4; 
+17; D; Forbes, Isaiah; 9; -; 287; -; -; 1; 3; 
+20; D; Gaylord, Jason; 6; -; 531; -; -; 2; 7; 
+11; F; Gibson, Jerjer; 13; 9; 1002; 3; 3; 30; 8; 
+19; D; Harris, Christopher; 7; -; 46; -; -; -; 2; 
+1; GK; Hassan, Mohamed; 3; -; 187; -; -; -; 1; 
+14; F; Janes, Sawyer; 10; -; 513; -; -; 2; 3; 
+20; F; Krautheim, Tim; 5; -; 99; -; -; 3; 3; 
+5; D; Kulovic, Sven; 12; -; 1080; -; -; 5; 10; 
+15; F; Lambert, William; 10; -; 387; -; -; 2; -; 
+24; F; Nweke, Charles; 5; 6; 297; 3; -; 6; 6; 
+18; F; Pearson, Peter; 8; 4; 397; 2; -; 14; 1; 
+16; M; Pierce, Devin; 10; 1; 840; -; 1; 6; 8; 
+21; D; Russell, Shaun; 7; 4; 622; 2; -; 2; 7; 
+2; M; Saunders, frank; 4; -; 208; -; -; 2; 4; 
+12; M; Shihata, Zaher; 5; 2; 204; 1; -; 3; 5; 
+8; F; Thompson, Patrick; 9; 9; 677; 3; 3; 11; 6; 
+9; M; Vilela Mota, Luis; 12; 9; 740; 3; 3; 14; 7; 
+13; M; Windt, Jared; 9; 1; 596; -; 1; 7; 2; 
+
+
+Team: West Virginia Chaos
+BlockSource: http://www.uslsoccer.com/teams/2013/22399.html#STATS
+
+9; M; Arthur, Adam; 6; 5; 480; 2; 1; 13; 4; 
+1; GK; Atwell, Tyler; 12; -; 1080; -; -; -; -; 
+11; F; Brown, Matthew; 13; 9; 1170; 4; 1; 20; 14; 
+0; GK; Budka, Cory; 1; -; 90; -; -; -; -; 
+6; F; Delgado, Pau; 11; 5; 914; 2; 1; 23; 6; 
+16; M; Doneux, Tiago; 7; 1; 386; -; 1; 2; 3; 
+8; M; Dwyer, Dan; 13; -; 1066; -; -; 5; 17; 
+11; M; Ferreira, Daniel; 6; -; 305; -; -; 4; 2; 
+8; M; Fox, Adam; 4; -; 47; -; -; -; 1; 
+6; D; Harris, Emanuel; 14; 1; 1195; -; 1; 3; 4; 
+4; D; Ivanovic, Predrag; 14; 8; 1260; 1; 6; 8; 10; 
+21; D; Johns, Joseph; 1; -; 5; -; -; -; -; 
+7; M; Kast, Nathaniel; 5; -; 91; -; -; 3; -; 
+19; D; Lovern, Ian; 2; -; 95; -; -; -; -; 
+19; D; Noriega, Jose; 11; 1; 915; -; 1; 8; 11; 
+19; F; Perrow, John; 2; -; 47; -; -; 1; -; 
+23; M; Phillips, Carter; 6; -; 127; -; -; 1; -; 
+9; F; Pucci, James; 14; 22; 1242; 10; 2; 42; 14; 
+1; GK; Reymond, Brady; 1; -; 90; -; -; -; -; 
+14; M; Smee, Daniel; 13; -; 963; -; -; 2; 14; 
+3; D; Steigerwald, Vincent; 13; 3; 1116; 1; 1; 5; 18; 
+3; D; Torbert Burney, Micheal; 4; -; 344; -; -; -; 1; 
+5; D; Wallace, Nikoy; 6; -; 220; -; -; -; 2; 
+17; M; Williams, Dylan; 11; -; 622; -; -; 2; 10; 
+
+
+Team: Austin Aztex
+BlockSource: http://www.uslsoccer.com/teams/2013/42834722.html#STATS
+
+3; D; Ambrose, Michael; 4; 3; 259; 1; 1; 2; 1; 
+24; M; Campbell, Edward; 11; 3; 514; 1; 1; 10; 8; 
+20; M; Casiple, Seth; 5; 4; 151; 1; 2; 2; 2; 
+0; GK; Cook, Devin; 12; -; 1080; -; -; -; -; 
+13; M; Cortes, Jesus; 10; 5; 612; 1; 3; 10; 5; 
+4; D; Cruz, Juan; 12; 4; 640; 2; -; 12; 11; 
+11; F; Cuero, Julio; 13; 16; 796; 7; 2; 20; 10; 
+25; D; Derschang, Robert; 6; -; 387; -; -; 1; 3; 
+21; D; Djiba, Oumar; 2; -; 23; -; -; -; -; 
+22; M; Franz, Justin; 5; 3; 103; -; 3; -; -; 
+8; M; Garcia, Zachary; 11; -; 900; -; -; 1; 10; 
+10; D; Guillen, Aaron; 11; 4; 951; 2; -; 3; 8; 
+12; D; Gunderson, Max; 13; -; 1056; -; -; 1; 1; 
+3; M; Harwell, Jeff; 6; -; 173; -; -; 3; 1; 
+30; F; Hume, Tucker; 13; 7; 500; 3; 1; 9; 2; 
+31; D; Hume, Walker; 11; 5; 816; 2; 1; 7; 6; 
+35; GK; Kaschak, John; 1; -; 90; -; -; -; -; 
+18; D; King, Michael; 10; -; 435; -; -; 7; 1; 
+15; M; Lujano, John; 2; -; 60; -; -; 1; -; 
+6; M; Metzger, Daniel; 5; -; 234; -; -; 2; 2; 
+1; GK; Mikulewicz, Josh; 1; -; 90; -; -; -; -; 
+23; M; Osorio, Alesi; 2; -; 69; -; -; -; 1; 
+2; D; Pope, Zack; 12; -; 724; -; -; 3; 10; 
+9; M; Powell, Jacob; 2; -; 39; -; -; -; 1; 
+26; F; Riley, Daniel; 3; 1; 44; -; 1; 3; 1; 
+16; M; Rocha, Antonio; 14; 10; 1094; 3; 4; 18; 19; 
+; D; Rosales, Damian; 1; -; 12; -; -; -; -; 
+10; F; Seoane, Jose; 13; 12; 824; 4; 4; 29; 5; 
+20; F; Shelton, Khiry; 2; 4; 148; 2; -; 4; 1; 
+19; M; Tyrpak, Kristopher; 14; 19; 1023; 9; 1; 26; 9; 
+
+
+Team: El Paso Patriots
+BlockSource: http://www.uslsoccer.com/teams/2013/22323.html#MAIN
+
+10; F; Aizawa, Naoyas; 10; 7; 773; 3; 1; 18; 6; 
+13; M; Alvarez, Mario; 13; 2; 954; 1; -; 5; 5; 
+; F; Bolivar, Ernesto; 1; -; 45; -; -; -; -; 
+17; M; Camarena, Jonathan; 10; -; 604; -; -; 5; 13; 
+21; D; Campos, Daniel; 4; -; 315; -; -; 4; -; 
+21; D; Carrasco, Jerson; 2; -; 180; -; -; -; 4; 
+7; M; Cervantes, Enrique; 10; 6; 667; 3; -; 4; 5; 
+8; M; Cisneros, Eduardo; 6; -; 505; -; -; 5; 3; 
+15; F; De Anda, Francisco; 13; 3; 986; 1; 1; 13; 4; 
+18; M; Del Muro, Adrian; 8; -; 77; -; -; -; 1; 
+21; D; Diaz, Joaquin; 5; -; 404; -; -; -; 4; 
+23; D; Duarte, Jorge Armando; 12; -; 596; -; -; 2; 9; 
+; F; Escobar, Marco; 1; -; 24; -; -; -; 2; 
+; F; Flaco, David; 4; -; 109; -; -; -; -; 
+19; M; Garcia, Bryan; 4; -; 313; -; -; 2; 5; 
+16; M; Garcia, Miguel; 1; -; 71; -; -; -; 1; 
+2; M; Hernandez, Noel; 9; -; 714; -; -; 1; 9; 
+3; M; Hernandez, Eric; 14; -; 1170; -; -; 6; 9; 
+6; D; Landa, Christian; 2; -; 64; -; -; -; -; 
+20; F; Lara, George; 12; 4; 680; 2; -; 4; 11; 
+12; D; Moreno, Adrian; 1; -; 90; -; -; -; 1; 
+22; GK; Moreno, Jose; 12; 5; 618; 2; 1; 8; 5; 
+24; D; Olivares Garcia, Jair; 5; -; 414; -; -; 1; 3; 
+; F; Ramos, Norman; 2; -; 120; -; -; -; 2; 
+14; D; Rey, Mark; 7; -; 260; -; -; -; 1; 
+1; GK; Rey, Agustin; 14; -; 1260; -; -; -; -; 
+5; D; Rodriguez, Pablo; 9; -; 764; -; -; 2; 8; 
+4; D; Ruiz, Sabas; 7; -; 234; -; -; -; -; 
+9; M; Salas, Guillermo; 3; -; 225; -; -; 1; 1; 
+24; D; Samano Contreras, Hugo; 6; 2; 433; 1; -; 2; 7; 
+11; M; Tovar, Juan; 4; -; 59; -; -; -; 4; 
+
+
+Team: Houston Dutch Lions
+
+Team: Laredo Heat
+BlockSource: http://www.uslsoccer.com/teams/2013/934454.html#STATS
+
+24; F; Alvarado, Lee; 1; -; 32; -; -; 1; -; 
+7; D; Barbosa, Ian; 7; 2; 192; 1; -; 1; 4; 
+5; D; Botero, Camilo; 13; 4; 1049; 2; -; 7; 11; 
+; GK; Bouchahine, Michel; 1; -; 21; -; -; -; 1; 
+23; M; Buduri, Placide; 9; 1; 384; -; 1; 1; 5; 
+6; D; De Armas, Yosmel; 13; 1; 851; -; 1; 5; 6; 
+27; F; Eligwe, VcMor; 3; 2; 240; 1; -; 8; 3; 
+1; GK; Frias, Emmanuel; 14; -; 1239; -; -; -; 1; 
+22; M; Galvan Barbosa, Daniel; 2; -; 41; -; -; -; 1; 
+9; F; Garza, Daniel; 11; 15; 877; 7; 1; 18; 10; 
+; F; Gonzalez, Jose; 2; -; 16; -; -; -; -; 
+; M; Hernandez, Kevin; 1; -; 75; -; -; -; -; 
+4; M; Hernandez, Genaro; 13; 7; 1134; 3; 1; 17; 8; 
+10; M; Ibarra-Trevino, Juan de Dios; 13; 11; 1132; 4; 3; 15; 10; 
+13; F; Kocic, Ljubomir; 13; 5; 1015; 1; 3; 24; 14; 
+3; D; Lara, Francisco; 11; 2; 668; 1; -; 5; 7; 
+19; D; Lopez, Omar; 7; -; 595; -; -; -; 4; 
+; F; Medeiros, Leonardo; 2; -; 110; -; -; 1; -; 
+8; M; Monteiro, Joao; 11; 7; 328; 3; 1; 9; 1; 
+11; M; Mulamba, Gregory; 14; 2; 1237; 1; -; 6; 16; 
+26; M; Muniz, Gabriel; 8; -; 128; -; -; 1; 3; 
+18; D; Navarro, Daniel; 12; 1; 611; -; 1; 2; 3; 
+2; D; Rocha, Jorge; 5; -; 190; -; -; -; 3; 
+25; D; Souza, Felipe; 13; 8; 1081; 4; -; 8; 9; 
+14; F; Taylor, Leon; 10; -; 173; -; -; 4; 6; 
+; M; Vallejo-Medina, Hector; 3; 2; 195; -; 2; 2; -; 
+; M; de la Garza, Alejandro; 5; 5; 159; 2; 1; 5; -; 
+
+
+Team: Midland/Odessa Sockers
+BlockSource: http://www.uslsoccer.com/teams/2013/13598690.html#STATS
+
+1; GK; Allard, Robin; 7; -; 559; -; -; -; -; 
+6; M; Anchondo, Jose; 7; 1; 491; -; 1; 4; -; 
+2; F; Arriaga, Andrew; 3; -; 114; -; -; 1; -; 
+11; M; Atemafac, Vitalis; 14; 6; 601; 2; 2; 13; 6; 
+13; M; Baltier, Ethan; 2; -; 56; -; -; -; 3; 
+16; D; Buettner, Craig; 3; -; 249; -; -; -; 3; 
+3; M; Chinchilla, Ricardo; 6; 3; 334; 1; 1; 1; 2; 
+19; D; Clarvis, Benjamin; 11; 2; 935; 1; -; 2; 5; 
+12; M; Defeugaing, Samson; 3; -; 111; -; -; 3; 4; 
+4; D; Dubose, Devante; 8; -; 537; -; -; 3; 2; 
+16; D; Duvcevski, James; 10; -; 729; -; -; 1; 2; 
+; ; Eborall, Daniel; 1; -; 45; -; -; -; -; 
+18; F; Gonzalez, David; 7; 15; 493; 7; 1; 14; 6; 
+12; M; Gregston, Raleigh; 1; -; 4; -; -; -; -; 
+7; M; Herbert, Kal; 13; 7; 1037; 3; 1; 19; 2; 
+15; D; Hiller, Mark; 8; -; 478; -; -; -; 6; 
+3; D; Isaac, Dishon; 6; -; 293; -; -; -; 1; 
+9; M; Malolonado-Karo, Andres; 14; 8; 1211; 3; 2; 19; 24; 
+19; D; Mendoza, Gabriel; 1; -; 3; -; -; -; -; 
+18; M; Munoz, Jose; 10; 3; 726; 1; 1; 11; 9; 
+18; M; Munoz, Jesus; 1; 2; 90; 1; -; -; -; 
+17; F; Nava, Juan; 10; 5; 458; 2; 1; 8; 5; 
+0; GK; Petolick, Nicholas; 8; -; 701; -; -; -; -; 
+20; D; Pinter, Paul; 1; -; 90; -; -; -; 1; 
+8; F; Power, Andrew; 6; -; 522; -; -; 6; 5; 
+14; D; Robertson, Michael; 9; -; 460; -; -; 2; 1; 
+12; D; Ryden, Kalen; 2; -; 50; -; -; 2; 1; 
+12; D; Salcido-Hernandez, Juan; 1; -; 6; -; -; -; 1; 
+5; M; Sanchez, Juan; 2; -; 27; -; -; -; -; 
+10; M; Smith, Tyler; 8; 2; 376; 1; -; 3; 2; 
+21; F; Smith III, Leonard; 11; 10; 815; 5; -; 16; 5; 
+17; D; Tarango, Tyler; 13; -; 1163; -; -; 3; 7; 
+14; M; Urias, Montiel; 1; -; 20; -; -; -; -; 
+
+Team: Oklahoma City FC
+BlockSource: http://www.uslsoccer.com/teams/2013/58151963.html#STATS
+
+17; F; Alberto, Nicolas; 13; 10; 957; 4; 2; 20; 6; 
+10; F; Black, Adam; 12; 23; 1043; 11; 1; 45; 7; 
+20; M; Bray, Matt; 10; -; 374; -; -; 4; 2; 
+1; GK; Byars, Brian; 7; -; 630; -; -; -; -; 
+22; F; Cabello, Kevin; 9; 6; 187; 3; -; 6; -; 
+0; GK; Clark, Ray; 7; -; 630; -; -; -; -; 
+25; F; Cottage, Jake; 1; -; 32; -; -; 2; -; 
+7; M; Crick, Niall; 12; 7; 853; 2; 3; 4; 7; 
+26; M; Deleon, Willy; 2; -; 11; -; -; -; -; 
+3; D; Doll, Nathan; 12; -; 195; -; -; -; 2; 
+4; M; Frid, Danny; 11; 5; 1041; 3; 3; 14; 11; 
+13; M; Gibson, Danny; 6; -; 99; -; -; 5; -; 
+19; F; Gross, James; 4; -; 114; -; -; 3; 3; 
+9; F; Hubbard, Tommy; 6; 4; 333; 2; -; 10; -; 
+14; M; Leabourn-Boss, Thomas; 5; 2; 309; 1; -; 4; -; 
+12; M; Lemus, Luis; 7; 1; 366; -; 1; -; -; 
+21; M; Madden, Liam; 2; -; 44; -; -; -; -; 
+2; D; Ortlieb, Tyler; 14; 1; 1213; -; 1; 4; 5; 
+23; F; Otieno, David; 3; -; 100; -; -; -; -; 
+11; F; Owusu, Stephen; 11; 7; 784; 2; 3; 13; 10; 
+5; D; Parkinson, Scott; 14; 6; 1172; 2; 2; 5; 7; 
+15; D; Place, Austin; 3; -; 42; -; -; 1; 1; 
+12; D; Pryor, Phil; 6; 1; 107; -; 1; 3; 2; 
+6; D; Spendlove, Chris; 12; -; 1022; -; -; 2; 3; 
+8; D; Taylor, Chris; 12; 5; 1099; 2; 1; 12; 3; 
+18; M; Tippeconnic, Troy; 5; 1; 178; -; 1; 3; 5; 
+24; D; Webster, Andrew; 9; -; 505; -; -; -; 4; 
+
+
+Team: Fort Lauderdale Schulz Academy
+BlockSource: http://www.uslsoccer.com/teams/2013/16200461.html#STATS
+
+5; ; Adams, Clifford; 2; -; 113; -; -; 1; 2; 
+26; F; Bangai, Bouah Kevin; 7; 5; 625; 2; 1; 18; 7; 
+; M; Barron, Jonathan; 2; -; 180; -; -; 1; 2; 
+12; F; Boorom, Christian; 3; -; 92; -; -; -; 1; 
+2; M; Castaneda, Alejandro; 2; -; 17; -; -; -; -; 
+1; GK; Catano, Carlos; 5; -; 450; -; -; -; -; 
+24; F; Chorak, Karol; 11; 2; 990; -; 2; 6; 5; 
+; M; Da Silva, Bruno; 1; -; 27; -; -; -; -; 
+23; D; Eden, Alex; 10; -; 670; -; -; 1; 2; 
+20; D; Edma, Greg; 4; -; 258; -; -; -; 2; 
+99; GK; Freund, Kent; 8; -; 661; -; -; -; -; 
+; D; Garibaldi, Jabari; 2; -; 121; -; -; -; -; 
+4; F; Goldberg, Manuel; 5; -; 186; -; -; 1; 2; 
+16; M; Gonzalez, Jesus; 8; 2; 504; 1; -; 3; 12; 
+21; D; Hart, Sean; 4; -; 191; -; -; -; -; 
+10; M; Henry, Donovan; 6; 2; 384; 1; -; 2; 3; 
+; ; Huezo, Kevin; 2; -; 180; -; -; 3; 4; 
+17; D; Ingram, Christoph; 7; 1; 594; -; 1; 1; 2; 
+8; D; Jean-Jacques, Leonard; 5; -; 450; -; -; -; -; 
+27; D; Jones, Alwayne; 9; -; 750; -; -; 1; 5; 
+; D; Lekota, Thabang; 1; -; 90; -; -; -; 1; 
+6; D; Lopez, Mitchell; 2; -; 149; -; -; -; 3; 
+15; M; Mendes, Daniel; 5; -; 360; -; -; -; -; 
+18; M; Mesias, Jade; 11; 2; 945; 1; -; 11; 14; 
+19; D; O'Brien, Patrick; 1; -; 13; -; -; -; -; 
+25; M; Parra, Victor; 4; -; 345; -; -; 5; 4; 
+22; M; Rosario, Michael; 7; -; 432; -; -; 2; 2; 
+; F; Sinclair, Sekani; 4; -; 195; -; -; 4; 4; 
+; M; Valimaa, Verneri; 4; 2; 329; 1; -; 1; 4; 
+14; D; Valle, Eduardo; 4; -; 238; -; -; -; 1; 
+7; M; Vecchitto, Matthew; 3; -; 100; -; -; -; -; 
+11; M; Wright, David; 4; -; 154; -; -; -; 1; 
+
+
+Team: IMG Academy Bradenton
+BlockSource: http://www.uslsoccer.com/teams/2013/22301.html#STATS
+
+16; M; Arambula, Ryan; 1; -; 54; -; -; 2; -; 
+16; M; Arico, Anthony; 8; -; 368; -; -; 4; 9; 
+24; F; Biswell, Tren; 1; -; 18; -; -; -; -; 
+4; M; Boggs, Zak; 5; 2; 405; 1; -; 9; 6; 
+10; F; Calzadilla, Luis; 11; 5; 610; 2; 1; 11; 11; 
+17; M; Campbell, Jonathan; 1; -; 45; -; -; 1; -; 
+17; D; Chapman, Jason; 7; -; 263; -; -; -; 3; 
+0; GK; Coulter, Ryan; 1; -; 225; -; -; -; -; 
+21; F; Escobar Cardona, Daniel; 3; -; 88; -; -; 1; 3; 
+4; M; Gavin, Blair; 7; 1; 518; -; 1; 6; 6; 
+23; D; Gravatt, Brett; 1; -; 180; -; -; -; 3; 
+2; M; Griffith, Owen; 2; -; 135; -; -; 2; 2; 
+12; D; Hackbarth, Joseph; 11; -; 924; -; -; 10; 16; 
+23; D; Hariston, Makala; 13; -; 1007; -; -; 2; 11; 
+3; D; Howard, Akil; 8; -; 695; -; -; 2; 6; 
+20; M; Kolarac, Nick; 10; -; 420; -; -; 9; 11; 
+7; F; Kryst, Asa; 2; -; 59; -; -; -; -; 
+6; D; Kucharski, Konrad; 13; -; 1009; -; -; 1; 16; 
+14; M; Lee, Mark; 8; 4; 307; 2; -; 8; 4; 
+22; F; Lemasters, Ryan; 9; 7; 380; 3; 1; 3; 8; 
+18; F; Lobo, Marco; 8; 1; 358; -; 1; 9; 6; 
+9; F; Magee, Mark; 12; 9; 684; 4; 1; 19; 17; 
+11; M; Martin, Elijah; 10; 4; 617; 1; 2; 4; 7; 
+11; F; Medina-Mendez, Diego; 2; -; 71; -; -; 2; 1; 
+7; F; Minutillo, Michael; 5; 2; 312; 1; -; 10; 8; 
+21; F; Novaes, Henrique; 5; -; 166; -; -; 1; 3; 
+18; GK; Nydell, Jonathan; 4; -; 243; -; -; -; -; 
+19; M; Sanabria, David; 10; 2; 681; 1; -; 14; 1; 
+2; D; Tayloe, Spencer; 3; -; 145; -; -; -; 1; 
+5; D; Toby, Joseph; 11; 2; 913; -; 2; 8; 11; 
+8; M; Warming, Grant; 3; -; 115; -; -; 2; 2; 
+1; GK; Wolverton, Andrew; 8; -; 702; -; -; -; -; 
+
+
+Team: Mississippi Brilla
+BlockSource: http://www.uslsoccer.com/teams/2013/6188388.html#STATS
+
+9; F; Almeida, Lucas; 11; 2; 531; 1; -; 9; 10; 
+15; F; Arnold, Altrece; 10; 1; 181; -; 1; 4; 3; 
+17; M; Barber, Joseph; 9; 2; 440; -; 2; 3; 9; 
+12; M; Brown, Michael; 1; -; 90; -; -; 1; -; 
+5; D; Brown, Austin; 7; -; 541; -; -; 2; 3; 
+13; M; Brown, Jonathan; 2; -; 31; -; -; 1; -; 
+20; F; Buffington, Phillip; 11; 12; 852; 5; 2; 21; 12; 
+11; D; Bujenovic, Alex; 10; 1; 657; -; 1; 5; 5; 
+5; D; Cosgrave, Tom; 4; 2; 314; 1; -; 4; 5; 
+6; M; Cruz, Eduardo; 12; 7; 893; 3; 1; 8; 9; 
+0; GK; Files, Jacob; 1; -; 90; -; -; -; -; 
+12; F; France, Jose Victor; 6; 8; 466; 3; 2; 10; 9; 
+14; M; Gavin, Tom; 11; 6; 900; 3; -; 12; 14; 
+2; F; Gonzalez, Martin; 11; 8; 782; 3; 2; 9; 17; 
+7; F; Kholfan, Fakhry; 5; 6; 390; 2; 2; 4; 5; 
+8; D; Kingery, Kase; 13; 3; 372; 1; 1; 3; 4; 
+9; M; Kolemasov, Mikhail; 6; -; 152; -; -; -; 4; 
+11; M; Langford, Paul; 4; 1; 111; -; 1; 1; 1; 
+1; GK; Ledgeway, Brendan; 11; -; 990; -; -; -; -; 
+10; M; Lemma, Anteneh; 9; 2; 636; 1; -; 1; 7; 
+20; F; Mbamala, Mcbruno; 6; 7; 494; 3; 1; 15; 6; 
+16; D; Muteshi, Cedric; 13; 2; 1061; 1; -; 4; 9; 
+3; D; Pestana, Gregorio; 11; -; 751; -; -; 1; 4; 
+19; M; Pollak, Alex; 5; -; 89; -; -; -; -; 
+22; D; Roberts, Justin; 10; -; 820; -; -; 1; 15; 
+21; M; Williams, Bennett; 1; -; 3; -; -; -; -; 
+
+
+Team: Ocala Stampede
+BlockSource: http://www.uslsoccer.com/teams/2013/42834740.html#STATS
+
+6; D; Alves, Rafael; 10; -; 1035; 4; -; 10; 14; 
+24; F; Bailey, Jack; 9; 16; 544; 8; -; 20; 4; 
+20; M; Blandon, Christian; 9; 1; 799; -; 1; 9; 13; 
+1; GK; Bolowich, Alexander; 8; -; 720; -; -; -; 1; 
+17; F; Breitmeyer, Kyle; 14; 18; 869; 6; 6; 28; 12; 
+8; M; Castro, Bruno; 9; 4; 651; -; 4; 7; 6; 
+15; D; Chirandu, Courage; 6; 1; 293; -; 1; 3; 2; 
+19; M; Coutinho, Lucas; 2; -; 61; -; -; 3; -; 
+0; GK; Craggs, Lex; 4; -; 360; -; -; -; -; 
+22; M; Curriston, Brandon; 4; -; 103; -; -; 1; 1; 
+18; D; Duininck, Samuel; 14; 5; 1210; 1; 3; 2; 6; 
+4; D; Gourlay, Liam; 13; -; 1140; -; -; 3; 6; 
+10; F; Hogg, Kenneth; 14; 20; 1180; 9; 2; 20; 7; 
+7; M; Ireland, Kevin; 7; 2; 412; -; 2; 3; 5; 
+3; D; Kamali, David; 5; -; 370; -; -; -; 9; 
+21; D; Karafilov, Christopher; 2; -; 50; -; -; -; 1; 
+14; D; Kay, Jackie; 1; -; 6; -; -; -; -; 
+2; D; Knight, Ben; 12; 3; 905; 1; 1; 3; 2; 
+30; D; Maret, Corey; 8; 5; 183; 2; 1; 3; 3; 
+9; F; Nunes, Amaury; 7; 6; 383; 3; -; 13; 3; 
+23; M; Roberts, Wayne; 8; 2; 271; 1; -; 6; 1; 
+7; D; Roberts, Weston; 2; -; 165; -; -; 1; 2; 
+0; GK; Sotarik, Scott; 2; -; 180; -; -; -; -; 
+11; M; Tice, William; 12; 7; 581; 3; 1; 10; 6; 
+12; M; Torres, Jonatan; 4; 2; 97; 1; -; 2; 4; 
+16; M; Valimaa, Verneri; 6; 2; 450; 1; -; 10; 9; 
+13; M; Walmsley, Stephen; 10; -; 849; -; -; 4; 1; 
+
+
+Team: Orlando City U23
+BlockSource: http://www.uslsoccer.com/teams/2013/22309.html#STATS
+
+77; M; Akinsanya, Adedoja; 3; -; 107; -; -; 1; -; 
+6; F; Annarumma, Michael; 9; 10; 577; 5; -; 23; 3; 
+24; M; Barboto, Daniel; 11; -; 510; -; -; 3; 10; 
+17; F; Blackwood, Tyler; 14; 34; 1236; 15; 4; 40; 6; 
+16; D; Clare, Andrew; 11; -; 905; -; -; 4; 12; 
+3; M; Clowes, Paul; 9; 3; 770; 1; 1; 6; 7; 
+15; D; Fisher, Kyle; 10; 2; 856; 1; -; 7; 4; 
+8; M; Fubara, Itode; 14; 2; 1260; 1; -; 16; 7; 
+21; GK; Gomez, Tomas; 11; -; 990; -; -; -; 1; 
+10; M; Graydon, David; 4; -; 354; -; -; 2; 3; 
+22; D; Greenbaum, Evan; 8; -; 387; -; -; 1; 6; 
+12; F; James, Dwane; 3; -; 139; -; -; -; 2; 
+77; F; Laidley, Jowayne; 5; -; 323; -; -; 4; 2; 
+20; M; McCaffrey, Derek; 10; -; 565; -; -; 1; 6; 
+19; D; Millay, Michael; 12; 1; 896; -; 1; 6; 6; 
+10; M; Pardo De Figueroa, Jehov; 3; 1; 63; -; 1; -; 3; 
+9; M; Peterson, Troy; 6; -; 195; -; -; -; -; 
+3; F; Pre'Valus, Junior; 4; 6; 261; 2; 2; 8; 5; 
+11; F; Russo, Nicolas; 10; 5; 474; 2; 1; 12; 10; 
+14; D; Seiler, Cole; 11; -; 629; -; -; 2; 8; 
+23; M; Shortland, Joel; 1; -; 180; -; 1; -; -; 
+7; M; Skelly, Tom; 12; 1; 1057; -; 1; 4; 15; 
+23; D; Sowers, Nicholas; 5; -; 158; -; -; -; 1; 
+5; D; Svantesson, Ian; 7; -; 301; -; -; 1; 1; 
+1; GK; Uzcategui, Cody; 3; -; 270; -; -; -; -; 
+13; D; Vizcaino, Francisco; 1; -; 51; -; -; 2; -; 
+
+
+Team: Panama City Beach Pirates
+BlockSource: http://www.uslsoccer.com/teams/2013/42834746.html#STATS
+
+25; M; Al-Yassery, Ali; 1; -; 4; -; -; -; -; 
+24; M; Barbero, Brandon; 11; -; 925; -; -; 11; 6; 
+7; D; Beasley, Andrew; 13; 4; 573; 2; -; 8; 3; 
+10; F; Charif, Nasser; 14; 3; 1085; 1; 1; 31; 6; 
+6; F; Fabian, Tyler; 14; 7; 429; 3; 1; 5; 5; 
+23; GK; Lewis, Sean; 14; -; 1260; -; -; -; -; 
+21; M; Lightbourne, Michael; 13; 5; 955; 2; 1; 18; 6; 
+26; F; Malloy, David; 10; 6; 793; 1; 4; 8; 8; 
+9; M; Marques, Calvin; 14; 4; 660; 2; -; 16; 6; 
+27; D; McCrary, Joshua; 10; -; 855; -; -; 4; 5; 
+11; D; Merrigan, Timothy; 2; -; 27; -; -; -; -; 
+20; F; Monsour, William; 11; 3; 746; -; 3; 17; 4; 
+8; M; Oliveira, Ricardo; 13; -; 1069; -; -; -; 5; 
+22; M; Prieto, Seth; 4; -; 154; -; -; 2; -; 
+15; F; Raines, Matt; 14; 6; 677; 3; -; 13; 7; 
+14; F; Ream, James; 6; -; 162; -; -; 2; 4; 
+19; M; Rogers, Ryan; 5; -; 131; -; -; 1; -; 
+17; D; Russell, Drew; 12; 4; 1072; 2; -; 7; 12; 
+18; D; Russell, Robert; 12; 3; 881; 1; 1; 1; 4; 
+4; M; Saye Jr., John; 11; -; 195; -; -; 2; 2; 
+2; D; de Souza, Taian; 14; 7; 1260; 3; 1; 9; 4; 
+
+
+Team: SW Florida Adrenaline
+BlockSource: http://www.uslsoccer.com/teams/2013/58152491.html#STATS
+
+26; M; Abernethy, Brendan; 2; -; 60; -; -; -; -; 
+2; D; Acosta, Paolo; 1; -; 90; -; -; -; -; 
+13; M; Acosta, Andres; 2; -; 67; -; -; -; -; 
+11; F; Antunez, David; 12; 5; 598; 2; 1; 5; 2; 
+21; M; Butzke, Joshua; 13; 2; 823; 1; -; 3; 1; 
+3; D; Butzke, David; 11; 1; 803; -; 1; 3; 2; 
+23; D; Charlton, DeJean; 10; -; 632; -; -; 2; 5; 
+25; M; Cuomo, Gianluca; 5; -; 225; -; -; 2; -; 
+19; D; Fredrickson, Ben; 5; -; 134; -; -; -; -; 
+0; GK; Gildin, Jahdea; 1; -; 45; -; -; -; -; 
+1; GK; Hackett, Derrick; 5; -; 234; -; -; -; 1; 
+15; M; Hilton, Lewis; 13; 6; 1028; 2; 2; 10; 5; 
+28; D; Luchetta, Christian; 3; -; 25; -; -; -; -; 
+22; F; Marinell, Quade; 12; 7; 964; 3; 1; 6; 7; 
+9; F; McCoubrey, Scott; 13; 11; 1118; 4; 3; 13; 5; 
+12; D; McKinney, Sean; 10; -; 608; -; -; 2; 4; 
+14; M; Morse, William; 2; -; 80; -; -; 2; -; 
+8; M; Oliveri, Steven; 4; -; 258; -; -; 1; 3; 
+7; D; Pinotti, Heitor; 6; -; 153; -; -; 1; -; 
+10; F; Presti, Nicholas; 1; 2; 44; -; 2; 2; -; 
+26; D; Rivillas, Alejandro; 9; -; 719; -; -; -; 8; 
+0; GK; Schonhuber, Manuel; 9; -; 810; -; -; -; -; 
+5; D; Scott, Andy; 2; -; 160; -; -; -; 1; 
+4; D; Sharkey, Seamus; 8; -; 720; -; -; -; 6; 
+8; M; Sharpe, Tyler; 1; -; 46; -; -; 2; 2; 
+16; F; Silva, Xavier; 7; 8; 534; 4; -; 10; 5; 
+17; D; Thomas, Timothy; 2; -; 96; -; -; -; 1; 
+24; F; Vincent, Damian; 1; 4; 44; 2; -; 3; -; 
+18; D; Wellington, Jason; 11; -; 748; -; -; -; 1; 
+6; D; Wilks, Skylar; 12; -; 732; -; -; 3; 15; 
+
+
+Team: VSI Tampa Bay
+BlockSource: http://www.uslsoccer.com/teams/2013/42834743.html#STATS
+
+11; F; Burrell, Aaron; 1; -; 37; -; -; 1; -; 
+0; GK; Bush, Steven; 2; -; 59; -; -; -; -; 
+12; D; Cowen, Adam; 1; -; 131; -; -; 1; -; 
+15; D; Crowell, Greg; 10; -; 810; -; -; 1; 5; 
+6; M; Curry, Ellis; 2; -; 34; -; -; -; 1; 
+17; D; Cutrofello, Dominic; 4; -; 360; -; -; 2; 3; 
+22; M; Frahm, Jacob; 1; 1; 75; -; 1; -; -; 
+; M; Fritz Ruenes, Alejandro; 1; -; 25; -; -; 2; -; 
+14; D; Garcia, Andrew; 7; -; 430; -; -; -; 6; 
+13; M; Garcia, Rayko; 1; -; 16; -; -; -; -; 
+2; M; Gonzalez, Fernando; 2; -; 26; -; -; 1; -; 
+16; D; Harrison, Alexander; 10; -; 900; -; -; 2; 6; 
+19; M; Hosseini, Samuel; 4; -; 276; -; -; 2; 3; 
+12; M; Mandzulashvili, Giorgi; 2; -; 55; -; -; 2; -; 
+3; M; McVey, Jack; 8; -; 720; -; -; 6; 13; 
+7; M; Mellville-Fergusson, Isaiah; 5; -; 306; -; -; 5; 2; 
+2; F; Moalosi, Edwin; 4; 3; 241; 1; 1; 6; 7; 
+4; F; Morrell, Robert; 10; 6; 438; 3; -; 9; 2; 
+8; M; Muckette, Karl; 5; 7; 376; 3; 1; 8; 6; 
+1; GK; Muhammad, Brentton; 10; -; 841; -; -; -; -; 
+9; F; Navas, Andres; 10; 4; 695; 2; -; 17; 4; 
+11; M; Parra, Victor; 2; -; 59; -; -; -; 2; 
+10; M; Portillo, Josey; 10; 11; 718; 4; 3; 13; 6; 
+7; M; Salinas, Stiven; 7; 4; 571; 1; 2; 28; 5; 
+19; D; Salkicic, Tarik; 6; -; 174; -; -; -; 4; 
+17; F; Shelton, R Patrick; 4; -; 86; -; -; 1; -; 
+12; M; Silva, Christian; 1; -; 64; -; -; -; 1; 
+12; M; Thomas, Amare; 6; 2; 345; 1; -; 5; 4; 
+5; F; Webb, Ricardo; 10; 5; 834; 2; 1; 14; 12; 
+
+
+Team: Kitsap Pumas
+BlockSource: http://www.uslsoccer.com/teams/2013/13598692.html#STATS
+
+25; M; Bowman, Zach; 6; -; 122; -; -; -; 2; 
+0; GK; Brim, Dustyn; 5; -; 372; -; -; -; -; 
+10; F; Chavez, Alejandro; 13; 6; 561; 2; 2; 18; 10; 
+11; M; Chongo, Kennedy; 4; -; 127; -; -; -; 2; 
+13; F; Daniels, William; 6; -; 191; -; -; 3; 3; 
+1; GK; Fenlason, Aaron; 7; -; 573; -; -; -; 2; 
+22; D; Gardea, Benjamin; 1; -; 33; -; -; -; 1; 
+20; M; Gomez, Edgar; 2; -; 26; -; -; -; -; 
+7; M; Gourgel, Nuno; 12; 7; 889; -; 7; 5; 12; 
+18; GK; Halterman, Anthony; 4; -; 315; -; -; -; -; 
+14; F; Jansen, Sebastiaan; 13; 8; 825; 3; 2; 10; 11; 
+2; M; Johnson, Kyle; 13; 3; 913; 1; 1; 11; 10; 
+26; M; Johnson, Cameron; 6; 1; 218; -; 1; -; -; 
+16; D; Kelly, Josh; 3; -; 184; -; -; -; 4; 
+9; F; Kiarash, Kasra; 8; 9; 598; 4; 1; 14; 19; 
+4; D; MacDonald, Cameron; 4; -; 348; -; -; 1; 3; 
+23; M; Malcome, Shane; 12; 5; 511; 2; 1; 11; 8; 
+5; M; Rodriques, Alexander; 11; -; 502; -; -; 7; 5; 
+17; D; Sampson, Zachary; 9; -; 595; -; -; 2; 3; 
+3; D; Scott, Brandon; 14; 2; 1260; 1; -; 7; 4; 
+8; M; Shaffer, Neil; 14; 10; 1223; 5; -; 13; 17; 
+21; D; Shelton, Cody; 11; 2; 937; 1; -; 3; 7; 
+24; F; Sidibe, Hellah; 11; -; 583; -; -; 4; 9; 
+15; D; Stewart, Michael; 2; -; 147; -; -; 1; -; 
+12; M; Stirling, Andrew; 11; 3; 828; 1; 1; 16; 6; 
+7; M; Tice, William; 1; -; 90; -; -; -; 1; 
+20; D; Tonkel, Marc; 4; -; 304; -; -; -; 1; 
+22; F; Truax, Ben; 7; 4; 492; 2; -; 11; 3; 
+
+
+Team: North Sound Sea Wolves
+BlockSource: http://www.uslsoccer.com/teams/2013/22407.html#STATS
+
+20; D; Aidoud, Jordan; 13; -; 889; -; -; 4; 8; 
+10; M; Ballew, Brady; 9; 9; 754; 4; 1; 15; 4; 
+6; D; Bandeira, Renato; 3; -; 225; -; -; 1; 4; 
+16; D; Bartels, Trevor; 2; -; 98; -; -; 1; 1; 
+18; M; Blanks, Brandon; 1; -; 8; -; -; -; -; 
+; F; Dismuke, Dominique; 5; -; 238; -; -; 2; 1; 
+24; D; Duerksen, Justice; 8; -; 720; -; -; 10; -; 
+19; F; Durrant, David; 11; 4; 437; 2; -; 11; 6; 
+22; M; Eckerson, Alexander; 8; -; 675; -; -; -; 4; 
+21; D; Eronemo, Matthew; 9; -; 782; -; -; -; 3; 
+15; M; Evangelista, Josimar; 3; -; 31; -; -; -; 4; 
+0; GK; Faber, Dylan; 4; -; 306; -; -; -; -; 
+; M; Gavin, Daniel; 5; 1; 331; -; 1; 1; 4; 
+9; M; Gold, Solomon; 1; -; 14; -; -; 1; -; 
+34; F; Griffin, Braxton; 9; 1; 560; -; 1; 11; 10; 
+2; M; Groves, Jackson; 2; -; 180; -; -; -; 5; 
+5; M; Hamer, Nicholas; 10; 4; 749; 1; 2; 6; 8; 
+8; M; Hamer, Zachary; 14; 4; 1156; 1; 2; 16; 5; 
+14; M; Hammond, Zachary; 9; 4; 618; 2; -; 12; 5; 
+; F; Heard, Josh; 1; -; 51; -; -; -; 3; 
+1; GK; Herman, Ryan; 7; -; 630; -; -; -; -; 
+7; F; Jacobson, Bradley; 11; 8; 980; 4; -; 32; 15; 
+23; M; Johanson, Eric; 3; -; 115; -; -; -; 4; 
+; M; Jones, Garrett; 1; -; 3; -; -; -; 1; 
+; D; Pavel, Bryson; 4; -; 333; -; -; 3; 3; 
+4; D; Peay, Taylor; 5; -; 374; -; -; 1; 4; 
+2; D; Raskowsky, Chase; 2; -; 180; -; -; 2; 4; 
+; D; Reid, Graham; 3; -; 270; -; -; -; 1; 
+; M; Richards, Elliott; 3; -; 102; -; -; -; 2; 
+0; GK; Rogers, Keegan; 4; -; 315; -; -; -; 1; 
+; D; Suazo Ramires, Andres; 7; 2; 576; 1; -; 6; 5; 
+3; D; Thomas, Devin; 6; -; 262; -; -; 1; 5; 
+13; F; Van Vleet, Daniel; 8; 2; 546; -; 2; 12; 11; 
+11; M; Vasquez, Victor; 4; -; 190; -; -; 3; 1; 
+16; M; Wodajo, Surafel; 2; -; 98; -; -; -; -; 
+
+
+Team: Portland Timbers U-23
+BlockSource: http://www.uslsoccer.com/teams/2013/13598694.html#STATS
+
+29; D; Abdul-Salaam, Saad; 6; 2; 467; 1; -; 1; 4; 
+21; M; Barnes, Zachery; 14; 2; 1260; 1; -; 17; 14; 
+0; GK; Blanchette, Paul; 1; -; 45; -; -; -; -; 
+10; F; Brenes, Reinaldo; 6; 4; 320; 2; -; 6; 4; 
+23; D; Brent, Travis; 6; -; 385; -; -; -; 5; 
+7; M; Conelian, Gabriel; 7; 1; 350; -; 1; 8; 10; 
+15; D; Daus, Mark; 1; -; 138; 1; -; 2; 2; 
+24; F; Escobar, Michael; 2; -; 97; -; -; -; 2; 
+22; F; Foxhoven, Zack; 12; 8; 501; 4; -; 16; 3; 
+11; D; Gallego, Bryan; 10; 1; 746; -; 1; 2; 5; 
+6; D; Greer, Jarvis; 12; -; 683; -; -; 3; 5; 
+4; D; Hewett, Evyn; 10; 1; 524; -; 1; 2; 7; 
+16; D; Hobbs, Anthony; 8; -; 358; -; -; 3; 5; 
+0; GK; Hylen, Blake; 1; -; 45; -; -; -; -; 
+5; D; Lurie, Mitchell; 12; -; 640; -; -; 4; 11; 
+27; M; McCracken, Jackson; 5; -; 248; -; -; 2; 2; 
+14; M; McFarlin, John; 8; -; 347; -; -; 5; 2; 
+7; F; McKenna, Reed; 4; -; 229; -; -; 5; 7; 
+1; GK; Meves, David; 13; -; 1170; -; -; -; -; 
+27; M; Miller, Eric; 6; 5; 540; 2; 1; 10; 7; 
+2; D; Nitti, Craig; 9; -; 710; -; -; 5; 5; 
+28; M; Palodichuk, Nick; 7; -; 367; -; -; 7; 9; 
+25; F; Phillips, Clark; 13; 6; 811; 3; -; 18; 7; 
+8; M; Ribas, Jose; 14; 2; 808; 1; -; 16; 8; 
+32; D; Seymore, William; 3; -; 245; -; -; -; 3; 
+12; F; Sherrod, Mark; 8; 4; 588; 1; 2; 16; 11; 
+11; M; Souto, Victor; 7; 2; 492; 1; -; 4; 13; 
+24; F; Velasco, Jaime; 9; 3; 490; 1; 1; 11; 4; 
+9; M; Vitalis, Will; 5; 1; 240; -; 1; 3; 1; 
+24; M; Walters, Alexander; 2; -; 114; -; -; -; -; 
+
+
+Team: Seattle Sounders U23
+BlockSource: http://www.uslsoccer.com/teams/2013/4480101.html#STATS
+
+17; F; Aman, Abdulwali; 6; -; 197; -; -; 9; 6; 
+6; D; Brundage, Chris; 14; 1; 1215; -; 1; 2; 6; 
+24; F; Byass, Miles; 6; 4; 248; 2; -; 12; 4; 
+5; F; Campbell, Murphy; 3; -; 188; -; -; 7; 4; 
+26; M; David, Machael; 1; -; 70; -; -; -; 2; 
+18; M; Diaz de Leon, Mauricio; 12; 2; 591; 1; -; 13; 17; 
+0; GK; Dragavon, Benjamin; 1; -; 90; -; -; -; -; 
+1; GK; Edwards, Earl; 8; -; 720; -; -; 2; -; 
+14; M; Esteves, Luis; 12; 4; 725; 2; -; 11; 5; 
+11; F; Estrada, Maximiliano; 6; 5; 291; 2; 1; 7; 3; 
+15; D; Gallagher, Michael; 9; -; 704; -; -; -; 6; 
+9; F; Geno, David; 2; -; 108; -; -; 1; 1; 
+23; F; Gonzalez, Miguel; 1; -; 17; -; -; -; 1; 
+5; F; Gordley, Eli; 1; -; 18; -; -; 1; -; 
+32; D; Hanson, Chase; 7; -; 445; -; -; 2; 7; 
+12; M; Harris, Michael; 9; -; 713; -; -; 2; 6; 
+11; F; Jones, Darwin; 1; -; 90; -; -; 1; 1; 
+7; M; Kovar, Aaron; 5; 3; 299; -; 3; 3; 5; 
+16; D; Lange, Ian; 6; -; 118; -; -; 1; -; 
+9; D; Larson, Balin; 1; -; 2; -; -; -; 1; 
+3; D; Lee, Mark; 13; 2; 1133; 1; -; 8; 15; 
+37; GK; Lubin, Zac; 5; -; 450; -; -; -; -; 
+19; F; Mohn, Stephen; 14; 4; 914; -; 4; 7; 7; 
+11; F; Okoli, Sean; 4; 4; 315; 2; -; 11; 2; 
+17; F; Paden, Glenn; 2; -; 57; -; -; 1; 2; 
+20; D; Phillips, Joshua; 7; 2; 497; 1; -; 9; 5; 
+10; M; Quinn, Aodhan; 11; 4; 948; 2; -; 22; 10; 
+4; D; Raskasky, Nicholas; 4; -; 282; -; -; 3; 2; 
+10; M; Reyes Potenciano, Esteban; 2; 2; 56; 1; -; 3; 2; 
+31; M; Schweitzer, Jordan; 8; -; 709; -; -; 7; 12; 
+21; M; Stevenson, Eric; 6; 2; 274; 1; -; 3; 6; 
+22; M; Sweeney, Austin; 2; -; 128; -; -; 1; 2; 
+2; D; Uyehara, Michael; 13; 1; 808; -; 1; 4; 9; 
+8; M; Victor Baldin, Lucas; 2; -; 45; -; -; 1; -; 
+31; D; West, Thomas; 1; -; 12; -; -; -; -; 
+13; M; Wise, Blake; 6; 4; 335; 2; -; 7; 2; 
+
+
+Team: Vancouver Whitecaps U-23
+BlockSource: http://www.uslsoccer.com/teams/2013/8986445.html#STATS
+
+20; M; Abdallah, Aminu; 10; 2; 697; 1; -; 15; 13; 
+25; D; Adekugbe, Samuel; 3; 1; 117; -; 1; -; 1; 
+5; D; Bassi, Derrick; 9; -; 796; -; -; 2; 13; 
+24; M; Bow, Peter; 8; -; 295; -; -; 4; 1; 
+22; GK; Carducci, Marco; 3; -; 270; -; -; -; -; 
+6; D; Clement, Adam; 9; -; 626; -; -; 2; 5; 
+26; D; Cobby, Kevin; 7; -; 420; -; -; 4; 8; 
+17; F; Cousens, Niall; 13; 20; 920; 8; 4; 25; 15; 
+14; F; DeBoice, Spencer; 4; 6; 197; 3; -; 7; 3; 
+9; M; Dosanjh, Gagandeep; 4; 3; 225; 1; 1; 5; 4; 
+11; F; Essa, Yassin; 6; -; 400; -; -; 3; 1; 
+4; D; Farenhorst, James; 12; -; 914; -; -; 2; 6; 
+23; M; Hundal, Kartar; 14; 12; 1178; 4; 4; 27; 7; 
+10; M; Jhutty, Bhupinder; 14; 7; 880; 3; 1; 25; 5; 
+7; M; Lakhan, Harpreet; 11; 15; 870; 6; 3; 20; 15; 
+15; F; Marquez, Juan Carlos; 3; 2; 126; -; 2; 2; 2; 
+13; GK; Melvin, Sean; 4; -; 360; -; -; -; -; 
+2; D; O'Neill, Colton; 13; 2; 926; 1; -; 2; 2; 
+12; F; Plavsic, Sasa; 13; 5; 575; 2; 1; 26; 8; 
+0; D; Poli, Osvaldo Jonatha; 3; -; 270; -; -; -; 2; 
+0; F; Ramirez Arauz, Marlon; 2; -; 180; -; -; 3; 3; 
+3; M; Sampson, Ethen; 6; -; 383; -; -; 9; 5; 
+1; GK; Thomas, Simon; 7; -; 630; -; -; -; -; 
+21; M; Visintin, Marco; 9; 2; 496; -; 2; 9; 7; 
+16; D; Winter, Michael; 13; 2; 1073; 1; -; 4; 16; 
+
+
+Team: Victoria Highlanders
+BlockSource: http://www.uslsoccer.com/teams/2013/13598696.html#STATS
+
+5; D; Ashlee, Ryan; 14; -; 1260; -; -; 4; 10; 
+14; M; Barrett, Wesley; 3; -; 158; -; -; -; 1; 
+4; M; Barrett, Gavin; 11; 3; 661; 1; 1; 7; 9; 
+22; M; Bhandal, Tarnvir; 5; -; 261; -; -; 3; 2; 
+19; F; Campbell, Jermele; 4; -; 165; -; -; 2; 1; 
+11; M; Gorman, Craig; 11; 5; 634; 1; 3; 10; 3; 
+13; D; Hughes, Tyler; 14; 6; 1260; 2; 2; 10; 5; 
+17; F; Hughes, Jordan; 12; 20; 1054; 9; 2; 34; 7; 
+24; M; Langdon, Gareth; 13; -; 784; -; -; 4; 3; 
+16; M; Levis, Brett; 14; 23; 1241; 9; 5; 48; 10; 
+20; F; Mallette, Thomas; 4; 4; 198; 2; -; 7; 1; 
+29; GK; Mitrou, Elliott; 13; -; 1125; -; -; -; -; 
+10; M; O'Neil, Riley; 13; 6; 1170; 3; -; 8; 21; 
+14; M; Polster, Matthew; 4; -; 315; -; -; 2; 3; 
+26; F; Prette, Sam; 6; 1; 145; -; 1; -; -; 
+23; D; Ravenhill, Adam; 2; -; 6; -; -; -; -; 
+15; D; Ravenhill, Andrew; 12; 1; 1038; -; 1; 1; 19; 
+7; F; Sandhu, Sahil; 5; -; 277; 1; -; 3; 1; 
+2; D; Scott, Kalem; 12; -; 982; -; -; 3; 8; 
+18; M; Stokes, Cameron; 4; -; 102; -; -; 2; 2; 
+21; F; Sturrock, Blair; 10; 7; 845; 3; 1; 14; 17; 
+8; M; Taylor, Bryan; 1; -; 3; -; -; -; -; 
+18; M; Taylor, Craig; 1; -; 13; -; -; -; -; 
+1; GK; Wilson, Joel; 2; -; 135; -; -; -; -; 
+
+
+Team: Washington Crossfire
+BlockSource: http://www.uslsoccer.com/teams/2013/13598705.html#MAIN
+
+20; M; Adams, Ian; 11; 2; 907; 1; -; 14; 5; 
+3; F; Amundsen, Justin; 11; 1; 200; -; 1; 9; 3; 
+24; GK; Arguello, Mike; 4; -; 286; -; -; -; -; 
+; D; Baumgardner, Eric; 2; -; 47; -; -; -; -; 
+17; M; Besagno, Nikolas; 10; 3; 865; -; 3; 5; 35; 
+8; D; Carlson, Jeremy; 5; -; 450; -; -; 1; 1; 
+0; GK; Clark, Ian; 3; -; 254; -; -; -; 2; 
+23; D; Collings, Jeffrey; 8; -; 435; -; -; -; 3; 
+22; D; Fischer, Matthew; 9; -; 790; -; -; 6; 9; 
+11; M; Fisk, Benjamin; 10; 2; 880; 1; -; 7; 10; 
+; F; Haddadi, Hamza; 7; 2; 513; 1; -; 8; 11; 
+4; D; Jackson, Garret; 7; -; 630; -; -; 4; 1; 
+7; D; James, Nick; 8; 2; 720; 1; -; 6; 13; 
+; D; Jenkins, Chaz; 3; -; 116; -; -; -; 5; 
+; F; Matthaeus, Leland; 5; -; 185; -; -; 3; 1; 
+15; F; Moberg, James; 9; 4; 758; 2; -; 16; 10; 
+; D; Ocampo, Jose; 3; -; 216; -; -; 2; -; 
+10; F; Piacentini, Niccolo; 9; -; 249; -; -; 7; 4; 
+28; M; Poplawski, Matthew; 7; 3; 249; 1; 1; 4; 6; 
+1; GK; Richey, Spencer; 8; -; 720; -; -; -; -; 
+9; F; Roldan, Christian; 6; 6; 537; 3; -; 14; 6; 
+19; M; Russell, Sean; 12; 2; 842; 1; -; 10; 4; 
+; M; Sanchez, Rafael; 1; -; 30; -; -; 1; -; 
+18; M; Sarett, Matthew; 12; 4; 751; 2; -; 5; 10; 
+2; D; Schmidt, Justin; 10; 2; 897; 1; -; 6; 6; 
+; M; Taylor, Alex; 1; -; 3; -; -; -; -; 
+16; D; Thoma, Andy; 10; 3; 817; 1; 1; 4; 9; 
+13; D; Zogg, Jordan; 7; -; 373; -; -; 1; 8; 
+
+
+Team: BYU Cougars
+BlockSource: http://www.uslsoccer.com/teams/2013/22298.html#STATS
+
+3; M; Bauer, Colby; 12; -; 1030; -; -; 7; 14; 
+22; D; Bindrup, James; 13; -; 1077; -; -; -; 15; 
+6; D; Clark, Douglas; 13; 5; 1111; 2; 1; 11; 8; 
+12; D; Critchlow, Kip; 7; 2; 323; 1; -; -; 2; 
+25; F; Frischknecht, Blake; 7; -; 180; 2; 5; 7; 4; 
+7; F; Gee, Garrett; 10; -; 558; -; -; 16; 6; 
+19; F; Green, Jace; 12; 4; 974; 2; -; 36; 5; 
+0; GK; Hale, Brian; 11; -; 990; -; -; -; -; 
+5; D; Hancock, Sterling; 13; -; 1170; -; -; 1; 7; 
+17; M; Henderson, Trevor; 11; 2; 261; 1; -; 7; 3; 
+8; M; Junca, Jonathan; 13; 5; 789; 2; 1; 13; 6; 
+10; M; Lakip, Romy; 10; -; 628; -; -; 7; 5; 
+2; D; Layton, Jordan; 1; -; 7; -; -; -; -; 
+13; F; Losee, Garrett; 2; -; 101; -; -; 1; -; 
+11; F; McLaughlin, Cameron; 7; -; 77; -; -; 2; 3; 
+21; D; Neff, Alex; 12; 4; 1080; 2; -; 4; 12; 
+0; GK; Petersen, Michael; 2; -; 180; -; -; -; -; 
+4; D; Phillips, Ace; 3; -; 15; -; -; -; -; 
+16; F; Pope, Bryson; 9; 3; 251; 1; 1; 8; 4; 
+14; M; Rider, Matt; 12; 3; 896; 1; 1; 5; 9; 
+9; M; Vasconcelos, Pedro; 8; 1; 217; -; 1; 2; 3; 
+18; M; Whitworth, Tanner; 13; 2; 905; 1; -; 9; 12; 
+
+
+Team: FC Tucson
+BlockSource: http://www.uslsoccer.com/teams/2013/42834737.html#STATS
+
+3; D; Alugas, Malcolm; 3; -; 104; -; -; -; -; 
+8; M; Bevans, Conner; 9; 4; 283; 2; -; 5; 3; 
+11; M; Brandt, Connor; 11; 7; 626; 2; 3; 7; 9; 
+6; D; Campbell, Travis; 11; 1; 985; -; 1; 3; 12; 
+21; D; Carter, Greg; 9; -; 810; -; -; 1; 5; 
+23; M; Clemens, David; 13; 11; 834; 5; 1; 18; 16; 
+14; F; Collins, Dakota; 13; 8; 943; 3; 2; 22; 6; 
+0; GK; D'Arrigo, Michael; 6; -; 540; -; -; -; -; 
+2; D; Escobar, Matthew; 3; -; 256; -; -; -; 3; 
+24; M; Felix, Ryan; 5; 2; 137; 1; -; 2; 1; 
+13; M; Galbraith-Knapp, Elijah; 11; 2; 771; 1; -; 9; 11; 
+4; D; Garcia, Ivan; 6; -; 317; -; -; -; 2; 
+2; D; Garcia, Mitchell; 1; -; 30; -; -; -; -; 
+22; D; Gould, Kevin; 4; -; 177; -; -; -; 1; 
+19; D; Harbison, Tim; 13; -; 1119; -; -; -; 5; 
+20; F; Huffer, James; 1; -; 11; -; -; 2; 4; 
+16; M; Ikyurav, Isaac; 8; 4; 491; 2; -; 9; 10; 
+18; GK; Jaye, Dallas; 7; -; 630; -; -; -; -; 
+10; F; Long, Aaron; 6; 5; 294; 2; 1; 1; 2; 
+7; M; Montes, Carlos; 5; -; 196; -; -; 3; 1; 
+12; M; Ornstil, Max; 5; 2; 363; 1; -; 2; 3; 
+15; M; Posa, Stephen; 11; -; 377; -; -; 4; 6; 
+17; D; Reyna, Edgar; 13; -; 1139; -; -; 3; 9; 
+5; F; Robinson, Saeed; 13; 6; 542; 2; 2; 16; 8; 
+25; M; Silveira, Gabriel; 11; 11; 729; 5; 1; 7; 6; 
+3; D; Spence, Conor; 1; -; 38; -; -; -; -; 
+1; GK; Thompson, William; 1; -; 90; -; -; -; -; 
+9; M; Velasco, Ricardo; 12; 10; 917; 4; 2; 33; 12; 
+12; F; Villalobos, Andrew; 1; -; 32; -; -; 1; -; 
+7; M; Wilson, Tyler; 1; -; 45; -; -; -; -; 
+20; M; Zimmerman, Brandon; 1; -; 90; -; -; -; -; 
+
+
+Team: Fresno Fuego
+BlockSource: http://www.uslsoccer.com/teams/2013/22326.html#STATS
+
+15; F; Antognoli, Gregory; 9; 2; 201; 1; -; 2; 2; 
+2; D; Beauchamp, Demetrius; 6; -; 231; -; -; -; 4; 
+7; M; Caceres Quintero, John Alexander; 6; 10; 367; 3; 4; 6; 6; 
+5; M; Campos, Abraham; 5; 1; 383; -; 1; 3; 1; 
+0; GK; Castillo, Cesar; 4; -; 360; -; -; -; -; 
+22; M; Celosmanovic, Ferid; 10; 6; 732; 2; 2; 6; 8; 
+8; M; Cignetti, Gaston; 12; 7; 906; 3; 1; 11; 17; 
+1; GK; Diaz, Beau; 7; 1; 540; -; 1; -; -; 
+31; GK; Dishno, Matthew; 1; -; 45; -; -; -; -; 
+12; D; Edmonds, Alfred; 9; -; 674; -; -; 1; 9; 
+16; D; Finch, Justin; 8; 2; 435; 1; -; 2; 5; 
+20; D; Garcia, Jesus; 9; 1; 522; -; 1; 3; 2; 
+9; M; Garcia, Robert; 10; 8; 483; 3; 2; 11; 3; 
+3; D; Gonzalez, Edison; 11; -; 581; -; -; 1; 5; 
+18; D; Gutierrez, Jorge; 8; 1; 569; -; 1; 1; 2; 
+33; D; Hord, Elliott; 1; -; 90; -; -; -; 1; 
+10; M; Islas, Paul; 9; 22; 764; 9; 4; 20; 3; 
+35; M; Medina, Jon-Paul; 3; -; 65; -; -; 2; 2; 
+23; M; Morales, Eligio; 1; -; 90; -; -; -; -; 
+24; M; Murillo, Octavio; 1; -; 15; -; -; -; -; 
+13; F; Murphy, Dylan; 9; 5; 566; 1; 3; 7; 8; 
+4; D; Murphy, Nick; 10; 2; 878; 1; -; 2; -; 
+32; F; Najera Jr, Luis; 1; -; 23; -; -; -; -; 
+24; M; Nogales, Alvaro; 2; -; 19; -; -; -; -; 
+27; D; Pacheco, Adam; 1; -; 13; -; -; -; 1; 
+6; F; Reinhart, Tyler; 12; 18; 886; 6; 6; 22; 13; 
+14; M; Sanchez, Steven; 8; 3; 595; 1; 1; 8; 6; 
+25; F; Santoyo, Omar; 7; 2; 117; 1; -; 1; 2; 
+11; M; Silva, Gustavo; 11; -; 466; -; -; 3; 8; 
+17; D; Spurgeon, Trevor; 12; -; 992; -; -; 3; 5; 
+19; D; Trejo, Isaiah; 1; -; 27; -; -; -; -; 
+0; GK; Vega, Gilbert; 3; -; 225; -; -; -; -; 
+
+
+Team: LA Misioneros FC
+BlockSource: http://www.uslsoccer.com/teams/2013/4069051.html#STATS
+
+8; M; Anguiano, Rene; 13; -; 1044; -; -; 3; 6; 
+21; M; Barba, Eduardo; 2; -; 69; -; -; 2; -; 
+12; F; Behrad, Brian; 3; 2; 97; 1; -; 3; -; 
+17; M; Calix, Sergio; 1; -; 12; -; -; -; 1; 
+2; M; Cardenas, Enrique; 1; -; 63; -; -; 1; -; 
+23; D; Coleman, Justin; 4; -; 54; -; -; -; -; 
+20; F; Contreras, Andy; 8; 2; 317; 1; -; 8; 1; 
+4; D; De Alba, Angel; 14; -; 1204; -; -; 3; 9; 
+; D; Diaz, Jose; 1; -; 90; -; -; -; -; 
+1; GK; Dickerson, Marcus; 1; -; 90; -; -; -; -; 
+22; D; Espinoza, Edgar; 8; -; 720; -; -; -; 3; 
+3; D; Flores, Eric; 2; -; 52; -; -; -; -; 
+14; F; Garcia, Alberto; 12; 4; 615; 2; -; 6; 1; 
+15; D; Hernandez, Cruz; 12; 2; 1035; 1; -; 5; 9; 
+; D; Holait, Jamiesh; 5; 2; 314; 1; -; 1; 2; 
+7; M; Kim, Sung; 4; -; 78; -; -; -; 2; 
+13; M; King, Christian; 13; 2; 878; 1; -; 7; 2; 
+18; M; Lomeli, Angel; 9; -; 291; -; -; -; -; 
+23; D; Lopez, Christopher; 1; -; 90; -; -; -; -; 
+1; GK; Malak, Matthew; 10; -; 645; -; -; -; -; 
+3; F; Mez, Chimdum; 4; -; 138; -; -; 2; 3; 
+21; D; Morley, Trevor; 1; -; 90; -; -; 1; 5; 
+6; F; Mosqueda, Ulises; 10; 2; 507; -; 2; 4; 1; 
+16; F; Nwabueze, Kyrian; 11; 2; 684; 1; -; 12; 6; 
+5; D; Ortega, Jose; 13; -; 1152; -; -; 1; 2; 
+21; F; Rivera Samaniego, Cesar; 2; -; 167; -; -; 2; -; 
+12; D; Romo, Hector; 6; -; 188; -; -; 2; -; 
+9; F; Sandoval, Rodolfo; 9; 3; 626; 1; 1; 2; 1; 
+12; M; Sharf, Leonid; 2; -; 180; -; -; -; -; 
+10; M; Smith, Chris; 11; -; 710; -; -; 5; 2; 
+17; M; Sperber, Bennett; 2; -; 115; -; -; -; -; 
+0; GK; Steenhuis, Sheldon; 8; -; 525; -; -; -; -; 
+; F; Takiyudin, Mohammed; 1; 2; 158; 1; -; 1; 2; 
+11; F; Vasquez, Jesus; 4; 4; 325; 2; -; 3; -; 
+19; F; Weijl, Vincent; 9; 9; 653; 4; 1; 18; 3; 
+
+
+Team: OC Blues Strikers
+BlockSource: http://www.uslsoccer.com/teams/2013/4069052.html#STATS
+
+14; M; Antonescu, Alex; 8; -; 461; -; -; -; 5; 
+15; M; Aquino, Jairo; 8; 2; 570; 1; -; -; 5; 
+22; GK; Armstrong, Kevin; 1; -; 26; -; -; -; -; 
+12; M; Bauman, Brandon; 3; -; 147; -; -; 2; 1; 
+4; M; Bjurman, Mats; 11; -; 952; -; -; -; 2; 
+8; F; Blanco, Gerzon; 10; 4; 748; 2; -; 11; 8; 
+1; GK; Campbell, Todd; 1; -; 90; -; -; -; -; 
+17; M; Cardenas, Enrique; 5; 1; 346; -; 1; 4; 2; 
+16; F; Castro, Javier; 6; 8; 505; 4; -; 4; 3; 
+1; GK; Cervantes, Juan; 5; -; 270; -; -; -; -; 
+5; D; Earl, Otis; 5; 2; 440; 1; -; 3; -; 
+9; D; Flores, Eric; 2; -; 117; -; -; -; -; 
+13; D; Franco, Marco; 5; -; 402; -; -; -; -; 
+18; F; Fuentes, Luis; 1; -; 40; -; -; -; 1; 
+19; M; Fuller, Griffin; 2; -; 98; -; -; 1; 2; 
+21; ; Galindo, Victor; 1; -; 90; -; -; -; 2; 
+3; ; Gay, Matthew; 1; -; 50; -; -; 2; 1; 
+19; M; Gonzalez, Edgar; 2; -; 58; -; -; -; -; 
+3; D; Griswold, Michael; 3; -; 225; -; -; -; 1; 
+11; D; Leslie, Hayden; 8; -; 596; -; -; 1; 4; 
+18; F; Matchett, Patrick; 2; -; 58; -; -; 1; 1; 
+18; M; Mendoza, Juan; 5; 2; 364; 1; -; 3; 2; 
+1; GK; Mendoza, Luis; 8; -; 585; -; -; -; -; 
+9; ; Miller, Georffrey; 1; -; 40; -; -; -; -; 
+6; D; Morad, Tarek; 5; -; 431; -; -; -; -; 
+11; D; Mulhall, Brandon; 1; -; 90; -; -; -; -; 
+10; M; Nagy, Cole; 4; -; 353; -; -; 1; 4; 
+14; M; Osborne, Richie; 4; -; 235; -; -; 2; -; 
+2; D; Pitts, Everett; 9; -; 745; -; -; 1; 5; 
+18; F; Roknipour, Mohammad; 3; 4; 270; 2; -; 7; 3; 
+7; F; Santana, Christopher; 3; 2; 270; 1; -; 4; -; 
+20; M; Santana, Edgar; 3; 2; 270; 1; -; -; -; 
+19; F; Stanley, Duran; 1; -; 90; -; -; -; 1; 
+9; F; Valencia, Ruben; 1; -; 90; -; -; -; -; 
+12; M; Wehan, Christopher; 2; -; 95; -; -; -; 1; 
+14; D; Wolff, Jordan; 6; -; 540; -; -; 3; 10; 
+
+
+Team: Southern California Seahorses
+BlockSource: http://www.uslsoccer.com/teams/2013/22384.html#STATS
+
+
+11; F; Anderson, Alex; 7; 4; 419; 2; -; 10; 3; 
+17; M; Armstrong, Douglas; 11; -; 652; -; -; 12; 6; 
+13; D; Arriaga, Seth; 9; -; 558; -; -; 1; 5; 
+26; F; Arvola, Antti; 7; 2; 500; 1; -; 16; 3; 
+2; F; Ault, Joshua; 9; 5; 301; 2; 1; 7; 2; 
+7; M; Ayers, Joshua; 12; 1; 928; -; 1; 22; 13; 
+19; M; Bautista, Zach; 8; 4; 655; 2; -; 16; 4; 
+12; M; Bowman, Geoffrey; 11; 2; 554; 1; -; 11; 6; 
+0; GK; Coffman, John; 7; -; 544; -; -; -; -; 
+21; D; Couto, Joao; 12; -; 821; -; -; 3; 4; 
+15; D; Croft, Brett; 7; -; 307; -; -; 1; 5; 
+22; D; Fares, Kelvin; 8; -; 435; -; -; 1; 3; 
+9; M; Hope, Marc; 10; -; 679; -; -; 11; 4; 
+5; M; Howard, Adam; 5; -; 170; -; -; 1; 2; 
+8; D; Kimball, Joshua; 6; -; 115; -; -; -; -; 
+4; D; Kiser, Kevin; 9; -; 777; -; -; -; 10; 
+23; F; Martinez, Dylan; 10; 2; 612; -; 2; 10; 4; 
+18; M; Montalvo, Tony; 5; -; 217; -; -; 2; 7; 
+16; D; Norest, Aurelien; 9; 2; 810; 1; -; 4; 6; 
+20; ; Panther, Shane; 3; -; 136; -; -; 1; 5; 
+6; D; Paur, Mitchell; 9; -; 533; -; -; 2; 5; 
+3; M; Santos, Abraham; 2; -; 15; -; -; 4; -; 
+25; M; Schmit, Michael; 7; -; 485; -; -; 3; 2; 
+1; GK; Suppe, Cody; 6; -; 536; -; -; -; -; 
+
+
+Team: Ventura County Fusion
+BlockSource: http://www.uslsoccer.com/teams/2013/6188518.html#STATS
+
+12; F; Aghasyan, Artur; 5; 2; 275; -; 2; 2; 2; 
+24; M; Avesyan, Hakop; 1; -; 32; -; -; -; -; 
+15; D; Barak, Yuval; 3; -; 173; -; -; -; 1; 
+3; M; Boateng, Emmanuel; 5; 2; 395; 1; -; 7; -; 
+21; D; Brockway, Brandon; 3; -; 270; -; -; 1; 1; 
+28; F; Campion, Achille; 1; -; 13; -; -; -; 1; 
+21; F; Chavez, Victor; 1; -; 48; -; -; -; -; 
+10; F; Chirishian, Hagop; 1; 2; 71; 1; -; 1; 1; 
+8; F; Chongo, Kennedy; 5; -; 389; -; -; 11; 9; 
+17; D; Colvey, Kip; 12; 2; 814; 1; -; 3; 5; 
+2; D; Delbridge, Harrison; 7; 2; 414; 1; -; 2; 8; 
+19; D; Drechsler, Connor; 7; 1; 447; -; 1; 3; 1; 
+9; D; Estes, Benjamin; 1; -; 11; -; -; -; -; 
+22; F; Flores, Luis; 1; -; 25; -; -; 1; 2; 
+16; F; Gray, Andrew Jr.; 7; 2; 224; 1; -; 3; 5; 
+6; M; Guzman, Emanuel; 11; -; 820; -; -; 7; 13; 
+1; GK; Hayden, Sam; 11; -; 945; -; -; -; 1; 
+4; M; Howe, Jonathan; 1; -; 69; -; -; -; 2; 
+16; M; Kiffe, James; 2; -; 56; -; -; 1; 3; 
+22; F; Knight, Mark; 7; -; 138; -; -; 5; 1; 
+11; M; Koval, Jeffrey; 3; -; 97; -; -; -; 1; 
+26; M; LaGrassa, Matt; 9; 2; 571; 1; -; 4; 9; 
+30; D; Lane, Jack; 3; -; 187; -; -; 1; -; 
+2; M; Lopez, John; 12; 6; 629; 3; -; 17; 6; 
+23; M; Lopez, Francisco; 7; 3; 437; -; 3; 5; 4; 
+30; F; Maurey, Benjamin; 1; -; 32; -; -; -; 1; 
+5; F; Minter, Chase; 10; 10; 764; 3; 4; 16; 6; 
+12; M; Mirkovic, Ivan; 4; -; 133; -; -; -; 7; 
+14; M; Moore, Nolan; 5; -; 249; -; -; -; 5; 
+23; D; Muscarella, Phillip; 4; -; 229; -; -; -; 4; 
+20; M; Otte, Patrick; 4; -; 268; -; -; -; 2; 
+18; M; Palacios, Steve; 14; 6; 815; 2; 2; 9; 11; 
+25; D; Riley, Dylan; 11; 1; 941; -; 1; 1; 7; 
+24; F; Rivas, Edwin; 7; -; 201; -; -; 10; 5; 
+13; GK; Roslund, Brendan; 3; -; 225; -; -; -; -; 
+10; F; Salciccia, Anthony; 10; 6; 787; 3; -; 14; 12; 
+27; D; Schmetz, Peter; 9; -; 796; -; -; 1; 10; 
+13; GK; Shannon, Eric; 1; -; 90; -; -; -; -; 
+11; D; Sofia, Joe; 3; -; 225; -; -; -; -; 
+14; M; Teyes, Dario; 1; -; 12; -; -; -; -; 
+24; D; Vincent, Brandon; 2; -; 161; -; -; -; 2; 
+16; D; Wiet, Matthew; 4; 2; 286; 1; -; 1; 2; 
+7; M; Yepez, Raul; 1; -; 45; -; -; -; -; 
