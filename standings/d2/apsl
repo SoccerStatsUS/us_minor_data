@@ -1,92 +1,111 @@
-Colorado Foxes	American Professional Soccer League	1992		16	11		5	89	26	18			
-Tampa Bay Rowdies	American Professional Soccer League	1992		16	10		6	87	34	25			
-San Francisco Bay Blackhawks	American Professional Soccer League	1992		16	8		8	73	27	25			
-Fort Lauderdale Strikers	American Professional Soccer League	1992		16	7		9	61	25	23			
-Miami Freedom	American Professional Soccer League	1992		16	4		12	43	17	38			
+Competition: American Professional Soccer League
+Key: team; games; wins; _; losses; points; goals_for; goals_against; shootout_wins; shootout_losses; notes
+
+Season: 1988
+
+New Jersey Eagles; 20; 15; ; 5; 45; 39; 24; ; ; 
+Maryland Bays; 20; 12; ; 8; 36; 32; 31; ; ; 
+Washington Stars; 20; 11; ; 9; 33; 31; 28; ; ; 
+Boston Bolts; 20; 9; ; 11; 27; 31; 33; ; ; 
+Albany Capitals; 20; 7; ; 13; 21; 26; 35; ; ; 
+Fort Lauderdale Strikers; 20; 14; ; 6; 42; 46; 25; ; ; 
+Washington Diplomats; 20; 10; ; 10; 30; 27; 30; ; ; 
+Tampa Bay Rowdies; 20; 10; ; 10; 30; 23; 21; ; ; 
+Orlando Lions; 20; 8; ; 12; 24; 21; 31; ; ; 
+Miami Sharks; 20; 4; ; 16; 12; 24; 42; ; ; 
+
+Season: 1989
+
+Washington Stars; 20; 14; ; 6; 37; 19; 14; ; ; 
+Boston Bolts; 20; 13; ; 7; 37; 27; 19; ; ; 
+Albany Capitals; 20; 11; ; 9; 36; 29; 19; ; ; 
+Maryland Bays; 20; 9; ; 11; 27; 28; 32; ; ; 
+New Jersey Eagles; 20; 6; ; 14; 21; 21; 35; ; ; 
+Tampa Bay Rowdies; 20; 12; ; 8; 35; 32; 25; ; ; 
+Fort Lauderdale Strikers; 20; 12; ; 8; 35; 33; 25; ; ; 
+Washington Diplomats; 20; 11; ; 9; 33; 32; 26; ; ; 
+Orlando Lions; 20; 9; ; 11; 30; 25; 20; ; ; 
+Miami Sharks; 20; 3; ; 17; 9; 20; 51; ; ; 
+
+Season: 1990
+
+Maryland Bays; 20; 15; ; 5; 44; 42; 29; ; ; 
+Albany Capitals; 20; 14; ; 6; 42; 35; 22; ; ; 
+Penn-Jersey Spirit; 20; 13; ; 7; 39; 34; 23; ; ; 
+Boston Bolts; 20; 9; ; 11; 28; 27; 27; ; ; 
+Washington Stars; 20; 7; ; 13; 22; 24; 28; ; ; 
+New Jersey Eagles; 20; 6; ; 14; 17; 21; 38; ; ; 
+Fort Lauderdale Strikers; 20; 15; ; 5; 45; 38; 22; ; ; 
+Tampa Bay Rowdies; 20; 10; ; 10; 29; 32; 39; ; ; 
+Orlando Lions; 20; 8; ; 12; 24; 25; 30; ; ; 
+Miami Freedom; 20; 8; ; 12; 24; 27; 29; ; ; 
+Washington Diplomats; 20; 5; ; 15; 16; 22; 40; ; ; 
+San Francisco Bay Blackhawks; 20; 13; ; 7; 104; 39; 30; ; ; 
+Salt Lake Sting; 20; 12; ; 8; 104; 39; 34; ; ; 
+Colorado Foxes; 20; 14; ; 6; 100; 22; 12; ; ; 
+Portland Timbers; 20; 10; ; 10; 99; 42; 36; ; ; 
+Seattle Storm; 20; 10; ; 10; 93; 42; 35; ; ; 
+California Emperors; 20; 10; ; 10; 89; 35; 32; ; ; 
+Los Angeles Heat; 20; 11; ; 9; 87; 39; 39; ; ; 
+Real Santa Barbara; 20; 10; ; 10; 85; 33; 35; ; ; 
+San Diego Nomads; 20; 8; ; 12; 67; 22; 28; ; ; 
+New Mexico Chiles; 20; 7; ; 13; 61; 25; 45; ; ; 
+Arizona Condors; 20; 5; ; 15; 59; 29; 51; ; ; 
+
+Season: 1991
+
+Fort Lauderdale Strikers; 21; 15; ; 6; 117; 39; 21; ; ; 
+Albany Capitals; 21; 10; ; 11; 92; 27; 29; ; ; 
+Tampa Bay Rowdies; 21; 8; ; 13; 69; 26; 27; ; ; 
+Penn-Jersey Spirit; 21; 6; ; 15; 61; 25; 50; ; ; 
+Miami Freedom; 21; 6; ; 15; 52; 19; 53; ; ; 
+Maryland Bays; 21; 19; ; 2; 158; 54; 23; ; ; 
+San Francisco Bay Blackhawks; 21; 17; ; 4; 126; 33; 16; ; ; 
+Colorado Foxes; 21; 13; ; 8; 111; 36; 27; ; ; 
+Salt Lake Sting; 20; 3; ; 17; 33; 12; 22; ; ; 
+
+Season: 1992
+
+Colorado Foxes; 16; 11; ; 5; 89; 26; 18; ; ; 
+Tampa Bay Rowdies; 16; 10; ; 6; 87; 34; 25; ; ; 
+San Francisco Bay Blackhawks; 16; 8; ; 8; 73; 27; 25; ; ; 
+Fort Lauderdale Strikers; 16; 7; ; 9; 61; 25; 23; ; ; 
+Miami Freedom; 16; 4; ; 12; 43; 17; 38; ; ; 
 
 
-Montreal Impact	American Professional Soccer League	1995		24	16		6	51	47	27	1	1	
-Seattle Sounders	American Professional Soccer League	1995		24	13		4	51	40	24	5	2	
-Vancouver 86ers	American Professional Soccer League	1995		24	10		11	33	43	43	0	3	
-Atlanta Ruckus	American Professional Soccer League	1995		24	5		10	32	29	41	8	1	
-Colorado Foxes	American Professional Soccer League	1995		24	7		10	29	35	41	1	6	
-New York Centaurs	American Professional Soccer League	1995		24	5		15	20	21	39	1	3	
-Montreal Impact	American Professional Soccer League	1996		27	17		6	55	40	18	4		
-Colorado Foxes	American Professional Soccer League	1996		27	14		11	44	55	33	2		
-Seattle Sounders	American Professional Soccer League	1996		27	12		11	40	35	25	4		
-Rochester Rhinos	American Professional Soccer League	1996		27	11		13	36	44	42	3		
-Vancouver 86ers	American Professional Soccer League	1996		27	10		14	33	38	38	3		
-New York Fever	American Professional Soccer League	1996		27	6		18	21	30	40	3		
-Atlanta Ruckus	American Professional Soccer League	1996		22	3		19	9	14	60	0		
+Season: 1993
+
+Vancouver 86ers; 24; 15; ; 9; 126; 43; 35; ; ; 
+Colorado Foxes; 24; 15; ; 9; 121; 40; 34; ; ; 
+Tampa Bay Rowdies; 24; 12; ; 12; 118; 53; 47; ; ; 
+Los Angeles Salsa; 24; 12; ; 12; 109; 41; 37; ; ; 
+Toronto Blizzard; 24; 10; ; 14; 97; 35; 41; ; ; 
+Fort Lauderdale Strikers; 24; 9; ; 15; 94; 39; 52; ; ; 
+Montreal Impact; 24; 11; ; 13; 90; 28; 33; ; ; 
+
+Season: 1994
+
+Seattle Sounders; 20; 14; ; 6; 121; 38; 16; ; ; 
+Los Angeles Salsa; 20; 12; ; 8; 106; 36; 22; ; ; 
+Montreal Impact; 20; 12; ; 8; 93; 27; 18; ; ; 
+Colorado Foxes; 20; 12; ; 8; 92; 26; 26; ; ; 
+Fort Lauderdale Strikers; 20; 8; ; 12; 72; 23; 33; ; ; 
+Vancouver 86ers; 20; 7; ; 13; 65; 25; 41; ; ; 
+Toronto Rockets; 20; 5; ; 15; 44; 14; 33; ; ; 
+
+Season: 1995
 
 
-New Jersey Eagles	American Professional Soccer League	1988		20	15		5	45	39	24			
-Maryland Bays	American Professional Soccer League	1988		20	12		8	36	32	31			
-Washington Stars	American Professional Soccer League	1988		20	11		9	33	31	28			
-Boston Bolts	American Professional Soccer League	1988		20	9		11	27	31	33			
-Albany Capitals	American Professional Soccer League	1988		20	7		13	21	26	35			
-Fort Lauderdale Strikers	American Professional Soccer League	1988		20	14		6	42	46	25			
-Washington Diplomats	American Professional Soccer League	1988		20	10		10	30	27	30			
-Tampa Bay Rowdies	American Professional Soccer League	1988		20	10		10	30	23	21			
-Orlando Lions	American Professional Soccer League	1988		20	8		12	24	21	31			
-Miami Sharks	American Professional Soccer League	1988		20	4		16	12	24	42			
-
-Washington Stars	American Professional Soccer League	1989		20	14		6	37	19	14			
-Boston Bolts	American Professional Soccer League	1989		20	13		7	37	27	19			
-Albany Capitals	American Professional Soccer League	1989		20	11		9	36	29	19			
-Maryland Bays	American Professional Soccer League	1989		20	9		11	27	28	32			
-New Jersey Eagles	American Professional Soccer League	1989		20	6		14	21	21	35			
-Tampa Bay Rowdies	American Professional Soccer League	1989		20	12		8	35	32	25			
-Fort Lauderdale Strikers	American Professional Soccer League	1989		20	12		8	35	33	25			
-Washington Diplomats	American Professional Soccer League	1989		20	11		9	33	32	26			
-Orlando Lions	American Professional Soccer League	1989		20	9		11	30	25	20			
-Miami Sharks	American Professional Soccer League	1989		20	3		17	9	20	51			
-
-Maryland Bays	American Professional Soccer League	1990		20	15		5	44	42	29			
-Albany Capitals	American Professional Soccer League	1990		20	14		6	42	35	22			
-Penn-Jersey Spirit	American Professional Soccer League	1990		20	13		7	39	34	23			
-Boston Bolts	American Professional Soccer League	1990		20	9		11	28	27	27			
-Washington Stars	American Professional Soccer League	1990		20	7		13	22	24	28			
-New Jersey Eagles	American Professional Soccer League	1990		20	6		14	17	21	38			
-Fort Lauderdale Strikers	American Professional Soccer League	1990		20	15		5	45	38	22			
-Tampa Bay Rowdies	American Professional Soccer League	1990		20	10		10	29	32	39			
-Orlando Lions	American Professional Soccer League	1990		20	8		12	24	25	30			
-Miami Freedom	American Professional Soccer League	1990		20	8		12	24	27	29			
-Washington Diplomats	American Professional Soccer League	1990		20	5		15	16	22	40			
-San Francisco Bay Blackhawks	American Professional Soccer League	1990		20	13		7	104	39	30			
-Salt Lake Sting	American Professional Soccer League	1990		20	12		8	104	39	34			
-Colorado Foxes	American Professional Soccer League	1990		20	14		6	100	22	12			
-Portland Timbers	American Professional Soccer League	1990		20	10		10	99	42	36			
-Seattle Storm	American Professional Soccer League	1990		20	10		10	93	42	35			
-California Emperors	American Professional Soccer League	1990		20	10		10	89	35	32			
-Los Angeles Heat	American Professional Soccer League	1990		20	11		9	87	39	39			
-Real Santa Barbara	American Professional Soccer League	1990		20	10		10	85	33	35			
-San Diego Nomads	American Professional Soccer League	1990		20	8		12	67	22	28			
-New Mexico Chiles	American Professional Soccer League	1990		20	7		13	61	25	45			
-Arizona Condors	American Professional Soccer League	1990		20	5		15	59	29	51			
-
-Fort Lauderdale Strikers	American Professional Soccer League	1991		21	15		6	117	39	21			
-Albany Capitals	American Professional Soccer League	1991		21	10		11	92	27	29			
-Tampa Bay Rowdies	American Professional Soccer League	1991		21	8		13	69	26	27			
-Penn-Jersey Spirit	American Professional Soccer League	1991		21	6		15	61	25	50			
-Miami Freedom	American Professional Soccer League	1991		21	6		15	52	19	53			
-Maryland Bays	American Professional Soccer League	1991		21	19		2	158	54	23			
-San Francisco Bay Blackhawks	American Professional Soccer League	1991		21	17		4	126	33	16			
-Colorado Foxes	American Professional Soccer League	1991		21	13		8	111	36	27			
-Salt Lake Sting	American Professional Soccer League	1991		20	3		17	33	12	22			
-
-Vancouver 86ers	American Professional Soccer League	1993		24	15		9	126	43	35			
-Colorado Foxes	American Professional Soccer League	1993		24	15		9	121	40	34			
-Tampa Bay Rowdies	American Professional Soccer League	1993		24	12		12	118	53	47			
-Los Angeles Salsa	American Professional Soccer League	1993		24	12		12	109	41	37			
-Toronto Blizzard	American Professional Soccer League	1993		24	10		14	97	35	41			
-Fort Lauderdale Strikers	American Professional Soccer League	1993		24	9		15	94	39	52			
-Montreal Impact	American Professional Soccer League	1993		24	11		13	90	28	33			
-
-Seattle Sounders	American Professional Soccer League	1994		20	14		6	121	38	16			
-Los Angeles Salsa	American Professional Soccer League	1994		20	12		8	106	36	22			
-Montreal Impact	American Professional Soccer League	1994		20	12		8	93	27	18			
-Colorado Foxes	American Professional Soccer League	1994		20	12		8	92	26	26			
-Fort Lauderdale Strikers	American Professional Soccer League	1994		20	8		12	72	23	33			
-Vancouver 86ers	American Professional Soccer League	1994		20	7		13	65	25	41			
-Toronto Rockets	American Professional Soccer League	1994		20	5		15	44	14	33			
+Montreal Impact; 24; 16; ; 6; 51; 47; 27; 1; 1; 
+Seattle Sounders; 24; 13; ; 4; 51; 40; 24; 5; 2; 
+Vancouver 86ers; 24; 10; ; 11; 33; 43; 43; 0; 3; 
+Atlanta Ruckus; 24; 5; ; 10; 32; 29; 41; 8; 1; 
+Colorado Foxes; 24; 7; ; 10; 29; 35; 41; 1; 6; 
+New York Centaurs; 24; 5; ; 15; 20; 21; 39; 1; 3; 
+Montreal Impact; 27; 17; ; 6; 55; 40; 18; 4; ; 
+Colorado Foxes; 27; 14; ; 11; 44; 55; 33; 2; ; 
+Seattle Sounders; 27; 12; ; 11; 40; 35; 25; 4; ; 
+Rochester Rhinos; 27; 11; ; 13; 36; 44; 42; 3; ; 
+Vancouver 86ers; 27; 10; ; 14; 33; 38; 38; 3; ; 
+New York Fever; 27; 6; ; 18; 21; 30; 40; 3; ; 
+Atlanta Ruckus; 22; 3; ; 19; 9; 14; 60; 0; ; 

@@ -1,179 +1,197 @@
+Key: team; games; wins; _; losses; points; goals_for; goals_against; shootout_wins; shootout_losses; notes
 
-Colorado Comets	Southwest Independent Soccer League	1989		12	11		1	98	49	12			
-Tulsa Renegades	Southwest Independent Soccer League	1989		12	10		2	90	36	13			
-Addison Arrows	Southwest Independent Soccer League	1989		12	8		4	68	23	16			
-Austin Soccadillos	Southwest Independent Soccer League	1989		12	6		6	57	32	30			
-Albuquerque Gunners	Southwest Independent Soccer League	1989		12	5		7	52	31	35			
-San Antonio Heat	Southwest Independent Soccer League	1989		12	3		9	33	18	35			
-Lubbock Lasers	Southwest Independent Soccer League	1989		12	2		10	27	15	43			
-Oklahoma City Warriors	Southwest Independent Soccer League	1989		12	2		10	21	9	36			
+Competition: Southwest Independent Soccer League
+Season: 1989
 
-Tulsa Renegades	Southwest Independent Soccer League	1990		14	11		1	106	45	17	1	1	
-Austin Soccadillos	Southwest Independent Soccer League	1990		14	8		4	85	45	27	0	2	
-San Antonio Generals	Southwest Independent Soccer League	1990		14	8		4	85	38	25	2	0	
-Richardson Rockets	Southwest Independent Soccer League	1990		14	7		7	70	38	22	0	0	
-North Texas United	Southwest Independent Soccer League	1990		14	6		7	68	36	30	1	0	
-Arkansas Diamonds	Southwest Independent Soccer League	1990		14	6		6	60	26	34	0	2	
-Waco Kickers	Southwest Independent Soccer League	1990		14	1		13	15	9	54	0	0	
-Oklahoma City Warriors	Southwest Independent Soccer League	1990		6	1		5	13	7	25	0	0	
-Lubbock Lasers	Southwest Independent Soccer League	1990		14	11		3	101	52	28	0	0	
-Colorado Comets	Southwest Independent Soccer League	1990		14	11		2	100	38	17	1	0	
-Phoenix Hearts	Southwest Independent Soccer League	1990		14	7		6	76	39	29	1	0	
-Tucson Amigos	Southwest Independent Soccer League	1990		14	7		6	68	29	20	0	1	
-Albuquerque Gunners	Southwest Independent Soccer League	1990		14	3		11	35	17	51	0	0	
-Permian Basin Shootin' Stars	Southwest Independent Soccer League	1990		14	2		12	31	20	43	0	0	
-
-Memphis Rogues	Southwest Independent Soccer League	1991	Southeast Conference	16	12		4	98	31	36			
-Atlanta Quicksilver	Southwest Independent Soccer League	1991	Southeast Conference	16	9		7	89	41	31			
-Arkansas Diamonds	Southwest Independent Soccer League	1991	Southeast Conference	16	8		8	76	30	30			
-Nashville Metros	Southwest Independent Soccer League	1991	Southeast Conference	16	7		9	63	30	35			
-Atlanta Express	Southwest Independent Soccer League	1991	Southeast Conference	16	4		12	47	20	40			
-Richardson Rockets	Southwest Independent Soccer League	1991	Tex-Oma Conference	16	10		6	97	40	27			
-Fort Worth Kickers	Southwest Independent Soccer League	1991	Tex-Oma Conference	16	11		5	92	30	18			
-Tulsa Renegades	Southwest Independent Soccer League	1991	Tex-Oma Conference	16	8		8	76	39	28			
-San Antonio Generals	Southwest Independent Soccer League	1991	Tex-Oma Conference	16	8		8	72	32	29			
-Oklahoma City Warriors	Southwest Independent Soccer League	1991	Tex-Oma Conference	16	7		9	67	29	40			
-Austin Soccadillos	Southwest Independent Soccer League	1991	Tex-Oma Conference	16	5		11	63	37	42			
-New Mexico Chiles	Southwest Independent Soccer League	1991	Southwest Conference	16	11		5	96	38	18			
-El Paso Patriots	Southwest Independent Soccer League	1991	Southwest Conference	16	11		5	95	34	20			
-Colorado Comets	Southwest Independent Soccer League	1991	Southwest Conference	16	10		6	88	35	23			
-Tucson Amigos	Southwest Independent Soccer League	1991	Southwest Conference	16	7		9	61	20	23			
-Phoenix Hearts	Southwest Independent Soccer League	1991	Southwest Conference	16	7		9	59	27	26			
-Lubbock Lasers	Southwest Independent Soccer League	1991	Southwest Conference	16	1		15	13	7	74			
-
-Orlando Lions	United States Interregional Soccer League	1992		14	10		4	94	37	17			
-Boca Raton Sabres	United States Interregional Soccer League	1992		14	10		4	86	27	17			
-Atlanta Datagraphic Magic	United States Interregional Soccer League	1992		14	10		4	85	35	20			
-Memphis United Express	United States Interregional Soccer League	1992		14	8		6	77	34	22			
-Nashville Metros	United States Interregional Soccer League	1992		14	6		8	55	25	23			
-Chattanooga Railroaders	United States Interregional Soccer League	1992		14	3		11	37	22	40			
-Gwinnett County Steamers	United States Interregional Soccer League	1992		14	2		12	25	12	36			
-Dallas Rockets	United States Interregional Soccer League	1992		14	13		1	105	29	13			
-Oklahoma City Warriors	United States Interregional Soccer League	1992		14	7		7	63	22	24			
-Dallas Kickers	United States Interregional Soccer League	1992		14	6		8	56	21	22			
-San Antonio Generals	United States Interregional Soccer League	1992		14	6		8	54	27	32			
-Austin Soccadillos	United States Interregional Soccer League	1992		14	5		9	49	19	27			
-Arkansas Diamonds	United States Interregional Soccer League	1992		14	2		12	21	13	47			
-El Paso Patriots	United States Interregional Soccer League	1992		14	12		2	96	32	15			
-New Mexico Chiles	United States Interregional Soccer League	1992		14	7		7	95	29	22			
-Tucson Amigos	United States Interregional Soccer League	1992		14	5		9	52	23	36			
-Arizona Cotton	United States Interregional Soccer League	1992		14	5		9	48	22	28			
-Palo Alto Firebirds	United States Interregional Soccer League	1992		14	12		2	94	32	15			
-North Bay Breakers	United States Interregional Soccer League	1992		14	10		4	86	32	13			
-San Francisco All Blacks	United States Interregional Soccer League	1992		14	7		7	65	25	26			
-East Bay Red Riders	United States Interregional Soccer League	1992		14	7		7	63	25	24			
+Colorado Comets; 12; 11; ; 1; 98; 49; 12; ; ; 
+Tulsa Renegades; 12; 10; ; 2; 90; 36; 13; ; ; 
+Addison Arrows; 12; 8; ; 4; 68; 23; 16; ; ; 
+Austin Soccadillos; 12; 6; ; 6; 57; 32; 30; ; ; 
+Albuquerque Gunners; 12; 5; ; 7; 52; 31; 35; ; ; 
+San Antonio Heat; 12; 3; ; 9; 33; 18; 35; ; ; 
+Lubbock Lasers; 12; 2; ; 10; 27; 15; 43; ; ; 
+Oklahoma City Warriors; 12; 2; ; 10; 21; 9; 36; ; ; 
 
 
-Greensboro Dynamo	United States Interregional Soccer League	1993		16	14		2	114	41	14			
-Delaware Wizards	United States Interregional Soccer League	1993		16	10		6	88	34	22			
-Raleigh Flyers	United States Interregional Soccer League	1993		16	10		6	84	31	24			
-Richmond Kickers	United States Interregional Soccer League	1993		16	8		8	78	30	30			
-Charleston Battery	United States Interregional Soccer League	1993		16	8		8	72	27	23			
-Connecticut Wolves	United States Interregional Soccer League	1993		16	7		9	68	29	33			
-Baltimore Bays	United States Interregional Soccer League	1993		16	5		11	59	28	38			
-Charlotte Eagles	United States Interregional Soccer League	1993		16	5		11	52	26	35			
-Columbia Spirit	United States Interregional Soccer League	1993		16	3		13	32	12	43			
-Orlando Lions	United States Interregional Soccer League	1993		16	14		2	124	46	10			
-Atlanta Lasers	United States Interregional Soccer League	1993		16	10		6	93	44	34			
-Coral Springs Kicks	United States Interregional Soccer League	1993		16	10		6	92	42	43			
-Memphis Jackals	United States Interregional Soccer League	1993		16	9		7	87	49	30			
-Boca Raton Sabres	United States Interregional Soccer League	1993		16	8		8	80	37	31			
-Nashville Metros	United States Interregional Soccer League	1993		16	6		10	60	29	37			
-Chattanooga Express	United States Interregional Soccer League	1993		16	3		13	52	33	45			
-Tulsa Roughnecks	United States Interregional Soccer League	1993		16	12		4	99	33	18			
-Oklahoma City Slickers	United States Interregional Soccer League	1993		16	11		5	97	34	32			
-Dallas Rockets	United States Interregional Soccer League	1993		16	11		5	94	34	17			
-San Antonio Pumas	United States Interregional Soccer League	1993		16	8		8	83	39	35			
-Austin Soccadillos	United States Interregional Soccer League	1993		16	8		8	69	30	33			
-Dallas-Fort Worth Toros	United States Interregional Soccer League	1993		16	5		11	52	22	42			
-Tyler Lightning	United States Interregional Soccer League	1993		16	5		11	49	22	40			
-East L.A. Cobras	United States Interregional Soccer League	1993		16	11		5	101	40	18			
-Montclair Standard Falcons	United States Interregional Soccer League	1993		16	10		6	89	30	33			
-El Paso Patriots	United States Interregional Soccer League	1993		16	10		6	87	34	16			
-New Mexico Chiles	United States Interregional Soccer League	1993		16	9		7	73	25	15			
-Tucson Amigos	United States Interregional Soccer League	1993		16	8		8	72	23	30			
-San Fernando Valley Golden Eagles	United States Interregional Soccer League	1993		16	3		13	37	20	42			
-Arizona Cotton	United States Interregional Soccer League	1993		16	3		13	29	12	43			
-San Jose Hawks	United States Interregional Soccer League	1993		16	14		2	119	42	11			
-Palo Alto Firebirds	United States Interregional Soccer League	1993		16	12		4	107	50	8			
-San Francisco All Blacks	United States Interregional Soccer League	1993		16	13		3	106	39	17			
-Chico Rooks	United States Interregional Soccer League	1993		16	11		5	98	47	29			
-North Bay Breakers	United States Interregional Soccer League	1993		16	8		8	79	37	25			
-Santa Cruz Surf	United States Interregional Soccer League	1993		16	7		9	66	27	42			
-San Francisco Bay Diablos	United States Interregional Soccer League	1993		16	3		13	38	20	51			
-East Bay Red Riders	United States Interregional Soccer League	1993		16	2		14	13	7	52			
-New Orleans Riverboat Gamblers	United States Interregional Soccer League	1993		9	6		3	48	20	17			
-Birmingham Grasshoppers	United States Interregional Soccer League	1993		9	5		4	45	18	9			
-Jacksonville Fury	United States Interregional Soccer League	1993		9	4		5	35	15	27			
-Montgomery Capitals	United States Interregional Soccer League	1993		9	2		7	25	13	38			
+Season: 1990
+
+Tulsa Renegades; 14; 11; ; 1; 106; 45; 17; 1; 1; 
+Austin Soccadillos; 14; 8; ; 4; 85; 45; 27; 0; 2; 
+San Antonio Generals; 14; 8; ; 4; 85; 38; 25; 2; 0; 
+Richardson Rockets; 14; 7; ; 7; 70; 38; 22; 0; 0; 
+North Texas United; 14; 6; ; 7; 68; 36; 30; 1; 0; 
+Arkansas Diamonds; 14; 6; ; 6; 60; 26; 34; 0; 2; 
+Waco Kickers; 14; 1; ; 13; 15; 9; 54; 0; 0; 
+Oklahoma City Warriors; 6; 1; ; 5; 13; 7; 25; 0; 0; 
+Lubbock Lasers; 14; 11; ; 3; 101; 52; 28; 0; 0; 
+Colorado Comets; 14; 11; ; 2; 100; 38; 17; 1; 0; 
+Phoenix Hearts; 14; 7; ; 6; 76; 39; 29; 1; 0; 
+Tucson Amigos; 14; 7; ; 6; 68; 29; 20; 0; 1; 
+Albuquerque Gunners; 14; 3; ; 11; 35; 17; 51; 0; 0; 
+Permian Basin Shootin' Stars; 14; 2; ; 12; 31; 20; 43; 0; 0; 
 
 
-Long Island Rough Riders	United States Interregional Soccer League	1994	Northeast Division	18	13		5	117	35	19			
-North Jersey Dragons	United States Interregional Soccer League	1994	Northeast Division	18	12		6	110	39	23			
-Cape Cod Crusaders	United States Interregional Soccer League	1994	Northeast Division	18	10		8	98	39	25			
-North Jersey Imperials	United States Interregional Soccer League	1994	Northeast Division	18	10		8	98	28	25			
-Delaware Wizards	United States Interregional Soccer League	1994	Northeast Division	18	9		9	89	28	25			
-New York Fever	United States Interregional Soccer League	1994	Northeast Division	18	7		11	82	29	32			
-Boston Storm	United States Interregional Soccer League	1994	Northeast Division	18	5		13	65	24	47			
-Connecticut Wolves	United States Interregional Soccer League	1994	Northeast Division	18	6		12	59	14	32			
-Philadelphia Freedom	United States Interregional Soccer League	1994	Northeast Division	18	6		12	58	21	36			
-Greensboro Dynamo	United States Interregional Soccer League	1994	Atlantic Division	18	16		2	143	60	22			
-Charleston Battery	United States Interregional Soccer League	1994	Atlantic Division	18	14		4	111	36	15			
-Charlotte Eagles	United States Interregional Soccer League	1994	Atlantic Division	18	10		8	95	44	32			
-Raleigh Flyers	United States Interregional Soccer League	1994	Atlantic Division	18	9		9	90	33	33			
-Hampton Roads Hurricane	United States Interregional Soccer League	1994	Atlantic Division	18	10		8	84	32	27			
-Columbia Heat	United States Interregional Soccer League	1994	Atlantic Division	18	9		9	82	32	39			
-Washington Mustangs	United States Interregional Soccer League	1994	Atlantic Division	18	11		7	80	33	29			
-Baltimore Bays	United States Interregional Soccer League	1994	Atlantic Division	18	6		12	59	26	39			
-Richmond Kickers	United States Interregional Soccer League	1994	Atlantic Division	18	4		14	44	21	43			
-Cocoa Expos	United States Interregional Soccer League	1994	Southeast Division	17	16		1	128	69	13			
-Atlanta Magic	United States Interregional Soccer League	1994	Southeast Division	17	11		6	104	44	36			
-Florida Stars	United States Interregional Soccer League	1994	Southeast Division	17	11		6	97	65	36			
-Orlando Lions	United States Interregional Soccer League	1994	Southeast Division	17	7		10	81	50	46			
-Boca Raton Sabres	United States Interregional Soccer League	1994	Southeast Division	18	6		12	73	37	48			
-Fort Lauderdale Kicks	United States Interregional Soccer League	1994	Southeast Division	17	5		12	53	25	53			
-South Florida Flamingos	United States Interregional Soccer League	1994	Southeast Division	17	3		14	37	19	80			
-Minnesota Thunder	United States Interregional Soccer League	1994	Midwest Division	18	18		0	170	61	14			
-Milwaukee Rampage	United States Interregional Soccer League	1994	Midwest Division	18	16		2	161	81	18			
-Columbus Xoggz	United States Interregional Soccer League	1994	Midwest Division	18	11		7	112	39	37			
-St. Louis Knights	United States Interregional Soccer League	1994	Midwest Division	18	11		7	108	46	37			
-Detroit Wheels	United States Interregional Soccer League	1994	Midwest Division	18	9		9	98	35	38			
-Rockford Raptors	United States Interregional Soccer League	1994	Midwest Division	18	10		8	98	36	34			
-Des Moines Menace	United States Interregional Soccer League	1994	Midwest Division	18	5		13	63	37	46			
-Cincinnati Cheetahs	United States Interregional Soccer League	1994	Midwest Division	18	5		13	59	38	40			
-Sioux City Breeze	United States Interregional Soccer League	1994	Midwest Division	18	1		17	23	15	64			
-Louisville Thoroughbreds	United States Interregional Soccer League	1994	Midsouth Division	18	13		5	114	53	35			
-New Orleans Gamblers	United States Interregional Soccer League	1994	Midsouth Division	18	12		6	107	38	23			
-Birmingham Grasshoppers	United States Interregional Soccer League	1994	Midsouth Division	18	13		5	104	36	19			
-Lexington Bluegrass Bandits	United States Interregional Soccer League	1994	Midsouth Division	18	10		8	87	32	25			
-Nashville Metros	United States Interregional Soccer League	1994	Midsouth Division	18	7		11	78	43	43			
-Arkansas A's	United States Interregional Soccer League	1994	Midsouth Division	18	4		14	45	22	62			
-Chattanooga Express	United States Interregional Soccer League	1994	Midsouth Division	18	5		13	36	16	45			
-Memphis Jackals	United States Interregional Soccer League	1994	Midsouth Division	11	2		9	29	19	34			
-Tulsa Roughnecks	United States Interregional Soccer League	1994	South Central Division	18	16		2	132	52	18			
-Dallas-Fort Worth Toros	United States Interregional Soccer League	1994	South Central Division	18	12		6	112	51	40			
-San Antonio Pumas	United States Interregional Soccer League	1994	South Central Division	18	11		7	107	53	30			
-Texas Lightning	United States Interregional Soccer League	1994	South Central Division	18	11		7	103	60	31			
-Austin Lone Stars	United States Interregional Soccer League	1994	South Central Division	17	10		7	97	62	51			
-Dallas Rockets	United States Interregional Soccer League	1994	South Central Division	18	9		9	86	39	48			
-Oklahoma City Slickers	United States Interregional Soccer League	1994	South Central Division	18	4		14	46	28	57			
-Wichita Blue Angels	United States Interregional Soccer League	1994	South Central Division	17	0		17	16	16	119			
-Los Angeles Cobras	United States Interregional Soccer League	1994	Southwest Division	18	16		2	147	70	32			
-El Paso Patriots	United States Interregional Soccer League	1994	Southwest Division	18	13		5	120	57	28			
-San Fernando Valley Golden Eagles	United States Interregional Soccer League	1994	Southwest Division	18	12		6	110	48	40			
-Montclair Standard Falcons	United States Interregional Soccer League	1994	Southwest Division	18	10		8	94	40	34			
-Arizona Cotton	United States Interregional Soccer League	1994	Southwest Division	18	7		11	79	49	33			
-Tucson Amigos	United States Interregional Soccer League	1994	Southwest Division	18	7		11	75	44	43			
-New Mexico Chiles	United States Interregional Soccer League	1994	Southwest Division	18	7		11	66	32	48			
-Las Vegas Quicksilver	United States Interregional Soccer League	1994	Southwest Division	18	3		15	48	31	84			
-San Diego Top Guns	United States Interregional Soccer League	1994	Southwest Division	9	4		5	37	16	19			
-San Francisco All Blacks	United States Interregional Soccer League	1994	Pacific Division	18	15		3	134	59	20			
-North Bay Breakers	United States Interregional Soccer League	1994	Pacific Division	18	14		4	125	55	29			
-CCV Hydra	United States Interregional Soccer League	1994	Pacific Division	18	13		5	122	62	31			
-Chico Rooks	United States Interregional Soccer League	1994	Pacific Division	18	12		6	108	43	30			
-San Francisco Bay Diablos	United States Interregional Soccer League	1994	Pacific Division	18	10		8	92	42	48			
-Silicon Valley Firebirds	United States Interregional Soccer League	1994	Pacific Division	18	9		9	85	42	28			
-Reno Rattlers	United States Interregional Soccer League	1994	Pacific Division	18	7		11	71	38	45			
-Hawaii Tsunami	United States Interregional Soccer League	1994	Pacific Division	18	3		15	40	24	77			
-Santa Cruz Surf	United States Interregional Soccer League	1994	Pacific Division	18	2		16	32	21	61			
-Shasta Scorchers	United States Interregional Soccer League	1994	Pacific Division	18	2		16	31	20	63			
+Season: 1991
+
+Memphis Rogues; 16; 12; ; 4; 98; 31; 36; ; ; 
+Atlanta Quicksilver; 16; 9; ; 7; 89; 41; 31; ; ; 
+Arkansas Diamonds; 16; 8; ; 8; 76; 30; 30; ; ; 
+Nashville Metros; 16; 7; ; 9; 63; 30; 35; ; ; 
+Atlanta Express; 16; 4; ; 12; 47; 20; 40; ; ; 
+Richardson Rockets; 16; 10; ; 6; 97; 40; 27; ; ; 
+Fort Worth Kickers; 16; 11; ; 5; 92; 30; 18; ; ; 
+Tulsa Renegades; 16; 8; ; 8; 76; 39; 28; ; ; 
+San Antonio Generals; 16; 8; ; 8; 72; 32; 29; ; ; 
+Oklahoma City Warriors; 16; 7; ; 9; 67; 29; 40; ; ; 
+Austin Soccadillos; 16; 5; ; 11; 63; 37; 42; ; ; 
+New Mexico Chiles; 16; 11; ; 5; 96; 38; 18; ; ; 
+El Paso Patriots; 16; 11; ; 5; 95; 34; 20; ; ; 
+Colorado Comets; 16; 10; ; 6; 88; 35; 23; ; ; 
+Tucson Amigos; 16; 7; ; 9; 61; 20; 23; ; ; 
+Phoenix Hearts; 16; 7; ; 9; 59; 27; 26; ; ; 
+Lubbock Lasers; 16; 1; ; 15; 13; 7; 74; ; ; 
+
+
+Competition: United States Interregional Soccer League
+Season: 1992
+
+Orlando Lions; 14; 10; ; 4; 94; 37; 17; ; ; 
+Boca Raton Sabres; 14; 10; ; 4; 86; 27; 17; ; ; 
+Atlanta Datagraphic Magic; 14; 10; ; 4; 85; 35; 20; ; ; 
+Memphis United Express; 14; 8; ; 6; 77; 34; 22; ; ; 
+Nashville Metros; 14; 6; ; 8; 55; 25; 23; ; ; 
+Chattanooga Railroaders; 14; 3; ; 11; 37; 22; 40; ; ; 
+Gwinnett County Steamers; 14; 2; ; 12; 25; 12; 36; ; ; 
+Dallas Rockets; 14; 13; ; 1; 105; 29; 13; ; ; 
+Oklahoma City Warriors; 14; 7; ; 7; 63; 22; 24; ; ; 
+Dallas Kickers; 14; 6; ; 8; 56; 21; 22; ; ; 
+San Antonio Generals; 14; 6; ; 8; 54; 27; 32; ; ; 
+Austin Soccadillos; 14; 5; ; 9; 49; 19; 27; ; ; 
+Arkansas Diamonds; 14; 2; ; 12; 21; 13; 47; ; ; 
+El Paso Patriots; 14; 12; ; 2; 96; 32; 15; ; ; 
+New Mexico Chiles; 14; 7; ; 7; 95; 29; 22; ; ; 
+Tucson Amigos; 14; 5; ; 9; 52; 23; 36; ; ; 
+Arizona Cotton; 14; 5; ; 9; 48; 22; 28; ; ; 
+Palo Alto Firebirds; 14; 12; ; 2; 94; 32; 15; ; ; 
+North Bay Breakers; 14; 10; ; 4; 86; 32; 13; ; ; 
+San Francisco All Blacks; 14; 7; ; 7; 65; 25; 26; ; ; 
+East Bay Red Riders; 14; 7; ; 7; 63; 25; 24; ; ; 
+
+
+Season: 1993
+
+Greensboro Dynamo; 16; 14; ; 2; 114; 41; 14; ; ; 
+Delaware Wizards; 16; 10; ; 6; 88; 34; 22; ; ; 
+Raleigh Flyers; 16; 10; ; 6; 84; 31; 24; ; ; 
+Richmond Kickers; 16; 8; ; 8; 78; 30; 30; ; ; 
+Charleston Battery; 16; 8; ; 8; 72; 27; 23; ; ; 
+Connecticut Wolves; 16; 7; ; 9; 68; 29; 33; ; ; 
+Baltimore Bays; 16; 5; ; 11; 59; 28; 38; ; ; 
+Charlotte Eagles; 16; 5; ; 11; 52; 26; 35; ; ; 
+Columbia Spirit; 16; 3; ; 13; 32; 12; 43; ; ; 
+Orlando Lions; 16; 14; ; 2; 124; 46; 10; ; ; 
+Atlanta Lasers; 16; 10; ; 6; 93; 44; 34; ; ; 
+Coral Springs Kicks; 16; 10; ; 6; 92; 42; 43; ; ; 
+Memphis Jackals; 16; 9; ; 7; 87; 49; 30; ; ; 
+Boca Raton Sabres; 16; 8; ; 8; 80; 37; 31; ; ; 
+Nashville Metros; 16; 6; ; 10; 60; 29; 37; ; ; 
+Chattanooga Express; 16; 3; ; 13; 52; 33; 45; ; ; 
+Tulsa Roughnecks; 16; 12; ; 4; 99; 33; 18; ; ; 
+Oklahoma City Slickers; 16; 11; ; 5; 97; 34; 32; ; ; 
+Dallas Rockets; 16; 11; ; 5; 94; 34; 17; ; ; 
+San Antonio Pumas; 16; 8; ; 8; 83; 39; 35; ; ; 
+Austin Soccadillos; 16; 8; ; 8; 69; 30; 33; ; ; 
+Dallas-Fort Worth Toros; 16; 5; ; 11; 52; 22; 42; ; ; 
+Tyler Lightning; 16; 5; ; 11; 49; 22; 40; ; ; 
+East L.A. Cobras; 16; 11; ; 5; 101; 40; 18; ; ; 
+Montclair Standard Falcons; 16; 10; ; 6; 89; 30; 33; ; ; 
+El Paso Patriots; 16; 10; ; 6; 87; 34; 16; ; ; 
+New Mexico Chiles; 16; 9; ; 7; 73; 25; 15; ; ; 
+Tucson Amigos; 16; 8; ; 8; 72; 23; 30; ; ; 
+San Fernando Valley Golden Eagles; 16; 3; ; 13; 37; 20; 42; ; ; 
+Arizona Cotton; 16; 3; ; 13; 29; 12; 43; ; ; 
+San Jose Hawks; 16; 14; ; 2; 119; 42; 11; ; ; 
+Palo Alto Firebirds; 16; 12; ; 4; 107; 50; 8; ; ; 
+San Francisco All Blacks; 16; 13; ; 3; 106; 39; 17; ; ; 
+Chico Rooks; 16; 11; ; 5; 98; 47; 29; ; ; 
+North Bay Breakers; 16; 8; ; 8; 79; 37; 25; ; ; 
+Santa Cruz Surf; 16; 7; ; 9; 66; 27; 42; ; ; 
+San Francisco Bay Diablos; 16; 3; ; 13; 38; 20; 51; ; ; 
+East Bay Red Riders; 16; 2; ; 14; 13; 7; 52; ; ; 
+New Orleans Riverboat Gamblers; 9; 6; ; 3; 48; 20; 17; ; ; 
+Birmingham Grasshoppers; 9; 5; ; 4; 45; 18; 9; ; ; 
+Jacksonville Fury; 9; 4; ; 5; 35; 15; 27; ; ; 
+Montgomery Capitals; 9; 2; ; 7; 25; 13; 38; ; ; 
+
+
+Season: 1994
+
+Long Island Rough Riders; 18; 13; ; 5; 117; 35; 19; ; ; 
+North Jersey Dragons; 18; 12; ; 6; 110; 39; 23; ; ; 
+Cape Cod Crusaders; 18; 10; ; 8; 98; 39; 25; ; ; 
+North Jersey Imperials; 18; 10; ; 8; 98; 28; 25; ; ; 
+Delaware Wizards; 18; 9; ; 9; 89; 28; 25; ; ; 
+New York Fever; 18; 7; ; 11; 82; 29; 32; ; ; 
+Boston Storm; 18; 5; ; 13; 65; 24; 47; ; ; 
+Connecticut Wolves; 18; 6; ; 12; 59; 14; 32; ; ; 
+Philadelphia Freedom; 18; 6; ; 12; 58; 21; 36; ; ; 
+Greensboro Dynamo; 18; 16; ; 2; 143; 60; 22; ; ; 
+Charleston Battery; 18; 14; ; 4; 111; 36; 15; ; ; 
+Charlotte Eagles; 18; 10; ; 8; 95; 44; 32; ; ; 
+Raleigh Flyers; 18; 9; ; 9; 90; 33; 33; ; ; 
+Hampton Roads Hurricane; 18; 10; ; 8; 84; 32; 27; ; ; 
+Columbia Heat; 18; 9; ; 9; 82; 32; 39; ; ; 
+Washington Mustangs; 18; 11; ; 7; 80; 33; 29; ; ; 
+Baltimore Bays; 18; 6; ; 12; 59; 26; 39; ; ; 
+Richmond Kickers; 18; 4; ; 14; 44; 21; 43; ; ; 
+Cocoa Expos; 17; 16; ; 1; 128; 69; 13; ; ; 
+Atlanta Magic; 17; 11; ; 6; 104; 44; 36; ; ; 
+Florida Stars; 17; 11; ; 6; 97; 65; 36; ; ; 
+Orlando Lions; 17; 7; ; 10; 81; 50; 46; ; ; 
+Boca Raton Sabres; 18; 6; ; 12; 73; 37; 48; ; ; 
+Fort Lauderdale Kicks; 17; 5; ; 12; 53; 25; 53; ; ; 
+South Florida Flamingos; 17; 3; ; 14; 37; 19; 80; ; ; 
+Minnesota Thunder; 18; 18; ; 0; 170; 61; 14; ; ; 
+Milwaukee Rampage; 18; 16; ; 2; 161; 81; 18; ; ; 
+Columbus Xoggz; 18; 11; ; 7; 112; 39; 37; ; ; 
+St. Louis Knights; 18; 11; ; 7; 108; 46; 37; ; ; 
+Detroit Wheels; 18; 9; ; 9; 98; 35; 38; ; ; 
+Rockford Raptors; 18; 10; ; 8; 98; 36; 34; ; ; 
+Des Moines Menace; 18; 5; ; 13; 63; 37; 46; ; ; 
+Cincinnati Cheetahs; 18; 5; ; 13; 59; 38; 40; ; ; 
+Sioux City Breeze; 18; 1; ; 17; 23; 15; 64; ; ; 
+Louisville Thoroughbreds; 18; 13; ; 5; 114; 53; 35; ; ; 
+New Orleans Gamblers; 18; 12; ; 6; 107; 38; 23; ; ; 
+Birmingham Grasshoppers; 18; 13; ; 5; 104; 36; 19; ; ; 
+Lexington Bluegrass Bandits; 18; 10; ; 8; 87; 32; 25; ; ; 
+Nashville Metros; 18; 7; ; 11; 78; 43; 43; ; ; 
+Arkansas A's; 18; 4; ; 14; 45; 22; 62; ; ; 
+Chattanooga Express; 18; 5; ; 13; 36; 16; 45; ; ; 
+Memphis Jackals; 11; 2; ; 9; 29; 19; 34; ; ; 
+Tulsa Roughnecks; 18; 16; ; 2; 132; 52; 18; ; ; 
+Dallas-Fort Worth Toros; 18; 12; ; 6; 112; 51; 40; ; ; 
+San Antonio Pumas; 18; 11; ; 7; 107; 53; 30; ; ; 
+Texas Lightning; 18; 11; ; 7; 103; 60; 31; ; ; 
+Austin Lone Stars; 17; 10; ; 7; 97; 62; 51; ; ; 
+Dallas Rockets; 18; 9; ; 9; 86; 39; 48; ; ; 
+Oklahoma City Slickers; 18; 4; ; 14; 46; 28; 57; ; ; 
+Wichita Blue Angels; 17; 0; ; 17; 16; 16; 119; ; ; 
+Los Angeles Cobras; 18; 16; ; 2; 147; 70; 32; ; ; 
+El Paso Patriots; 18; 13; ; 5; 120; 57; 28; ; ; 
+San Fernando Valley Golden Eagles; 18; 12; ; 6; 110; 48; 40; ; ; 
+Montclair Standard Falcons; 18; 10; ; 8; 94; 40; 34; ; ; 
+Arizona Cotton; 18; 7; ; 11; 79; 49; 33; ; ; 
+Tucson Amigos; 18; 7; ; 11; 75; 44; 43; ; ; 
+New Mexico Chiles; 18; 7; ; 11; 66; 32; 48; ; ; 
+Las Vegas Quicksilver; 18; 3; ; 15; 48; 31; 84; ; ; 
+San Diego Top Guns; 9; 4; ; 5; 37; 16; 19; ; ; 
+San Francisco All Blacks; 18; 15; ; 3; 134; 59; 20; ; ; 
+North Bay Breakers; 18; 14; ; 4; 125; 55; 29; ; ; 
+CCV Hydra; 18; 13; ; 5; 122; 62; 31; ; ; 
+Chico Rooks; 18; 12; ; 6; 108; 43; 30; ; ; 
+San Francisco Bay Diablos; 18; 10; ; 8; 92; 42; 48; ; ; 
+Silicon Valley Firebirds; 18; 9; ; 9; 85; 42; 28; ; ; 
+Reno Rattlers; 18; 7; ; 11; 71; 38; 45; ; ; 
+Hawaii Tsunami; 18; 3; ; 15; 40; 24; 77; ; ; 
+Santa Cruz Surf; 18; 2; ; 16; 32; 21; 61; ; ; 
+Shasta Scorchers; 18; 2; ; 16; 31; 20; 63; ; ; 

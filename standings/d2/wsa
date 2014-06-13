@@ -2,7 +2,7 @@ BlockSource: http://homepages.sover.net/~spectrum/wsa.html
 Competition: Western Soccer Alliance
 
 Season: 1985
-Key: team; games_played; wins; ties; losses; goals_for; goals_against; points
+Key: team; games; wins; ties; losses; goals_for; goals_against; points
 
 San Jose Earthquakes       ;   7 ;  4 ;  1 ;  2 ;  10 ;  9 ; 13
 Victoria Riptide           ;   7 ;  3 ;  1 ;  3 ;  16 ; 11 ; 10
@@ -21,7 +21,7 @@ Edmonton Brickmen         ;  14 ;  3 ;  3 ;  8 ;  18;  28 ;  12
 
 Season: 1987
 
-Key: team; games_played; wins; losses; overtime_wins; overtime_losses; pk_wins; pk_losses; goals_for; goals_against; points
+Key: team; games; wins; losses; overtime_wins; overtime_losses; pk_wins; pk_losses; goals_for; goals_against; points
 
 San Diego Nomads          ; 10 ;  6 ;  4 ;  1 ;  0 ;  1 ;  1 ; 17 ;  9 ;  31
 Seattle Storm             ; 10 ;  5 ;  5 ;  1 ;  1 ;  1 ;  1 ; 16 ; 14 ;  31
@@ -30,7 +30,7 @@ F. C. Portland            ; 10 ;  5 ;  5 ;  2 ;  0 ;  0 ;  0 ;  9 ; 16 ;  24
 Los Angeles Heat          ; 10 ;  5 ;  5 ;  0 ;  1 ;  0 ;  0 ;  9 ; 15 ;  24
 California Kickers        ; 10 ;  4 ;  6 ;  0 ;  2 ;  2 ;  0 ; 11 ; 16 ;  23
 
-Key: team; games_played; wins; losses; goals_for; goals_against; points
+Key: team; games; wins; losses; goals_for; goals_against; points
 
 Season: 1988
 

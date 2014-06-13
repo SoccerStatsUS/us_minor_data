@@ -1,905 +1,509 @@
 Competition: American Professional Soccer League
 Season: 1993
+Key: name; position; games_played; games_started; minutes; goals
 
 Team: Colorado Foxes
-Rafael Amaya           D   17/10  1129   0
 
-Chad Ashton            M   22/21  1963   4
+Rafael Amaya        ;   D ;  17; 10 ; 1129 ;  0
+Chad Ashton         ;   M ;  22; 21 ; 1963 ;  4
+Scott Benedetti     ;   F ;  23; 22 ; 1929 ; 10
+Walter Boyd         ;   F ;  17; 9  ; 1059 ;  2
+Jeff Davis          ;   M ;   5; 1  ;  215 ;  0
+Taifour Diane       ; F   ;20; 20 ; 1815 ; 10
+Ted Eck             ;   M ;  21; 21 ; 1960 ;  8
+Steve Eise          ;   D ;   2; 2  ;  180 ;  0
+Iain/Robin Fraser ;   D ;  21; 21 ; 1900 ;  0
+* 
 
-Scott Benedetti        F   23/22  1929  10
-
-Walter Boyd            F   17/9   1059   2
-
-Jeff Davis             M    5/1    215   0
-
-Taifour Diane        F   20/20  1815  10
-
-Ted Eck                M   21/21  1960   8
-
-Steve Eise             D    2/2    180   0
-
-Iain/Robin Fraser -*   D   21/21  1900   0
-
-Phillip Gyau           F    8/7    611   1
-
-Bryan Haynes           F   24/23  2000   2
-
-Robert Lipp            D    2/1    104   0
-
-Chris Martinez         D    7/7    485   0
-
-Ed Pinon               D    8/8    745   0
-
-Kim Roentved           D   15/15  1340   0
-
-Jeff Rodgers               12/3    529   1
-
-Mark Santel            M   23/22  2091   2
-
-Tom Soehn              M   21/21  1915   0
-
-Tom Stone              F    6/4    181   0
+Phillip Gyau        ;   F ;   8; 7  ;  611 ;  1
+Bryan Haynes        ;   F ;  24; 23 ; 2000 ;  2
+Robert Lipp         ;   D ;   2; 1  ;  104 ;  0
+Chris Martinez      ;   D ;   7; 7  ;  485 ;  0
+Ed Pinon            ;   D ;   8; 8  ;  745 ;  0
+Kim Roentved        ;   D ;  15; 15 ; 1340 ;  0
+Jeff Rodgers        ;     ;  12; 3  ;  529 ;  1
+Mark Santel         ;   M ;  23; 22 ; 2091 ;  2
+Tom Soehn           ;   M ;  21; 21 ; 1915 ;  0
+Tom Stone           ;   F ;   6; 4  ;  181 ;  0
 
 Team: Fort Lauderdale Strikers
-Jeff Betts             D    3/2    213   0
 
-Scott Brennen              18/16  1541   0
-
-Marcelo Carrera        M   17/16  1477   2
-
-Juan Castillo          F   18/16  1530   1
-
-John Clare             D   14/14  1296   1
-
-Jean Derivois          M    1/1     43   0
-
-Jefferson Doe          F    2/0     15   0
-
-Zico Doe               F   23/20  1896  12
-
-Troy Edwards           D    5/5    442   0
-
-Eric Eichmann          F   19/17  1586   5
-
-Dennis Hamlett         D   11/10   924   0
-
-Alvin James            M   18/15  1330   7
-
-Stan Lembryk           D    8/7    645   0
-
-Zenon Luzniak          D   23/22  2041   0
-
-Lalo Maradona          M    8/7    623   2
-
-Andrew McKay           D   14/12  1099   2
-
-Ivan McKinley          F    5/5    465   0
-
-Shawn Medved           F   16/16  1485   0
-
-Thomas Rongen          M    1/0     21   0
-
-Alex Sanchez           M   20/10   989   2
-
-Kenny Santos           M   20/19  1919   2
-
-Patrick Tardieu        F   12/10   992   3
-
-Jose Umanda            D    1/1     78   0
+Jeff Betts          ;   D ;   3; 2  ;  213 ;  0
+Scott Brennen       ;     ;  18; 16 ; 1541 ;  0
+Marcelo Carrera     ;   M ;  17; 16 ; 1477 ;  2
+Juan Castillo       ;   F ;  18; 16 ; 1530 ;  1
+John Clare          ;   D ;  14; 14 ; 1296 ;  1
+Jean Derivois       ;   M ;   1; 1  ;   43 ;  0
+Jefferson Doe       ;   F ;   2; 0  ;   15 ;  0
+Zico Doe            ;   F ;  23; 20 ; 1896 ; 12
+Troy Edwards        ;   D ;   5; 5  ;  442 ;  0
+Eric Eichmann       ;   F ;  19; 17 ; 1586 ;  5
+Dennis Hamlett      ;   D ;  11; 10 ;  924 ;  0
+Alvin James         ;   M ;  18; 15 ; 1330 ;  7
+Stan Lembryk        ;   D ;   8; 7  ;  645 ;  0
+Zenon Luzniak       ;   D ;  23; 22 ; 2041 ;  0
+Lalo Maradona       ;   M ;   8; 7  ;  623 ;  2
+Andrew McKay        ;   D ;  14; 12 ; 1099 ;  2
+Ivan McKinley       ;   F ;   5; 5  ;  465 ;  0
+Shawn Medved        ;   F ;  16; 16 ; 1485 ;  0
+Thomas Rongen       ;   M ;   1; 0  ;   21 ;  0
+Alex Sanchez        ;   M ;  20; 10 ;  989 ;  2
+Kenny Santos        ;   M ;  20; 19 ; 1919 ;  2
+Patrick Tardieu     ;   F ;  12; 10 ;  992 ;  3
+Jose Umanda         ;   D ;   1; 1  ;   78 ;  0
 
 Team: Los Angeles Salsa
-Salvador Coreas        M   15/8    737   2
 
-Dale Ervine            M   18/16  1304   2
+Salvador Coreas     ;   M ;  15; 8  ;  737 ;  2
+Dale Ervine         ;   M ;  18; 16 ; 1304 ;  2
+Ray Fernandez       ;   M ;  13; 11 ;  956 ;  0
+Mike Fox            ;   M ;  22; 18 ; 1704 ;  0
+Waldir Guerra       ;   F ;  22; 16 ; 1729 ;  1
+Phillip Gyau      ;   F ;  17; 14 ; 1185 ;  1
+*-1
+Michael Kafka       ;   M ;   1; 0  ;    7 ;  0
+Arut Karapetyan     ;   F ;   8; 2  ;  373 ;  0
+Gerardo Laterza     ;   F ;   4; 2  ;  170 ;  0
+Thor Lee            ;   D ;  22; 22 ; 2038 ;  1
+Lawrence Lozzano    ;   M ;  15; 15 ; 1410 ;  0
+Paulinho            ;   M ;  22; 20 ; 1843 ; 15
+Danny Pena          ;   D ;  13; 13 ; 1215 ;  1
+Roberto Reyes       ;   M ;   2; 1  ;   84 ;  0
+Richard Ryerson     ;   M ;  20; 20 ; 1890 ;  0
+Maciejo Smagacz     ;   F ;   1; 0  ;   29 ;  0
+Jose Vasquez        ;   F ;  18; 17 ; 1535 ;  0
+Arturo Velazco      ;   D ;  23; 23 ; 2175 ;  2
+Paul Wright         ;   F ;  22; 22 ; 2085 ; 13
 
-Ray Fernandez          M   13/11   956   0
 
-Mike Fox               M   22/18  1704   0
-
-Waldir Guerra          F   22/16  1729   1
-
-Phillip Gyau -1        F   17/14  1185   1
-
-Michael Kafka          M    1/0      7   0
-
-Arut Karapetyan        F    8/2    373   0
-
-Gerardo Laterza        F    4/2    170   0
-
-Thor Lee               D   22/22  2038   1
-
-Lawrence Lozzano       M   15/15  1410   0
-
-Paulinho               M   22/20  1843  15
-
-Danny Pena             D   13/13  1215   1
-
-Roberto Reyes          M    2/1     84   0
-
-Richard Ryerson        M   20/20  1890   0
-
-Maciejo Smagacz        F    1/0     29   0
-
-Jose Vasquez           F   18/17  1535   0
-
-Arturo Velazco         D   23/23  2175   2
-
-Paul Wright            F   22/22  2085  13
+Key: name; position; games_played; games_started; minutes; goals; etc
 
 Team: Montreal Impact
-Abdel Bahri            M    3/0      89  0  0/0
 
-Lloyd Barker           F   19/13   1322  3  1/0
+Abdel Bahri         ;   M ;   3; 0  ;    89;  0;  0/0
+Lloyd Barker        ;   F ;  19; 13 ;  1322;  3;  1/0
+Mauro Biello        ;   F ;   5; 2  ;   259;  0;  0/0
+Arthur Calixte      ;   F ;   7; 3  ;   321;  2;  0/0
+Nick Dasovic        ;   D ;  18; 18 ;  1623;  3;  3/1
+Jason Devos         ;   D ;  18; 17 ;  1566;  1;  3/0
+Nick DeSantis       ;   M ;  20; 20 ;  1767;  1;  7/1
+Patrick Diotte      ;   D ;  16; 16 ;  1246;  0;  1/0
+Warren Dupont       ;   M ;   8; 7  ;   640;  0;  2/0
+Patrice Ferri       ;   D ;  20; 20 ;  1841;  2;  7/1
+Robbie Gasparini    ;   F ;   3; 0  ;    43;  0;  0/0
+Otmane Ibrir        ;   M ;   4; 4  ;   328;  0;  3/0
+John Limnatis       ;   M ;  13; 13 ;  1141;  0;  5/0
+Dino Lopez          ; D   ; 6; 6  ;   555;  1;  0/0
+Grant Needham       ; F   ;21; 21 ;  1705;  6;  1/0
+Folorunso O'Kenla   ;     ;   7; 2  ;   266;  0;  0/0
+Marco Rizi          ;   D ;  21; 18 ;  1705;  1;  3/0
+Abdel Sahrane       ;   M ;  22; 21 ;  1882;  1;  0/0
+P. Richard Thomas   ;   M ;   9; 7  ;   537;  0;  1/0
+Cameron Walker      ;   F ;  10; 4  ;   473;  2;  1/0
+Nicola Zanone       ;   F ;  22; 19 ;  1476;  3;  1/0
 
-Mauro Biello           F    5/2     259  0  0/0
-
-Arthur Calixte         F    7/3     321  2  0/0
-
-Nick Dasovic           D   18/18   1623  3  3/1
-
-Jason Devos            D   18/17   1566  1  3/0
-
-Nick DeSantis          M   20/20   1767  1  7/1
-
-Patrick Diotte         D   16/16   1246  0  1/0
-
-Warren Dupont          M    8/7     640  0  2/0
-
-Patrice Ferri          D   20/20   1841  2  7/1
-
-Robbie Gasparini       F    3/0      43  0  0/0
-
-Otmane Ibrir           M    4/4     328  0  3/0
-
-John Limnatis          M   13/13   1141  0  5/0
-
-Dino Lopez           D    6/6     555  1  0/0
-
-Grant Needham        F   21/21   1705  6  1/0
-
-Folorunso O'Kenla           7/2     266  0  0/0
-
-Marco Rizi             D   21/18   1705  1  3/0
-
-Abdel Sahrane          M   22/21   1882  1  0/0
-
-P. Richard Thomas      M    9/7     537  0  1/0
-
-Cameron Walker         F   10/4     473  2  1/0
-
-Nicola Zanone          F   22/19   1476  3  1/0
-
+Key: name; position; games_played; games_started; minutes; goals
 Team: Tampa Bay Rowdies
 
-Mark Abboud                 1/0      6   0
-
-Derek Backman          F   14/12  1115   5
-
-Jon Brady                   4/1    139   0
-
-Michael Brady               3/1    184   2
-
-Dan Donigan            D   22/18  1398   0
-
-Paul Dougherty         M   22/22  1969   8
-
-Gerard Gregoire             5/4    367   2
-
-Jean Harbor            F   14/14  1166   5
-
-Matt Knowles           M    9/8    723   0
-
-Jimmy McGeough         D   12/10   971   0
-
-Pierre Morice          F   22/22  2012   9
-
-Jon Parry              M    5/4    315   2
-
-Eric Ravendahl         M    1/0     34   0
-
-Tommy Reasoner         D   20/20  1802   0
-
-Terry Rowe             D   11/11   895   0
-
-Kevin Sloan            M   14/10   960   3
-
-Brad Smith             F   21/15  1501   6
-
-Steve Trittschuh       D   23/23  2098   7
-
-Lee Tschantret         F    7/4    329   0
-
-Joey Valenti           M    3/2    189   0
-
-Perry Van Der Beck     M   23/22  1941   1
-
-David Vaudreuil        F   19/19  1735   3
+Mark Abboud         ;     ;   1; 0  ;    6 ;  0
+Derek Backman       ;   F ;  14; 12 ; 1115 ;  5
+Jon Brady           ;     ;   4; 1  ;  139 ;  0
+Michael Brady       ;     ;   3; 1  ;  184 ;  2
+Dan Donigan         ;   D ;  22; 18 ; 1398 ;  0
+Paul Dougherty      ;   M ;  22; 22 ; 1969 ;  8
+Gerard Gregoire     ;     ;   5; 4  ;  367 ;  2
+Jean Harbor         ;   F ;  14; 14 ; 1166 ;  5
+Matt Knowles        ;   M ;   9; 8  ;  723 ;  0
+Jimmy McGeough      ;   D ;  12; 10 ;  971 ;  0
+Pierre Morice       ;   F ;  22; 22 ; 2012 ;  9
+Jon Parry           ;   M ;   5; 4  ;  315 ;  2
+Eric Ravendahl      ;   M ;   1; 0  ;   34 ;  0
+Tommy Reasoner      ;   D ;  20; 20 ; 1802 ;  0
+Terry Rowe          ;   D ;  11; 11 ;  895 ;  0
+Kevin Sloan         ;   M ;  14; 10 ;  960 ;  3
+Brad Smith          ;   F ;  21; 15 ; 1501 ;  6
+Steve Trittschuh    ;   D ;  23; 23 ; 2098 ;  7
+Lee Tschantret      ;   F ;   7; 4  ;  329 ;  0
+Joey Valenti        ;   M ;   3; 2  ;  189 ;  0
+Perry Van Der Beck  ;   M ;  23; 22 ; 1941 ;  1
+David Vaudreuil     ;   F ;  19; 19 ; 1735 ;  3
 
 Team: Toronto Blizzard
 
-Fernando Aguiar        M   22/21  1896   9
-
-Eddy Berdusco          F   11/9    809   5
-
-Frank Cardona          F    4/4    307   0
-
-Ian Carter             D   10/9    569   0
-
-Anthony Chiarella      M    1/0     45   0
-
-Carl Fletcher          M   19/19  1682   0
-
-Amadeo Gasparini       F   10/10   912   6
-
-Steve Gill             F   10/2    382   0
-
-Benji Hayford          M    5/3    310   1
-
-Holmes                      1/1     90   0
-
-Kevin Holness          F   23/23  2040   2
-
-Lucio Ianiero          M   23/23  2081   0
-
-Ivan Jurisic           F    3/1    176   0
-
-Frank Lofranco         M   19/15  1396   2
-
-Dino Lopez -1          D   16/16  1463   1
-
-Hector Marinaro        F   21/20  1841   7
-
-Andonay Murcia         M    1/0     15   0
-
-Grant Needham -1       F    7/5    481   0
-
-Sean Samuels           D   18/17  1515   0
-
-Peter Sarantopoulos    D   24/24  2194   0
-
-Nigel Sparks           M   17/16  1443   2
-
-Sandor Szucs           D    2/2    135   0
+Fernando Aguiar     ;   M ;  22; 21 ; 1896 ;  9
+Eddy Berdusco       ;   F ;  11; 9  ;  809 ;  5
+Frank Cardona       ;   F ;   4; 4  ;  307 ;  0
+Ian Carter          ;   D ;  10; 9  ;  569 ;  0
+Anthony Chiarella   ;   M ;   1; 0  ;   45 ;  0
+Carl Fletcher       ;   M ;  19; 19 ; 1682 ;  0
+Amadeo Gasparini    ;   F ;  10; 10 ;  912 ;  6
+Steve Gill          ;   F ;  10; 2  ;  382 ;  0
+Benji Hayford       ;   M ;   5; 3  ;  310 ;  1
+Holmes              ;     ;   1; 1  ;   90 ;  0
+Kevin Holness       ;   F ;  23; 23 ; 2040 ;  2
+Lucio Ianiero       ;   M ;  23; 23 ; 2081 ;  0
+Ivan Jurisic        ;   F ;   3; 1  ;  176 ;  0
+Frank Lofranco      ;   M ;  19; 15 ; 1396 ;  2
+Dino Lopez        ;   D ;  16; 16 ; 1463 ;  1
+*-1
+Hector Marinaro     ;   F ;  21; 20 ; 1841 ;  7
+Andonay Murcia      ;   M ;   1; 0  ;   15 ;  0
+Grant Needham     ;   F ;   7; 5  ;  481 ;  0
+*-1
+Sean Samuels        ;   D ;  18; 17 ; 1515 ;  0
+Peter Sarantopoulos ;   D ;  24; 24 ; 2194 ;  0
+Nigel Sparks        ;   M ;  17; 16 ; 1443 ;  2
+Sandor Szucs        ;   D ;   2; 2  ;  135 ;  0
 
 Team: Vancouver 86ers
-Geoff Aunger           F   11/9    856   3
 
-John Catliff           F    9/9    744   2
-
-Rick Celebrini         D   13/13  1073   2
-
-Carlo Corazzin         F   23/22  1985   7
-
-Mike Dodd              M    3/1    205   0
-
-Jim Easton                 16/15  1330   2
-
-Ivor Evans             D   23/23  2128   4
-
-Nick Gilbert           F    4/4    267   1
-
-Tim Kim                D    9/6    723   0
-
-Jean-Paul Knezevic     D    2/0     49   0
-
-Scott Macey            M    1/1     90   0
-
-Steve MacDonald        D   21/21  1913   0
-
-Doug McKinty           D   20/15  1572   0
-
-Steve Millar           D    5/5    395   0
-
-Dale Mitchell          M   18/13  1274   4
-
-Domenic Mobilio        F   16/16  1317  10
-
-Doug Morrill           D    2/2    130   0
-
-Doug Muirhead          D   22/17  1712   3
-
-Scott Munson           F    6/5    487   4
-
-David Norman           D   13/13  1130   0
-
-Norm Odinga            D    9/8    633   0
-
-Guido Tititto          M    2/2    180   0
-
-Carl Valentine         F   15/11  1129   1
-
-Mark Watson            D    9/8    787   0
+Geoff Aunger        ;   F ;  11; 9  ;  856 ;  3
+John Catliff        ;   F ;   9; 9  ;  744 ;  2
+Rick Celebrini      ;   D ;  13; 13 ; 1073 ;  2
+Carlo Corazzin      ;   F ;  23; 22 ; 1985 ;  7
+Mike Dodd           ;   M ;   3; 1  ;  205 ;  0
+Jim Easton          ;     ;  16; 15 ; 1330 ;  2
+Ivor Evans          ;   D ;  23; 23 ; 2128 ;  4
+Nick Gilbert        ;   F ;   4; 4  ;  267 ;  1
+Tim Kim             ;   D ;   9; 6  ;  723 ;  0
+Jean-Paul Knezevic  ;   D ;   2; 0  ;   49 ;  0
+Scott Macey         ;   M ;   1; 1  ;   90 ;  0
+Steve MacDonald     ;   D ;  21; 21 ; 1913 ;  0
+Doug McKinty        ;   D ;  20; 15 ; 1572 ;  0
+Steve Millar        ;   D ;   5; 5  ;  395 ;  0
+Dale Mitchell       ;   M ;  18; 13 ; 1274 ;  4
+Domenic Mobilio     ;   F ;  16; 16 ; 1317 ; 10
+Doug Morrill        ;   D ;   2; 2  ;  130 ;  0
+Doug Muirhead       ;   D ;  22; 17 ; 1712 ;  3
+Scott Munson        ;   F ;   6; 5  ;  487 ;  4
+David Norman        ;   D ;  13; 13 ; 1130 ;  0
+Norm Odinga         ;   D ;   9; 8  ;  633 ;  0
+Guido Tititto       ;   M ;   2; 2  ;  180 ;  0
+Carl Valentine      ;   F ;  15; 11 ; 1129 ;  1
+Mark Watson         ;   D ;   9; 8  ;  787 ;  0
 
 Season: 1992
 Team: Colorado Foxes
 
-Rafael Amaya           D    4/1    168   0
-
-Chad Ashton            M   15/14  1192   4
-
-Marcelo Balboa         D    5/5    428   1
-
-Taifour Diane          F   14/13  1234   10
-
-Ted Eck                M   15/13  1231   2
-
-Chris Edwinson              1/0     24   0
-
-Robin Fraser           D   16/16  1365   0
-
-Bryan Haynes           F   14/14  1220   2
-
-Jeff Hooker            F    7/6    525   1
-
-Chris John                  2/0     62   0
-
-Shawn Medved           F   15/12   964   3
-
-Mike Mikes                 15/16  1365   1
-
-Kim Roentved           D   11/10   928   0
-
-Jeff Rogers                 5/1    139   0
-
-Derek Sanderson-1           7/6    397   0
-
-Mark Santel            M   16/16  1455   1
-
-Chris Sarver                1/1     45   0
-
-Tom Soehn              M   15/15  1365   0
-
-Tom Stone              F   11/4    354   0
+Rafael Amaya        ;   D ;   4; 1  ;  168 ;  0
+Chad Ashton         ;   M ;  15; 14 ; 1192 ;  4
+Marcelo Balboa      ;   D ;   5; 5  ;  428 ;  1
+Taifour Diane       ;   F ;  14; 13 ; 1234 ;  10
+Ted Eck             ;   M ;  15; 13 ; 1231 ;  2
+Chris Edwinson      ;     ;   1; 0  ;   24 ;  0
+Robin Fraser        ;   D ;  16; 16 ; 1365 ;  0
+Bryan Haynes        ;   F ;  14; 14 ; 1220 ;  2
+Jeff Hooker         ;   F ;   7; 6  ;  525 ;  1
+Chris John          ;     ;   2; 0  ;   62 ;  0
+Shawn Medved        ;   F ;  15; 12 ;  964 ;  3
+Mike Mikes          ;     ;  15; 16 ; 1365 ;  1
+Kim Roentved        ;   D ;  11; 10 ;  928 ;  0
+Jeff Rogers         ;     ;   5; 1  ;  139 ;  0
+Derek Sanderson   ;     ;   7; 6  ;  397 ;  0
+*-1
+Mark Santel         ;   M ;  16; 16 ; 1455 ;  1
+Chris Sarver        ;     ;   1; 1  ;   45 ;  0
+Tom Soehn           ;   M ;  15; 15 ; 1365 ;  0
+Tom Stone           ;   F ;  11; 4  ;  354 ;  0
 
 Team: Fort Lauderdale Strikers
-Brian Ainscough        D    5/5    465   0
 
-Scott Bennen                6/2    379   0
-
-Mirko Castillo         F    2/2    116   0
-
-John Clare             D    8/8    663   1
-
-Neil Covone            D    5/3    330   0
-
-Jean Derivois          M   16/16  1356   0
-
-Troy Edwards           D   15/15  1374   2
-
-Eric Eichmann          F   12/12  1088   7
-
-Gerhard Gregoire            9/7    648   3
-
-Denis Hamlett          D   10/9    819   0
-
-Steve Kinsey               11/11   998   7
-
-Matt Knowles           M    3/3    237   0
-
-Zenon Luzniak          D    6/6    511   0
-
-Andrew McKay           D   14/14  1273   0
-
-Ivan McKinley          F   14/14  1227   0
-
-Miguel Muchotrigo          15/6    684   1
-
-Omid Namazi            M   14/11  1104   1
-
-Steve Pittman          D   16/16  1361   3
-
-Thomas Rongen          M    1/0      6   0
-
+Brian Ainscough     ;   D ;   5; 5  ;  465 ;  0
+Scott Bennen        ;     ;   6; 2  ;  379 ;  0
+Mirko Castillo      ;   F ;   2; 2  ;  116 ;  0
+John Clare          ;   D ;   8; 8  ;  663 ;  1
+Neil Covone         ;   D ;   5; 3  ;  330 ;  0
+Jean Derivois       ;   M ;  16; 16 ; 1356 ;  0
+Troy Edwards        ;   D ;  15; 15 ; 1374 ;  2
+Eric Eichmann       ;   F ;  12; 12 ; 1088 ;  7
+Gerhard Gregoire    ;     ;   9; 7  ;  648 ;  3
+Denis Hamlett       ;   D ;  10; 9  ;  819 ;  0
+Steve Kinsey        ;     ;  11; 11 ;  998 ;  7
+Matt Knowles        ;   M ;   3; 3  ;  237 ;  0
+Zenon Luzniak       ;   D ;   6; 6  ;  511 ;  0
+Andrew McKay        ;   D ;  14; 14 ; 1273 ;  0
+Ivan McKinley       ;   F ;  14; 14 ; 1227 ;  0
+Miguel Muchotrigo   ;     ;  15; 6  ;  684 ;  1
+Omid Namazi         ;   M ;  14; 11 ; 1104 ;  1
+Steve Pittman       ;   D ;  16; 16 ; 1361 ;  3
+Thomas Rongen       ;   M ;   1; 0  ;    6 ;  0
 Team: Miami Freedom
 
-
-Jose Angulo            F   11/7    742   1
-
-Kossivi Asare-Kokou         2/1    109   0
-
-Mark Barnett           M    8/7    510   0
-
-Scott Benedetti             7/7    630   3
-
-Roger Campagnola            8/3    434   0
-
-Juan Castillo          F   14/12  1006   1
-
-Javier Centeno              2/2    174   0
-
-Zico Doe               F   16/15  1244   4
-
-Miljice Donev          F   13/13  1069   0
-
-Chris Edwinson             13/13   870   1
-
-Kevin Grimes           M    1/0     20   0
-
-Darrin Karuzas         D    4/2    256   0
-
-John Klein             F    6/5    479   1
-
-Jorn Maessner          F    8/7    705   0
-
-Diego Mandagaran       D    4/2    233   1
-
-Luis Medina            M   15/15  1296   1
-
-Dorian Mesa                15/15  1265   0
-
-Dale Mulholland        D    9/6    532   0
-
-Victor Ogunsanya            5/5    576   1
-
-Boniface Ikafor             1/0     34   0
-
-Rodrique Rocques            2/1     42   0
-
-Derek Sanderson -1     F    5/5    335   2
-
-Arturo Velazco         D   15/15  1296   1
-
+Jose Angulo         ;   F ;  11; 7  ;  742 ;  1
+Kossivi Asare-Kokou ;     ;   2; 1  ;  109 ;  0
+Mark Barnett        ;   M ;   8; 7  ;  510 ;  0
+Scott Benedetti     ;     ;   7; 7  ;  630 ;  3
+Roger Campagnola    ;     ;   8; 3  ;  434 ;  0
+Juan Castillo       ;   F ;  14; 12 ; 1006 ;  1
+Javier Centeno      ;     ;   2; 2  ;  174 ;  0
+Zico Doe            ;   F ;  16; 15 ; 1244 ;  4
+Miljice Donev       ;   F ;  13; 13 ; 1069 ;  0
+Chris Edwinson      ;     ;  13; 13 ;  870 ;  1
+Kevin Grimes        ;   M ;   1; 0  ;   20 ;  0
+Darrin Karuzas      ;   D ;   4; 2  ;  256 ;  0
+John Klein          ;   F ;   6; 5  ;  479 ;  1
+Jorn Maessner       ;   F ;   8; 7  ;  705 ;  0
+Diego Mandagaran    ;   D ;   4; 2  ;  233 ;  1
+Luis Medina         ;   M ;  15; 15 ; 1296 ;  1
+Dorian Mesa         ;     ;  15; 15 ; 1265 ;  0
+Dale Mulholland     ;   D ;   9; 6  ;  532 ;  0
+Victor Ogunsanya    ;     ;   5; 5  ;  576 ;  1
+Boniface Ikafor     ;     ;   1; 0  ;   34 ;  0
+Rodrique Rocques    ;     ;   2; 1  ;   42 ;  0
+Derek Sanderson   ;   F ;   5; 5  ;  335 ;  2
+*-1
+Arturo Velazco      ;   D ;  15; 15 ; 1296 ;  1
 Team: San Francisco Bay Blackhawks
 
-Paul Bravo             F    7/7    535   1
-
-John Doyle             D    6/6    507   0
-
-John Garvey            M    6/6    570   1
-
-Paul Holocher          M   11/8    757   1
-
-Peter Isaacs           F   12/6    711   5
-
-Rick Iverson           D   14/12  1031   0
-
-Dominic Kinnear        M    3/3    267   0
-
-Joey Leonetti          M    8/8    765   2
-
-Bernie Lilavois        M    9/8    847   4
-
-Lawrence Lozzano       M    8/5    453   2
-
-Paul Mariner           M   10/8    831   0
-
-Tim Martin             D    1/1     90   0
-
-Mike Masters           F   16/16  1500   4
-
-Danny Pena             D    9/9    753   1
-
-Townsend Qin           M   14/14  1239   0
-
-Jorge Salazar          M    6/4    369   2
-
-Mark Semioli           D   16/15  1402   0
-
-Anthony Silva               9/9    810   0
-
-Derek Van Rheenen      D   10/10   930   3
-
-Justin Wall                 4/1    138   0
-
-Eric Wynalda                4/4    390   1
+Paul Bravo          ;   F ;   7; 7  ;  535 ;  1
+John Doyle          ;   D ;   6; 6  ;  507 ;  0
+John Garvey         ;   M ;   6; 6  ;  570 ;  1
+Paul Holocher       ;   M ;  11; 8  ;  757 ;  1
+Peter Isaacs        ;   F ;  12; 6  ;  711 ;  5
+Rick Iverson        ;   D ;  14; 12 ; 1031 ;  0
+Dominic Kinnear     ;   M ;   3; 3  ;  267 ;  0
+Joey Leonetti       ;   M ;   8; 8  ;  765 ;  2
+Bernie Lilavois     ;   M ;   9; 8  ;  847 ;  4
+Lawrence Lozzano    ;   M ;   8; 5  ;  453 ;  2
+Paul Mariner        ;   M ;  10; 8  ;  831 ;  0
+Tim Martin          ;   D ;   1; 1  ;   90 ;  0
+Mike Masters        ;   F ;  16; 16 ; 1500 ;  4
+Danny Pena          ;   D ;   9; 9  ;  753 ;  1
+Townsend Qin        ;   M ;  14; 14 ; 1239 ;  0
+Jorge Salazar       ;   M ;   6; 4  ;  369 ;  2
+Mark Semioli        ;   D ;  16; 15 ; 1402 ;  0
+Anthony Silva       ;     ;   9; 9  ;  810 ;  0
+Derek Van Rheenen   ;   D ;  10; 10 ;  930 ;  3
+Justin Wall         ;     ;   4; 1  ;  138 ;  0
+Eric Wynalda        ;     ;   4; 4  ;  390 ;  1
 
 Team: Tampa Bay Rowdies
 
-Mark Abboud            F    4/2    185   0
+Mark Abboud         ;   F ;   4; 2  ;  185 ;  0
+Derek Backman       ;   F ;  16; 16 ; 1484 ;  0
+Ralph Black         ;   M ;  14; 14 ; 1190 ;  0
+Chris Brauchle      ;   F ;   1; 0  ;   26 ;  0
+Chris Charles       ;   D ;   3; 3  ;  258 ;  0
+Uno DiCullo         ;     ;   1; 0  ;   34 ;  0
+Phillip Gyau        ;   F ;  16; 16 ; 1442 ;  7
+Jean Harbor         ;   F ;  15; 15 ; 1392 ; 13
+Ricky Hill          ;     ;  16; 15 ; 1384 ;  1
+Giles Hooper        ;   D ;   8; 5  ;  579 ;  0
+Jimmy McGeough      ;   D ;  12; 11 ;  957 ;  1
+Popoulias           ;     ;   1; 1  ;  103 ;  0
+Tommy Reasoner      ;   D ;  11; 10 ;  981 ;  2
+Terry Rowe          ;   D ;  10; 7  ;  696 ;  0
+Rob Ryerson         ;   M ;   1; 0  ;    6 ;  0
+Kevin Sloan         ;   M ;  14; 13 ; 1209 ;  7
+Steve Trittschuh    ;     ;  16; 16 ; 1484 ;  2
+Perry Van Der Beck  ;   M ;  16; 16 ; 1445 ;  1
 
-Derek Backman          F   16/16  1484   0
-
-Ralph Black            M   14/14  1190   0
-
-Chris Brauchle         F    1/0     26   0
-
-Chris Charles          D    3/3    258   0
-
-Uno DiCullo                 1/0     34   0
-
-Phillip Gyau           F   16/16  1442   7
-
-Jean Harbor            F   15/15  1392  13
-
-Ricky Hill                 16/15  1384   1
-
-Giles Hooper           D    8/5    579   0
-
-Jimmy McGeough         D   12/11   957   1
-
-Popoulias                   1/1    103   0
-
-Tommy Reasoner         D   11/10   981   2
-
-Terry Rowe             D   10/7    696   0
-
-Rob Ryerson            M    1/0      6   0
-
-Kevin Sloan            M   14/13  1209   7
-
-Steve Trittschuh           16/16  1484   2
-
-Perry Van Der Beck     M   16/16  1445   1
-
- 
 Season: 1991
-
 Team: Albany Capitals
 
-Jorge Acosta           F   10/8    522  1
-
-Ramiro Borja           M   15/15  1299  7
-
-David Caetano          D    9/8    813  0
-
-Scott Cannon           D   14/13  1261  0
-
-Shaun Elliot           M   13/13  1035  0
-
-John Garvey          M    9/9    792  4
-
-Ted Gillen             D    1/1     34  0
-
-Jeff Guinn             D   14/14  1297  0
-
-Peter Ilic             M    8/4    459  0
-
-Todd Jackson           D   15/12  1177  0
-
-Paul Mariner           M   17/17  1561  1
-
-Mike Masters           F   21/21  1928  7
-
-Jimmy McGeough       D    5/5    450  0
-
-Zoran Savic            F    8/7    647  2
-
-Dave Smyth             D   19/19  1739  0
-
-Chris Szanto           D   14/14  1195  1
-
-Lee Tschantret         F   20/16  1685  2
-
-Tony Vaughn            F    9/6    572  0
-
-Franz Zwicklbauer      F   14/7    828  2
+Jorge Acosta        ;   F ;  10; 8  ;  522 ; 1
+Ramiro Borja        ;   M ;  15; 15 ; 1299 ; 7
+David Caetano       ;   D ;   9; 8  ;  813 ; 0
+Scott Cannon        ;   D ;  14; 13 ; 1261 ; 0
+Shaun Elliot        ;   M ;  13; 13 ; 1035 ; 0
+John Garvey         ; M   ; 9; 9  ;  792 ; 4
+Ted Gillen          ;   D ;   1; 1  ;   34 ; 0
+Jeff Guinn          ;   D ;  14; 14 ; 1297 ; 0
+Peter Ilic          ;   M ;   8; 4  ;  459 ; 0
+Todd Jackson        ;   D ;  15; 12 ; 1177 ; 0
+Paul Mariner        ;   M ;  17; 17 ; 1561 ; 1
+Mike Masters        ;   F ;  21; 21 ; 1928 ; 7
+Jimmy McGeough      ; D   ; 5; 5  ;  450 ; 0
+Zoran Savic         ;   F ;   8; 7  ;  647 ; 2
+Dave Smyth          ;   D ;  19; 19 ; 1739 ; 0
+Chris Szanto        ;   D ;  14; 14 ; 1195 ; 1
+Lee Tschantret      ;   F ;  20; 16 ; 1685 ; 2
+Tony Vaughn         ;   F ;   9; 6  ;  572 ; 0
+Franz Zwicklbauer   ;   F ;  14; 7  ;  828 ; 2
 
 Team: Colorado Foxes
 
-Rafael Amaya           D   10/4    480   0
-
-Chad Ashton            M   17/17  1375   3
-
-Bill Becher            M   15/12  1106   2
-
-Scott Benedetti        F   19/17  1515   5
-
-Zico Doe               F   17/15  1176  12
-
-Steve Eise             D   19/19  1567   1
-
-Robin Fraser           D   18/18  1635   3
-
-Mike Getchel           M    4/4    686   0
-
-Jeff Hooker            F   19/17  1578   3
-
-Paul Krumpe            D    6/3    350   0
-
-Franklin McIntosh      M    7/7    471   0
-
-Shawn Medved           F   10/9    708   3
-
-Mike Mikes                 19/19  1704   0
-
-Efren Rodarte          M   13/1    371   1
-
-Marcelo Toscanelli     M   13/11   900   0
-
-Arturo Velazco         D   17/17  1530   1
+Rafael Amaya        ;   D ;  10; 4  ;  480 ;  0
+Chad Ashton         ;   M ;  17; 17 ; 1375 ;  3
+Bill Becher         ;   M ;  15; 12 ; 1106 ;  2
+Scott Benedetti     ;   F ;  19; 17 ; 1515 ;  5
+Zico Doe            ;   F ;  17; 15 ; 1176 ; 12
+Steve Eise          ;   D ;  19; 19 ; 1567 ;  1
+Robin Fraser        ;   D ;  18; 18 ; 1635 ;  3
+Mike Getchel        ;   M ;   4; 4  ;  686 ;  0
+Jeff Hooker         ;   F ;  19; 17 ; 1578 ;  3
+Paul Krumpe         ;   D ;   6; 3  ;  350 ;  0
+Franklin McIntosh   ;   M ;   7; 7  ;  471 ;  0
+Shawn Medved        ;   F ;  10; 9  ;  708 ;  3
+Mike Mikes          ;     ;  19; 19 ; 1704 ;  0
+Efren Rodarte       ;   M ;  13; 1  ;  371 ;  1
+Marcelo Toscanelli  ;   M ;  13; 11 ;  900 ;  0
+Arturo Velazco      ;   D ;  17; 17 ; 1530 ;  1
 
 Team: Fort Lauderdale Strikers
 
-John Clare             D   16/16  1528   2
-
-Neil Covone            D   12/11   992   1
-
-Jean Derivois          M   18/15  1514   2
-
-Milijce Donev          F   12/8    976   0
-
-Paul Dougherty         M   11/11  1020   6
-
-Troy Edwards           D   18/18  1631   2
-
-Dale Ervine                 8/8    844   3
-
-Adrian Gaiten          M    7/4    488   1
-
-Alvin James            M   17/14  1337   2
-
-Zenon Luzniak          D    5/1    323   1
-
-John  Maessner         F   11/8    828   0
-
-Andrew McKay           D   17/16  1437   6
-
-Ivan McKinley          F   14/13  1120   4
-
-Victor Moreland            17/16  1466   0
-
-Steve Pittman          D   14/14  1239   2
-
-Thomas Rongen          M    2/2    144   0
-
-Derek Sanderson      F   10/10   896   7
-
-Scott Snyder           F    4/4    311   0
-
+John Clare          ;   D ;  16; 16 ; 1528 ;  2
+Neil Covone         ;   D ;  12; 11 ;  992 ;  1
+Jean Derivois       ;   M ;  18; 15 ; 1514 ;  2
+Milijce Donev       ;   F ;  12; 8  ;  976 ;  0
+Paul Dougherty      ;   M ;  11; 11 ; 1020 ;  6
+Troy Edwards        ;   D ;  18; 18 ; 1631 ;  2
+Dale Ervine         ;     ;   8; 8  ;  844 ;  3
+Adrian Gaiten       ;   M ;   7; 4  ;  488 ;  1
+Alvin James         ;   M ;  17; 14 ; 1337 ;  2
+Zenon Luzniak       ;   D ;   5; 1  ;  323 ;  1
+John  Maessner      ;   F ;  11; 8  ;  828 ;  0
+Andrew McKay        ;   D ;  17; 16 ; 1437 ;  6
+Ivan McKinley       ;   F ;  14; 13 ; 1120 ;  4
+Victor Moreland     ;     ;  17; 16 ; 1466 ;  0
+Steve Pittman       ;   D ;  14; 14 ; 1239 ;  2
+Thomas Rongen       ;   M ;   2; 2  ;  144 ;  0
+Derek Sanderson     ; F   ;10; 10 ;  896 ;  7
+Scott Snyder        ;   F ;   4; 4  ;  311 ;  0
 
 Team: Maryland Bays
 
-John Abe               M   16/14  1195   2
-
-Jeff Agoos             D    5/4    404   0
-
-Desmond Armstrong      D    5/4    312   0
-
-Joe Barger             D   18/18  1566   0
-
-Michael Brady          F    5/5    345   1
-
-Scott Cook             F   13/6    503   1
-
-Kurt Dasbach           F    5/1    181   1
-
-Darryl Gee             D   16/16  1419   0
-
-George Gelnovatch      D   18/17  1578   0
-
-Phillip Gyau           F   10/9    820   3
-
-Jean Harbor            F   20/20  1778  17
-
-Bryan Haynes           F   20/20  1775   9
-
-Bob Liley              M   11/7    507   0
-
-Sam Magione                 2/0     22   0
-
-Bruce Murray           M    9/8    729   2
-
-Omid Namazi            M   16/16  1416   1
-
-Jeff Nattans           D    6/5    458   0
-
-Chris Reif             M   16/16  1455   1
-
-Richard Ryerson      M    2/0     99   0
-
-Kevin Sloan            M   17/16  1520  14
+John Abe            ;   M ;  16; 14 ; 1195 ;  2
+Jeff Agoos          ;   D ;   5; 4  ;  404 ;  0
+Desmond Armstrong   ;   D ;   5; 4  ;  312 ;  0
+Joe Barger          ;   D ;  18; 18 ; 1566 ;  0
+Michael Brady       ;   F ;   5; 5  ;  345 ;  1
+Scott Cook          ;   F ;  13; 6  ;  503 ;  1
+Kurt Dasbach        ;   F ;   5; 1  ;  181 ;  1
+Darryl Gee          ;   D ;  16; 16 ; 1419 ;  0
+George Gelnovatch   ;   D ;  18; 17 ; 1578 ;  0
+Phillip Gyau        ;   F ;  10; 9  ;  820 ;  3
+Jean Harbor         ;   F ;  20; 20 ; 1778 ; 17
+Bryan Haynes        ;   F ;  20; 20 ; 1775 ;  9
+Bob Liley           ;   M ;  11; 7  ;  507 ;  0
+Sam Magione         ;     ;   2; 0  ;   22 ;  0
+Bruce Murray        ;   M ;   9; 8  ;  729 ;  2
+Omid Namazi         ;   M ;  16; 16 ; 1416 ;  1
+Jeff Nattans        ;   D ;   6; 5  ;  458 ;  0
+Chris Reif          ;   M ;  16; 16 ; 1455 ;  1
+Richard Ryerson     ; M   ; 2; 0  ;   99 ;  0
+Kevin Sloan         ;   M ;  17; 16 ; 1520 ; 14
 
 Team: Miami Freedom
 
-Celvin Alonzo          D    9/9    753   0
-
-Ricardo Alonso         D   18/18  1594   2
-
-Alex Bahr              M    5/1    182   0
-
-Laszlo Barna               16/12  1160   4
-
-Mark Barnett           M   12/12  1001   2
-
-Brown                       1/0     79   0
-
-Ken Borden             D    7/7    734   0
-
-Juan Castillo          F   10/10   881   0
-
-Chrinos                    11/11   990   0
-
-Hugo DeCasanova        M    7/2    311   0
-
-Euclides DeGouveia     D   19/19  1612   2
-
-Paul Dougherty -2      M    5/5    456   1
-
-John Garvey            M    8/7    684   0
-
-Grant Gibbs            D    6/6    531   0
-
-Rick Iverson           D    7/7    651   0
-
-Brian Japp             D    9/9    765   0
-
-Pedro Magellanes       F    5/5    323   0
-
-Jimmy McGeough -1      D    8/8    735   0
-
-Dorian Mesa                10/10   835   0
-
-Dale Mulholland        D   18/11  1226   1
-
-Benjamin Ortiz         F    7/4    285   0
-
-Fernando Ramos         M    9/6    628   0
-
-Ken Snow               F   11/10   865   5
-
-Juan Valencia          D    7/7    471   0
-
-Huber Vallejo          D    7/6    547   0
+Celvin Alonzo       ;   D ;   9; 9  ;  753 ;  0
+Ricardo Alonso      ;   D ;  18; 18 ; 1594 ;  2
+Alex Bahr           ;   M ;   5; 1  ;  182 ;  0
+Laszlo Barna        ;     ;  16; 12 ; 1160 ;  4
+Mark Barnett        ;   M ;  12; 12 ; 1001 ;  2
+Brown               ;     ;   1; 0  ;   79 ;  0
+Ken Borden          ;   D ;   7; 7  ;  734 ;  0
+Juan Castillo       ;   F ;  10; 10 ;  881 ;  0
+Chrinos             ;     ;  11; 11 ;  990 ;  0
+Hugo DeCasanova     ;   M ;   7; 2  ;  311 ;  0
+Euclides DeGouveia  ;   D ;  19; 19 ; 1612 ;  2
+Paul Dougherty    ;   M ;   5; 5  ;  456 ;  1
+*-2
+John Garvey         ;   M ;   8; 7  ;  684 ;  0
+Grant Gibbs         ;   D ;   6; 6  ;  531 ;  0
+Rick Iverson        ;   D ;   7; 7  ;  651 ;  0
+Brian Japp          ;   D ;   9; 9  ;  765 ;  0
+Pedro Magellanes    ;   F ;   5; 5  ;  323 ;  0
+Jimmy McGeough    ;   D ;   8; 8  ;  735 ;  0
+*-1
+Dorian Mesa         ;     ;  10; 10 ;  835 ;  0
+Dale Mulholland     ;   D ;  18; 11 ; 1226 ;  1
+Benjamin Ortiz      ;   F ;   7; 4  ;  285 ;  0
+Fernando Ramos      ;   M ;   9; 6  ;  628 ;  0
+Ken Snow            ;   F ;  11; 10 ;  865 ;  5
+Juan Valencia       ;   D ;   7; 7  ;  471 ;  0
+Huber Vallejo       ;   D ;   7; 6  ;  547 ;  0
 
 Team: Penn-Jersey Spirit
 
-Jorge Acosta           F    8/8    711   0
-
-Brian Aiscough         D   12/12  1104   1
-
-Greg Bajek             F   10/5    658   1
-
-Kyle Boschen           D   10/9    930   0
-
-Dave Cardie            F    1/1     38   0
-
-John Diffley           M   17/15  1369   0
-
-Dan Donigan            F   11/9    905   0
-
-Paul Duffy             M   18/18  1369   4
-
-Milton Espinoza        D    9/9    698   0
-
-Brent Fenstermacher    M    3/2    130   0
-
-Guy Furfaro            F    7/4    264   0
-
-Ted Gillen             D   11/9    871   0
-
-Andrew Hoffman         D   16/14  1258   0
-
-Ernest Inneh                1/1     90   1
-
-Silvia Ivantr          F    1/1     90   0
-
-Matt Knowles           M   10/8    665   1
-
-Richard Maher          D    8/8    698   0
-
-Bill Manning           D    3/3    270   0
-
-Dave Masur             D    8/8    699   2
-
-Tom McKeown            M    5/5    401   1
-
-George Nazario         D   10/7    633   1
-
-Steve Rammell          F    7/5    546   2
-
-Duan Robinson          F   10/9    823   3
-
-Carlos Rodriguez       D    7/4    399   2
-
-Pat O'Kelly            M   17/16  1553   4
-
-Wellerson Silva        F   12/10   928   1
-
-Maurice Simbarcelos    M   10/10   930   1
-
- 
+Jorge Acosta        ;   F ;   8; 8  ;  711 ;  0
+Brian Aiscough      ;   D ;  12; 12 ; 1104 ;  1
+Greg Bajek          ;   F ;  10; 5  ;  658 ;  1
+Kyle Boschen        ;   D ;  10; 9  ;  930 ;  0
+Dave Cardie         ;   F ;   1; 1  ;   38 ;  0
+John Diffley        ;   M ;  17; 15 ; 1369 ;  0
+Dan Donigan         ;   F ;  11; 9  ;  905 ;  0
+Paul Duffy          ;   M ;  18; 18 ; 1369 ;  4
+Milton Espinoza     ;   D ;   9; 9  ;  698 ;  0
+Brent Fenstermacher ;   M ;   3; 2  ;  130 ;  0
+Guy Furfaro         ;   F ;   7; 4  ;  264 ;  0
+Ted Gillen          ;   D ;  11; 9  ;  871 ;  0
+Andrew Hoffman      ;   D ;  16; 14 ; 1258 ;  0
+Ernest Inneh        ;     ;   1; 1  ;   90 ;  1
+Silvia Ivantr       ;   F ;   1; 1  ;   90 ;  0
+Matt Knowles        ;   M ;  10; 8  ;  665 ;  1
+Richard Maher       ;   D ;   8; 8  ;  698 ;  0
+Bill Manning        ;   D ;   3; 3  ;  270 ;  0
+Dave Masur          ;   D ;   8; 8  ;  699 ;  2
+Tom McKeown         ;   M ;   5; 5  ;  401 ;  1
+George Nazario      ;   D ;  10; 7  ;  633 ;  1
+Steve Rammell       ;   F ;   7; 5  ;  546 ;  2
+Duan Robinson       ;   F ;  10; 9  ;  823 ;  3
+Carlos Rodriguez    ;   D ;   7; 4  ;  399 ;  2
+Pat O'Kelly         ;   M ;  17; 16 ; 1553 ;  4
+Wellerson Silva     ;   F ;  12; 10 ;  928 ;  1
+Maurice Simbarcelos ;   M ;  10; 10 ;  930 ;  1
 
 Team: Salt Lake Sting
 
-Paul Hansen            D   10/10   930   0
-
-Jim Hutchinson         F    4/4    293   1
-
-Thor Lee                   11/11  1020   0
-
-Dominic Militello          10/9    826   0
-
-George Pastor          F    6/6    555   1
-
-Cesar Plasencia        M    9/9    840   0
-
-Jeff Rodgers               10/9    757   1
-
-Richard Ryerson      M   11/11  1020   0
-
-Derek Sanderson      M    9/8    670   3
-
-Steve Sengleman        D   10/10   850   1
-
-Brad Smith                 11/6    600   1
-
-Paul Tell              D    5/3    375   0
-
-Dzung Traan          F   10/9    827   5
-
-Chris Wentien          D    6/5    467   0
+Paul Hansen         ;   D ;  10; 10 ;  930 ;  0
+Jim Hutchinson      ;   F ;   4; 4  ;  293 ;  1
+Thor Lee            ;     ;  11; 11 ; 1020 ;  0
+Dominic Militello   ;     ;  10; 9  ;  826 ;  0
+George Pastor       ;   F ;   6; 6  ;  555 ;  1
+Cesar Plasencia     ;   M ;   9; 9  ;  840 ;  0
+Jeff Rodgers        ;     ;  10; 9  ;  757 ;  1
+Richard Ryerson     ; M   ;11; 11 ; 1020 ;  0
+Derek Sanderson     ; M   ; 9; 8  ;  670 ;  3
+Steve Sengleman     ;   D ;  10; 10 ;  850 ;  1
+Brad Smith          ;     ;  11; 6  ;  600 ;  1
+Paul Tell           ;   D ;   5; 3  ;  375 ;  0
+Dzung Traan         ; F   ;10; 9  ;  827 ;  5
+Chris Wentien       ;   D ;   6; 5  ;  467 ;  0
 
 Team: San Francisco Bay Blackhawks
 
-Jeff Baicher           M   17/14  1343   3
-
-Marcelo Balboa         D    7/7    611   3
-
-Paul Bravo             F   18/17  1557   2
-
-Steve Corpening        F    5/0     89   0
-
-Troy Dayak             D   14/14  1265   0
-
-Chance Fry             F   17/13  1238   5
-
-Paul Holocher          M    9/8    585   2
-
-Peter Isaacs           F    2/0     49   1
-
-Mark Kerlin            F    5/1    162   0
-
-Dominic Kinnear        M    6/6    512   1
-
-Bernie Lilavois        M    5/3    327   1
-
-Lawrence Lozzano       D    9/9    735   0
-
-Tim Martin             D   17/17  1548   1
-
-Danny Pena             D   14/14  1316   0
-
-Townsend Qin           M   19/16  1502   6
-
-Jorge Salazar          M   13/11  1037   3
-
-Mark Semioli           D    6/6    570   0
-
-Joe Silva              D    4/4    360   0
-
-Dzung Tran -1          F    6/6    460   0
-
-Derek Van Rheenen      D   18/18  1679   1
-
-Scott Wulferdingen     F    4/1    150   0
-
-Eric Wynalda           F    7/7    617   1
+Jeff Baicher        ;   M ;  17; 14 ; 1343 ;  3
+Marcelo Balboa      ;   D ;   7; 7  ;  611 ;  3
+Paul Bravo          ;   F ;  18; 17 ; 1557 ;  2
+Steve Corpening     ;   F ;   5; 0  ;   89 ;  0
+Troy Dayak          ;   D ;  14; 14 ; 1265 ;  0
+Chance Fry          ;   F ;  17; 13 ; 1238 ;  5
+Paul Holocher       ;   M ;   9; 8  ;  585 ;  2
+Peter Isaacs        ;   F ;   2; 0  ;   49 ;  1
+Mark Kerlin         ;   F ;   5; 1  ;  162 ;  0
+Dominic Kinnear     ;   M ;   6; 6  ;  512 ;  1
+Bernie Lilavois     ;   M ;   5; 3  ;  327 ;  1
+Lawrence Lozzano    ;   D ;   9; 9  ;  735 ;  0
+Tim Martin          ;   D ;  17; 17 ; 1548 ;  1
+Danny Pena          ;   D ;  14; 14 ; 1316 ;  0
+Townsend Qin        ;   M ;  19; 16 ; 1502 ;  6
+Jorge Salazar       ;   M ;  13; 11 ; 1037 ;  3
+Mark Semioli        ;   D ;   6; 6  ;  570 ;  0
+Joe Silva           ;   D ;   4; 4  ;  360 ;  0
+Dzung Tran        ;   F ;   6; 6  ;  460 ;  0
+*-1
+Derek Van Rheenen   ;   D ;  18; 18 ; 1679 ;  1
+Scott Wulferdingen  ;   F ;   4; 1  ;  150 ;  0
+Eric Wynalda        ;   F ;   7; 7  ;  617 ;  1
 
 Team: Tampa Bay Rowdies
 
-Alan Anderson          M   12/9    787   0
-
-Derek Backman          F   19/19  1701   4
-
-Chris Brauchle         F   15/10   999   2
-
-David Byrne            M   18/17  1477   2
-
-Marcelo Carrera        M   15/14  1286   3
-
-Martin Hill            M   16/12  1047   3
-
-Giles Hooper           D   14/13  1229   0
-
-Steve Kinsey           F    5/4    323   0
-
-Chico Morreira         D   13/12  1119   2
-
-Raymond Perlee         M   10/8    612   2
-
-Garth Pollonias        F    4/2    171   0
-
-Tom Reasoner           D   17/17  1521   0
-
-Terry Rowe             D   17/17  1094   0
-
-Brad Smith             F    5/3    257   0
-
-Steve Trittschuh       D    7/7    607   0
-
-Perry Van Der Beck     M   19/19  1701   2
-
-Peter Vermes           F    3/2    225   1
-
-Peter Ward             F   14/10   852   2
-
+Alan Anderson       ;   M ;  12; 9  ;  787 ;  0
+Derek Backman       ;   F ;  19; 19 ; 1701 ;  4
+Chris Brauchle      ;   F ;  15; 10 ;  999 ;  2
+David Byrne         ;   M ;  18; 17 ; 1477 ;  2
+Marcelo Carrera     ;   M ;  15; 14 ; 1286 ;  3
+Martin Hill         ;   M ;  16; 12 ; 1047 ;  3
+Giles Hooper        ;   D ;  14; 13 ; 1229 ;  0
+Steve Kinsey        ;   F ;   5; 4  ;  323 ;  0
+Chico Morreira      ;   D ;  13; 12 ; 1119 ;  2
+Raymond Perlee      ;   M ;  10; 8  ;  612 ;  2
+Garth Pollonias     ;   F ;   4; 2  ;  171 ;  0
+Tom Reasoner        ;   D ;  17; 17 ; 1521 ;  0
+Terry Rowe          ;   D ;  17; 17 ; 1094 ;  0
+Brad Smith          ;   F ;   5; 3  ;  257 ;  0
+Steve Trittschuh    ;   D ;   7; 7  ;  607 ;  0
+Perry Van Der Beck  ;   M ;  19; 19 ; 1701 ;  2
+Peter Vermes        ;   F ;   3; 2  ;  225 ;  1
+Peter Ward          ;   F ;  14; 10 ;  852 ;  2
