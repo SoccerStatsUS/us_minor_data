@@ -1,1191 +1,1191 @@
 Competition: USL Second Division
-Key: season	team	number	name	position	games_played	minutes	goals	assists	shots	fouls
+Key: season; team; number; name; position; games_played; minutes; goals; assists; shots; fouls
 
-2005	Harrisburg City Islanders	7	Bartholomew, Art	M/F	3	157			4	5
-2005	Harrisburg City Islanders	0	Bishop, Sam	GK	1	6				
-2005	Harrisburg City Islanders	6	Bixler, Dustin	D	18	1620			2	23
-2005	Harrisburg City Islanders	22	Clay, Adam	D/M	17	852	1	2	5	19
-2005	Harrisburg City Islanders	23	Crawford, Shane	D/M	18	1485	2	1	33	20
-2005	Harrisburg City Islanders	12	Crist, Matt	M	9	130		1	1	2
-2005	Harrisburg City Islanders	8	Custer, Steve	M/F	2	97			1	1
-2005	Harrisburg City Islanders	14	Dorsey, J.T.	D	17	1501			1	25
-2005	Harrisburg City Islanders	2	Fisher, Steve	M/F	18	896	5	3	22	7
-2005	Harrisburg City Islanders	1	Hill, Bryan	GK	9	790				2
-2005	Harrisburg City Islanders	16	Ibrahim, Sumed	M/F	16	1176	10	3	37	11
-2005	Harrisburg City Islanders	0	Kern, Dave	GK	12	1010				1
-2005	Harrisburg City Islanders	11	Lapore, John	D/M	12	712			2	8
-2005	Harrisburg City Islanders	20	Mensah, Henry	M/F	9	302			7	9
-2005	Harrisburg City Islanders	17	O'Neill, Ryan		9	631	1	2	7	5
-2005	Harrisburg City Islanders	19	Oduor, Mo	M/D	16	1196	2		17	36
-2005	Harrisburg City Islanders	21	Potteiger, Derek	M	16	1293	1	1	9	15
-2005	Harrisburg City Islanders	4	Rutter, Tommy	D	12	992			2	6
-2005	Harrisburg City Islanders	10	Schofield, David	M/F	13	1020	1	5	25	9
-2005	Harrisburg City Islanders	3	Schultz, Adam	D	18	1116		2	5	7
-2005	Harrisburg City Islanders	15	Severs, Chad	F	19	1480	13	5	49	18
-2005	Harrisburg City Islanders	9	Showers, Bernie	F	16	371	4		13	3
-2005	Harrisburg City Islanders	18	Stone, Jimmy	M/F	11	308	1		5	5
-2005	Harrisburg City Islanders	13	Tanzini, Matt	F	15	675	2	3	18	13
-2005	Harrisburg City Islanders	5	Tyrrell, Craig	D/M	1	1				
-2005	Cincinnati Kings	9	Baah, Peter		6	244			3	6
-2005	Cincinnati Kings	17	Barton, Joshua		6	480	1		5	8
-2005	Cincinnati Kings	5	Caldwell, Jon		18	951	1		15	10
-2005	Cincinnati Kings	23	Carey, Simon	F	5	150			3	3
-2005	Cincinnati Kings	14	Celeste, Mesac		2	180				2
-2005	Cincinnati Kings	11	Cummings, John (Jack)	M	18	1574	2	3	51	21
-2005	Cincinnati Kings	23	Dagnogo, Moussa		6	462	3		25	4
-2005	Cincinnati Kings	13	Fiore, Salvator		18	1471	3	2	13	31
-2005	Cincinnati Kings	22	Gibson, Eric (Matt)		8	704				
-2005	Cincinnati Kings	9	Gross, Albert		4	69				5
-2005	Cincinnati Kings	12	Hughes, Jeffrey		20	1420	2	2	23	8
-2005	Cincinnati Kings	4	Jones, Bret (Eric)		11	885	1		5	14
-2005	Cincinnati Kings	10	Kithas, George	F	18	1272	5	1	26	37
-2005	Cincinnati Kings	6	Lagunas, Ruben		5	97			1	
-2005	Cincinnati Kings	2	Liersemann, John		12	676	1	1	11	7
-2005	Cincinnati Kings	7	Lubega, Abdul		11	291	1	1	8	5
-2005	Cincinnati Kings	24	Madden, Jonathan	GK						
-2005	Cincinnati Kings	8	McCloskey, Kevin		18	1527	1		16	57
-2005	Cincinnati Kings	19	McGinlay, John		3	94			1	1
-2005	Cincinnati Kings	20	Pickup, Jonathan	D	9	690		1	1	13
-2005	Cincinnati Kings	4	Rhodis, Craig		2	180		1		
-2005	Cincinnati Kings	1	Schaeper, Brian		14	1096				1
-2005	Cincinnati Kings	16	Schulte, Wes	D	15	1237	1		10	19
-2005	Cincinnati Kings	17	Shteiwi, Jamal		3	86			1	1
-2005	Cincinnati Kings	21	Smith, Derek	D	20	1794	1		14	34
-2005	Cincinnati Kings	18	Sobers, Travis	F	17	686	4	2	14	17
-2005	Cincinnati Kings	15	Sondaal, Tiest	D	18	1559		3	7	36
-2005	Pittsburgh Riverhounds	5	Bajek, Brian		1	10				1
-2005	Pittsburgh Riverhounds	4	Barnes, Devlin		13	845	1	1	7	21
-2005	Pittsburgh Riverhounds	24	Bastidas, Vincente (Vinny)	M	18	1260	4	2	19	20
-2005	Pittsburgh Riverhounds	20	Bezbatchenko, Tim	M	19	1260	1	1	6	21
-2005	Pittsburgh Riverhounds	5	Bragg, Richard (Cody)	D	9	734			1	6
-2005	Pittsburgh Riverhounds	8	Calvano, Anthony		18	1387	1	3	12	20
-2005	Pittsburgh Riverhounds	21	Caushaj, Granit	M/F	13	219	1		4	6
-2005	Pittsburgh Riverhounds	3	Connell, Jason							
-2005	Pittsburgh Riverhounds	13	Flavius, David	F	20	1604	8	1	53	23
-2005	Pittsburgh Riverhounds	23	Hartung, Daniel (Dan)	M	5	311	1		5	2
-2005	Pittsburgh Riverhounds	12	Heasley, Lucas	GK	2	135				
-2005	Pittsburgh Riverhounds	21	Koranteng, Reggie	D	18	1009	3	4	8	8
-2005	Pittsburgh Riverhounds	4	Liersemann, John		3	144			4	3
-2005	Pittsburgh Riverhounds	7	MacKenzie, Derek		15	856		1	7	12
-2005	Pittsburgh Riverhounds	19	Manning, Ahmad	M	8	294	1		7	4
-2005	Pittsburgh Riverhounds	25	McNelis, Terrance (Terry)	GK	9	779				
-2005	Pittsburgh Riverhounds	20	Mehler, Matthew		17	1328	1	1	5	13
-2005	Pittsburgh Riverhounds	17	Monka, Bryan	D	10	588				9
-2005	Pittsburgh Riverhounds	24	Mupier, Mira	F	11	337		1	6	11
-2005	Pittsburgh Riverhounds	27	Pottinger, Damien		14	978	3	2	26	9
-2005	Pittsburgh Riverhounds	22	Robinson, Chris	GK	11	886				1
-2005	Pittsburgh Riverhounds	6	Salsi, Nathan	D	18	1530	1	2	13	18
-2005	Pittsburgh Riverhounds	9	Thompson, Evaud	F	16	779	4		17	18
-2005	Pittsburgh Riverhounds	14	Victor, Gregory	F	17	857	1	2	10	18
-2005	Pittsburgh Riverhounds	2	Vidmar, Joseph	D	19	1677			2	27
-2005	Wilmington Hammerheads	33	Bagley, Christopher		10	398	7	2	20	5
-2005	Wilmington Hammerheads	24	Bragoli, Daniele		2	37			1	1
-2005	Wilmington Hammerheads	3	Bryant, Brady	D	16	1342			6	27
-2005	Wilmington Hammerheads	16	Bundy, Kenneth		20	1369	4	6	25	17
-2005	Wilmington Hammerheads	8	Capecci, Daniel	D	3	20			1	
-2005	Wilmington Hammerheads	6	Chase, Paul	D	17	1194		5	11	11
-2005	Wilmington Hammerheads	10	Corrie, George	M	19	1589	2		16	32
-2005	Wilmington Hammerheads	18	Crandell, Chad		8	358		1	6	5
-2005	Wilmington Hammerheads	13	Creasman, Bartley (Bart)		10	900				
-2005	Wilmington Hammerheads	7	Gledhill, James (Gleddy)	F	17	1347	10	6	40	27
-2005	Wilmington Hammerheads	21	Hill, Benjamin (Ben)	F						
-2005	Wilmington Hammerheads	14	Hufstader, Philip	M	16	783	4		14	22
-2005	Wilmington Hammerheads	29	James, Jordan	GK	10	900				
-2005	Wilmington Hammerheads	16	Krupnik, Leonid (Leo)	D	15	1350		2	7	18
-2005	Wilmington Hammerheads	23	Lesesne, Troy		4	255		1	2	4
-2005	Wilmington Hammerheads	19	Lindal, Thomas	D	9	437				3
-2005	Wilmington Hammerheads	8	Long, Phillip		11	362			5	5
-2005	Wilmington Hammerheads	17	Miller, Ryan	F	16	1318	7	1	32	26
-2005	Wilmington Hammerheads	4	Murray, Stephen	M	12	567	1		8	11
-2005	Wilmington Hammerheads	12	Nylen, Kevin	D	15	1062	3		9	28
-2005	Wilmington Hammerheads	20	Popovich, Derek		16	1289	2	1	26	31
-2005	Wilmington Hammerheads	25	Rudisill, William		7	195		3	6	3
-2005	Wilmington Hammerheads	12	Seabrook, Montae		7	429	1		2	2
-2005	Wilmington Hammerheads	2	Webb, Gannon		6	516			1	6
-2005	Wilmington Hammerheads	1	Wiggans, Keith	GK						
-2005	Wilmington Hammerheads	11	Wright, Anthony		16	1322			9	6
-2005	Wilmington Hammerheads	15	Zarate, Juvenal (Junior)	M/F	16	389	2	3	14	12
-2005	Charlotte Eagles	0	Boss, Terry	GK	2	110				
-2005	Charlotte Eagles	13	Casey, Sam	F	18	601	3	1	8	11
-2005	Charlotte Eagles	20	Coggins, Jacob	F	17	1469	14	4	50	32
-2005	Charlotte Eagles	19	Daka, Patrick	M/F	19	1410	3	1	34	16
-2005	Charlotte Eagles	5	Dinunzio, Ryan	D	17	1080		3	2	8
-2005	Charlotte Eagles	19	Faro, Aaron	D	17	1306		1	6	4
-2005	Charlotte Eagles	13	Fray, Tafaria	M/F	9	239			1	3
-2005	Charlotte Eagles	14	Guastaferro, Andrew		6	354			5	6
-2005	Charlotte Eagles	15	Harvey, Daniel		3	115	1		2	1
-2005	Charlotte Eagles	6	Jogi, Declan	D	6	272			2	3
-2005	Charlotte Eagles	2	Johnson, Benjamin	D	17	740		1	6	9
-2005	Charlotte Eagles	7	Lemons, Christopher	D/M	18	981	1	3	14	20
-2005	Charlotte Eagles	12	Long, Jonah	D/M	8	554		1	1	5
-2005	Charlotte Eagles	22	Maxwell-Ordain, Ricardo	M	11	398	5	1	9	8
-2005	Charlotte Eagles	0	McClellan, Chris	GK	19	1690				1
-2005	Charlotte Eagles	3	Meek, Benjamin (Ben)	D	13	847			7	14
-2005	Charlotte Eagles	9	Mintah, Ishmael	M	16	1291	4	3	36	22
-2005	Charlotte Eagles	21	Pinch, Mark		1	39			2	
-2005	Charlotte Eagles	11	Rife, Josh	D	20	1720			4	7
-2005	Charlotte Eagles	16	Roberts, William Clayton	D	18	1360	2	2	4	18
-2005	Charlotte Eagles	8	Spencer, Matthew (Ross)		8	393				5
-2005	Charlotte Eagles	18	Swinehart, Dustin	F	19	1613	11	5	39	9
-2005	Charlotte Eagles	1	Upton, Trevor	GK						
-2005	Charlotte Eagles	4	Watkins, Nathan	M	19	1233		5	16	20
-2005	North Virginia Royals	5	Alvaranga, Taj		14	1101		3	10	14
-2005	North Virginia Royals	13	Andrade, Fabio		16	1157	4	2	16	21
-2005	North Virginia Royals	24	Bazie, Pierre	D	2	180				
-2005	North Virginia Royals	14	Cannon, Garland	D	16	1440			8	17
-2005	North Virginia Royals	6	Cavero, Oscar							
-2005	North Virginia Royals	12	Chang, Julian	M	4	217			3	5
-2005	North Virginia Royals	0	Chidester, Adam Brian	GK	2	102				
-2005	North Virginia Royals		Donnelly, Scott							
-2005	North Virginia Royals	23	Dougnaglo, Eric		7	505				4
-2005	North Virginia Royals	0	Gretton, Andrew							
-2005	North Virginia Royals	11	Guaita-Munoz, Francisco		13	944	2	1	7	16
-2005	North Virginia Royals		Gueret-M'Poko, Ulrich							
-2005	North Virginia Royals	1	Hall, Alexander	GK	18	1598			2	1
-2005	North Virginia Royals	12	Hill, Zane	M	2	180			1	2
-2005	North Virginia Royals	6	Icochea, Jose		3	169				4
-2005	North Virginia Royals	10	James, Brian	D	4	301	1		4	6
-2005	North Virginia Royals	14	Kamara, Ben		14	667			2	17
-2005	North Virginia Royals	12	Kish, Andrew		2	159				4
-2005	North Virginia Royals	17	Kish, Ryan		2	130			1	1
-2005	North Virginia Royals	4	McMorris, Nicolas	D	11	952			11	11
-2005	North Virginia Royals	17	McPeak, Anthony		5	433	1		9	8
-2005	North Virginia Royals	11	Minnis, Whitney	D/M	3	6				
-2005	North Virginia Royals	21	Mitchell, Dave		4	360			4	3
-2005	North Virginia Royals	24	Mnyamuru, Elvis		13	546	1	2	6	4
-2005	North Virginia Royals	12	Morrison, Zane	M	3	270			1	5
-2005	North Virginia Royals	3	Nhliziyo, Arthur		2	180				3
-2005	North Virginia Royals	0	Noyes, David	GK						
-2005	North Virginia Royals	19	Osborne, Matthew		16	1440	3	3	31	19
-2005	North Virginia Royals	15	Roa, Oscar		3	187			2	1
-2005	North Virginia Royals	8	Roseway, Dwayne		11	827			6	5
-2005	North Virginia Royals	17	Savittiere, Ken							
-2005	North Virginia Royals	2	Serrano, Christopher		14	1147			1	17
-2005	North Virginia Royals	0	Shaw, Seth		4	110				
-2005	North Virginia Royals	7	Sheta, Kareem	M	17	1465		1	10	29
-2005	North Virginia Royals	16	Taylor, Kenneth		6	208				5
-2005	North Virginia Royals	6	Thomas, Brett		7	627				3
-2005	North Virginia Royals	10	Vita, Christopher	F	4	168	3		4	3
-2005	North Virginia Royals	18	Walt, Chris	M	9	383			2	2
-2005	North Virginia Royals	20	Whitham, Josh	D	18	1620		1		30
-2005	Long Island Rough Riders	21	Allen, Joshua	M	16	988			2	13
-2005	Long Island Rough Riders	19	Barberio, Anthony	F	11	429	1		9	6
-2005	Long Island Rough Riders	16	Blanchard, Ricardo (Ricky)	F	8	518			2	6
-2005	Long Island Rough Riders	2	Bradley, Richard (Rich)	D	18	1620		1	5	20
-2005	Long Island Rough Riders	13	Cabrera, Wilmer	D	16	1357	2	5	14	22
-2005	Long Island Rough Riders	10	Caffrey, Paul	D	4	174	1	2	3	6
-2005	Long Island Rough Riders	8	Camara, Aboubacar	F	1	67				1
-2005	Long Island Rough Riders	14	Chulis, Matthew	M	16	1440	1	1	10	27
-2005	Long Island Rough Riders	23	DeMartini, Matthew	M	5	157				5
-2005	Long Island Rough Riders	9	Etienne, Derrick	F	20	1699	9	2	40	29
-2005	Long Island Rough Riders	30	Grafer, Paul	GK	19	1710				
-2005	Long Island Rough Riders	18	Higgins, Shaun	F/M	20	1324	1	2	16	9
-2005	Long Island Rough Riders	7	Hunt, James	M	15	1149	1	2	3	19
-2005	Long Island Rough Riders	6	Myrie, Carlyle	D	14	1012				16
-2005	Long Island Rough Riders	17	Piturro, Laurence M	D	7	540				4
-2005	Long Island Rough Riders	20	Sheynfeld, Tal		3	90		1	1	1
-2005	Long Island Rough Riders	22	Sirota, Daniel	GK						
-2005	Long Island Rough Riders	5	Sullivan, Gary	D	16	1381	2	1	8	19
-2005	Long Island Rough Riders	3	Sura-Reyes, Jose	M	17	1156		1	12	33
-2005	Long Island Rough Riders	12	Sy, Moussa	F	14	1110	9	2	30	16
-2005	Long Island Rough Riders	15	Tobon Villa, Alex	M	14	889			5	17
-2005	Long Island Rough Riders	1	Vallencia, Guillermo	GK	1	90				
-2005	Western Mass Pioneers	21	Alves, Jose	F						
-2005	Western Mass Pioneers	7	Anjos-Aguiar, Mateus	D	6	335				5
-2005	Western Mass Pioneers	12	Augustine, Anthony	M	19	1659	1		11	35
-2005	Western Mass Pioneers	15	Bajek, Gregory	M	10	98				
-2005	Western Mass Pioneers	6	Bingham, Benjamin (Ben)	M	19	1204	2	3	10	21
-2005	Western Mass Pioneers		Bonomo, Jeremy							
-2005	Western Mass Pioneers	1	Boudreau, Keith	GK	1	15				
-2005	Western Mass Pioneers	19	Chevalier, Kevin	D/M	1	90			1	3
-2005	Western Mass Pioneers	7	Cleary, Chris	M	3	114			1	2
-2005	Western Mass Pioneers	8	Dalipi, Daniel	M	18	577	1	1	6	13
-2005	Western Mass Pioneers	23	Deren, Jeff		10	287	2		4	5
-2005	Western Mass Pioneers	16	Fernandes, Anthony	D	20	1800	1		4	17
-2005	Western Mass Pioneers	9	Fletcher, Kyle	D	19	1710	1	1	1	30
-2005	Western Mass Pioneers	18	Hankard, Brendan	D	10	124				2
-2005	Western Mass Pioneers	23	Jachym, Rob	F						
-2005	Western Mass Pioneers	17	Krause, Neil	F	20	1701	10	7	48	38
-2005	Western Mass Pioneers	10	Maciel, Everson	F	17	1489	5	4	42	45
-2005	Western Mass Pioneers	0	Mahoney, David		1	90				
-2005	Western Mass Pioneers	13	McFarlane, Omar	F	18	1366	3	3	24	26
-2005	Western Mass Pioneers	2	McMenamin, Kevin	F	13	561	2	3	6	7
-2005	Western Mass Pioneers	24	Mogavaro, Christopher		6	30				
-2005	Western Mass Pioneers	11	Moya-Castillo, David	D	20	1702				22
-2005	Western Mass Pioneers	30	O'Quinn, Bryan	GK	19	1695				
-2005	Western Mass Pioneers	5	Qosa, Rigels	M/F	20	1576	12	5	45	19
-2005	Western Mass Pioneers	4	Remey, Kofi	M	8	228				2
-2005	Western Mass Pioneers		Tostes, Helton							
-2005	Western Mass Pioneers	3	Willis, Jason	D	17	1189	1	1	2	30
-2005	New Hampshire Phantoms	1	Achab, Mustapha	GK						
-2005	New Hampshire Phantoms	6	Ackerman, Ryan	M	19	1536	1	1	16	21
-2005	New Hampshire Phantoms	14	Barbosa, Almir		7	462	3	1	13	8
-2005	New Hampshire Phantoms	10	Brito, Emanuel (Manny)	M	7	474	1	1	7	11
-2005	New Hampshire Phantoms	17	Cabral, Michael	M						
-2005	New Hampshire Phantoms	26	Charles, Ricky	M	17	1128	3	3	19	15
-2005	New Hampshire Phantoms	32	Cole, Joshua	GK	6	495				1
-2005	New Hampshire Phantoms	16	Curran, Brandon	D	19	1655	2	1	17	29
-2005	New Hampshire Phantoms	22	Curran, Jonathan	D	11	301		1		6
-2005	New Hampshire Phantoms	17	D'Angelo, Anthony	M						
-2005	New Hampshire Phantoms	3	Evans, David	D	15	1222			1	14
-2005	New Hampshire Phantoms	33	Feely, Michael	M	4	231			1	5
-2005	New Hampshire Phantoms	20	Hansen, Bjorn	F	19	1586	6	3	25	21
-2005	New Hampshire Phantoms	28	Haynes, Rensen	F	5	237	1	1	6	4
-2005	New Hampshire Phantoms	21	Henckel, Rafael		20	1267	1	1	15	20
-2005	New Hampshire Phantoms	4	Hubbard, Marc	D	13	1123	1	1	9	25
-2005	New Hampshire Phantoms	29	Jackson, Tyler		4	66			2	3
-2005	New Hampshire Phantoms	8	Karalexis, Jason	M	20	1800		1	4	29
-2005	New Hampshire Phantoms	31	Larentowicz, Jeff	M	4	360			4	2
-2005	New Hampshire Phantoms	11	Manganello, Mark	F	6	479	2	1	17	3
-2005	New Hampshire Phantoms	15	McColl, Troy	M	2	25				1
-2005	New Hampshire Phantoms	18	McNeil, Thomas		18	1004	6		30	19
-2005	New Hampshire Phantoms	13	Parsons, Matthew	GK	7	500				
-2005	New Hampshire Phantoms	9	Proctor, James	M	17	1407	2	3	28	19
-2005	New Hampshire Phantoms	23	Stewart, Craig		9	618			3	13
-2005	New Hampshire Phantoms	25	Teixeira-Gomes, Valdemar	D/M						
-2005	New Hampshire Phantoms	27	Todesca, Nicola	F	2	10			1	1
-2005	New Hampshire Phantoms	1	Tomasso, Thomas (TJ)		9	810				1
-2005	New Hampshire Phantoms	2	Utter, Benjamin		16	640				8
-2005	New Hampshire Phantoms	34	Vercollone, Luke		4	354			2	5
-2006	Harrisburg City Islanders	23	Bennett, Teafore	F	9	599	1	3	21	6
-2006	Harrisburg City Islanders	0	Bishop, Sam	GK	5	450				
-2006	Harrisburg City Islanders	3	Bixler, Dustin	D	18	1620		1	2	27
-2006	Harrisburg City Islanders	17	Bruce, Haven	F	10	164			1	2
-2006	Harrisburg City Islanders	25	Caruso, Francesco	M	8	193	2		4	8
-2006	Harrisburg City Islanders	8	Clay, Adam	D/M	16	777	2		9	18
-2006	Harrisburg City Islanders	14	Dorsey, J.T.	D	18	1429				30
-2006	Harrisburg City Islanders	2	Fisher, Steve	M/F	10	340			6	4
-2006	Harrisburg City Islanders	16	Ibrahim, Sumed	F	16	1151	3	3	16	9
-2006	Harrisburg City Islanders	0	Kern, Dave	GK	14	1260				2
-2006	Harrisburg City Islanders	11	Lapore, John	D/M	10	659			5	10
-2006	Harrisburg City Islanders	18	McClellan, David	F	16	666	4	1	10	4
-2006	Harrisburg City Islanders	22	Mitchell, Jamel	F	18	895	6	2	29	13
-2006	Harrisburg City Islanders	5	Morales, Carlos	M	5	129	1	1	2	3
-2006	Harrisburg City Islanders	12	Morman, Christopher	D	17	1289	2		20	22
-2006	Harrisburg City Islanders	7	O'Neill, Ryan	D/M	11	945		2	4	10
-2006	Harrisburg City Islanders	19	Oduor, Mo	M/D	13	772		1	3	17
-2006	Harrisburg City Islanders	20	Pearce, Jeff	D	1	90				1
-2006	Harrisburg City Islanders	21	Potteiger, Derek	M	18	1501	1	1	22	20
-2006	Harrisburg City Islanders	4	Rutter, Tommy	D	5	267			1	8
-2006	Harrisburg City Islanders	6	Sadler, Justin	M	14	1053	1		9	17
-2006	Harrisburg City Islanders	10	Schofield, David	M/F	14	988		4	19	23
-2006	Harrisburg City Islanders	24	Severs, Chad		4	351	3		8	2
-2006	Harrisburg City Islanders	9	Showers, Bernie	F						
-2006	Harrisburg City Islanders	15	Stevens, James	F	8	206	2		7	2
-2006	Harrisburg City Islanders	13	Tanzini, Matt	F	18	1016	3	4	25	23
-2006	Cincinnati Kings	18	Alexander, Robert (Trey)	M/F	18	1212	2	1	21	22
-2006	Cincinnati Kings	2	Barton, Joshua	D	18	1462	1	1	17	42
-2006	Cincinnati Kings	9	Becerra, Ivan	D	4	322			3	5
-2006	Cincinnati Kings	22	Burklo, Jonathan							
-2006	Cincinnati Kings	5	Caldwell, Jon	M	17	939	2	1	10	15
-2006	Cincinnati Kings	11	Cummings, John (Jack)	M	11	690	1	2	9	18
-2006	Cincinnati Kings	23	Dagnogo, Moussa	F	2	119			4	1
-2006	Cincinnati Kings	13	Fiore, Salvator	D	19	1590	1		10	33
-2006	Cincinnati Kings	19	Hermann, Thies	M	7	225				7
-2006	Cincinnati Kings	12	Hughes, Jeffrey	F	12	957	4	2	34	7
-2006	Cincinnati Kings	14	Jaman, Nowaf	M	20	1575	2	4	31	24
-2006	Cincinnati Kings	1	James, Jordan	GK	19	1710				3
-2006	Cincinnati Kings	16	Jones, Bret (Eric)	M	15	731			12	22
-2006	Cincinnati Kings	4	Kehoe, Steven		4	225		1	1	2
-2006	Cincinnati Kings	20	Koshi, Phillip	M	7	199	1		5	3
-2006	Cincinnati Kings	26	Krause, John		8	674	4	1	31	20
-2006	Cincinnati Kings	7	Liersemann, John	M	11	620		1	9	8
-2006	Cincinnati Kings	10	Matis, Teodor (Marcel)	M	2	56			1	
-2006	Cincinnati Kings	8	McCloskey, Kevin	M	18	817	1		10	29
-2006	Cincinnati Kings	25	McGinlay, John	M	1	2				1
-2006	Cincinnati Kings	3	McGinlay, Mike	F	19	1134	3	2	32	21
-2006	Cincinnati Kings	20	Pickup, Jonathan	D	8	592		1		11
-2006	Cincinnati Kings	16	Schulte, Wes	D	15	625		1	6	7
-2006	Cincinnati Kings	21	Smith, Derek	D	17	1397	3	1	13	26
-2006	Cincinnati Kings	17	Sobers, Travis	F	8	89			8	2
-2006	Cincinnati Kings	15	Sondaal, Tiest	D	19	1706	2	1	7	34
-2006	Cincinnati Kings	0	Van Frank, Zachary	GK	1	90				
-2006	Pittsburgh Riverhounds	27	Apple, Michael		15	814	3	1	27	13
-2006	Pittsburgh Riverhounds	5	Bajek, Brian	F	1	1				
-2006	Pittsburgh Riverhounds	9	Bernstein, Gabe	D	15	1191	2		18	23
-2006	Pittsburgh Riverhounds	27	Blake, Walter	F						
-2006	Pittsburgh Riverhounds	15	Bragg, Richard (Cody)	D	18	1575		7	7	16
-2006	Pittsburgh Riverhounds	10	Browne, Leon	F	14	580	1	1	10	12
-2006	Pittsburgh Riverhounds	8	Calvano, Anthony	D	8	551			1	8
-2006	Pittsburgh Riverhounds	18	Cheurlin, Romain		11	592	1	1	5	9
-2006	Pittsburgh Riverhounds	3	Chevalier, Greg		12	1004			1	21
-2006	Pittsburgh Riverhounds	12	Child, Edward (Eddie)	M/F	6	56			1	1
-2006	Pittsburgh Riverhounds	13	Flavius, David	F	19	1316	4	1	37	12
-2006	Pittsburgh Riverhounds	23	Hartung, Daniel (Dan)	M	18	1266	2		14	29
-2006	Pittsburgh Riverhounds	21	Jerome, Jean	M	10	398	1		11	1
-2006	Pittsburgh Riverhounds	19	Kutney, Jason	D	18	1519	3	1	15	23
-2006	Pittsburgh Riverhounds	7	MacKenzie, Derek	M	12	320	1		4	3
-2006	Pittsburgh Riverhounds	25	McNelis, Terrance (Terry)	GK	14	1215				
-2006	Pittsburgh Riverhounds	20	Mehler, Matthew	D	17	1391		1	5	30
-2006	Pittsburgh Riverhounds	11	Mellor, Stephen		16	1121	2		13	16
-2006	Pittsburgh Riverhounds	17	Monka, Bryan	D	8	569			1	1
-2006	Pittsburgh Riverhounds	24	Mupier, Mira	F						
-2006	Pittsburgh Riverhounds	22	Robinson, Chris	GK	5	450				1
-2006	Pittsburgh Riverhounds	2	Romasco, Kevin	D						
-2006	Pittsburgh Riverhounds	6	Salsi, Nathan	D	19	1655	1	1	11	22
-2006	Pittsburgh Riverhounds	4	Suffron, Tyler	M	6	217			2	6
-2006	Pittsburgh Riverhounds	14	Victor, Gregory	F	12	474	1	1	9	11
-2006	Richmond Kickers	27	Ankiel, Steve	GK	4	113				
-2006	Richmond Kickers	15	Brown, Tim	M	6	505		1	7	13
-2006	Richmond Kickers	25	Bulow, David		3	150	1	2	4	4
-2006	Richmond Kickers	19	Burke, Michael	M	19	1566	9	5	44	10
-2006	Richmond Kickers	9	Carrieri, Chris	M/F	19	1462	5	9	30	25
-2006	Richmond Kickers	8	Cephas, McColm	F						
-2006	Richmond Kickers	17	Dotsenko, Ihor	M	10	425		1	7	7
-2006	Richmond Kickers	35	Dutt, Eric	D/M	4	113		1	1	
-2006	Richmond Kickers	26	Fenemore, Dennis		3	104			2	1
-2006	Richmond Kickers	4	Goodlett, Ray	D	15	1064				9
-2006	Richmond Kickers	23	Gorres, Sascha	M	17	1395	4	3	33	16
-2006	Richmond Kickers	8	Hayden, Ed	D	10	545			1	6
-2006	Richmond Kickers	5	Jones, Kelvin	D	18	1518		1	5	12
-2006	Richmond Kickers	3	Knight, Kevin	M	12	1068	1		6	19
-2006	Richmond Kickers	2	Latting, John	D	2	106				1
-2006	Richmond Kickers	21	Lewis, Cecil	F	8	122			2	3
-2006	Richmond Kickers	7	McEachron, Trevor	D/F	19	1051			4	14
-2006	Richmond Kickers	24	Metcalf, Andrew		4	221				1
-2006	Richmond Kickers	12	Morris, Brian	M/F	10	200	2	1	7	
-2006	Richmond Kickers	10	Neagu, Cristian	F	14	447	4	2	9	18
-2006	Richmond Kickers	20	Nti, Theophidack (Kofi)	M	8	471			1	10
-2006	Richmond Kickers	22	Pascale, Ronnie	GK	19	1642			1	
-2006	Richmond Kickers	14	Ssejjemba, Robert	F	19	1390	17	4	39	31
-2006	Richmond Kickers	18	Watson, Matthew		20	1390	4	4	20	25
-2006	Richmond Kickers	11	Williams, Anthony	M/D	19	1611		2	5	17
-2006	Richmond Kickers	16	Wolfe, Steven	M	15	626	1	2	3	11
-2006	Western Mass Pioneers	12	Augustine, Anthony	M	19	1665			8	38
-2006	Western Mass Pioneers	1	Cole, Joshua	GK	15	1219				1
-2006	Western Mass Pioneers	15	Cook, Jonathan	D	20	1800		1	11	14
-2006	Western Mass Pioneers	13	Deren, Jeff	M	17	1145	9	1	24	18
-2006	Western Mass Pioneers	4	Fenemore, Dennis	M	11	537			3	7
-2006	Western Mass Pioneers	16	Fernandes, Anthony	D	18	1574	1	3	6	17
-2006	Western Mass Pioneers	30	Hassler, Peter	GK	7	585				
-2006	Western Mass Pioneers	11	Henckel, Rafael	M	12	208			5	3
-2006	Western Mass Pioneers	5	Ivanyushchenko, Vadim	M/F	19	644	2	5	7	6
-2006	Western Mass Pioneers	17	Krause, Neil	F	19	1607	3	3	28	38
-2006	Western Mass Pioneers	10	Maciel, Everson	F	20	1738	3	2	40	32
-2006	Western Mass Pioneers	6	Marion, Rodrigo	D	6	363				4
-2006	Western Mass Pioneers	9	McFarlane, Omar	F	20	1445	7		20	26
-2006	Western Mass Pioneers	24	Mogavaro, Christopher	F	12	399			1	3
-2006	Western Mass Pioneers	7	Molinari, Federico	M	19	1709	2	2	17	23
-2006	Western Mass Pioneers	21	Perron, Adam	GK						
-2006	Western Mass Pioneers	8	Teixeira, Kyle	M/F	20	1404	4	3	21	26
-2006	Western Mass Pioneers	14	Valego, Derek	M	2	17				
-2006	Western Mass Pioneers	3	Willis, Jason	D	19	1704		1	1	25
-2006	Long Island Rough Riders	16	Allen, Joshua	M	15	662			1	16
-2006	Long Island Rough Riders	13	Barberio, Anthony	F	17	981	3	1	23	16
-2006	Long Island Rough Riders	30	Behonick, Michael	GK	2	135				
-2006	Long Island Rough Riders	15	Bianchi, Federico	M	19	1208		2	9	38
-2006	Long Island Rough Riders	4	Bradley, Richard (Rich)	D	19	1645	2		7	27
-2006	Long Island Rough Riders	26	Diaz, Ruben	D	14	1156	1		10	17
-2006	Long Island Rough Riders	10	Etienne, Darrell	M/D	17	955			4	12
-2006	Long Island Rough Riders	9	Etienne, Derrick	F	18	1331	2	1	19	12
-2006	Long Island Rough Riders	2	Fucci, Robert (Rob)	D	14	1057	1		4	16
-2006	Long Island Rough Riders	18	Higgins, Shaun	F/M	14	660		1	3	7
-2006	Long Island Rough Riders	20	Jack, Kyle	M	7	360	1		5	8
-2006	Long Island Rough Riders	19	Klinger, Fausto	M	14	1104		1	4	33
-2006	Long Island Rough Riders	1	Masters, Eric	GK	12	956				
-2006	Long Island Rough Riders	22	Maxwell-Ordain, Ricardo	M	9	438			4	12
-2006	Long Island Rough Riders	28	Megaloudis, Christopher	F	12	763	2		13	5
-2006	Long Island Rough Riders	30	Mellis, Michael	GK	1	90				
-2006	Long Island Rough Riders	11	Mintah, Ishmael	M	4	305			3	7
-2006	Long Island Rough Riders	14	Narvaez-Cruz, Douglas	M	10	510			3	7
-2006	Long Island Rough Riders	6	Robson, Paul	D	17	1449			2	24
-2006	Long Island Rough Riders	17	Roderick, Paul	F	5	73		1		5
-2006	Long Island Rough Riders	8	Snodin, Lee	M	12	587		1	4	9
-2006	Long Island Rough Riders	0	Stefanowski, Jack	GK	5	450				
-2006	Long Island Rough Riders	5	Sullivan, Gary	D	17	1466	1		9	18
-2006	Long Island Rough Riders	3	Sura-Reyes, Jose	D	5	182			2	5
-2006	Long Island Rough Riders	12	Sy, Moussa	F	18	1035	2		23	14
-2006	New Hampshire Phantoms	6	Barbosa, Almir	M	19	1372	10		45	87
-2006	New Hampshire Phantoms	10	Brito, Emanuel (Manny)	M	16	728			5	12
-2006	New Hampshire Phantoms	5	Burgess, Romelle	M	16	1405	1	1	7	25
-2006	New Hampshire Phantoms	24	Carey, Sean		1	90				2
-2006	New Hampshire Phantoms	37	Charles, Ricky		7	378	1	1	2	2
-2006	New Hampshire Phantoms	7	D'Angelo, Anthony	M	18	1139		1	1	26
-2006	New Hampshire Phantoms	3	Evans, David	D	19	1572		1	3	19
-2006	New Hampshire Phantoms	26	Fernandes, Narciso Lima	D	20	1147	5	2	18	36
-2006	New Hampshire Phantoms	15	Harker-Smith, Oliver	D	12	948				10
-2006	New Hampshire Phantoms	17	Heimreid, Tom	M	18	1218		1	4	29
-2006	New Hampshire Phantoms	4	Hubbard, Marc	D	18	1575	1		4	16
-2006	New Hampshire Phantoms	19	Jackson, Tyler	D	16	693	1	1	6	5
-2006	New Hampshire Phantoms	32	Kakambourus, Theodore	GK	1	34				
-2006	New Hampshire Phantoms	8	Karalexis, Jason	M	19	1658	2		3	18
-2006	New Hampshire Phantoms	21	Masi, Eric	M	7	447		2	1	11
-2006	New Hampshire Phantoms	9	McNeil, Thomas	F	18	1263	1	5	24	20
-2006	New Hampshire Phantoms	16	Parrish, Joseph							
-2006	New Hampshire Phantoms	1	Parsons, Matthew	GK	11	990				
-2006	New Hampshire Phantoms		Proctor, James							
-2006	New Hampshire Phantoms	23	Stewart, Craig	M	12	999	1	1	3	27
-2006	New Hampshire Phantoms	20	Szczypiorski, Tomas	F	5	181	1		3	2
-2006	New Hampshire Phantoms	25	Teixeira-Gomes, Valdemar	D/M	17	664	2	2	20	21
-2006	New Hampshire Phantoms	27	Todesca, Nicola	F	2	16				1
-2006	New Hampshire Phantoms	34	Tomasso, Thomas (TJ)		9	776				
-2006	New Hampshire Phantoms	18	Tornaritis, Nicholas	F	12	381			7	4
-2006	New Hampshire Phantoms	2	Utter, Benjamin	D	1	20				
-2006	Wilmington Hammerheads	33	Bagley, Christopher	M/F	17	1435	10	2	43	16
-2006	Wilmington Hammerheads	13	Barnes, Devlin	M	18	1434		1	3	27
-2006	Wilmington Hammerheads	30	Bochette, Nicholas	GK	2	180				
-2006	Wilmington Hammerheads	8	Bolton, Joshua		1	35		1	1	
-2006	Wilmington Hammerheads	3	Bryant, Brady	D	12	988				8
-2006	Wilmington Hammerheads	9	Bundy, Kenneth	M	19	851	2		13	6
-2006	Wilmington Hammerheads	8	Capecci, Daniel	D	2	68				2
-2006	Wilmington Hammerheads	6	Chase, Paul	D	18	1569	1	1	11	12
-2006	Wilmington Hammerheads	10	Corrie, George	M	14	968	1	2	9	27
-2006	Wilmington Hammerheads	18	Crandell, Chad	D/M	8	470			1	5
-2006	Wilmington Hammerheads	1	Creasman, Bartley (Bart)	GK	18	1609				
-2006	Wilmington Hammerheads	8	Cummings, John (Jack)		1	23				
-2006	Wilmington Hammerheads	11	Hotchkin, Jason	M	7	367	1	1	7	12
-2006	Wilmington Hammerheads	14	Hufstader, Philip	M	17	789			19	9
-2006	Wilmington Hammerheads	16	Hughes, Jeffrey		6	218			8	1
-2006	Wilmington Hammerheads	23	Hughes, Jordan		3	125		1	1	1
-2006	Wilmington Hammerheads		Karalexis, Timothy							
-2006	Wilmington Hammerheads	21	Khumalo, Thabiso (Boyzzz)	M/F	20	1205	1	2	19	13
-2006	Wilmington Hammerheads	2	Krause, John		6	113	1		6	6
-2006	Wilmington Hammerheads	4	Lancaster, Martyn	M	19	1699	1	1	13	27
-2006	Wilmington Hammerheads	11	Maher, Anthony		11	642	6		15	24
-2006	Wilmington Hammerheads	17	Miller, Ryan	F	8	529			3	19
-2006	Wilmington Hammerheads	5	Nylen, Kevin	D	14	1119	1		9	17
-2006	Wilmington Hammerheads	20	Popovich, Derek	M	19	1394	1	1	7	30
-2006	Wilmington Hammerheads	19	Riley, Chris	M	6	345			1	4
-2006	Wilmington Hammerheads		Romero, Jose							
-2006	Wilmington Hammerheads	12	Seabrook, Montae	D	10	454			3	6
-2006	Wilmington Hammerheads	22	Severs, Chad		1	38				
-2006	Wilmington Hammerheads	16	Taylor, Kevin		1	27				
-2006	Wilmington Hammerheads	15	Zarate, Juvenal (Junior)	M/F	19	816	3		30	16
-2006	Charlotte Eagles	24	Arias, Jordan	M	1	1				
-2006	Charlotte Eagles	4	Barton, Casey	D	7	579			3	10
-2006	Charlotte Eagles	1	Benton, Daniel	GK	9	799				1
-2006	Charlotte Eagles	24	Budnyy, Andriy		8	596	1		20	7
-2006	Charlotte Eagles	10	Casey, Sam	F	12	457		2	3	9
-2006	Charlotte Eagles	20	Coggins, Jacob	F	14	1008	4	1	19	14
-2006	Charlotte Eagles	19	Daka, Patrick	M/F	19	1392	4	3	35	12
-2006	Charlotte Eagles	5	Dinunzio, Ryan	D	4	106				1
-2006	Charlotte Eagles	12	Faro, Aaron	D	17	1352		2	7	7
-2006	Charlotte Eagles	9	Guastaferro, Andrew	M	12	454			4	6
-2006	Charlotte Eagles	15	Harvey, Daniel	D/M	2	27			1	
-2006	Charlotte Eagles	2	Johnson, Benjamin	D	14	970			2	7
-2006	Charlotte Eagles	13	Kabwe, Joseph	M	16	1170	2	4	11	23
-2006	Charlotte Eagles	22	Klotz, Christopher (Klotzy)	M	5	265		1		8
-2006	Charlotte Eagles	7	Lemons, Christopher	D/M	19	875	1	2	14	15
-2006	Charlotte Eagles	6	Mariotti, Simone	M/F						
-2006	Charlotte Eagles	0	McClellan, Chris	GK	11	990				
-2006	Charlotte Eagles	3	Meek, Benjamin (Ben)	D	19	1572			8	20
-2006	Charlotte Eagles	0	Mottern, Bruce	GK						
-2006	Charlotte Eagles	11	Rife, Josh	D	14	1249			2	5
-2006	Charlotte Eagles	16	Roberts, William Clayton	D	14	968	2		14	18
-2006	Charlotte Eagles	14	Ruud, Adam		18	846	4		18	14
-2006	Charlotte Eagles	9	Schroeder, Greg	D	20	1762	1	2	7	21
-2006	Charlotte Eagles	8	Spencer, Matthew (Ross)	D	16	557	3		10	7
-2006	Charlotte Eagles	21	Stanze, Brent	D						
-2006	Charlotte Eagles	23	Stovall, Anthony	M	4	83				1
-2006	Charlotte Eagles	18	Swinehart, Dustin	F	19	1542	5	4	33	19
-2007	Harrisburg City Islanders	20	Baker, Nathan	D	15	590			2	6
-2007	Harrisburg City Islanders	1	Bishop, Sam	GK						
-2007	Harrisburg City Islanders	3	Bixler, Dustin	D	17	1477			1	20
-2007	Harrisburg City Islanders	23	Calvano, Anthony	D	20	1800	1		9	34
-2007	Harrisburg City Islanders	9	Chambers, Alfred (Freddie)	F	3	22			1	1
-2007	Harrisburg City Islanders	8	Clay, Adam	M/F	19	746	1		10	16
-2007	Harrisburg City Islanders	11	Devlin, Brian	M/F	18	1069		2	9	31
-2007	Harrisburg City Islanders	2	Fisher, Stephen	M	18	923	1	2	30	17
-2007	Harrisburg City Islanders	7	Galik, Jani	M	5	108				2
-2007	Harrisburg City Islanders	16	Johnston, Martin	F	11	438	1		4	8
-2007	Harrisburg City Islanders	0	Kern, Dave	GK	2	180				
-2007	Harrisburg City Islanders	14	Lookingland, Michael	D	17	1079	2	2	7	10
-2007	Harrisburg City Islanders	18	McClellan, David	M/F	3	105			2	1
-2007	Harrisburg City Islanders	5	Morales, Carlos	M	6	77			2	4
-2007	Harrisburg City Islanders	12	Morman, Christopher	M/D	16	1325		2	15	34
-2007	Harrisburg City Islanders	22	Nelson, Matthew	GK	18	1620				1
-2007	Harrisburg City Islanders	17	O'Neill, Ryan	M/D	1	90				2
-2007	Harrisburg City Islanders	19	Oduor, Mo	M	16	1257	6	2	21	27
-2007	Harrisburg City Islanders	21	Ombiji, Brian	M	17	1077	6	1	20	14
-2007	Harrisburg City Islanders	6	Pierce, Ryan	D	18	1600	1		6	24
-2007	Harrisburg City Islanders	10	Schofield, David	M	19	1410	1	4	18	24
-2007	Harrisburg City Islanders	13	Tanzini, Matt	F/M	19	521	2	3	14	10
-2007	Harrisburg City Islanders	4	Velten, Timothy	D	18	1618	1		2	27
-2007	Wilmington Hammerheads	5	Beasant, Nicholas		13	1049			3	11
-2007	Wilmington Hammerheads	6	Bell, Brian		20	1622	1		6	22
-2007	Wilmington Hammerheads	10	Corrie, George		13	907	2		13	19
-2007	Wilmington Hammerheads	22	Cowley, David Kenneth	M	5	367		1	7	8
-2007	Wilmington Hammerheads	18	Crandell, Chad		7	318			3	7
-2007	Wilmington Hammerheads	23	Cvilikas, Brian		17	983	3	2	29	16
-2007	Wilmington Hammerheads	21	Fitzgerald, Michael		10	171			5	5
-2007	Wilmington Hammerheads	11	Holmes, Jamie Reid		12	808	3	3	22	15
-2007	Wilmington Hammerheads	8	Hudson, Anthony		5	404			2	8
-2007	Wilmington Hammerheads	16	Hughes, Jeffrey		17	813		1	9	6
-2007	Wilmington Hammerheads	14	Ibbetson, Luke		11	430	2		7	2
-2007	Wilmington Hammerheads	1	Kettering, Tyler		10	900				
-2007	Wilmington Hammerheads	4	Kirby, Zachary (Zach)		5	402			1	4
-2007	Wilmington Hammerheads	13	MacKenzie, Ross		14	956	3	3	19	21
-2007	Wilmington Hammerheads	3	Mattison, Landy		19	1681			6	10
-2007	Wilmington Hammerheads	24	Northup, Nathan J.		18	1276	1		2	17
-2007	Wilmington Hammerheads	19	Nweke, Charles		12	765	3	1	21	14
-2007	Wilmington Hammerheads	0	Ruch, Daniel		10	900				
-2007	Wilmington Hammerheads	2	Smith, Andrew		16	1356		1	2	17
-2007	Wilmington Hammerheads	12	Thompson, Michael		18	943	2	1	13	21
-2007	Wilmington Hammerheads	7	Williamson, Adam		14	593	1	2	5	10
-2007	Wilmington Hammerheads	9	Wilson, Kieran		12	917			2	8
-2007	Wilmington Hammerheads	15	Zarate, Juvenal (Junior)		12	245		1	6	3
-2007	Bermuda Hogges	9	Astwood, Stephen (Ste)	F	12	930	4	1	26	16
-2007	Bermuda Hogges	16	Beach, Raymond	F	12	348			5	6
-2007	Bermuda Hogges	14	Bean, Ralph	F	19	1337	1	1	19	5
-2007	Bermuda Hogges	12	Burgess, Lyndon (Nigel)	GK	2	180				
-2007	Bermuda Hogges	19	Coddington, Damico	M	3	101			1	3
-2007	Bermuda Hogges	2	Cox, Darius	D	13	915			3	4
-2007	Bermuda Hogges	25	Darrell, Seion	D	9	370			2	4
-2007	Bermuda Hogges	15	DeGraff, Devaun (Sammy)	M	8	580			9	11
-2007	Bermuda Hogges	11	Dill, Lashun	M	16	639	1		5	10
-2007	Bermuda Hogges	1	Figureido, Timothy	GK	14	1260				
-2007	Bermuda Hogges	20	Goater, Shaun	F	8	400	3		7	6
-2007	Bermuda Hogges	26	Hill, Clevon	M	11	558		1	4	6
-2007	Bermuda Hogges	21	Holder, Laurence (Lloyd)	F	14	454	1		7	5
-2007	Bermuda Hogges	23	Lightbourne, Kyle (Lighty)	F	6	222		1	5	1
-2007	Bermuda Hogges	7	Ming, Damon Jason	M	20	1622	1	4	20	26
-2007	Bermuda Hogges	18	Parsons, Michael	M	11	740			12	3
-2007	Bermuda Hogges	6	Peniston, Jared	M	17	1360	2	1	21	28
-2007	Bermuda Hogges	28	Richards, Kevin	D	6	432	1			7
-2007	Bermuda Hogges	4	Scott, Jelani	M	11	772				7
-2007	Bermuda Hogges	8	Shakir, Omar	M	17	1476	1		5	20
-2007	Bermuda Hogges	27	Simmons, Sean		4	315				9
-2007	Bermuda Hogges	17	Steede, Kwame	M	17	1311	1	1	28	29
-2007	Bermuda Hogges	24	Tucker, Arthur (Jabrel)	D/M	11	578			3	6
-2007	Bermuda Hogges	22	Williams, Jason	GK	4	360				
-2007	Bermuda Hogges	3	Wilson, Robert	M	14	1026			6	7
-2007	Bermuda Hogges	5	Zuill, Dennis	D	18	1481			3	23
-2007	Charlotte Eagles	9	Akwari, Nelson		20	1800			3	10
-2007	Charlotte Eagles	1	Benton, Daniel		17	1530				
-2007	Charlotte Eagles	0	Boss, Terry		4	360				
-2007	Charlotte Eagles	10	Casey, Sam		12	306			4	5
-2007	Charlotte Eagles	20	Coggins, Jacob		20	1519	12	7	57	29
-2007	Charlotte Eagles	19	Daka, Patrick		12	537	3	1	20	6
-2007	Charlotte Eagles	16	DeLoach, Aaron		1	6				
-2007	Charlotte Eagles	5	Di Nunzio, Ryan		19	1078			10	15
-2007	Charlotte Eagles	12	Faro, Aaron		17	1208			7	6
-2007	Charlotte Eagles	15	Harvey, Daniel		13	557	3	3	15	9
-2007	Charlotte Eagles	9	Herrera, Jorge		5	374	1	5	6	5
-2007	Charlotte Eagles	2	Johnson, Benjamin		13	961	2		3	8
-2007	Charlotte Eagles	13	Kabwe, Joseph		8	572	2	2	10	8
-2007	Charlotte Eagles	22	Klotz, Christopher (Klotzy)		14	404				9
-2007	Charlotte Eagles	19	Mariotti, Simone							
-2007	Charlotte Eagles	0	Mottern, Bruce							
-2007	Charlotte Eagles	11	Rife, Josh		18	1556		1	13	4
-2007	Charlotte Eagles	7	Ruud, Adam		18	975	4	3	22	16
-2007	Charlotte Eagles	17	Schroeder, Gregg		20	1760		1	10	10
-2007	Charlotte Eagles	20	Shak, Steve		18	1354	3	5	20	30
-2007	Charlotte Eagles	8	Spencer, Matthew (Ross)		18	741	1		10	10
-2007	Charlotte Eagles	44	Sutton, Jamal		8	431	2		9	6
-2007	Charlotte Eagles	18	Swinehart, Dustin		19	1288	6	3	34	14
-2007	Charlotte Eagles	6	Woods, Thomas		14	568			4	11
-2007	New Hampshire Phantoms	11	Barbosa, Almir	F	20	1607	6		39	45
-2007	New Hampshire Phantoms	10	Brito, Emanuel (Manny)	M	13	847			4	7
-2007	New Hampshire Phantoms	5	Burgess, Romelle	M	18	1551	1		18	30
-2007	New Hampshire Phantoms	2	Cafeteiro, Michael	D	16	1250			4	18
-2007	New Hampshire Phantoms	3	Clancy, Joseph	D	15	1319	1		5	15
-2007	New Hampshire Phantoms	27	Dow, Robert	M	13	745			3	14
-2007	New Hampshire Phantoms	14	Fernandes, Narciso Lima	F	9	511	2		9	11
-2007	New Hampshire Phantoms	30	Gonzalez, Miguel	M	5	434			3	9
-2007	New Hampshire Phantoms	20	Greenslit, James	D	20	1800			3	10
-2007	New Hampshire Phantoms	29	Heimreid, Tom	M						
-2007	New Hampshire Phantoms	4	Hubbard, Marc	D	7	630				2
-2007	New Hampshire Phantoms	19	Jackson, Tyler	D	10	807		1	4	5
-2007	New Hampshire Phantoms	17	Krause, Neil	F	17	1148	1	1	7	26
-2007	New Hampshire Phantoms	26	Lamy, Craig	M	7	183			4	4
-2007	New Hampshire Phantoms	12	Levey, Brian	GK	16	1398				
-2007	New Hampshire Phantoms	22	Loftus, Chris	F/F	3	270		1		5
-2007	New Hampshire Phantoms	21	Masi, Eric	M						
-2007	New Hampshire Phantoms	9	McNeil, Thomas	F	16	1065	1	2	21	14
-2007	New Hampshire Phantoms	1	Murphy, Micheal	GK	6	290				
-2007	New Hampshire Phantoms	15	Radziwon, Kevin N	D	3	270			1	5
-2007	New Hampshire Phantoms	13	Saccoccio, Sergio		2	112				
-2007	New Hampshire Phantoms	23	Stewart, Craig	M	3	201	1		1	5
-2007	New Hampshire Phantoms	7	Teixeira, Valdemar	F/F	18	1418	1	1	14	36
-2007	New Hampshire Phantoms	34	Thiam, Oumar	M	5	153	1		1	3
-2007	New Hampshire Phantoms	16	White, Patrick	M	6	239		1		
-2007	Western Mass Pioneers	14	Arias, Stephen		14	1165			6	17
-2007	Western Mass Pioneers	12	Augustine, Anthony		16	1325		1	4	32
-2007	Western Mass Pioneers	1	Cole, Joshua		3	25				
-2007	Western Mass Pioneers	13	Deren, Jeff		20	1269	7	2	21	13
-2007	Western Mass Pioneers	4	Lewis, Fabien		16	1401			3	13
-2007	Western Mass Pioneers	10	Maciel, Everson		15	1273	2	3	36	21
-2007	Western Mass Pioneers	19	Manning, Ahmad		15	1162		3	3	18
-2007	Western Mass Pioneers	9	McFarlane, Omar		19	1540	5	2	37	36
-2007	Western Mass Pioneers	18	McMennamin, Kevin		15	507	2		6	6
-2007	Western Mass Pioneers	7	Molinari, Federico		16	1343	4	3	26	26
-2007	Western Mass Pioneers	20	Pecorelli, Lindon Josue		12	542			5	6
-2007	Western Mass Pioneers	11	Resende, Bruno		6	286			2	9
-2007	Western Mass Pioneers	6	Riley, Chris		16	1015		1	5	12
-2007	Western Mass Pioneers	17	Sampson, Jamie		12	299		2	6	6
-2007	Western Mass Pioneers	2	Tagle, German		15	1350		2	13	9
-2007	Western Mass Pioneers	8	Texeira, Kyle		4	37				2
-2007	Western Mass Pioneers	30	Trapp, Kevin		20	1789				1
-2007	Western Mass Pioneers	3	Willis, Jason		18	1530	2		8	24
-2007	Western Mass Pioneers	16	Wilson, Easton		19	1587	3	2	17	23
-2007	Cleveland City Stars	21	Alvarez, Gerardo	M	14	455	1		8	6
-2007	Cleveland City Stars	11	Codrington, Nigel	F	14	838	6		28	17
-2007	Cleveland City Stars	20	Cruickshank, Stephen	M	2	18				
-2007	Cleveland City Stars	3	Cummings, Jack	D	20	1725	1	2	10	17
-2007	Cleveland City Stars	12	De Vae, John	F	20	1280	1	2	32	15
-2007	Cleveland City Stars	17	Duerr, Glen	F	6	56		1		
-2007	Cleveland City Stars	1	Gilstrap, Richard Hunter	GK	12	1080				
-2007	Cleveland City Stars	6	Hunter, Benjamin	D	4	288	1		2	3
-2007	Cleveland City Stars	27	Junge, Ryan	D	4	314		1	1	3
-2007	Cleveland City Stars	5	Kellar, Skelly (Skells)	D	8	293		1	4	2
-2007	Cleveland City Stars	24	Ladera, Angelo Gee	D	4	201				5
-2007	Cleveland City Stars	23	Lappin, Spencer logan	F	5	192		1	1	1
-2007	Cleveland City Stars	7	Leibbrandt, Ian	F	13	767	2	2	20	16
-2007	Cleveland City Stars	2	Lemons, Christopher	M	19	1151	2		20	18
-2007	Cleveland City Stars	16	McGregor, Dana	M	17	1140	3	1	14	12
-2007	Cleveland City Stars	8	Moffat, Adam	M	19	1248	8	2	32	23
-2007	Cleveland City Stars	15	Moncrief, Brandon	D	2	11			1	
-2007	Cleveland City Stars	26	Norman, Nathan		1	81			2	
-2007	Cleveland City Stars	0	Patterson-Sewell, Caleb	GK	8	720				
-2007	Cleveland City Stars	10	Potteiger, Derek	M	20	1789	2	3	15	45
-2007	Cleveland City Stars	9	Rigby, Stephen	M	1	7				
-2007	Cleveland City Stars	13	Schulte, Mark	D	20	1800	2	4	16	15
-2007	Cleveland City Stars	14	Stovall, Anthony	F	16	1212			2	15
-2007	Cleveland City Stars	4	Tolleson, Jeremy	D	19	1710				15
-2007	Cleveland City Stars	22	Tredway, Aaron	GK						
-2007	Cleveland City Stars	18	Williams, Luke	F	17	851	1	4	13	13
-2007	Richmond Kickers	18	Alexander, Robert (Trey)	M	17	1053	2	1	7	15
-2007	Richmond Kickers	10	Bulow, David	M/F	12	796	5	1	13	11
-2007	Richmond Kickers	19	Burke, Michael	M	17	1449	3	9	31	10
-2007	Richmond Kickers	20	Cowlishaw, Leigh		2	9				4
-2007	Richmond Kickers	17	Dotsenko, Ihor	M	5	184			2	1
-2007	Richmond Kickers	2	Edwards, Kevin	D	7	267				1
-2007	Richmond Kickers	23	Gorres, Sascha	M	18	1566	3	4	38	17
-2007	Richmond Kickers	15	Harding, Evan	M/D	19	1578	1	4	10	11
-2007	Richmond Kickers	12	Howe, Charlie	D/M	13	491			3	6
-2007	Richmond Kickers	11	Jaman, Nowaf	M/F	20	893	2	1	16	22
-2007	Richmond Kickers	5	Jones, Kelvin	D	19	1632	1		11	8
-2007	Richmond Kickers	3	Knight, Kevin	M/D	7	630			1	6
-2007	Richmond Kickers	7	McEachron, Trevor	D	19	1710	1	1	3	19
-2007	Richmond Kickers	21	Morris, Brian	M/F	8	208		1	3	1
-2007	Richmond Kickers	1	Murphy, Mark	GK	1	90				
-2007	Richmond Kickers	4	Pace, Ralph	D	7	345		1	1	4
-2007	Richmond Kickers	22	Pascale, Ronnie	GK	19	1710		1		
-2007	Richmond Kickers	9	Schramm, Frederick (Ricky)	F/M	16	664	6	2	15	10
-2007	Richmond Kickers	25	Smith, Wilfred (Freddie)		9	486		1	7	8
-2007	Richmond Kickers	14	Ssejjemba, Robert	F	16	1016	6	1	22	19
-2007	Richmond Kickers	8	Watson, Matthew	M/F	17	1405	6	3	25	24
-2007	Richmond Kickers		Williams, Anthony		1	4				
-2007	Richmond Kickers	16	Wolfe, Steven	D/M	19	1614		1	5	12
-2007	Crystal Palace Baltimore	18	Alcala, Joshua		19	1235	3	2	18	16
-2007	Crystal Palace Baltimore	14	Anjos, Mateus		18	1520			14	18
-2007	Crystal Palace Baltimore	19	Brooks, Gary		9	740	7	2	22	23
-2007	Crystal Palace Baltimore	9	Capecci, Daniel		10	462			7	3
-2007	Crystal Palace Baltimore	24	Cherneski, James		3	66			2	1
-2007	Crystal Palace Baltimore	11	Flores, Sergio		20	1701	3	3	43	29
-2007	Crystal Palace Baltimore	6	Fucci, Robert		9	296			3	7
-2007	Crystal Palace Baltimore	21	Harada, Shintaro		20	1755			14	22
-2007	Crystal Palace Baltimore	7	Harkin, Bryan		16	1209	1	1	9	15
-2007	Crystal Palace Baltimore	17	Herman, Andrew		18	842	1	1	37	8
-2007	Crystal Palace Baltimore	4	Kante, Ibrahim		12	881	1	1	6	9
-2007	Crystal Palace Baltimore	0	Karim, Moumban			0				
-2007	Crystal Palace Baltimore	22	Mark, Larry		9	501	1		8	10
-2007	Crystal Palace Baltimore	5	Marshall, Andrew		19	1655	1	2	11	22
-2007	Crystal Palace Baltimore	12	Mbuta, Andongcho		16	1310	5	7	42	22
-2007	Crystal Palace Baltimore	4	O'Hara, Alan		6	447				3
-2007	Crystal Palace Baltimore	1	Rowland, Brian		19	1710				
-2007	Crystal Palace Baltimore	20	Rush, Sean		11	146	1	1	3	3
-2007	Crystal Palace Baltimore	15	Sheringham, Charles		9	633	1	3	14	11
-2007	Crystal Palace Baltimore	8	Spence, Lewwis		3	234			9	3
-2007	Crystal Palace Baltimore	2	Ughiovhe, Idris		15	1167		1	6	6
-2007	Crystal Palace Baltimore	10	Urquijo, Harold		14	1057	2	1	25	12
-2007	Cincinnati Kings	23	Brown, Clifton		2	14				
-2007	Cincinnati Kings	6	Cheurlin, Romain		13	802	1	2	7	10
-2007	Cincinnati Kings	14	Cummings, Jimmy		15	535		2	6	16
-2007	Cincinnati Kings	1	Dimbi, Andy		8	675			1	
-2007	Cincinnati Kings	13	Downey, Dustin		14	1087			4	16
-2007	Cincinnati Kings	7	Eby, Andrew (Drew)		18	1200	2	2	22	18
-2007	Cincinnati Kings	25	Eckerlin, Chad (Seth)		20	1295	7	1	32	20
-2007	Cincinnati Kings	19	Long, Kyle		16	1017	2	3	20	16
-2007	Cincinnati Kings	21	Mellencamp, John		18	698	3	1	16	22
-2007	Cincinnati Kings	5	Miller, Samuel		19	1229	1	1	10	14
-2007	Cincinnati Kings	2	Moodie, Richard		9	745		1	3	11
-2007	Cincinnati Kings	16	Murray, Ben		16	1235	2	1	14	14
-2007	Cincinnati Kings	18	Neal, Bryon		14	1250	6	1	35	10
-2007	Cincinnati Kings	8	Noschan, Kevin		17	1331	1	1	13	23
-2007	Cincinnati Kings	20	Ordell, Blake							
-2007	Cincinnati Kings	4	Rainy, Florent		11	828			4	30
-2007	Cincinnati Kings	11	Ross, Adam		5	329			3	8
-2007	Cincinnati Kings	12	Salvati, Ronald (Craig)		13	1125				1
-2007	Cincinnati Kings	9	Sarkodie, Kwame		14	758	3	2	18	18
-2007	Cincinnati Kings	17	Slemker, Jake		8	550		1	5	8
-2007	Cincinnati Kings	15	Sondaal, Tiest		13	1120			3	33
-2007	Cincinnati Kings	3	Townsend, Ashleigh Peter		19	1635		2	3	19
-2007	Cincinnati Kings	0	Van Frank, Zachary		1	1				
-2007	Cincinnati Kings	23	Van der Sluijs, Alex	M/F	7	154			3	
-2007	Cincinnati Kings	22	,	D	3	144			1	2
-2008	Harrisburg City Islanders	13	Baker, Nathan	D	18	1449	3		6	9
-2008	Harrisburg City Islanders	9	Barbosa, Almir	F	16	567	1	1	14	10
-2008	Harrisburg City Islanders	1	Bishop, Sam							
-2008	Harrisburg City Islanders	3	Bixler, Dustin	D	17	1516				27
-2008	Harrisburg City Islanders	15	Blanco, Milton	M/F	9	382		1	2	9
-2008	Harrisburg City Islanders	4	Bloes, Geoffrey	F/D	5	125			2	
-2008	Harrisburg City Islanders	23	Calvano, Anthony	D	12	1080	1		7	21
-2008	Harrisburg City Islanders	1	Cepero, Daniel		18	1620				
-2008	Harrisburg City Islanders	8	Clay, Adam	M	12	227	2	1	4	12
-2008	Harrisburg City Islanders	11	Devlin, Brian	M	19	1537			13	31
-2008	Harrisburg City Islanders	2	Fisher, Stephen	F/M	18	750	3	3	12	14
-2008	Harrisburg City Islanders	5	Heins, Ryan	M/D	17	1269	7	1	34	16
-2008	Harrisburg City Islanders	16	Hoshide, Yu	M	13	576	1	4	9	4
-2008	Harrisburg City Islanders	7	Marples, Nigel	D	19	1709			3	7
-2008	Harrisburg City Islanders	12	Morman, Christopher							
-2008	Harrisburg City Islanders	22	Nelson, Matthew							
-2008	Harrisburg City Islanders	19	Oduor, Mo	M	13	849	5	2	14	15
-2008	Harrisburg City Islanders	21	Ombiji, Brian	M	18	1393	4	3	20	23
-2008	Harrisburg City Islanders	22	Pelletier, Jason	M	17	811	1		6	14
-2008	Harrisburg City Islanders	6	Pierce, Ryan	D	18	1486		2	7	9
-2008	Harrisburg City Islanders	18	Pope, Brian	GK	2	180				
-2008	Harrisburg City Islanders		Robertson, James (Patrick)		2	5				
-2008	Harrisburg City Islanders	10	Schofield, David	M	19	1192	1	4	20	11
-2008	Harrisburg City Islanders	17	Stalph, Yuki	M	2	17				
-2008	Harrisburg City Islanders	4	Velten, Timothy							
-2008	Harrisburg City Islanders	23	Widdowson, Steven		1	3				1
-2008	Harrisburg City Islanders	14	Wiesner, Brett		18	934	4		19	14
-2008	Cleveland City Stars	12	Barbosa, Jose Rodolpho Lima P	F						
-2008	Cleveland City Stars	11	Bundu, Sallieu	F	19	1279	8	1	40	22
-2008	Cleveland City Stars	23	Franks, Floyd	M	17	1322	2	1	27	18
-2008	Cleveland City Stars	5	Hlavaty, Neil	M	15	881		3	11	21
-2008	Cleveland City Stars	27	Hotchkin, Jason		5	229	1	1	6	5
-2008	Cleveland City Stars	24	Jerome, Randolph	F	13	403	1	1	8	6
-2008	Cleveland City Stars	19	Josten, George		1	45				
-2008	Cleveland City Stars	3	Lee, John (Tre)	D	3	115				3
-2008	Cleveland City Stars	6	McClung, Kiel	D	3	179			1	1
-2008	Cleveland City Stars	16	McGregor, Dana	M	16	687	2	3	13	4
-2008	Cleveland City Stars	28	Miller, Ryan		2	155				1
-2008	Cleveland City Stars	20	Ogunsola, Olatomiwa	M	1	23				
-2008	Cleveland City Stars	2	Ongad, Musa Otieno	D	7	566	1	1	6	5
-2008	Cleveland City Stars	0	Reed, Eric	GK	12	1080				
-2008	Cleveland City Stars	21	Ruud, Adam	M	19	782	4		20	14
-2008	Cleveland City Stars	25	Sarkodie, Kwame	M	5	191		1	2	2
-2008	Cleveland City Stars	9	Souza, Adriano Sella De	M	13	671	1	3	28	8
-2008	Cleveland City Stars	17	Stewart, Ryan	M	11	602	4	1	20	4
-2008	Cleveland City Stars	14	Stovall, Anthony	D	19	1678		1	4	17
-2008	Cleveland City Stars	8	Tenoff, Godfrey		15	1131		1	5	9
-2008	Cleveland City Stars	4	Tolleson, Jeremy	D	20	1761			1	14
-2008	Cleveland City Stars	15	Westermann, Josh	D	10	608		1	2	6
-2008	Cleveland City Stars	28	Zayner, Jedidiah		2	163			1	8
-2008	Cleveland City Stars	1	Gilstrap, Richard Hunter	GK	8	720				
-2008	Cleveland City Stars	7	Leibbrandt, Ian	F	14	787	3		24	14
-2008	Cleveland City Stars	9	Rigby, Stephen							
-2008	Cleveland City Stars	10	Potteiger, Derek		17	1414	2	1	10	36
-2008	Cleveland City Stars	13	Schulte, Mark	D	18	1594	2	3	14	12
-2008	Cleveland City Stars	18	Williams, Luke	M	16	790	1	2	14	11
-2008	Pittsburgh Riverhounds	15	Bragg, Richard (Cody)		6	375			3	5
-2008	Pittsburgh Riverhounds	5	Brown, Allan	D/M	7	198			1	7
-2008	Pittsburgh Riverhounds	10	Browne, Leon	F/M	17	873	1	1	22	11
-2008	Pittsburgh Riverhounds	4	Caugherty, Ryan	M	12	986		1	11	25
-2008	Pittsburgh Riverhounds	18	Cheurlin, Romain	F/M	7	76			1	3
-2008	Pittsburgh Riverhounds	7	Evans, Justin	M	15	1194	4	2	23	19
-2008	Pittsburgh Riverhounds	11	Gibson, Scott	M	1	6				
-2008	Pittsburgh Riverhounds	8	Hayden, Ed	D	17	1515	2		11	15
-2008	Pittsburgh Riverhounds	23	Hughes, Jeffrey	F	12	618		1	4	6
-2008	Pittsburgh Riverhounds	16	Janicki, Greg	D	14	1036		1	4	17
-2008	Pittsburgh Riverhounds	22	Jerome, Jean (Robens)	M	19	1419	3	2	42	4
-2008	Pittsburgh Riverhounds	1	Keszler, Andrew	GK	3	269				
-2008	Pittsburgh Riverhounds	21	Khumalo, Thabiso (Boyzzz)	M/F	20	1723	6	3	55	13
-2008	Pittsburgh Riverhounds	19	Kutney, Jason	D	17	1411	3	2	22	9
-2008	Pittsburgh Riverhounds	14	Langton, Matthew	M	2	7				
-2008	Pittsburgh Riverhounds	2	Liersemann, John	D	16	695			5	9
-2008	Pittsburgh Riverhounds	3	MacKenzie, Travis	F/M	19	1603	3	1	42	20
-2008	Pittsburgh Riverhounds	13	Marfuggi, Phil	GK	5	450				
-2008	Pittsburgh Riverhounds	20	Riley, Chris	D	18	1171				8
-2008	Pittsburgh Riverhounds	6	Salsi, Nathan	D	20	1799	2		11	15
-2008	Pittsburgh Riverhounds	0	Varga, Zach	GK	12	1080				
-2008	Pittsburgh Riverhounds	17	Zabinski, Ryan	M	16	708			10	5
-2008	Pittsburgh Riverhounds	9	Zewe, Joseph	M/F	7	535	1	1	7	9
-2008	Charlotte Eagles	12	Alexander, Andrew	D						
-2008	Charlotte Eagles	3	Bentos, Gustavo	F/M	3	70	1		5	4
-2008	Charlotte Eagles	7	Bilyk, Jeff	M	10	415	1		6	10
-2008	Charlotte Eagles	0	Boss, Terry		16	1432				
-2008	Charlotte Eagles	4	Bryant, Brady	D	20	1792	1		2	24
-2008	Charlotte Eagles	12	Connor, Joseph		2	83			1	
-2008	Charlotte Eagles	19	Daka, Patrick		15	627	3	4	20	9
-2008	Charlotte Eagles	16	DeLoach, Aaron		2	46				
-2008	Charlotte Eagles	15	Harvey, Daniel		12	269	1		4	4
-2008	Charlotte Eagles	9	Herrera, Jorge		19	1528	9	6	40	21
-2008	Charlotte Eagles	2	Johnson, Benjamin		16	1310		1	1	9
-2008	Charlotte Eagles	13	Kabwe, Joseph	M/F	19	1543	3	5	29	26
-2008	Charlotte Eagles	22	Klotz, Christopher (Klotzy)		10	287			5	6
-2008	Charlotte Eagles	14	Long, Jonah	D/M	18	1336	4	1	28	22
-2008	Charlotte Eagles	8	Page, Benjamin	F	10	148			4	1
-2008	Charlotte Eagles	0	Pattison, Eric							
-2008	Charlotte Eagles	24	Rife, Josh	M/D	17	1360		2	10	5
-2008	Charlotte Eagles	9	Sampson, Worteh	F	11	358			15	4
-2008	Charlotte Eagles	1	Saxe, Taylor	GK						
-2008	Charlotte Eagles	17	Schroeder, Gregg		5	410		1		2
-2008	Charlotte Eagles	20	Shak, Steve		18	1612	1		5	20
-2008	Charlotte Eagles	23	Smith, Chad	D	8	450			1	2
-2008	Charlotte Eagles	5	Snelgrove, Josiah	M/D	1	45				
-2008	Charlotte Eagles	11	Ssejjemba, Robert	F	16	1115	5	4	27	20
-2008	Charlotte Eagles	18	Swinehart, Dustin		19	1447	16	7	42	16
-2008	Charlotte Eagles	21	Toby, Darren	M	16	840		1	4	9
-2008	Charlotte Eagles	0	Trapp, Kevin	GK	4	360				
-2008	Charlotte Eagles	6	Woods, Thomas		14	777		1	10	14
-2008	Wilmington Hammerheads	20	Alexander, Robert (Trey)		18	1427	6	1	17	26
-2008	Wilmington Hammerheads	22	Avellino, Matt		10	458			6	3
-2008	Wilmington Hammerheads	18	Burklo, Jonathan		13	1030	1		5	11
-2008	Wilmington Hammerheads	4	Clark, Ben		18	1560	1	1	6	26
-2008	Wilmington Hammerheads	10	Corrie, George		9	764		1	7	13
-2008	Wilmington Hammerheads	17	Curran, Brandon		5	450			1	4
-2008	Wilmington Hammerheads	23	Cvilikas, Brian		17	937	6	2	30	19
-2008	Wilmington Hammerheads	7	Garrambone, Derek Wilson		3	158			2	3
-2008	Wilmington Hammerheads	14	Harrison, Alex		13	512	4		13	8
-2008	Wilmington Hammerheads	26	Holmes, Jamie Reid		13	815	5	1	20	16
-2008	Wilmington Hammerheads	8	Hudson, Anthony		5	263			1	5
-2008	Wilmington Hammerheads	13	Hughes, Jordan		13	1009		3	14	7
-2008	Wilmington Hammerheads	2	Keen, Johnnie		6	131			3	2
-2008	Wilmington Hammerheads	21	Loyd, Eric		4	333			1	5
-2008	Wilmington Hammerheads	3	Mattison, Landy		14	1025		1	3	12
-2008	Wilmington Hammerheads	19	Murray, Christopher		17	769	1	2	8	10
-2008	Wilmington Hammerheads	12	Nerkowski, Mark		11	503	1		5	13
-2008	Wilmington Hammerheads	24	Northup, Nathan J.		2	15				
-2008	Wilmington Hammerheads	25	Noviello, Jyler		15	424	2	1	14	4
-2008	Wilmington Hammerheads	1	O'Hara, John Gerard		20	1800				
-2008	Wilmington Hammerheads	30	Polak, Kyle Wilson							
-2008	Wilmington Hammerheads	11	Rowland, Jeffrey		18	823	5		17	6
-2008	Wilmington Hammerheads	9	Smith, Joshua Bailey		18	1444		5	7	26
-2008	Wilmington Hammerheads	16	Thayer, Jeritt		17	1204		1	5	1
-2008	Wilmington Hammerheads	5	Townsend, Ashleigh Peter		6	540				8
-2008	Wilmington Hammerheads	6	Walters, Dame (Tweety)		13	1170				15
-2008	Real Maryland Monarchs	17	Alas Morales, Dennis	M	14	1187	3		54	21
-2008	Real Maryland Monarchs	30	Araujo, Oscar Edgardo	GK	4	315				1
-2008	Real Maryland Monarchs	12	Barnes, Devlin	D	16	1263		1	7	27
-2008	Real Maryland Monarchs	3	Basso, Stephen	D	17	1488			9	32
-2008	Real Maryland Monarchs	2	Bissohong, Philippe	D	9	506				10
-2008	Real Maryland Monarchs	9	Brindley, William	F	20	1216	3	2	22	14
-2008	Real Maryland Monarchs	20	Cerritos, Ronald	F	15	1109	2	1	14	5
-2008	Real Maryland Monarchs	19	Chantel, Marcos		15	1065			2	24
-2008	Real Maryland Monarchs	23	Da Silva, Dangelo	F/F	1	15				1
-2008	Real Maryland Monarchs	4	Dos Anjos, Mateus	M	5	306			2	4
-2008	Real Maryland Monarchs	21	Eby, Matthew	D	6	305			3	2
-2008	Real Maryland Monarchs	15	Ferguson, Daryl	D	18	1605			5	15
-2008	Real Maryland Monarchs	16	Ferrufino, Bairon	M						
-2008	Real Maryland Monarchs	26	Gomez, Pablo Hernan		8	402		1	6	9
-2008	Real Maryland Monarchs	14	Hassen, Muner	M	20	1639			9	11
-2008	Real Maryland Monarchs	7	Higueras, Angel	M	8	597		1	6	11
-2008	Real Maryland Monarchs	22	Hunte, Dia		6	526			2	18
-2008	Real Maryland Monarchs	22	Kamara, Foday	M	7	280				7
-2008	Real Maryland Monarchs	8	Kish, Andrew Kenneth	M	7	605				10
-2008	Real Maryland Monarchs	10	Loughner, Clinton J	M	4	84				
-2008	Real Maryland Monarchs	6	Maldonado, Jose	M	3	95			1	1
-2008	Real Maryland Monarchs	4	Martinez, Alfonso	D	3	270			1	4
-2008	Real Maryland Monarchs	25	Montero, Cristian	GK	1	90				
-2008	Real Maryland Monarchs	23	Pena, Joseph	M	5	323				5
-2008	Real Maryland Monarchs	18	Perez, Nilson	F	18	1399	6		23	22
-2008	Real Maryland Monarchs	11	Ramirez, Teodoro	M	16	937		1	6	12
-2008	Real Maryland Monarchs	24	Ramirez, Victor	F	16	441	1	1	10	6
-2008	Real Maryland Monarchs	5	Tupy, Stephen	M	6	84				1
-2008	Richmond Kickers	20	Bennett, Ian	M	14	599	2		8	5
-2008	Richmond Kickers	10	Bulow, David	F	20	1481	11	4	44	15
-2008	Richmond Kickers	9	Bumbut, Adrian (Piticu)	M	17	838	2	4	19	9
-2008	Richmond Kickers	19	Burke, Michael	M	19	1179	7	8	24	9
-2008	Richmond Kickers	12	Catalano, Anthony	D	19	1340	3		6	15
-2008	Richmond Kickers	8	Chavez, Adam	D	14	523		1	1	4
-2008	Richmond Kickers	26	Cowlishaw, Leigh	M	1	22	1		1	
-2008	Richmond Kickers	17	Dawkins, Fabian	F	5	318	3	2	5	3
-2008	Richmond Kickers	21	Gilkerson, John	D	6	449				2
-2008	Richmond Kickers	23	Gorres, Sascha	M	19	1710	2	3	25	6
-2008	Richmond Kickers	15	Harding, Evan	M/D	18	1526		1	2	5
-2008	Richmond Kickers	11	Hunter, Benjamin	F/M	7	319	1	3	8	3
-2008	Richmond Kickers	5	Jones, Kelvin	D	15	1315		2	4	9
-2008	Richmond Kickers	3	Knight, Kevin	M/D	4	186		1	2	3
-2008	Richmond Kickers	25	McEachron, Trevor	D	17	1530	1	1	6	20
-2008	Richmond Kickers	1	Murphy, Mark	GK	6	384		1		
-2008	Richmond Kickers	27	Nyazamba, Stanley	M	16	1175	6	2	27	22
-2008	Richmond Kickers	2	Pace, Ralph	M/D	9	202	1		1	4
-2008	Richmond Kickers	22	Pascale, Ronnie	GK	16	1416				
-2008	Richmond Kickers	14	Paschalis, Eliot	M	13	972		1	1	13
-2008	Richmond Kickers	24	Schramm, Frederick (Ricky)	F	1	90	1		4	2
-2008	Richmond Kickers	7	Smith, Wilfred (Freddie)	F	12	490	3	1	12	6
-2008	Richmond Kickers	4	Vercollone, Luke	M	19	1552	2	2	14	21
-2008	Richmond Kickers	16	Viray, Patrick	F	11	184	1	1	6	2
-2008	Crystal Palace Baltimore	30	Brooks, Gary	F	14	908	7	1	37	22
-2008	Crystal Palace Baltimore	24	Cherneski, James		4	277			4	1
-2008	Crystal Palace Baltimore	10	Dos Anjos, Mateus		6	540			1	3
-2008	Crystal Palace Baltimore	18	Feazell, David		11	569	1		4	6
-2008	Crystal Palace Baltimore	11	Flores, Sergio		12	607	2	1	18	6
-2008	Crystal Palace Baltimore	21	Harada, Shintaro		19	1637	1		9	31
-2008	Crystal Palace Baltimore	8	Harkin, Bryan	M	18	1142		2	9	26
-2008	Crystal Palace Baltimore	9	Healey, Patrick		19	1224	5	2	22	28
-2008	Crystal Palace Baltimore	4	Kante, Ibrahim		13	993	2		7	15
-2008	Crystal Palace Baltimore	19	King, Kevin Anthonio		12	638		2	17	15
-2008	Crystal Palace Baltimore	15	Lader, Dan		14	742			7	17
-2008	Crystal Palace Baltimore	17	Lewis, Cecil		13	686	1	1	13	5
-2008	Crystal Palace Baltimore	14	Lookingland, Michael		15	1066	1		9	4
-2008	Crystal Palace Baltimore	16	Mark, Larry	F/M	12	688	3	1	14	6
-2008	Crystal Palace Baltimore	5	Marshall, Andrew		20	1718		1	9	24
-2008	Crystal Palace Baltimore	12	Mbuta, Andongcho		17	1264	2	2	39	16
-2008	Crystal Palace Baltimore	22	Morales, Carlos		7	224			1	5
-2008	Crystal Palace Baltimore	27	Nelson, Matthew		6	540				
-2008	Crystal Palace Baltimore	3	Robson, Paul		18	1555		3	3	15
-2008	Crystal Palace Baltimore	1	Rowland, Brian		13	1170				1
-2008	Crystal Palace Baltimore	7	Teixeira, Valdemar		17	1114	4	5	29	19
-2008	Crystal Palace Baltimore	23	Thompson, Zekarius	GK	1	90				
-2008	Crystal Palace Baltimore	2	Ughiovhe, Idris		5	207	1		4	3
-2008	Crystal Palace Baltimore	10	Urquijo, Harold		4	119			2	4
-2008	Western Mass Pioneers	0	Andre, Matt							
-2008	Western Mass Pioneers	18	Arteaga, Jhonny		9	75				1
-2008	Western Mass Pioneers	12	Augustine, Anthony		18	1597			4	24
-2008	Western Mass Pioneers	5	Bissett, Callum		12	919	1		2	9
-2008	Western Mass Pioneers	16	Brito, Emanuel (Manny)		2	24				1
-2008	Western Mass Pioneers	11	Bunsie, Noel		13	1005	2		16	8
-2008	Western Mass Pioneers	1	Cole, Joshua		1	90				1
-2008	Western Mass Pioneers	4	Cumberbatch, Kevin	D	14	898				19
-2008	Western Mass Pioneers	13	Deren, Jeff		19	1643	5	4	22	15
-2008	Western Mass Pioneers	16	Germanese, Joseph D		6	502	1		6	5
-2008	Western Mass Pioneers	30	Glaeser, Matt		20	1800				1
-2008	Western Mass Pioneers	20	Greenslit, James		19	1710	1		2	10
-2008	Western Mass Pioneers	18	Howarth, Adam							
-2008	Western Mass Pioneers	6	Klinger, Fausto		2	156			2	2
-2008	Western Mass Pioneers	22	Krause, Neil		18	1541	6	2	25	30
-2008	Western Mass Pioneers	16	Larocca, Tim		8	187			2	2
-2008	Western Mass Pioneers	14	Lima, Mike		13	600		1	1	
-2008	Western Mass Pioneers	10	Maciel, Everson		7	224			5	7
-2008	Western Mass Pioneers	9	McFarlane, Omar		15	867	1	1	9	15
-2008	Western Mass Pioneers	7	Molinari, Federico		17	1511		5	14	22
-2008	Western Mass Pioneers	8	Petrarca, Anthony		20	1551			13	20
-2008	Western Mass Pioneers	6	Stewart, Craig		1	53				
-2008	Western Mass Pioneers	6	Tyler, Brandon		4	360			1	6
-2008	Western Mass Pioneers	3	Willis, Jay	D/D	20	1787	1		14	20
-2008	Western Mass Pioneers	16	Wilson, Easton		4	343		1	5	9
-2008	Western Mass Pioneers	11	Zobre, Bryan		10	231	1		3	4
-2008	Western Mass Pioneers	33	cross, matt		1	90				
-2008	Bermuda Hogges	9	Astwood, Stephen (Ste)		14	723	1	1	15	26
-2008	Bermuda Hogges	23	Ball, Jonathan		12	1061	1		4	8
-2008	Bermuda Hogges	16	Bean, Blenn		12	1066		1	4	7
-2008	Bermuda Hogges	16	Bean, Keishen		17	1086	2		15	15
-2008	Bermuda Hogges	14	Bean, Ralph		11	408		1	2	3
-2008	Bermuda Hogges	12	Burgess, Lyndon (Nigel)		7	461			1	
-2008	Bermuda Hogges	5	Charlton, Andrew		1	10				1
-2008	Bermuda Hogges	19	Coddington, Damico		11	378	1		7	6
-2008	Bermuda Hogges	2	Cox, Darius		15	1310	1		4	10
-2008	Bermuda Hogges	25	Darrell, Seion		7	274				1
-2008	Bermuda Hogges	15	DeGraff, Devaun (Sammy)		13	1013		2	14	19
-2008	Bermuda Hogges	5	Dill, Kofi L		7	622			1	4
-2008	Bermuda Hogges	11	Dill, Lashun		13	740	1		17	8
-2008	Bermuda Hogges	1	Figureido, Timothy		15	1328				
-2008	Bermuda Hogges	20	Goater, Shaun		1	18			1	
-2008	Bermuda Hogges	21	Holder, Laurence (Lloyd)		9	234			3	4
-2008	Bermuda Hogges	20	Jennings, Jemeiko Sykhi		2	151			1	3
-2008	Bermuda Hogges	20	Jennings, Keith		3	202			7	7
-2008	Bermuda Hogges	23	Lightbourne, Kyle (Lighty)		2	29			1	
-2008	Bermuda Hogges	7	Ming, Damon Jason		17	1403	4	4	30	21
-2008	Bermuda Hogges	22	Minors, Brendon		1	22			1	
-2008	Bermuda Hogges	99	Nusum, John Barry		13	919	2		33	11
-2008	Bermuda Hogges	18	Parsons, Michael		6	263			1	2
-2008	Bermuda Hogges	6	Peniston, Jared		14	1167	1	1	12	17
-2008	Bermuda Hogges	28	Richards, Kevin		15	1201	1		2	4
-2008	Bermuda Hogges	26	Robinson, Cecoy		2	22				
-2008	Bermuda Hogges	4	Scott, Jelani		15	1074				12
-2008	Bermuda Hogges	8	Shakir, Omar		14	1216	1		6	16
-2008	Bermuda Hogges	17	Steede, Kwame		6	455	1		5	9
-2008	Bermuda Hogges	24	Tucker, Arthur (Jabrel)		1	57				
-2008	Bermuda Hogges	22	Williams, Jason							
-2008	Bermuda Hogges	3	Wilson, Robert		2	123				
-2008	Bermuda Hogges	10	Zuill, Aljame JL		9	425	2		16	16
-2009	Wilmington Hammerheads	20	Alexander, Robert	M	1	6				
-2009	Wilmington Hammerheads	2	Angus, Calum	D	5	450	1		5	7
-2009	Wilmington Hammerheads	33	Bagley, Christopher	F	9	590	1		13	11
-2009	Wilmington Hammerheads	21	Bermudez, Yeniel	M	2	108			1	1
-2009	Wilmington Hammerheads	8	Briggs, Mark	M	20	1641	1	2	8	18
-2009	Wilmington Hammerheads	20	Budnyy, Andriy	M	1	19	1		1	
-2009	Wilmington Hammerheads	9	Bundy, Kenneth	M	20	1510	4	9	18	11
-2009	Wilmington Hammerheads	12	Curfman, Steven	M	16	341	1		4	5
-2009	Wilmington Hammerheads	7	DeVae, John	M	6	214	1	1	5	2
-2009	Wilmington Hammerheads	15	Dombrowski, Zeke	M	18	1563	2		9	16
-2009	Wilmington Hammerheads	5	Falvey, Colin	D	15	1301	1		7	12
-2009	Wilmington Hammerheads	23	Franks, Jamie	M	17	1210	1	1	18	6
-2009	Wilmington Hammerheads	11	Hufstader, Philip	F	12	828	4	2	16	12
-2009	Wilmington Hammerheads	4	Karalexis, Timothy	D	12	962	2		8	2
-2009	Wilmington Hammerheads	11	King, Aaron	F	4	80	1	1	2	2
-2009	Wilmington Hammerheads	0	McClellan, Chris	GK	5	450				
-2009	Wilmington Hammerheads	13	Murray, Christopher	M	20	806		3	8	14
-2009	Wilmington Hammerheads	14	Noviello, Jyler	F	18	453	6		13	5
-2009	Wilmington Hammerheads	23	Parker, Aaron		4	41				
-2009	Wilmington Hammerheads	3	Pierce, Rusty	D	4	247				2
-2009	Wilmington Hammerheads	30	Polak, Kyle	GK	4	300				
-2009	Wilmington Hammerheads	1	Sattler, Daryl	GK	13	1050				3
-2009	Wilmington Hammerheads	17	Solle, Ryan	M	11	401	1		2	4
-2009	Wilmington Hammerheads	22	Tate, Patrick	D	9	492				6
-2009	Wilmington Hammerheads	18	Tatters, Graham	D	13	1170			2	10
-2009	Wilmington Hammerheads	16	Thayer, Jeritt	D	17	1152	1	2	3	4
-2009	Wilmington Hammerheads	6	Walters, Dame	D	14	1101			1	19
-2009	Wilmington Hammerheads	77	Watson, Jamie	F	16	1294	12	6	38	21
-2009	Richmond Kickers	24	Andongcho, Mathew	F	1	90			5	
-2009	Richmond Kickers	10	Bulow, David	M	19	901	9		19	15
-2009	Richmond Kickers	9	Bumbut, Adrian	F	16	691	3		13	11
-2009	Richmond Kickers	19	Burke, Michael	M	18	1211	3	7	22	12
-2009	Richmond Kickers	16	Carrieri, Chris	M	5	318	1		6	3
-2009	Richmond Kickers	26	Cowlishaw, Leigh	M	1	6				
-2009	Richmond Kickers	17	Cutler, Kenny	D	20	1565		2	3	2
-2009	Richmond Kickers	7	Delicate, Matthew	F	20	1652	13	2	34	19
-2009	Richmond Kickers	29	Diraimondo, John	M	5	414	2		10	6
-2009	Richmond Kickers	18	Dos Santos, Gerson P	M	17	1319	1	2	12	24
-2009	Richmond Kickers	27	Elcock, Edson	M	3	198			3	
-2009	Richmond Kickers	23	Goerres, Sascha	D	17	1461		5	4	9
-2009	Richmond Kickers	15	Harding, Evan	M	12	327		1	1	1
-2009	Richmond Kickers	11	Hunter, Benjamin	D	18	602	2		12	10
-2009	Richmond Kickers	5	Jones, Kelvin	D	15	544			3	4
-2009	Richmond Kickers	25	Kalungi, Henry	D	19	1710			1	16
-2009	Richmond Kickers	21	MacKenzie, Ross	M	12	242	1		10	6
-2009	Richmond Kickers	22	Pascale, Ronnie	GK	20	1800			1	1
-2009	Richmond Kickers	3	Peters, Ferman Anthony	D	4	232			1	4
-2009	Richmond Kickers	12	Rosenbaum, David	F	3	18		1		
-2009	Richmond Kickers	16	Tolleson, Jeremy	D	1	90				2
-2009	Richmond Kickers	4	Vercollone, Luke	M	20	1660		2	10	13
-2009	Richmond Kickers	2	William, Yomby	D	18	1487		2	4	17
-2009	Richmond Kickers	8	Worthen, Joey	F	17	1149	3	3	23	13
-2009	Harrisburg City Islanders	13	Baker, Nathan	M	16	930			4	9
-2009	Harrisburg City Islanders	3	Bixler, Dustin	D	13	1161				14
-2009	Harrisburg City Islanders	4	Bloes, Geoffrey	D	18	1583			7	11
-2009	Harrisburg City Islanders	9	Buffington, Phillip	F	8	143		2	7	1
-2009	Harrisburg City Islanders	23	Calvano, Anthony	D	13	1007		1	3	10
-2009	Harrisburg City Islanders	14	Chencinski, Tomer	GK	4	360				
-2009	Harrisburg City Islanders	16	DiRalmondo, John		1	25				
-2009	Harrisburg City Islanders	2	Fisher, Stephen	F	20	1385	3	5	29	13
-2009	Harrisburg City Islanders	32	Harrison, Chase	GK	16	1440				1
-2009	Harrisburg City Islanders	18	Heinemann, Tommy		1	90			1	3
-2009	Harrisburg City Islanders	0	Herford, Jay	GK	1	2				
-2009	Harrisburg City Islanders	17	Kasiguran, Kai	M	18	426			3	4
-2009	Harrisburg City Islanders	7	Marples, Nigel	D	1	90				
-2009	Harrisburg City Islanders	8	Massie, Jason	M	13	332		1	2	4
-2009	Harrisburg City Islanders	16	Nunez, Agustino	F	5	247			8	
-2009	Harrisburg City Islanders	19	Oduor, Mo	M	18	1173	2	2	16	18
-2009	Harrisburg City Islanders	5	Paterson, Nicholas	M	18	1418	1	2	17	37
-2009	Harrisburg City Islanders	22	Pelletier, Jason	M	18	1527	3	4	21	28
-2009	Harrisburg City Islanders	18	Peters, Ferman Anthony		1	2		1		
-2009	Harrisburg City Islanders	7	Reinberg, Stephen	D	16	965	2		8	20
-2009	Harrisburg City Islanders	10	Schofield, David	F	19	705	1	1	13	12
-2009	Harrisburg City Islanders	20	Severs, Chad	F	19	1140	9	1	28	3
-2009	Harrisburg City Islanders	12	Shipalane, Tiyiselani	M	18	1320	6	6	41	9
-2009	Harrisburg City Islanders	11	Swartzendruber, Brandon	M	18	583	4		16	11
-2009	Harrisburg City Islanders	6	Velten, Timothy	D	20	1723				29
-2009	Charlotte Eagles	9	Bentos, Gustavo	F	7	189	1		5	6
-2009	Charlotte Eagles	4	Bryant, Brady	D	9	435			1	10
-2009	Charlotte Eagles	0	Ceus, Steward	GK	10	900				
-2009	Charlotte Eagles	25	Coggins, Jacob	F	18	748	2	2	16	14
-2009	Charlotte Eagles	5	Connor, Joseph	D	5	311			1	3
-2009	Charlotte Eagles	19	Daka, Patrick	F	16	625	1		11	4
-2009	Charlotte Eagles	16	DeLoach, Aaron	F	1	35			2	
-2009	Charlotte Eagles	3	Garcia, Nicolas	D	2	152				2
-2009	Charlotte Eagles	10	Herrera, Jorge	M	19	1602	6	6	30	23
-2009	Charlotte Eagles	2	Johnson, Benjamin	D	17	742		1	4	8
-2009	Charlotte Eagles	22	Klotz, Christopher	M	9	205		1	3	2
-2009	Charlotte Eagles	0	Lefebure, Erik	GK	1	90				
-2009	Charlotte Eagles	7	Lemons, Chris	M	19	963	2		17	11
-2009	Charlotte Eagles	12	Martins, Diego	M	18	1297	4	6	40	11
-2009	Charlotte Eagles	27	McFarlane, Omar	M	1	23				1
-2009	Charlotte Eagles	13	Nunes, Amaury	M	12	792	9	2	23	10
-2009	Charlotte Eagles	8	Page, Benjamin	F	14	617	3	3	20	4
-2009	Charlotte Eagles	24	Rife, Josh	D	18	1559	1	1	6	4
-2009	Charlotte Eagles	17	Schroeder, Gregg	M	8	414			2	2
-2009	Charlotte Eagles	20	Shak, Steve	D	15	1350	1		7	15
-2009	Charlotte Eagles	23	Smith, Chad	D	14	1037			2	10
-2009	Charlotte Eagles	18	Swinehart, Dustin	F	20	1475	7	3	36	8
-2009	Charlotte Eagles	21	Toby, Darren	M	18	1450	1		6	10
-2009	Charlotte Eagles	1	Trapp, Kevin	GK	9	810				1
-2009	Charlotte Eagles	15	Williams, Luke	D	18	1255	1	2	5	9
-2009	Charlotte Eagles	6	Woods, Thomas	M	18	665		2	2	8
-2009	Real Maryland Monarchs	2	Borrajo, John	D	20	1800			1	11
-2009	Real Maryland Monarchs	20	Brooks, Gary	F	14	1095	6	3	36	25
-2009	Real Maryland Monarchs	14	Bulls, Daniel	M	6	155				3
-2009	Real Maryland Monarchs	8	Carroll, Jeffrey	M	12	652		2	2	16
-2009	Real Maryland Monarchs	21	Carroll, Patrick	D	2	180				
-2009	Real Maryland Monarchs	6	Cartaya, Loanny	M	9	716			3	12
-2009	Real Maryland Monarchs	16	Chastain, Cameron	D	5	91				
-2009	Real Maryland Monarchs	22	Cordeiro, Ryan	F	14	1096		4	12	19
-2009	Real Maryland Monarchs	4	Diaz, Yendry	D	10	881	1		6	21
-2009	Real Maryland Monarchs	23	Funicello, Giuseppe	D	12	1059			4	13
-2009	Real Maryland Monarchs	18	Ghebru, Michael	M	8	378			4	4
-2009	Real Maryland Monarchs	24	Gonzaga, Lucio	F	7	504	2	1	12	5
-2009	Real Maryland Monarchs	12	Gracien, Marc	M	8	396	1	1	12	7
-2009	Real Maryland Monarchs	19	Hertel, Dave	M	4	214			2	1
-2009	Real Maryland Monarchs	9	Holmes, Jamie	F	11	348	3		9	5
-2009	Real Maryland Monarchs	25	Holody, Michael	D	9	810			3	3
-2009	Real Maryland Monarchs	1	Hughes, Justin	GK	7	630				
-2009	Real Maryland Monarchs	0	Kern, Dave	GK	13	1170				
-2009	Real Maryland Monarchs	11	King, Kevin	F	2	114	2		2	6
-2009	Real Maryland Monarchs	12	Lewis, Garry	M	7	514			5	11
-2009	Real Maryland Monarchs	17	Lewis, Fabien	D	10	719			2	16
-2009	Real Maryland Monarchs	14	Lewis, Cecil	M	11	931	2	2	15	14
-2009	Real Maryland Monarchs	24	Martinez, Rey	F	4	91				
-2009	Real Maryland Monarchs	3	Purser, David	D	6	391				6
-2009	Real Maryland Monarchs	15	Ramirez, Victor	M	11	485	1	1	12	7
-2009	Real Maryland Monarchs	10	Rush, Sean	M	16	1037	1	3	12	16
-2009	Real Maryland Monarchs	19	Salas, Sergio	M	3	70			2	
-2009	Real Maryland Monarchs	24	Schunk, Ross		1	90			2	2
-2009	Real Maryland Monarchs	13	Stevens, James	F	13	559	1		6	4
-2009	Real Maryland Monarchs	7	Taylor, Tom	M	18	1386	2	1	14	18
-2009	Real Maryland Monarchs	5	Townsend, Ashleigh	D	14	1172			1	14
-2009	Crystal Palace Baltimore	2	Adelusimi, Olawale	D	4	181				4
-2009	Crystal Palace Baltimore	12	Andongcho, Mathew		3	270	2		8	3
-2009	Crystal Palace Baltimore	23	Basso, Stephen	D	15	1267			5	21
-2009	Crystal Palace Baltimore	24	Cherneski, James	M	1	9			1	
-2009	Crystal Palace Baltimore	0	Chiles, William	GK	2	121				
-2009	Crystal Palace Baltimore	10	Dos Anjos, Mateus		12	1080		1	4	9
-2009	Crystal Palace Baltimore	16	Flores, Zackary	D	19	1420			14	13
-2009	Crystal Palace Baltimore	11	Gnatiko, Comlan	M	16	552			7	4
-2009	Crystal Palace Baltimore	21	Harada, Shintaro	M	20	1675		1	16	29
-2009	Crystal Palace Baltimore	8	Harkin, Bryan	M	14	826			6	14
-2009	Crystal Palace Baltimore	9	Healey, Patrick	M	19	1455	2	1	20	17
-2009	Crystal Palace Baltimore	15	Lader, Dan	M	18	1266	3	1	19	25
-2009	Crystal Palace Baltimore	16	Mark, Larry	F	1	30				
-2009	Crystal Palace Baltimore	5	Marshall, Andrew	D	19	1613		1	9	22
-2009	Crystal Palace Baltimore	28	Millwood, Machel	F	9	641	1	2	14	9
-2009	Crystal Palace Baltimore	18	Nusum, John Barry		5	229			7	3
-2009	Crystal Palace Baltimore	4	Pierce, Ryan	D	15	938			2	7
-2009	Crystal Palace Baltimore	3	Robson, Paul	D	18	1572		2	9	21
-2009	Crystal Palace Baltimore	1	Rowland, Brian	GK	20	1679				
-2009	Crystal Palace Baltimore	10	Seabrook, Jordan	F	20	1300	3	2	24	5
-2009	Crystal Palace Baltimore	7	Teixeira, Valdemar	F	18	1297	5		43	24
-2009	Crystal Palace Baltimore	2	Ughiovhe, Idris		2	111				2
-2009	Crystal Palace Baltimore	15	Vranis, Neil	M	5	78				3
-2009	Crystal Palace Baltimore	17	Zimmerman, Nick		2	123			3	2
-2009	Pittsburgh Riverhounds	22	Bonseu, Tenywa	D	14	1177	2		9	8
-2009	Pittsburgh Riverhounds	15	Bragg, Richard	D	15	1108			1	10
-2009	Pittsburgh Riverhounds	9	Brindley, William	F	11	346	1		7	2
-2009	Pittsburgh Riverhounds	5	Brown, Allan	D	17	666			3	11
-2009	Pittsburgh Riverhounds	16	Bucknor, Sean	F	10	232			7	6
-2009	Pittsburgh Riverhounds	21	Cameron, Sean	M	10	574			9	7
-2009	Pittsburgh Riverhounds	7	Evans, Justin	M	18	1590	1	2	26	31
-2009	Pittsburgh Riverhounds	11	Gibson, Scott	M	3	19			1	
-2009	Pittsburgh Riverhounds	17	Gray, Thomas	M	17	1086	1		21	7
-2009	Pittsburgh Riverhounds	8	Hayden, Ed	D	18	1500	1		4	19
-2009	Pittsburgh Riverhounds	23	Hughes, Jeffrey	F	17	879	2	1	17	6
-2009	Pittsburgh Riverhounds	22	Jerome, Jean	M	2	160	1		2	2
-2009	Pittsburgh Riverhounds	18	Jerome, Randolph	F	15	1228	6	1	26	19
-2009	Pittsburgh Riverhounds	4	Katic, Nikola	M	11	870			7	27
-2009	Pittsburgh Riverhounds	4	Katic, Nikola	D	2	180			1	4
-2009	Pittsburgh Riverhounds	19	Kutney, Jason	M	18	1434		1	21	16
-2009	Pittsburgh Riverhounds	12	Labudovski, Tony	M	19	1069	2	1	18	9
-2009	Pittsburgh Riverhounds	14	Langton, Matthew	M	9	324			3	2
-2009	Pittsburgh Riverhounds	20	Riley, Chris	D	13	864			3	10
-2009	Pittsburgh Riverhounds	6	Salsi, Nathan	D	20	1800	1	1	9	13
-2009	Pittsburgh Riverhounds	0	Varga, Zach	GK	5	393				
-2009	Pittsburgh Riverhounds	1	Waltman, Danny	GK	16	1407				
-2009	Pittsburgh Riverhounds	10	Zewe, Joseph	M	17	716		2	7	11
-2009	Bermuda Hogges	9	Astwood, Stephen	M	15	1096	3	1	24	23
-2009	Bermuda Hogges	3	Ball, Jonathan	F	5	243	1		2	3
-2009	Bermuda Hogges	16	Bean, Keishen	D	1	90				
-2009	Bermuda Hogges	16	Bean, Blenn	D	19	1658		1	9	15
-2009	Bermuda Hogges	12	Burgess, Lyndon	GK	9	810				
-2009	Bermuda Hogges	10	Coddington, Damico	F	20	1565	4		31	17
-2009	Bermuda Hogges	2	Cox, Darius	D	20	1702		1	5	8
-2009	Bermuda Hogges	28	Darrell, Seion	D	18	822			13	3
-2009	Bermuda Hogges	15	DeGraff, Devaun	M	18	1272			9	11
-2009	Bermuda Hogges	11	Dill, Lashun	M	14	489		3	9	5
-2009	Bermuda Hogges	5	Dill, Kofi	M	3	87			1	1
-2009	Bermuda Hogges	1	Figureido, Timothy		1	18				
-2009	Bermuda Hogges	21	Holder, Laurence	F	8	253	4		11	4
-2009	Bermuda Hogges	20	Jennings, Keith		6	406			11	7
-2009	Bermuda Hogges	27	Lewis, Keston	M	12	629			5	12
-2009	Bermuda Hogges	19	Lightbourne, Kyle	F	4	23			1	
-2009	Bermuda Hogges	7	Ming, Damon	M	20	1333	2	1	25	20
-2009	Bermuda Hogges	6	Peniston, Jared	D	17	1285		1	6	16
-2009	Bermuda Hogges	4	Richards, Kevin	D	17	1404	2		7	7
-2009	Bermuda Hogges	29	Rojas, Marlon		1	34				
-2009	Bermuda Hogges	23	Russell, Tokia	M	11	775			6	7
-2009	Bermuda Hogges	99	Russell, Antwan	F	15	1039	1	2	21	22
-2009	Bermuda Hogges	8	Shakir, Omar	D	16	1203	1		8	13
-2009	Bermuda Hogges	22	Smith, Jamie	F	15	461	1		15	14
-2009	Bermuda Hogges	25	Williams, Jason	GK	11	965				
+2005; Harrisburg City Islanders; 7; Bartholomew, Art; M/F; 3; 157; ; ; 4; 5
+2005; Harrisburg City Islanders; 0; Bishop, Sam; GK; 1; 6; ; ; ; 
+2005; Harrisburg City Islanders; 6; Bixler, Dustin; D; 18; 1620; ; ; 2; 23
+2005; Harrisburg City Islanders; 22; Clay, Adam; D/M; 17; 852; 1; 2; 5; 19
+2005; Harrisburg City Islanders; 23; Crawford, Shane; D/M; 18; 1485; 2; 1; 33; 20
+2005; Harrisburg City Islanders; 12; Crist, Matt; M; 9; 130; ; 1; 1; 2
+2005; Harrisburg City Islanders; 8; Custer, Steve; M/F; 2; 97; ; ; 1; 1
+2005; Harrisburg City Islanders; 14; Dorsey, J.T.; D; 17; 1501; ; ; 1; 25
+2005; Harrisburg City Islanders; 2; Fisher, Steve; M/F; 18; 896; 5; 3; 22; 7
+2005; Harrisburg City Islanders; 1; Hill, Bryan; GK; 9; 790; ; ; ; 2
+2005; Harrisburg City Islanders; 16; Ibrahim, Sumed; M/F; 16; 1176; 10; 3; 37; 11
+2005; Harrisburg City Islanders; 0; Kern, Dave; GK; 12; 1010; ; ; ; 1
+2005; Harrisburg City Islanders; 11; Lapore, John; D/M; 12; 712; ; ; 2; 8
+2005; Harrisburg City Islanders; 20; Mensah, Henry; M/F; 9; 302; ; ; 7; 9
+2005; Harrisburg City Islanders; 17; O'Neill, Ryan; ; 9; 631; 1; 2; 7; 5
+2005; Harrisburg City Islanders; 19; Oduor, Mo; M/D; 16; 1196; 2; ; 17; 36
+2005; Harrisburg City Islanders; 21; Potteiger, Derek; M; 16; 1293; 1; 1; 9; 15
+2005; Harrisburg City Islanders; 4; Rutter, Tommy; D; 12; 992; ; ; 2; 6
+2005; Harrisburg City Islanders; 10; Schofield, David; M/F; 13; 1020; 1; 5; 25; 9
+2005; Harrisburg City Islanders; 3; Schultz, Adam; D; 18; 1116; ; 2; 5; 7
+2005; Harrisburg City Islanders; 15; Severs, Chad; F; 19; 1480; 13; 5; 49; 18
+2005; Harrisburg City Islanders; 9; Showers, Bernie; F; 16; 371; 4; ; 13; 3
+2005; Harrisburg City Islanders; 18; Stone, Jimmy; M/F; 11; 308; 1; ; 5; 5
+2005; Harrisburg City Islanders; 13; Tanzini, Matt; F; 15; 675; 2; 3; 18; 13
+2005; Harrisburg City Islanders; 5; Tyrrell, Craig; D/M; 1; 1; ; ; ; 
+2005; Cincinnati Kings; 9; Baah, Peter; ; 6; 244; ; ; 3; 6
+2005; Cincinnati Kings; 17; Barton, Joshua; ; 6; 480; 1; ; 5; 8
+2005; Cincinnati Kings; 5; Caldwell, Jon; ; 18; 951; 1; ; 15; 10
+2005; Cincinnati Kings; 23; Carey, Simon; F; 5; 150; ; ; 3; 3
+2005; Cincinnati Kings; 14; Celeste, Mesac; ; 2; 180; ; ; ; 2
+2005; Cincinnati Kings; 11; Cummings, John (Jack); M; 18; 1574; 2; 3; 51; 21
+2005; Cincinnati Kings; 23; Dagnogo, Moussa; ; 6; 462; 3; ; 25; 4
+2005; Cincinnati Kings; 13; Fiore, Salvator; ; 18; 1471; 3; 2; 13; 31
+2005; Cincinnati Kings; 22; Gibson, Eric (Matt); ; 8; 704; ; ; ; 
+2005; Cincinnati Kings; 9; Gross, Albert; ; 4; 69; ; ; ; 5
+2005; Cincinnati Kings; 12; Hughes, Jeffrey; ; 20; 1420; 2; 2; 23; 8
+2005; Cincinnati Kings; 4; Jones, Bret (Eric); ; 11; 885; 1; ; 5; 14
+2005; Cincinnati Kings; 10; Kithas, George; F; 18; 1272; 5; 1; 26; 37
+2005; Cincinnati Kings; 6; Lagunas, Ruben; ; 5; 97; ; ; 1; 
+2005; Cincinnati Kings; 2; Liersemann, John; ; 12; 676; 1; 1; 11; 7
+2005; Cincinnati Kings; 7; Lubega, Abdul; ; 11; 291; 1; 1; 8; 5
+2005; Cincinnati Kings; 24; Madden, Jonathan; GK; ; ; ; ; ; 
+2005; Cincinnati Kings; 8; McCloskey, Kevin; ; 18; 1527; 1; ; 16; 57
+2005; Cincinnati Kings; 19; McGinlay, John; ; 3; 94; ; ; 1; 1
+2005; Cincinnati Kings; 20; Pickup, Jonathan; D; 9; 690; ; 1; 1; 13
+2005; Cincinnati Kings; 4; Rhodis, Craig; ; 2; 180; ; 1; ; 
+2005; Cincinnati Kings; 1; Schaeper, Brian; ; 14; 1096; ; ; ; 1
+2005; Cincinnati Kings; 16; Schulte, Wes; D; 15; 1237; 1; ; 10; 19
+2005; Cincinnati Kings; 17; Shteiwi, Jamal; ; 3; 86; ; ; 1; 1
+2005; Cincinnati Kings; 21; Smith, Derek; D; 20; 1794; 1; ; 14; 34
+2005; Cincinnati Kings; 18; Sobers, Travis; F; 17; 686; 4; 2; 14; 17
+2005; Cincinnati Kings; 15; Sondaal, Tiest; D; 18; 1559; ; 3; 7; 36
+2005; Pittsburgh Riverhounds; 5; Bajek, Brian; ; 1; 10; ; ; ; 1
+2005; Pittsburgh Riverhounds; 4; Barnes, Devlin; ; 13; 845; 1; 1; 7; 21
+2005; Pittsburgh Riverhounds; 24; Bastidas, Vincente (Vinny); M; 18; 1260; 4; 2; 19; 20
+2005; Pittsburgh Riverhounds; 20; Bezbatchenko, Tim; M; 19; 1260; 1; 1; 6; 21
+2005; Pittsburgh Riverhounds; 5; Bragg, Richard (Cody); D; 9; 734; ; ; 1; 6
+2005; Pittsburgh Riverhounds; 8; Calvano, Anthony; ; 18; 1387; 1; 3; 12; 20
+2005; Pittsburgh Riverhounds; 21; Caushaj, Granit; M/F; 13; 219; 1; ; 4; 6
+2005; Pittsburgh Riverhounds; 3; Connell, Jason; ; ; ; ; ; ; 
+2005; Pittsburgh Riverhounds; 13; Flavius, David; F; 20; 1604; 8; 1; 53; 23
+2005; Pittsburgh Riverhounds; 23; Hartung, Daniel (Dan); M; 5; 311; 1; ; 5; 2
+2005; Pittsburgh Riverhounds; 12; Heasley, Lucas; GK; 2; 135; ; ; ; 
+2005; Pittsburgh Riverhounds; 21; Koranteng, Reggie; D; 18; 1009; 3; 4; 8; 8
+2005; Pittsburgh Riverhounds; 4; Liersemann, John; ; 3; 144; ; ; 4; 3
+2005; Pittsburgh Riverhounds; 7; MacKenzie, Derek; ; 15; 856; ; 1; 7; 12
+2005; Pittsburgh Riverhounds; 19; Manning, Ahmad; M; 8; 294; 1; ; 7; 4
+2005; Pittsburgh Riverhounds; 25; McNelis, Terrance (Terry); GK; 9; 779; ; ; ; 
+2005; Pittsburgh Riverhounds; 20; Mehler, Matthew; ; 17; 1328; 1; 1; 5; 13
+2005; Pittsburgh Riverhounds; 17; Monka, Bryan; D; 10; 588; ; ; ; 9
+2005; Pittsburgh Riverhounds; 24; Mupier, Mira; F; 11; 337; ; 1; 6; 11
+2005; Pittsburgh Riverhounds; 27; Pottinger, Damien; ; 14; 978; 3; 2; 26; 9
+2005; Pittsburgh Riverhounds; 22; Robinson, Chris; GK; 11; 886; ; ; ; 1
+2005; Pittsburgh Riverhounds; 6; Salsi, Nathan; D; 18; 1530; 1; 2; 13; 18
+2005; Pittsburgh Riverhounds; 9; Thompson, Evaud; F; 16; 779; 4; ; 17; 18
+2005; Pittsburgh Riverhounds; 14; Victor, Gregory; F; 17; 857; 1; 2; 10; 18
+2005; Pittsburgh Riverhounds; 2; Vidmar, Joseph; D; 19; 1677; ; ; 2; 27
+2005; Wilmington Hammerheads; 33; Bagley, Christopher; ; 10; 398; 7; 2; 20; 5
+2005; Wilmington Hammerheads; 24; Bragoli, Daniele; ; 2; 37; ; ; 1; 1
+2005; Wilmington Hammerheads; 3; Bryant, Brady; D; 16; 1342; ; ; 6; 27
+2005; Wilmington Hammerheads; 16; Bundy, Kenneth; ; 20; 1369; 4; 6; 25; 17
+2005; Wilmington Hammerheads; 8; Capecci, Daniel; D; 3; 20; ; ; 1; 
+2005; Wilmington Hammerheads; 6; Chase, Paul; D; 17; 1194; ; 5; 11; 11
+2005; Wilmington Hammerheads; 10; Corrie, George; M; 19; 1589; 2; ; 16; 32
+2005; Wilmington Hammerheads; 18; Crandell, Chad; ; 8; 358; ; 1; 6; 5
+2005; Wilmington Hammerheads; 13; Creasman, Bartley (Bart); ; 10; 900; ; ; ; 
+2005; Wilmington Hammerheads; 7; Gledhill, James (Gleddy); F; 17; 1347; 10; 6; 40; 27
+2005; Wilmington Hammerheads; 21; Hill, Benjamin (Ben); F; ; ; ; ; ; 
+2005; Wilmington Hammerheads; 14; Hufstader, Philip; M; 16; 783; 4; ; 14; 22
+2005; Wilmington Hammerheads; 29; James, Jordan; GK; 10; 900; ; ; ; 
+2005; Wilmington Hammerheads; 16; Krupnik, Leonid (Leo); D; 15; 1350; ; 2; 7; 18
+2005; Wilmington Hammerheads; 23; Lesesne, Troy; ; 4; 255; ; 1; 2; 4
+2005; Wilmington Hammerheads; 19; Lindal, Thomas; D; 9; 437; ; ; ; 3
+2005; Wilmington Hammerheads; 8; Long, Phillip; ; 11; 362; ; ; 5; 5
+2005; Wilmington Hammerheads; 17; Miller, Ryan; F; 16; 1318; 7; 1; 32; 26
+2005; Wilmington Hammerheads; 4; Murray, Stephen; M; 12; 567; 1; ; 8; 11
+2005; Wilmington Hammerheads; 12; Nylen, Kevin; D; 15; 1062; 3; ; 9; 28
+2005; Wilmington Hammerheads; 20; Popovich, Derek; ; 16; 1289; 2; 1; 26; 31
+2005; Wilmington Hammerheads; 25; Rudisill, William; ; 7; 195; ; 3; 6; 3
+2005; Wilmington Hammerheads; 12; Seabrook, Montae; ; 7; 429; 1; ; 2; 2
+2005; Wilmington Hammerheads; 2; Webb, Gannon; ; 6; 516; ; ; 1; 6
+2005; Wilmington Hammerheads; 1; Wiggans, Keith; GK; ; ; ; ; ; 
+2005; Wilmington Hammerheads; 11; Wright, Anthony; ; 16; 1322; ; ; 9; 6
+2005; Wilmington Hammerheads; 15; Zarate, Juvenal (Junior); M/F; 16; 389; 2; 3; 14; 12
+2005; Charlotte Eagles; 0; Boss, Terry; GK; 2; 110; ; ; ; 
+2005; Charlotte Eagles; 13; Casey, Sam; F; 18; 601; 3; 1; 8; 11
+2005; Charlotte Eagles; 20; Coggins, Jacob; F; 17; 1469; 14; 4; 50; 32
+2005; Charlotte Eagles; 19; Daka, Patrick; M/F; 19; 1410; 3; 1; 34; 16
+2005; Charlotte Eagles; 5; Dinunzio, Ryan; D; 17; 1080; ; 3; 2; 8
+2005; Charlotte Eagles; 19; Faro, Aaron; D; 17; 1306; ; 1; 6; 4
+2005; Charlotte Eagles; 13; Fray, Tafaria; M/F; 9; 239; ; ; 1; 3
+2005; Charlotte Eagles; 14; Guastaferro, Andrew; ; 6; 354; ; ; 5; 6
+2005; Charlotte Eagles; 15; Harvey, Daniel; ; 3; 115; 1; ; 2; 1
+2005; Charlotte Eagles; 6; Jogi, Declan; D; 6; 272; ; ; 2; 3
+2005; Charlotte Eagles; 2; Johnson, Benjamin; D; 17; 740; ; 1; 6; 9
+2005; Charlotte Eagles; 7; Lemons, Christopher; D/M; 18; 981; 1; 3; 14; 20
+2005; Charlotte Eagles; 12; Long, Jonah; D/M; 8; 554; ; 1; 1; 5
+2005; Charlotte Eagles; 22; Maxwell-Ordain, Ricardo; M; 11; 398; 5; 1; 9; 8
+2005; Charlotte Eagles; 0; McClellan, Chris; GK; 19; 1690; ; ; ; 1
+2005; Charlotte Eagles; 3; Meek, Benjamin (Ben); D; 13; 847; ; ; 7; 14
+2005; Charlotte Eagles; 9; Mintah, Ishmael; M; 16; 1291; 4; 3; 36; 22
+2005; Charlotte Eagles; 21; Pinch, Mark; ; 1; 39; ; ; 2; 
+2005; Charlotte Eagles; 11; Rife, Josh; D; 20; 1720; ; ; 4; 7
+2005; Charlotte Eagles; 16; Roberts, William Clayton; D; 18; 1360; 2; 2; 4; 18
+2005; Charlotte Eagles; 8; Spencer, Matthew (Ross); ; 8; 393; ; ; ; 5
+2005; Charlotte Eagles; 18; Swinehart, Dustin; F; 19; 1613; 11; 5; 39; 9
+2005; Charlotte Eagles; 1; Upton, Trevor; GK; ; ; ; ; ; 
+2005; Charlotte Eagles; 4; Watkins, Nathan; M; 19; 1233; ; 5; 16; 20
+2005; North Virginia Royals; 5; Alvaranga, Taj; ; 14; 1101; ; 3; 10; 14
+2005; North Virginia Royals; 13; Andrade, Fabio; ; 16; 1157; 4; 2; 16; 21
+2005; North Virginia Royals; 24; Bazie, Pierre; D; 2; 180; ; ; ; 
+2005; North Virginia Royals; 14; Cannon, Garland; D; 16; 1440; ; ; 8; 17
+2005; North Virginia Royals; 6; Cavero, Oscar; ; ; ; ; ; ; 
+2005; North Virginia Royals; 12; Chang, Julian; M; 4; 217; ; ; 3; 5
+2005; North Virginia Royals; 0; Chidester, Adam Brian; GK; 2; 102; ; ; ; 
+2005; North Virginia Royals; ; Donnelly, Scott; ; ; ; ; ; ; 
+2005; North Virginia Royals; 23; Dougnaglo, Eric; ; 7; 505; ; ; ; 4
+2005; North Virginia Royals; 0; Gretton, Andrew; ; ; ; ; ; ; 
+2005; North Virginia Royals; 11; Guaita-Munoz, Francisco; ; 13; 944; 2; 1; 7; 16
+2005; North Virginia Royals; ; Gueret-M'Poko, Ulrich; ; ; ; ; ; ; 
+2005; North Virginia Royals; 1; Hall, Alexander; GK; 18; 1598; ; ; 2; 1
+2005; North Virginia Royals; 12; Hill, Zane; M; 2; 180; ; ; 1; 2
+2005; North Virginia Royals; 6; Icochea, Jose; ; 3; 169; ; ; ; 4
+2005; North Virginia Royals; 10; James, Brian; D; 4; 301; 1; ; 4; 6
+2005; North Virginia Royals; 14; Kamara, Ben; ; 14; 667; ; ; 2; 17
+2005; North Virginia Royals; 12; Kish, Andrew; ; 2; 159; ; ; ; 4
+2005; North Virginia Royals; 17; Kish, Ryan; ; 2; 130; ; ; 1; 1
+2005; North Virginia Royals; 4; McMorris, Nicolas; D; 11; 952; ; ; 11; 11
+2005; North Virginia Royals; 17; McPeak, Anthony; ; 5; 433; 1; ; 9; 8
+2005; North Virginia Royals; 11; Minnis, Whitney; D/M; 3; 6; ; ; ; 
+2005; North Virginia Royals; 21; Mitchell, Dave; ; 4; 360; ; ; 4; 3
+2005; North Virginia Royals; 24; Mnyamuru, Elvis; ; 13; 546; 1; 2; 6; 4
+2005; North Virginia Royals; 12; Morrison, Zane; M; 3; 270; ; ; 1; 5
+2005; North Virginia Royals; 3; Nhliziyo, Arthur; ; 2; 180; ; ; ; 3
+2005; North Virginia Royals; 0; Noyes, David; GK; ; ; ; ; ; 
+2005; North Virginia Royals; 19; Osborne, Matthew; ; 16; 1440; 3; 3; 31; 19
+2005; North Virginia Royals; 15; Roa, Oscar; ; 3; 187; ; ; 2; 1
+2005; North Virginia Royals; 8; Roseway, Dwayne; ; 11; 827; ; ; 6; 5
+2005; North Virginia Royals; 17; Savittiere, Ken; ; ; ; ; ; ; 
+2005; North Virginia Royals; 2; Serrano, Christopher; ; 14; 1147; ; ; 1; 17
+2005; North Virginia Royals; 0; Shaw, Seth; ; 4; 110; ; ; ; 
+2005; North Virginia Royals; 7; Sheta, Kareem; M; 17; 1465; ; 1; 10; 29
+2005; North Virginia Royals; 16; Taylor, Kenneth; ; 6; 208; ; ; ; 5
+2005; North Virginia Royals; 6; Thomas, Brett; ; 7; 627; ; ; ; 3
+2005; North Virginia Royals; 10; Vita, Christopher; F; 4; 168; 3; ; 4; 3
+2005; North Virginia Royals; 18; Walt, Chris; M; 9; 383; ; ; 2; 2
+2005; North Virginia Royals; 20; Whitham, Josh; D; 18; 1620; ; 1; ; 30
+2005; Long Island Rough Riders; 21; Allen, Joshua; M; 16; 988; ; ; 2; 13
+2005; Long Island Rough Riders; 19; Barberio, Anthony; F; 11; 429; 1; ; 9; 6
+2005; Long Island Rough Riders; 16; Blanchard, Ricardo (Ricky); F; 8; 518; ; ; 2; 6
+2005; Long Island Rough Riders; 2; Bradley, Richard (Rich); D; 18; 1620; ; 1; 5; 20
+2005; Long Island Rough Riders; 13; Cabrera, Wilmer; D; 16; 1357; 2; 5; 14; 22
+2005; Long Island Rough Riders; 10; Caffrey, Paul; D; 4; 174; 1; 2; 3; 6
+2005; Long Island Rough Riders; 8; Camara, Aboubacar; F; 1; 67; ; ; ; 1
+2005; Long Island Rough Riders; 14; Chulis, Matthew; M; 16; 1440; 1; 1; 10; 27
+2005; Long Island Rough Riders; 23; DeMartini, Matthew; M; 5; 157; ; ; ; 5
+2005; Long Island Rough Riders; 9; Etienne, Derrick; F; 20; 1699; 9; 2; 40; 29
+2005; Long Island Rough Riders; 30; Grafer, Paul; GK; 19; 1710; ; ; ; 
+2005; Long Island Rough Riders; 18; Higgins, Shaun; F/M; 20; 1324; 1; 2; 16; 9
+2005; Long Island Rough Riders; 7; Hunt, James; M; 15; 1149; 1; 2; 3; 19
+2005; Long Island Rough Riders; 6; Myrie, Carlyle; D; 14; 1012; ; ; ; 16
+2005; Long Island Rough Riders; 17; Piturro, Laurence M; D; 7; 540; ; ; ; 4
+2005; Long Island Rough Riders; 20; Sheynfeld, Tal; ; 3; 90; ; 1; 1; 1
+2005; Long Island Rough Riders; 22; Sirota, Daniel; GK; ; ; ; ; ; 
+2005; Long Island Rough Riders; 5; Sullivan, Gary; D; 16; 1381; 2; 1; 8; 19
+2005; Long Island Rough Riders; 3; Sura-Reyes, Jose; M; 17; 1156; ; 1; 12; 33
+2005; Long Island Rough Riders; 12; Sy, Moussa; F; 14; 1110; 9; 2; 30; 16
+2005; Long Island Rough Riders; 15; Tobon Villa, Alex; M; 14; 889; ; ; 5; 17
+2005; Long Island Rough Riders; 1; Vallencia, Guillermo; GK; 1; 90; ; ; ; 
+2005; Western Mass Pioneers; 21; Alves, Jose; F; ; ; ; ; ; 
+2005; Western Mass Pioneers; 7; Anjos-Aguiar, Mateus; D; 6; 335; ; ; ; 5
+2005; Western Mass Pioneers; 12; Augustine, Anthony; M; 19; 1659; 1; ; 11; 35
+2005; Western Mass Pioneers; 15; Bajek, Gregory; M; 10; 98; ; ; ; 
+2005; Western Mass Pioneers; 6; Bingham, Benjamin (Ben); M; 19; 1204; 2; 3; 10; 21
+2005; Western Mass Pioneers; ; Bonomo, Jeremy; ; ; ; ; ; ; 
+2005; Western Mass Pioneers; 1; Boudreau, Keith; GK; 1; 15; ; ; ; 
+2005; Western Mass Pioneers; 19; Chevalier, Kevin; D/M; 1; 90; ; ; 1; 3
+2005; Western Mass Pioneers; 7; Cleary, Chris; M; 3; 114; ; ; 1; 2
+2005; Western Mass Pioneers; 8; Dalipi, Daniel; M; 18; 577; 1; 1; 6; 13
+2005; Western Mass Pioneers; 23; Deren, Jeff; ; 10; 287; 2; ; 4; 5
+2005; Western Mass Pioneers; 16; Fernandes, Anthony; D; 20; 1800; 1; ; 4; 17
+2005; Western Mass Pioneers; 9; Fletcher, Kyle; D; 19; 1710; 1; 1; 1; 30
+2005; Western Mass Pioneers; 18; Hankard, Brendan; D; 10; 124; ; ; ; 2
+2005; Western Mass Pioneers; 23; Jachym, Rob; F; ; ; ; ; ; 
+2005; Western Mass Pioneers; 17; Krause, Neil; F; 20; 1701; 10; 7; 48; 38
+2005; Western Mass Pioneers; 10; Maciel, Everson; F; 17; 1489; 5; 4; 42; 45
+2005; Western Mass Pioneers; 0; Mahoney, David; ; 1; 90; ; ; ; 
+2005; Western Mass Pioneers; 13; McFarlane, Omar; F; 18; 1366; 3; 3; 24; 26
+2005; Western Mass Pioneers; 2; McMenamin, Kevin; F; 13; 561; 2; 3; 6; 7
+2005; Western Mass Pioneers; 24; Mogavaro, Christopher; ; 6; 30; ; ; ; 
+2005; Western Mass Pioneers; 11; Moya-Castillo, David; D; 20; 1702; ; ; ; 22
+2005; Western Mass Pioneers; 30; O'Quinn, Bryan; GK; 19; 1695; ; ; ; 
+2005; Western Mass Pioneers; 5; Qosa, Rigels; M/F; 20; 1576; 12; 5; 45; 19
+2005; Western Mass Pioneers; 4; Remey, Kofi; M; 8; 228; ; ; ; 2
+2005; Western Mass Pioneers; ; Tostes, Helton; ; ; ; ; ; ; 
+2005; Western Mass Pioneers; 3; Willis, Jason; D; 17; 1189; 1; 1; 2; 30
+2005; New Hampshire Phantoms; 1; Achab, Mustapha; GK; ; ; ; ; ; 
+2005; New Hampshire Phantoms; 6; Ackerman, Ryan; M; 19; 1536; 1; 1; 16; 21
+2005; New Hampshire Phantoms; 14; Barbosa, Almir; ; 7; 462; 3; 1; 13; 8
+2005; New Hampshire Phantoms; 10; Brito, Emanuel (Manny); M; 7; 474; 1; 1; 7; 11
+2005; New Hampshire Phantoms; 17; Cabral, Michael; M; ; ; ; ; ; 
+2005; New Hampshire Phantoms; 26; Charles, Ricky; M; 17; 1128; 3; 3; 19; 15
+2005; New Hampshire Phantoms; 32; Cole, Joshua; GK; 6; 495; ; ; ; 1
+2005; New Hampshire Phantoms; 16; Curran, Brandon; D; 19; 1655; 2; 1; 17; 29
+2005; New Hampshire Phantoms; 22; Curran, Jonathan; D; 11; 301; ; 1; ; 6
+2005; New Hampshire Phantoms; 17; D'Angelo, Anthony; M; ; ; ; ; ; 
+2005; New Hampshire Phantoms; 3; Evans, David; D; 15; 1222; ; ; 1; 14
+2005; New Hampshire Phantoms; 33; Feely, Michael; M; 4; 231; ; ; 1; 5
+2005; New Hampshire Phantoms; 20; Hansen, Bjorn; F; 19; 1586; 6; 3; 25; 21
+2005; New Hampshire Phantoms; 28; Haynes, Rensen; F; 5; 237; 1; 1; 6; 4
+2005; New Hampshire Phantoms; 21; Henckel, Rafael; ; 20; 1267; 1; 1; 15; 20
+2005; New Hampshire Phantoms; 4; Hubbard, Marc; D; 13; 1123; 1; 1; 9; 25
+2005; New Hampshire Phantoms; 29; Jackson, Tyler; ; 4; 66; ; ; 2; 3
+2005; New Hampshire Phantoms; 8; Karalexis, Jason; M; 20; 1800; ; 1; 4; 29
+2005; New Hampshire Phantoms; 31; Larentowicz, Jeff; M; 4; 360; ; ; 4; 2
+2005; New Hampshire Phantoms; 11; Manganello, Mark; F; 6; 479; 2; 1; 17; 3
+2005; New Hampshire Phantoms; 15; McColl, Troy; M; 2; 25; ; ; ; 1
+2005; New Hampshire Phantoms; 18; McNeil, Thomas; ; 18; 1004; 6; ; 30; 19
+2005; New Hampshire Phantoms; 13; Parsons, Matthew; GK; 7; 500; ; ; ; 
+2005; New Hampshire Phantoms; 9; Proctor, James; M; 17; 1407; 2; 3; 28; 19
+2005; New Hampshire Phantoms; 23; Stewart, Craig; ; 9; 618; ; ; 3; 13
+2005; New Hampshire Phantoms; 25; Teixeira-Gomes, Valdemar; D/M; ; ; ; ; ; 
+2005; New Hampshire Phantoms; 27; Todesca, Nicola; F; 2; 10; ; ; 1; 1
+2005; New Hampshire Phantoms; 1; Tomasso, Thomas (TJ); ; 9; 810; ; ; ; 1
+2005; New Hampshire Phantoms; 2; Utter, Benjamin; ; 16; 640; ; ; ; 8
+2005; New Hampshire Phantoms; 34; Vercollone, Luke; ; 4; 354; ; ; 2; 5
+2006; Harrisburg City Islanders; 23; Bennett, Teafore; F; 9; 599; 1; 3; 21; 6
+2006; Harrisburg City Islanders; 0; Bishop, Sam; GK; 5; 450; ; ; ; 
+2006; Harrisburg City Islanders; 3; Bixler, Dustin; D; 18; 1620; ; 1; 2; 27
+2006; Harrisburg City Islanders; 17; Bruce, Haven; F; 10; 164; ; ; 1; 2
+2006; Harrisburg City Islanders; 25; Caruso, Francesco; M; 8; 193; 2; ; 4; 8
+2006; Harrisburg City Islanders; 8; Clay, Adam; D/M; 16; 777; 2; ; 9; 18
+2006; Harrisburg City Islanders; 14; Dorsey, J.T.; D; 18; 1429; ; ; ; 30
+2006; Harrisburg City Islanders; 2; Fisher, Steve; M/F; 10; 340; ; ; 6; 4
+2006; Harrisburg City Islanders; 16; Ibrahim, Sumed; F; 16; 1151; 3; 3; 16; 9
+2006; Harrisburg City Islanders; 0; Kern, Dave; GK; 14; 1260; ; ; ; 2
+2006; Harrisburg City Islanders; 11; Lapore, John; D/M; 10; 659; ; ; 5; 10
+2006; Harrisburg City Islanders; 18; McClellan, David; F; 16; 666; 4; 1; 10; 4
+2006; Harrisburg City Islanders; 22; Mitchell, Jamel; F; 18; 895; 6; 2; 29; 13
+2006; Harrisburg City Islanders; 5; Morales, Carlos; M; 5; 129; 1; 1; 2; 3
+2006; Harrisburg City Islanders; 12; Morman, Christopher; D; 17; 1289; 2; ; 20; 22
+2006; Harrisburg City Islanders; 7; O'Neill, Ryan; D/M; 11; 945; ; 2; 4; 10
+2006; Harrisburg City Islanders; 19; Oduor, Mo; M/D; 13; 772; ; 1; 3; 17
+2006; Harrisburg City Islanders; 20; Pearce, Jeff; D; 1; 90; ; ; ; 1
+2006; Harrisburg City Islanders; 21; Potteiger, Derek; M; 18; 1501; 1; 1; 22; 20
+2006; Harrisburg City Islanders; 4; Rutter, Tommy; D; 5; 267; ; ; 1; 8
+2006; Harrisburg City Islanders; 6; Sadler, Justin; M; 14; 1053; 1; ; 9; 17
+2006; Harrisburg City Islanders; 10; Schofield, David; M/F; 14; 988; ; 4; 19; 23
+2006; Harrisburg City Islanders; 24; Severs, Chad; ; 4; 351; 3; ; 8; 2
+2006; Harrisburg City Islanders; 9; Showers, Bernie; F; ; ; ; ; ; 
+2006; Harrisburg City Islanders; 15; Stevens, James; F; 8; 206; 2; ; 7; 2
+2006; Harrisburg City Islanders; 13; Tanzini, Matt; F; 18; 1016; 3; 4; 25; 23
+2006; Cincinnati Kings; 18; Alexander, Robert (Trey); M/F; 18; 1212; 2; 1; 21; 22
+2006; Cincinnati Kings; 2; Barton, Joshua; D; 18; 1462; 1; 1; 17; 42
+2006; Cincinnati Kings; 9; Becerra, Ivan; D; 4; 322; ; ; 3; 5
+2006; Cincinnati Kings; 22; Burklo, Jonathan; ; ; ; ; ; ; 
+2006; Cincinnati Kings; 5; Caldwell, Jon; M; 17; 939; 2; 1; 10; 15
+2006; Cincinnati Kings; 11; Cummings, John (Jack); M; 11; 690; 1; 2; 9; 18
+2006; Cincinnati Kings; 23; Dagnogo, Moussa; F; 2; 119; ; ; 4; 1
+2006; Cincinnati Kings; 13; Fiore, Salvator; D; 19; 1590; 1; ; 10; 33
+2006; Cincinnati Kings; 19; Hermann, Thies; M; 7; 225; ; ; ; 7
+2006; Cincinnati Kings; 12; Hughes, Jeffrey; F; 12; 957; 4; 2; 34; 7
+2006; Cincinnati Kings; 14; Jaman, Nowaf; M; 20; 1575; 2; 4; 31; 24
+2006; Cincinnati Kings; 1; James, Jordan; GK; 19; 1710; ; ; ; 3
+2006; Cincinnati Kings; 16; Jones, Bret (Eric); M; 15; 731; ; ; 12; 22
+2006; Cincinnati Kings; 4; Kehoe, Steven; ; 4; 225; ; 1; 1; 2
+2006; Cincinnati Kings; 20; Koshi, Phillip; M; 7; 199; 1; ; 5; 3
+2006; Cincinnati Kings; 26; Krause, John; ; 8; 674; 4; 1; 31; 20
+2006; Cincinnati Kings; 7; Liersemann, John; M; 11; 620; ; 1; 9; 8
+2006; Cincinnati Kings; 10; Matis, Teodor (Marcel); M; 2; 56; ; ; 1; 
+2006; Cincinnati Kings; 8; McCloskey, Kevin; M; 18; 817; 1; ; 10; 29
+2006; Cincinnati Kings; 25; McGinlay, John; M; 1; 2; ; ; ; 1
+2006; Cincinnati Kings; 3; McGinlay, Mike; F; 19; 1134; 3; 2; 32; 21
+2006; Cincinnati Kings; 20; Pickup, Jonathan; D; 8; 592; ; 1; ; 11
+2006; Cincinnati Kings; 16; Schulte, Wes; D; 15; 625; ; 1; 6; 7
+2006; Cincinnati Kings; 21; Smith, Derek; D; 17; 1397; 3; 1; 13; 26
+2006; Cincinnati Kings; 17; Sobers, Travis; F; 8; 89; ; ; 8; 2
+2006; Cincinnati Kings; 15; Sondaal, Tiest; D; 19; 1706; 2; 1; 7; 34
+2006; Cincinnati Kings; 0; Van Frank, Zachary; GK; 1; 90; ; ; ; 
+2006; Pittsburgh Riverhounds; 27; Apple, Michael; ; 15; 814; 3; 1; 27; 13
+2006; Pittsburgh Riverhounds; 5; Bajek, Brian; F; 1; 1; ; ; ; 
+2006; Pittsburgh Riverhounds; 9; Bernstein, Gabe; D; 15; 1191; 2; ; 18; 23
+2006; Pittsburgh Riverhounds; 27; Blake, Walter; F; ; ; ; ; ; 
+2006; Pittsburgh Riverhounds; 15; Bragg, Richard (Cody); D; 18; 1575; ; 7; 7; 16
+2006; Pittsburgh Riverhounds; 10; Browne, Leon; F; 14; 580; 1; 1; 10; 12
+2006; Pittsburgh Riverhounds; 8; Calvano, Anthony; D; 8; 551; ; ; 1; 8
+2006; Pittsburgh Riverhounds; 18; Cheurlin, Romain; ; 11; 592; 1; 1; 5; 9
+2006; Pittsburgh Riverhounds; 3; Chevalier, Greg; ; 12; 1004; ; ; 1; 21
+2006; Pittsburgh Riverhounds; 12; Child, Edward (Eddie); M/F; 6; 56; ; ; 1; 1
+2006; Pittsburgh Riverhounds; 13; Flavius, David; F; 19; 1316; 4; 1; 37; 12
+2006; Pittsburgh Riverhounds; 23; Hartung, Daniel (Dan); M; 18; 1266; 2; ; 14; 29
+2006; Pittsburgh Riverhounds; 21; Jerome, Jean; M; 10; 398; 1; ; 11; 1
+2006; Pittsburgh Riverhounds; 19; Kutney, Jason; D; 18; 1519; 3; 1; 15; 23
+2006; Pittsburgh Riverhounds; 7; MacKenzie, Derek; M; 12; 320; 1; ; 4; 3
+2006; Pittsburgh Riverhounds; 25; McNelis, Terrance (Terry); GK; 14; 1215; ; ; ; 
+2006; Pittsburgh Riverhounds; 20; Mehler, Matthew; D; 17; 1391; ; 1; 5; 30
+2006; Pittsburgh Riverhounds; 11; Mellor, Stephen; ; 16; 1121; 2; ; 13; 16
+2006; Pittsburgh Riverhounds; 17; Monka, Bryan; D; 8; 569; ; ; 1; 1
+2006; Pittsburgh Riverhounds; 24; Mupier, Mira; F; ; ; ; ; ; 
+2006; Pittsburgh Riverhounds; 22; Robinson, Chris; GK; 5; 450; ; ; ; 1
+2006; Pittsburgh Riverhounds; 2; Romasco, Kevin; D; ; ; ; ; ; 
+2006; Pittsburgh Riverhounds; 6; Salsi, Nathan; D; 19; 1655; 1; 1; 11; 22
+2006; Pittsburgh Riverhounds; 4; Suffron, Tyler; M; 6; 217; ; ; 2; 6
+2006; Pittsburgh Riverhounds; 14; Victor, Gregory; F; 12; 474; 1; 1; 9; 11
+2006; Richmond Kickers; 27; Ankiel, Steve; GK; 4; 113; ; ; ; 
+2006; Richmond Kickers; 15; Brown, Tim; M; 6; 505; ; 1; 7; 13
+2006; Richmond Kickers; 25; Bulow, David; ; 3; 150; 1; 2; 4; 4
+2006; Richmond Kickers; 19; Burke, Michael; M; 19; 1566; 9; 5; 44; 10
+2006; Richmond Kickers; 9; Carrieri, Chris; M/F; 19; 1462; 5; 9; 30; 25
+2006; Richmond Kickers; 8; Cephas, McColm; F; ; ; ; ; ; 
+2006; Richmond Kickers; 17; Dotsenko, Ihor; M; 10; 425; ; 1; 7; 7
+2006; Richmond Kickers; 35; Dutt, Eric; D/M; 4; 113; ; 1; 1; 
+2006; Richmond Kickers; 26; Fenemore, Dennis; ; 3; 104; ; ; 2; 1
+2006; Richmond Kickers; 4; Goodlett, Ray; D; 15; 1064; ; ; ; 9
+2006; Richmond Kickers; 23; Gorres, Sascha; M; 17; 1395; 4; 3; 33; 16
+2006; Richmond Kickers; 8; Hayden, Ed; D; 10; 545; ; ; 1; 6
+2006; Richmond Kickers; 5; Jones, Kelvin; D; 18; 1518; ; 1; 5; 12
+2006; Richmond Kickers; 3; Knight, Kevin; M; 12; 1068; 1; ; 6; 19
+2006; Richmond Kickers; 2; Latting, John; D; 2; 106; ; ; ; 1
+2006; Richmond Kickers; 21; Lewis, Cecil; F; 8; 122; ; ; 2; 3
+2006; Richmond Kickers; 7; McEachron, Trevor; D/F; 19; 1051; ; ; 4; 14
+2006; Richmond Kickers; 24; Metcalf, Andrew; ; 4; 221; ; ; ; 1
+2006; Richmond Kickers; 12; Morris, Brian; M/F; 10; 200; 2; 1; 7; 
+2006; Richmond Kickers; 10; Neagu, Cristian; F; 14; 447; 4; 2; 9; 18
+2006; Richmond Kickers; 20; Nti, Theophidack (Kofi); M; 8; 471; ; ; 1; 10
+2006; Richmond Kickers; 22; Pascale, Ronnie; GK; 19; 1642; ; ; 1; 
+2006; Richmond Kickers; 14; Ssejjemba, Robert; F; 19; 1390; 17; 4; 39; 31
+2006; Richmond Kickers; 18; Watson, Matthew; ; 20; 1390; 4; 4; 20; 25
+2006; Richmond Kickers; 11; Williams, Anthony; M/D; 19; 1611; ; 2; 5; 17
+2006; Richmond Kickers; 16; Wolfe, Steven; M; 15; 626; 1; 2; 3; 11
+2006; Western Mass Pioneers; 12; Augustine, Anthony; M; 19; 1665; ; ; 8; 38
+2006; Western Mass Pioneers; 1; Cole, Joshua; GK; 15; 1219; ; ; ; 1
+2006; Western Mass Pioneers; 15; Cook, Jonathan; D; 20; 1800; ; 1; 11; 14
+2006; Western Mass Pioneers; 13; Deren, Jeff; M; 17; 1145; 9; 1; 24; 18
+2006; Western Mass Pioneers; 4; Fenemore, Dennis; M; 11; 537; ; ; 3; 7
+2006; Western Mass Pioneers; 16; Fernandes, Anthony; D; 18; 1574; 1; 3; 6; 17
+2006; Western Mass Pioneers; 30; Hassler, Peter; GK; 7; 585; ; ; ; 
+2006; Western Mass Pioneers; 11; Henckel, Rafael; M; 12; 208; ; ; 5; 3
+2006; Western Mass Pioneers; 5; Ivanyushchenko, Vadim; M/F; 19; 644; 2; 5; 7; 6
+2006; Western Mass Pioneers; 17; Krause, Neil; F; 19; 1607; 3; 3; 28; 38
+2006; Western Mass Pioneers; 10; Maciel, Everson; F; 20; 1738; 3; 2; 40; 32
+2006; Western Mass Pioneers; 6; Marion, Rodrigo; D; 6; 363; ; ; ; 4
+2006; Western Mass Pioneers; 9; McFarlane, Omar; F; 20; 1445; 7; ; 20; 26
+2006; Western Mass Pioneers; 24; Mogavaro, Christopher; F; 12; 399; ; ; 1; 3
+2006; Western Mass Pioneers; 7; Molinari, Federico; M; 19; 1709; 2; 2; 17; 23
+2006; Western Mass Pioneers; 21; Perron, Adam; GK; ; ; ; ; ; 
+2006; Western Mass Pioneers; 8; Teixeira, Kyle; M/F; 20; 1404; 4; 3; 21; 26
+2006; Western Mass Pioneers; 14; Valego, Derek; M; 2; 17; ; ; ; 
+2006; Western Mass Pioneers; 3; Willis, Jason; D; 19; 1704; ; 1; 1; 25
+2006; Long Island Rough Riders; 16; Allen, Joshua; M; 15; 662; ; ; 1; 16
+2006; Long Island Rough Riders; 13; Barberio, Anthony; F; 17; 981; 3; 1; 23; 16
+2006; Long Island Rough Riders; 30; Behonick, Michael; GK; 2; 135; ; ; ; 
+2006; Long Island Rough Riders; 15; Bianchi, Federico; M; 19; 1208; ; 2; 9; 38
+2006; Long Island Rough Riders; 4; Bradley, Richard (Rich); D; 19; 1645; 2; ; 7; 27
+2006; Long Island Rough Riders; 26; Diaz, Ruben; D; 14; 1156; 1; ; 10; 17
+2006; Long Island Rough Riders; 10; Etienne, Darrell; M/D; 17; 955; ; ; 4; 12
+2006; Long Island Rough Riders; 9; Etienne, Derrick; F; 18; 1331; 2; 1; 19; 12
+2006; Long Island Rough Riders; 2; Fucci, Robert (Rob); D; 14; 1057; 1; ; 4; 16
+2006; Long Island Rough Riders; 18; Higgins, Shaun; F/M; 14; 660; ; 1; 3; 7
+2006; Long Island Rough Riders; 20; Jack, Kyle; M; 7; 360; 1; ; 5; 8
+2006; Long Island Rough Riders; 19; Klinger, Fausto; M; 14; 1104; ; 1; 4; 33
+2006; Long Island Rough Riders; 1; Masters, Eric; GK; 12; 956; ; ; ; 
+2006; Long Island Rough Riders; 22; Maxwell-Ordain, Ricardo; M; 9; 438; ; ; 4; 12
+2006; Long Island Rough Riders; 28; Megaloudis, Christopher; F; 12; 763; 2; ; 13; 5
+2006; Long Island Rough Riders; 30; Mellis, Michael; GK; 1; 90; ; ; ; 
+2006; Long Island Rough Riders; 11; Mintah, Ishmael; M; 4; 305; ; ; 3; 7
+2006; Long Island Rough Riders; 14; Narvaez-Cruz, Douglas; M; 10; 510; ; ; 3; 7
+2006; Long Island Rough Riders; 6; Robson, Paul; D; 17; 1449; ; ; 2; 24
+2006; Long Island Rough Riders; 17; Roderick, Paul; F; 5; 73; ; 1; ; 5
+2006; Long Island Rough Riders; 8; Snodin, Lee; M; 12; 587; ; 1; 4; 9
+2006; Long Island Rough Riders; 0; Stefanowski, Jack; GK; 5; 450; ; ; ; 
+2006; Long Island Rough Riders; 5; Sullivan, Gary; D; 17; 1466; 1; ; 9; 18
+2006; Long Island Rough Riders; 3; Sura-Reyes, Jose; D; 5; 182; ; ; 2; 5
+2006; Long Island Rough Riders; 12; Sy, Moussa; F; 18; 1035; 2; ; 23; 14
+2006; New Hampshire Phantoms; 6; Barbosa, Almir; M; 19; 1372; 10; ; 45; 87
+2006; New Hampshire Phantoms; 10; Brito, Emanuel (Manny); M; 16; 728; ; ; 5; 12
+2006; New Hampshire Phantoms; 5; Burgess, Romelle; M; 16; 1405; 1; 1; 7; 25
+2006; New Hampshire Phantoms; 24; Carey, Sean; ; 1; 90; ; ; ; 2
+2006; New Hampshire Phantoms; 37; Charles, Ricky; ; 7; 378; 1; 1; 2; 2
+2006; New Hampshire Phantoms; 7; D'Angelo, Anthony; M; 18; 1139; ; 1; 1; 26
+2006; New Hampshire Phantoms; 3; Evans, David; D; 19; 1572; ; 1; 3; 19
+2006; New Hampshire Phantoms; 26; Fernandes, Narciso Lima; D; 20; 1147; 5; 2; 18; 36
+2006; New Hampshire Phantoms; 15; Harker-Smith, Oliver; D; 12; 948; ; ; ; 10
+2006; New Hampshire Phantoms; 17; Heimreid, Tom; M; 18; 1218; ; 1; 4; 29
+2006; New Hampshire Phantoms; 4; Hubbard, Marc; D; 18; 1575; 1; ; 4; 16
+2006; New Hampshire Phantoms; 19; Jackson, Tyler; D; 16; 693; 1; 1; 6; 5
+2006; New Hampshire Phantoms; 32; Kakambourus, Theodore; GK; 1; 34; ; ; ; 
+2006; New Hampshire Phantoms; 8; Karalexis, Jason; M; 19; 1658; 2; ; 3; 18
+2006; New Hampshire Phantoms; 21; Masi, Eric; M; 7; 447; ; 2; 1; 11
+2006; New Hampshire Phantoms; 9; McNeil, Thomas; F; 18; 1263; 1; 5; 24; 20
+2006; New Hampshire Phantoms; 16; Parrish, Joseph; ; ; ; ; ; ; 
+2006; New Hampshire Phantoms; 1; Parsons, Matthew; GK; 11; 990; ; ; ; 
+2006; New Hampshire Phantoms; ; Proctor, James; ; ; ; ; ; ; 
+2006; New Hampshire Phantoms; 23; Stewart, Craig; M; 12; 999; 1; 1; 3; 27
+2006; New Hampshire Phantoms; 20; Szczypiorski, Tomas; F; 5; 181; 1; ; 3; 2
+2006; New Hampshire Phantoms; 25; Teixeira-Gomes, Valdemar; D/M; 17; 664; 2; 2; 20; 21
+2006; New Hampshire Phantoms; 27; Todesca, Nicola; F; 2; 16; ; ; ; 1
+2006; New Hampshire Phantoms; 34; Tomasso, Thomas (TJ); ; 9; 776; ; ; ; 
+2006; New Hampshire Phantoms; 18; Tornaritis, Nicholas; F; 12; 381; ; ; 7; 4
+2006; New Hampshire Phantoms; 2; Utter, Benjamin; D; 1; 20; ; ; ; 
+2006; Wilmington Hammerheads; 33; Bagley, Christopher; M/F; 17; 1435; 10; 2; 43; 16
+2006; Wilmington Hammerheads; 13; Barnes, Devlin; M; 18; 1434; ; 1; 3; 27
+2006; Wilmington Hammerheads; 30; Bochette, Nicholas; GK; 2; 180; ; ; ; 
+2006; Wilmington Hammerheads; 8; Bolton, Joshua; ; 1; 35; ; 1; 1; 
+2006; Wilmington Hammerheads; 3; Bryant, Brady; D; 12; 988; ; ; ; 8
+2006; Wilmington Hammerheads; 9; Bundy, Kenneth; M; 19; 851; 2; ; 13; 6
+2006; Wilmington Hammerheads; 8; Capecci, Daniel; D; 2; 68; ; ; ; 2
+2006; Wilmington Hammerheads; 6; Chase, Paul; D; 18; 1569; 1; 1; 11; 12
+2006; Wilmington Hammerheads; 10; Corrie, George; M; 14; 968; 1; 2; 9; 27
+2006; Wilmington Hammerheads; 18; Crandell, Chad; D/M; 8; 470; ; ; 1; 5
+2006; Wilmington Hammerheads; 1; Creasman, Bartley (Bart); GK; 18; 1609; ; ; ; 
+2006; Wilmington Hammerheads; 8; Cummings, John (Jack); ; 1; 23; ; ; ; 
+2006; Wilmington Hammerheads; 11; Hotchkin, Jason; M; 7; 367; 1; 1; 7; 12
+2006; Wilmington Hammerheads; 14; Hufstader, Philip; M; 17; 789; ; ; 19; 9
+2006; Wilmington Hammerheads; 16; Hughes, Jeffrey; ; 6; 218; ; ; 8; 1
+2006; Wilmington Hammerheads; 23; Hughes, Jordan; ; 3; 125; ; 1; 1; 1
+2006; Wilmington Hammerheads; ; Karalexis, Timothy; ; ; ; ; ; ; 
+2006; Wilmington Hammerheads; 21; Khumalo, Thabiso (Boyzzz); M/F; 20; 1205; 1; 2; 19; 13
+2006; Wilmington Hammerheads; 2; Krause, John; ; 6; 113; 1; ; 6; 6
+2006; Wilmington Hammerheads; 4; Lancaster, Martyn; M; 19; 1699; 1; 1; 13; 27
+2006; Wilmington Hammerheads; 11; Maher, Anthony; ; 11; 642; 6; ; 15; 24
+2006; Wilmington Hammerheads; 17; Miller, Ryan; F; 8; 529; ; ; 3; 19
+2006; Wilmington Hammerheads; 5; Nylen, Kevin; D; 14; 1119; 1; ; 9; 17
+2006; Wilmington Hammerheads; 20; Popovich, Derek; M; 19; 1394; 1; 1; 7; 30
+2006; Wilmington Hammerheads; 19; Riley, Chris; M; 6; 345; ; ; 1; 4
+2006; Wilmington Hammerheads; ; Romero, Jose; ; ; ; ; ; ; 
+2006; Wilmington Hammerheads; 12; Seabrook, Montae; D; 10; 454; ; ; 3; 6
+2006; Wilmington Hammerheads; 22; Severs, Chad; ; 1; 38; ; ; ; 
+2006; Wilmington Hammerheads; 16; Taylor, Kevin; ; 1; 27; ; ; ; 
+2006; Wilmington Hammerheads; 15; Zarate, Juvenal (Junior); M/F; 19; 816; 3; ; 30; 16
+2006; Charlotte Eagles; 24; Arias, Jordan; M; 1; 1; ; ; ; 
+2006; Charlotte Eagles; 4; Barton, Casey; D; 7; 579; ; ; 3; 10
+2006; Charlotte Eagles; 1; Benton, Daniel; GK; 9; 799; ; ; ; 1
+2006; Charlotte Eagles; 24; Budnyy, Andriy; ; 8; 596; 1; ; 20; 7
+2006; Charlotte Eagles; 10; Casey, Sam; F; 12; 457; ; 2; 3; 9
+2006; Charlotte Eagles; 20; Coggins, Jacob; F; 14; 1008; 4; 1; 19; 14
+2006; Charlotte Eagles; 19; Daka, Patrick; M/F; 19; 1392; 4; 3; 35; 12
+2006; Charlotte Eagles; 5; Dinunzio, Ryan; D; 4; 106; ; ; ; 1
+2006; Charlotte Eagles; 12; Faro, Aaron; D; 17; 1352; ; 2; 7; 7
+2006; Charlotte Eagles; 9; Guastaferro, Andrew; M; 12; 454; ; ; 4; 6
+2006; Charlotte Eagles; 15; Harvey, Daniel; D/M; 2; 27; ; ; 1; 
+2006; Charlotte Eagles; 2; Johnson, Benjamin; D; 14; 970; ; ; 2; 7
+2006; Charlotte Eagles; 13; Kabwe, Joseph; M; 16; 1170; 2; 4; 11; 23
+2006; Charlotte Eagles; 22; Klotz, Christopher (Klotzy); M; 5; 265; ; 1; ; 8
+2006; Charlotte Eagles; 7; Lemons, Christopher; D/M; 19; 875; 1; 2; 14; 15
+2006; Charlotte Eagles; 6; Mariotti, Simone; M/F; ; ; ; ; ; 
+2006; Charlotte Eagles; 0; McClellan, Chris; GK; 11; 990; ; ; ; 
+2006; Charlotte Eagles; 3; Meek, Benjamin (Ben); D; 19; 1572; ; ; 8; 20
+2006; Charlotte Eagles; 0; Mottern, Bruce; GK; ; ; ; ; ; 
+2006; Charlotte Eagles; 11; Rife, Josh; D; 14; 1249; ; ; 2; 5
+2006; Charlotte Eagles; 16; Roberts, William Clayton; D; 14; 968; 2; ; 14; 18
+2006; Charlotte Eagles; 14; Ruud, Adam; ; 18; 846; 4; ; 18; 14
+2006; Charlotte Eagles; 9; Schroeder, Greg; D; 20; 1762; 1; 2; 7; 21
+2006; Charlotte Eagles; 8; Spencer, Matthew (Ross); D; 16; 557; 3; ; 10; 7
+2006; Charlotte Eagles; 21; Stanze, Brent; D; ; ; ; ; ; 
+2006; Charlotte Eagles; 23; Stovall, Anthony; M; 4; 83; ; ; ; 1
+2006; Charlotte Eagles; 18; Swinehart, Dustin; F; 19; 1542; 5; 4; 33; 19
+2007; Harrisburg City Islanders; 20; Baker, Nathan; D; 15; 590; ; ; 2; 6
+2007; Harrisburg City Islanders; 1; Bishop, Sam; GK; ; ; ; ; ; 
+2007; Harrisburg City Islanders; 3; Bixler, Dustin; D; 17; 1477; ; ; 1; 20
+2007; Harrisburg City Islanders; 23; Calvano, Anthony; D; 20; 1800; 1; ; 9; 34
+2007; Harrisburg City Islanders; 9; Chambers, Alfred (Freddie); F; 3; 22; ; ; 1; 1
+2007; Harrisburg City Islanders; 8; Clay, Adam; M/F; 19; 746; 1; ; 10; 16
+2007; Harrisburg City Islanders; 11; Devlin, Brian; M/F; 18; 1069; ; 2; 9; 31
+2007; Harrisburg City Islanders; 2; Fisher, Stephen; M; 18; 923; 1; 2; 30; 17
+2007; Harrisburg City Islanders; 7; Galik, Jani; M; 5; 108; ; ; ; 2
+2007; Harrisburg City Islanders; 16; Johnston, Martin; F; 11; 438; 1; ; 4; 8
+2007; Harrisburg City Islanders; 0; Kern, Dave; GK; 2; 180; ; ; ; 
+2007; Harrisburg City Islanders; 14; Lookingland, Michael; D; 17; 1079; 2; 2; 7; 10
+2007; Harrisburg City Islanders; 18; McClellan, David; M/F; 3; 105; ; ; 2; 1
+2007; Harrisburg City Islanders; 5; Morales, Carlos; M; 6; 77; ; ; 2; 4
+2007; Harrisburg City Islanders; 12; Morman, Christopher; M/D; 16; 1325; ; 2; 15; 34
+2007; Harrisburg City Islanders; 22; Nelson, Matthew; GK; 18; 1620; ; ; ; 1
+2007; Harrisburg City Islanders; 17; O'Neill, Ryan; M/D; 1; 90; ; ; ; 2
+2007; Harrisburg City Islanders; 19; Oduor, Mo; M; 16; 1257; 6; 2; 21; 27
+2007; Harrisburg City Islanders; 21; Ombiji, Brian; M; 17; 1077; 6; 1; 20; 14
+2007; Harrisburg City Islanders; 6; Pierce, Ryan; D; 18; 1600; 1; ; 6; 24
+2007; Harrisburg City Islanders; 10; Schofield, David; M; 19; 1410; 1; 4; 18; 24
+2007; Harrisburg City Islanders; 13; Tanzini, Matt; F/M; 19; 521; 2; 3; 14; 10
+2007; Harrisburg City Islanders; 4; Velten, Timothy; D; 18; 1618; 1; ; 2; 27
+2007; Wilmington Hammerheads; 5; Beasant, Nicholas; ; 13; 1049; ; ; 3; 11
+2007; Wilmington Hammerheads; 6; Bell, Brian; ; 20; 1622; 1; ; 6; 22
+2007; Wilmington Hammerheads; 10; Corrie, George; ; 13; 907; 2; ; 13; 19
+2007; Wilmington Hammerheads; 22; Cowley, David Kenneth; M; 5; 367; ; 1; 7; 8
+2007; Wilmington Hammerheads; 18; Crandell, Chad; ; 7; 318; ; ; 3; 7
+2007; Wilmington Hammerheads; 23; Cvilikas, Brian; ; 17; 983; 3; 2; 29; 16
+2007; Wilmington Hammerheads; 21; Fitzgerald, Michael; ; 10; 171; ; ; 5; 5
+2007; Wilmington Hammerheads; 11; Holmes, Jamie Reid; ; 12; 808; 3; 3; 22; 15
+2007; Wilmington Hammerheads; 8; Hudson, Anthony; ; 5; 404; ; ; 2; 8
+2007; Wilmington Hammerheads; 16; Hughes, Jeffrey; ; 17; 813; ; 1; 9; 6
+2007; Wilmington Hammerheads; 14; Ibbetson, Luke; ; 11; 430; 2; ; 7; 2
+2007; Wilmington Hammerheads; 1; Kettering, Tyler; ; 10; 900; ; ; ; 
+2007; Wilmington Hammerheads; 4; Kirby, Zachary (Zach); ; 5; 402; ; ; 1; 4
+2007; Wilmington Hammerheads; 13; MacKenzie, Ross; ; 14; 956; 3; 3; 19; 21
+2007; Wilmington Hammerheads; 3; Mattison, Landy; ; 19; 1681; ; ; 6; 10
+2007; Wilmington Hammerheads; 24; Northup, Nathan J.; ; 18; 1276; 1; ; 2; 17
+2007; Wilmington Hammerheads; 19; Nweke, Charles; ; 12; 765; 3; 1; 21; 14
+2007; Wilmington Hammerheads; 0; Ruch, Daniel; ; 10; 900; ; ; ; 
+2007; Wilmington Hammerheads; 2; Smith, Andrew; ; 16; 1356; ; 1; 2; 17
+2007; Wilmington Hammerheads; 12; Thompson, Michael; ; 18; 943; 2; 1; 13; 21
+2007; Wilmington Hammerheads; 7; Williamson, Adam; ; 14; 593; 1; 2; 5; 10
+2007; Wilmington Hammerheads; 9; Wilson, Kieran; ; 12; 917; ; ; 2; 8
+2007; Wilmington Hammerheads; 15; Zarate, Juvenal (Junior); ; 12; 245; ; 1; 6; 3
+2007; Bermuda Hogges; 9; Astwood, Stephen (Ste); F; 12; 930; 4; 1; 26; 16
+2007; Bermuda Hogges; 16; Beach, Raymond; F; 12; 348; ; ; 5; 6
+2007; Bermuda Hogges; 14; Bean, Ralph; F; 19; 1337; 1; 1; 19; 5
+2007; Bermuda Hogges; 12; Burgess, Lyndon (Nigel); GK; 2; 180; ; ; ; 
+2007; Bermuda Hogges; 19; Coddington, Damico; M; 3; 101; ; ; 1; 3
+2007; Bermuda Hogges; 2; Cox, Darius; D; 13; 915; ; ; 3; 4
+2007; Bermuda Hogges; 25; Darrell, Seion; D; 9; 370; ; ; 2; 4
+2007; Bermuda Hogges; 15; DeGraff, Devaun (Sammy); M; 8; 580; ; ; 9; 11
+2007; Bermuda Hogges; 11; Dill, Lashun; M; 16; 639; 1; ; 5; 10
+2007; Bermuda Hogges; 1; Figureido, Timothy; GK; 14; 1260; ; ; ; 
+2007; Bermuda Hogges; 20; Goater, Shaun; F; 8; 400; 3; ; 7; 6
+2007; Bermuda Hogges; 26; Hill, Clevon; M; 11; 558; ; 1; 4; 6
+2007; Bermuda Hogges; 21; Holder, Laurence (Lloyd); F; 14; 454; 1; ; 7; 5
+2007; Bermuda Hogges; 23; Lightbourne, Kyle (Lighty); F; 6; 222; ; 1; 5; 1
+2007; Bermuda Hogges; 7; Ming, Damon Jason; M; 20; 1622; 1; 4; 20; 26
+2007; Bermuda Hogges; 18; Parsons, Michael; M; 11; 740; ; ; 12; 3
+2007; Bermuda Hogges; 6; Peniston, Jared; M; 17; 1360; 2; 1; 21; 28
+2007; Bermuda Hogges; 28; Richards, Kevin; D; 6; 432; 1; ; ; 7
+2007; Bermuda Hogges; 4; Scott, Jelani; M; 11; 772; ; ; ; 7
+2007; Bermuda Hogges; 8; Shakir, Omar; M; 17; 1476; 1; ; 5; 20
+2007; Bermuda Hogges; 27; Simmons, Sean; ; 4; 315; ; ; ; 9
+2007; Bermuda Hogges; 17; Steede, Kwame; M; 17; 1311; 1; 1; 28; 29
+2007; Bermuda Hogges; 24; Tucker, Arthur (Jabrel); D/M; 11; 578; ; ; 3; 6
+2007; Bermuda Hogges; 22; Williams, Jason; GK; 4; 360; ; ; ; 
+2007; Bermuda Hogges; 3; Wilson, Robert; M; 14; 1026; ; ; 6; 7
+2007; Bermuda Hogges; 5; Zuill, Dennis; D; 18; 1481; ; ; 3; 23
+2007; Charlotte Eagles; 9; Akwari, Nelson; ; 20; 1800; ; ; 3; 10
+2007; Charlotte Eagles; 1; Benton, Daniel; ; 17; 1530; ; ; ; 
+2007; Charlotte Eagles; 0; Boss, Terry; ; 4; 360; ; ; ; 
+2007; Charlotte Eagles; 10; Casey, Sam; ; 12; 306; ; ; 4; 5
+2007; Charlotte Eagles; 20; Coggins, Jacob; ; 20; 1519; 12; 7; 57; 29
+2007; Charlotte Eagles; 19; Daka, Patrick; ; 12; 537; 3; 1; 20; 6
+2007; Charlotte Eagles; 16; DeLoach, Aaron; ; 1; 6; ; ; ; 
+2007; Charlotte Eagles; 5; Di Nunzio, Ryan; ; 19; 1078; ; ; 10; 15
+2007; Charlotte Eagles; 12; Faro, Aaron; ; 17; 1208; ; ; 7; 6
+2007; Charlotte Eagles; 15; Harvey, Daniel; ; 13; 557; 3; 3; 15; 9
+2007; Charlotte Eagles; 9; Herrera, Jorge; ; 5; 374; 1; 5; 6; 5
+2007; Charlotte Eagles; 2; Johnson, Benjamin; ; 13; 961; 2; ; 3; 8
+2007; Charlotte Eagles; 13; Kabwe, Joseph; ; 8; 572; 2; 2; 10; 8
+2007; Charlotte Eagles; 22; Klotz, Christopher (Klotzy); ; 14; 404; ; ; ; 9
+2007; Charlotte Eagles; 19; Mariotti, Simone; ; ; ; ; ; ; 
+2007; Charlotte Eagles; 0; Mottern, Bruce; ; ; ; ; ; ; 
+2007; Charlotte Eagles; 11; Rife, Josh; ; 18; 1556; ; 1; 13; 4
+2007; Charlotte Eagles; 7; Ruud, Adam; ; 18; 975; 4; 3; 22; 16
+2007; Charlotte Eagles; 17; Schroeder, Gregg; ; 20; 1760; ; 1; 10; 10
+2007; Charlotte Eagles; 20; Shak, Steve; ; 18; 1354; 3; 5; 20; 30
+2007; Charlotte Eagles; 8; Spencer, Matthew (Ross); ; 18; 741; 1; ; 10; 10
+2007; Charlotte Eagles; 44; Sutton, Jamal; ; 8; 431; 2; ; 9; 6
+2007; Charlotte Eagles; 18; Swinehart, Dustin; ; 19; 1288; 6; 3; 34; 14
+2007; Charlotte Eagles; 6; Woods, Thomas; ; 14; 568; ; ; 4; 11
+2007; New Hampshire Phantoms; 11; Barbosa, Almir; F; 20; 1607; 6; ; 39; 45
+2007; New Hampshire Phantoms; 10; Brito, Emanuel (Manny); M; 13; 847; ; ; 4; 7
+2007; New Hampshire Phantoms; 5; Burgess, Romelle; M; 18; 1551; 1; ; 18; 30
+2007; New Hampshire Phantoms; 2; Cafeteiro, Michael; D; 16; 1250; ; ; 4; 18
+2007; New Hampshire Phantoms; 3; Clancy, Joseph; D; 15; 1319; 1; ; 5; 15
+2007; New Hampshire Phantoms; 27; Dow, Robert; M; 13; 745; ; ; 3; 14
+2007; New Hampshire Phantoms; 14; Fernandes, Narciso Lima; F; 9; 511; 2; ; 9; 11
+2007; New Hampshire Phantoms; 30; Gonzalez, Miguel; M; 5; 434; ; ; 3; 9
+2007; New Hampshire Phantoms; 20; Greenslit, James; D; 20; 1800; ; ; 3; 10
+2007; New Hampshire Phantoms; 29; Heimreid, Tom; M; ; ; ; ; ; 
+2007; New Hampshire Phantoms; 4; Hubbard, Marc; D; 7; 630; ; ; ; 2
+2007; New Hampshire Phantoms; 19; Jackson, Tyler; D; 10; 807; ; 1; 4; 5
+2007; New Hampshire Phantoms; 17; Krause, Neil; F; 17; 1148; 1; 1; 7; 26
+2007; New Hampshire Phantoms; 26; Lamy, Craig; M; 7; 183; ; ; 4; 4
+2007; New Hampshire Phantoms; 12; Levey, Brian; GK; 16; 1398; ; ; ; 
+2007; New Hampshire Phantoms; 22; Loftus, Chris; F/F; 3; 270; ; 1; ; 5
+2007; New Hampshire Phantoms; 21; Masi, Eric; M; ; ; ; ; ; 
+2007; New Hampshire Phantoms; 9; McNeil, Thomas; F; 16; 1065; 1; 2; 21; 14
+2007; New Hampshire Phantoms; 1; Murphy, Micheal; GK; 6; 290; ; ; ; 
+2007; New Hampshire Phantoms; 15; Radziwon, Kevin N; D; 3; 270; ; ; 1; 5
+2007; New Hampshire Phantoms; 13; Saccoccio, Sergio; ; 2; 112; ; ; ; 
+2007; New Hampshire Phantoms; 23; Stewart, Craig; M; 3; 201; 1; ; 1; 5
+2007; New Hampshire Phantoms; 7; Teixeira, Valdemar; F/F; 18; 1418; 1; 1; 14; 36
+2007; New Hampshire Phantoms; 34; Thiam, Oumar; M; 5; 153; 1; ; 1; 3
+2007; New Hampshire Phantoms; 16; White, Patrick; M; 6; 239; ; 1; ; 
+2007; Western Mass Pioneers; 14; Arias, Stephen; ; 14; 1165; ; ; 6; 17
+2007; Western Mass Pioneers; 12; Augustine, Anthony; ; 16; 1325; ; 1; 4; 32
+2007; Western Mass Pioneers; 1; Cole, Joshua; ; 3; 25; ; ; ; 
+2007; Western Mass Pioneers; 13; Deren, Jeff; ; 20; 1269; 7; 2; 21; 13
+2007; Western Mass Pioneers; 4; Lewis, Fabien; ; 16; 1401; ; ; 3; 13
+2007; Western Mass Pioneers; 10; Maciel, Everson; ; 15; 1273; 2; 3; 36; 21
+2007; Western Mass Pioneers; 19; Manning, Ahmad; ; 15; 1162; ; 3; 3; 18
+2007; Western Mass Pioneers; 9; McFarlane, Omar; ; 19; 1540; 5; 2; 37; 36
+2007; Western Mass Pioneers; 18; McMennamin, Kevin; ; 15; 507; 2; ; 6; 6
+2007; Western Mass Pioneers; 7; Molinari, Federico; ; 16; 1343; 4; 3; 26; 26
+2007; Western Mass Pioneers; 20; Pecorelli, Lindon Josue; ; 12; 542; ; ; 5; 6
+2007; Western Mass Pioneers; 11; Resende, Bruno; ; 6; 286; ; ; 2; 9
+2007; Western Mass Pioneers; 6; Riley, Chris; ; 16; 1015; ; 1; 5; 12
+2007; Western Mass Pioneers; 17; Sampson, Jamie; ; 12; 299; ; 2; 6; 6
+2007; Western Mass Pioneers; 2; Tagle, German; ; 15; 1350; ; 2; 13; 9
+2007; Western Mass Pioneers; 8; Texeira, Kyle; ; 4; 37; ; ; ; 2
+2007; Western Mass Pioneers; 30; Trapp, Kevin; ; 20; 1789; ; ; ; 1
+2007; Western Mass Pioneers; 3; Willis, Jason; ; 18; 1530; 2; ; 8; 24
+2007; Western Mass Pioneers; 16; Wilson, Easton; ; 19; 1587; 3; 2; 17; 23
+2007; Cleveland City Stars; 21; Alvarez, Gerardo; M; 14; 455; 1; ; 8; 6
+2007; Cleveland City Stars; 11; Codrington, Nigel; F; 14; 838; 6; ; 28; 17
+2007; Cleveland City Stars; 20; Cruickshank, Stephen; M; 2; 18; ; ; ; 
+2007; Cleveland City Stars; 3; Cummings, Jack; D; 20; 1725; 1; 2; 10; 17
+2007; Cleveland City Stars; 12; De Vae, John; F; 20; 1280; 1; 2; 32; 15
+2007; Cleveland City Stars; 17; Duerr, Glen; F; 6; 56; ; 1; ; 
+2007; Cleveland City Stars; 1; Gilstrap, Richard Hunter; GK; 12; 1080; ; ; ; 
+2007; Cleveland City Stars; 6; Hunter, Benjamin; D; 4; 288; 1; ; 2; 3
+2007; Cleveland City Stars; 27; Junge, Ryan; D; 4; 314; ; 1; 1; 3
+2007; Cleveland City Stars; 5; Kellar, Skelly (Skells); D; 8; 293; ; 1; 4; 2
+2007; Cleveland City Stars; 24; Ladera, Angelo Gee; D; 4; 201; ; ; ; 5
+2007; Cleveland City Stars; 23; Lappin, Spencer logan; F; 5; 192; ; 1; 1; 1
+2007; Cleveland City Stars; 7; Leibbrandt, Ian; F; 13; 767; 2; 2; 20; 16
+2007; Cleveland City Stars; 2; Lemons, Christopher; M; 19; 1151; 2; ; 20; 18
+2007; Cleveland City Stars; 16; McGregor, Dana; M; 17; 1140; 3; 1; 14; 12
+2007; Cleveland City Stars; 8; Moffat, Adam; M; 19; 1248; 8; 2; 32; 23
+2007; Cleveland City Stars; 15; Moncrief, Brandon; D; 2; 11; ; ; 1; 
+2007; Cleveland City Stars; 26; Norman, Nathan; ; 1; 81; ; ; 2; 
+2007; Cleveland City Stars; 0; Patterson-Sewell, Caleb; GK; 8; 720; ; ; ; 
+2007; Cleveland City Stars; 10; Potteiger, Derek; M; 20; 1789; 2; 3; 15; 45
+2007; Cleveland City Stars; 9; Rigby, Stephen; M; 1; 7; ; ; ; 
+2007; Cleveland City Stars; 13; Schulte, Mark; D; 20; 1800; 2; 4; 16; 15
+2007; Cleveland City Stars; 14; Stovall, Anthony; F; 16; 1212; ; ; 2; 15
+2007; Cleveland City Stars; 4; Tolleson, Jeremy; D; 19; 1710; ; ; ; 15
+2007; Cleveland City Stars; 22; Tredway, Aaron; GK; ; ; ; ; ; 
+2007; Cleveland City Stars; 18; Williams, Luke; F; 17; 851; 1; 4; 13; 13
+2007; Richmond Kickers; 18; Alexander, Robert (Trey); M; 17; 1053; 2; 1; 7; 15
+2007; Richmond Kickers; 10; Bulow, David; M/F; 12; 796; 5; 1; 13; 11
+2007; Richmond Kickers; 19; Burke, Michael; M; 17; 1449; 3; 9; 31; 10
+2007; Richmond Kickers; 20; Cowlishaw, Leigh; ; 2; 9; ; ; ; 4
+2007; Richmond Kickers; 17; Dotsenko, Ihor; M; 5; 184; ; ; 2; 1
+2007; Richmond Kickers; 2; Edwards, Kevin; D; 7; 267; ; ; ; 1
+2007; Richmond Kickers; 23; Gorres, Sascha; M; 18; 1566; 3; 4; 38; 17
+2007; Richmond Kickers; 15; Harding, Evan; M/D; 19; 1578; 1; 4; 10; 11
+2007; Richmond Kickers; 12; Howe, Charlie; D/M; 13; 491; ; ; 3; 6
+2007; Richmond Kickers; 11; Jaman, Nowaf; M/F; 20; 893; 2; 1; 16; 22
+2007; Richmond Kickers; 5; Jones, Kelvin; D; 19; 1632; 1; ; 11; 8
+2007; Richmond Kickers; 3; Knight, Kevin; M/D; 7; 630; ; ; 1; 6
+2007; Richmond Kickers; 7; McEachron, Trevor; D; 19; 1710; 1; 1; 3; 19
+2007; Richmond Kickers; 21; Morris, Brian; M/F; 8; 208; ; 1; 3; 1
+2007; Richmond Kickers; 1; Murphy, Mark; GK; 1; 90; ; ; ; 
+2007; Richmond Kickers; 4; Pace, Ralph; D; 7; 345; ; 1; 1; 4
+2007; Richmond Kickers; 22; Pascale, Ronnie; GK; 19; 1710; ; 1; ; 
+2007; Richmond Kickers; 9; Schramm, Frederick (Ricky); F/M; 16; 664; 6; 2; 15; 10
+2007; Richmond Kickers; 25; Smith, Wilfred (Freddie); ; 9; 486; ; 1; 7; 8
+2007; Richmond Kickers; 14; Ssejjemba, Robert; F; 16; 1016; 6; 1; 22; 19
+2007; Richmond Kickers; 8; Watson, Matthew; M/F; 17; 1405; 6; 3; 25; 24
+2007; Richmond Kickers; ; Williams, Anthony; ; 1; 4; ; ; ; 
+2007; Richmond Kickers; 16; Wolfe, Steven; D/M; 19; 1614; ; 1; 5; 12
+2007; Crystal Palace Baltimore; 18; Alcala, Joshua; ; 19; 1235; 3; 2; 18; 16
+2007; Crystal Palace Baltimore; 14; Anjos, Mateus; ; 18; 1520; ; ; 14; 18
+2007; Crystal Palace Baltimore; 19; Brooks, Gary; ; 9; 740; 7; 2; 22; 23
+2007; Crystal Palace Baltimore; 9; Capecci, Daniel; ; 10; 462; ; ; 7; 3
+2007; Crystal Palace Baltimore; 24; Cherneski, James; ; 3; 66; ; ; 2; 1
+2007; Crystal Palace Baltimore; 11; Flores, Sergio; ; 20; 1701; 3; 3; 43; 29
+2007; Crystal Palace Baltimore; 6; Fucci, Robert; ; 9; 296; ; ; 3; 7
+2007; Crystal Palace Baltimore; 21; Harada, Shintaro; ; 20; 1755; ; ; 14; 22
+2007; Crystal Palace Baltimore; 7; Harkin, Bryan; ; 16; 1209; 1; 1; 9; 15
+2007; Crystal Palace Baltimore; 17; Herman, Andrew; ; 18; 842; 1; 1; 37; 8
+2007; Crystal Palace Baltimore; 4; Kante, Ibrahim; ; 12; 881; 1; 1; 6; 9
+2007; Crystal Palace Baltimore; 0; Karim, Moumban; ; ; 0; ; ; ; 
+2007; Crystal Palace Baltimore; 22; Mark, Larry; ; 9; 501; 1; ; 8; 10
+2007; Crystal Palace Baltimore; 5; Marshall, Andrew; ; 19; 1655; 1; 2; 11; 22
+2007; Crystal Palace Baltimore; 12; Mbuta, Andongcho; ; 16; 1310; 5; 7; 42; 22
+2007; Crystal Palace Baltimore; 4; O'Hara, Alan; ; 6; 447; ; ; ; 3
+2007; Crystal Palace Baltimore; 1; Rowland, Brian; ; 19; 1710; ; ; ; 
+2007; Crystal Palace Baltimore; 20; Rush, Sean; ; 11; 146; 1; 1; 3; 3
+2007; Crystal Palace Baltimore; 15; Sheringham, Charles; ; 9; 633; 1; 3; 14; 11
+2007; Crystal Palace Baltimore; 8; Spence, Lewwis; ; 3; 234; ; ; 9; 3
+2007; Crystal Palace Baltimore; 2; Ughiovhe, Idris; ; 15; 1167; ; 1; 6; 6
+2007; Crystal Palace Baltimore; 10; Urquijo, Harold; ; 14; 1057; 2; 1; 25; 12
+2007; Cincinnati Kings; 23; Brown, Clifton; ; 2; 14; ; ; ; 
+2007; Cincinnati Kings; 6; Cheurlin, Romain; ; 13; 802; 1; 2; 7; 10
+2007; Cincinnati Kings; 14; Cummings, Jimmy; ; 15; 535; ; 2; 6; 16
+2007; Cincinnati Kings; 1; Dimbi, Andy; ; 8; 675; ; ; 1; 
+2007; Cincinnati Kings; 13; Downey, Dustin; ; 14; 1087; ; ; 4; 16
+2007; Cincinnati Kings; 7; Eby, Andrew (Drew); ; 18; 1200; 2; 2; 22; 18
+2007; Cincinnati Kings; 25; Eckerlin, Chad (Seth); ; 20; 1295; 7; 1; 32; 20
+2007; Cincinnati Kings; 19; Long, Kyle; ; 16; 1017; 2; 3; 20; 16
+2007; Cincinnati Kings; 21; Mellencamp, John; ; 18; 698; 3; 1; 16; 22
+2007; Cincinnati Kings; 5; Miller, Samuel; ; 19; 1229; 1; 1; 10; 14
+2007; Cincinnati Kings; 2; Moodie, Richard; ; 9; 745; ; 1; 3; 11
+2007; Cincinnati Kings; 16; Murray, Ben; ; 16; 1235; 2; 1; 14; 14
+2007; Cincinnati Kings; 18; Neal, Bryon; ; 14; 1250; 6; 1; 35; 10
+2007; Cincinnati Kings; 8; Noschan, Kevin; ; 17; 1331; 1; 1; 13; 23
+2007; Cincinnati Kings; 20; Ordell, Blake; ; ; ; ; ; ; 
+2007; Cincinnati Kings; 4; Rainy, Florent; ; 11; 828; ; ; 4; 30
+2007; Cincinnati Kings; 11; Ross, Adam; ; 5; 329; ; ; 3; 8
+2007; Cincinnati Kings; 12; Salvati, Ronald (Craig); ; 13; 1125; ; ; ; 1
+2007; Cincinnati Kings; 9; Sarkodie, Kwame; ; 14; 758; 3; 2; 18; 18
+2007; Cincinnati Kings; 17; Slemker, Jake; ; 8; 550; ; 1; 5; 8
+2007; Cincinnati Kings; 15; Sondaal, Tiest; ; 13; 1120; ; ; 3; 33
+2007; Cincinnati Kings; 3; Townsend, Ashleigh Peter; ; 19; 1635; ; 2; 3; 19
+2007; Cincinnati Kings; 0; Van Frank, Zachary; ; 1; 1; ; ; ; 
+2007; Cincinnati Kings; 23; Van der Sluijs, Alex; M/F; 7; 154; ; ; 3; 
+2007; Cincinnati Kings; 22; ,; D; 3; 144; ; ; 1; 2
+2008; Harrisburg City Islanders; 13; Baker, Nathan; D; 18; 1449; 3; ; 6; 9
+2008; Harrisburg City Islanders; 9; Barbosa, Almir; F; 16; 567; 1; 1; 14; 10
+2008; Harrisburg City Islanders; 1; Bishop, Sam; ; ; ; ; ; ; 
+2008; Harrisburg City Islanders; 3; Bixler, Dustin; D; 17; 1516; ; ; ; 27
+2008; Harrisburg City Islanders; 15; Blanco, Milton; M/F; 9; 382; ; 1; 2; 9
+2008; Harrisburg City Islanders; 4; Bloes, Geoffrey; F/D; 5; 125; ; ; 2; 
+2008; Harrisburg City Islanders; 23; Calvano, Anthony; D; 12; 1080; 1; ; 7; 21
+2008; Harrisburg City Islanders; 1; Cepero, Daniel; ; 18; 1620; ; ; ; 
+2008; Harrisburg City Islanders; 8; Clay, Adam; M; 12; 227; 2; 1; 4; 12
+2008; Harrisburg City Islanders; 11; Devlin, Brian; M; 19; 1537; ; ; 13; 31
+2008; Harrisburg City Islanders; 2; Fisher, Stephen; F/M; 18; 750; 3; 3; 12; 14
+2008; Harrisburg City Islanders; 5; Heins, Ryan; M/D; 17; 1269; 7; 1; 34; 16
+2008; Harrisburg City Islanders; 16; Hoshide, Yu; M; 13; 576; 1; 4; 9; 4
+2008; Harrisburg City Islanders; 7; Marples, Nigel; D; 19; 1709; ; ; 3; 7
+2008; Harrisburg City Islanders; 12; Morman, Christopher; ; ; ; ; ; ; 
+2008; Harrisburg City Islanders; 22; Nelson, Matthew; ; ; ; ; ; ; 
+2008; Harrisburg City Islanders; 19; Oduor, Mo; M; 13; 849; 5; 2; 14; 15
+2008; Harrisburg City Islanders; 21; Ombiji, Brian; M; 18; 1393; 4; 3; 20; 23
+2008; Harrisburg City Islanders; 22; Pelletier, Jason; M; 17; 811; 1; ; 6; 14
+2008; Harrisburg City Islanders; 6; Pierce, Ryan; D; 18; 1486; ; 2; 7; 9
+2008; Harrisburg City Islanders; 18; Pope, Brian; GK; 2; 180; ; ; ; 
+2008; Harrisburg City Islanders; ; Robertson, James (Patrick); ; 2; 5; ; ; ; 
+2008; Harrisburg City Islanders; 10; Schofield, David; M; 19; 1192; 1; 4; 20; 11
+2008; Harrisburg City Islanders; 17; Stalph, Yuki; M; 2; 17; ; ; ; 
+2008; Harrisburg City Islanders; 4; Velten, Timothy; ; ; ; ; ; ; 
+2008; Harrisburg City Islanders; 23; Widdowson, Steven; ; 1; 3; ; ; ; 1
+2008; Harrisburg City Islanders; 14; Wiesner, Brett; ; 18; 934; 4; ; 19; 14
+2008; Cleveland City Stars; 12; Barbosa, Jose Rodolpho Lima P; F; ; ; ; ; ; 
+2008; Cleveland City Stars; 11; Bundu, Sallieu; F; 19; 1279; 8; 1; 40; 22
+2008; Cleveland City Stars; 23; Franks, Floyd; M; 17; 1322; 2; 1; 27; 18
+2008; Cleveland City Stars; 5; Hlavaty, Neil; M; 15; 881; ; 3; 11; 21
+2008; Cleveland City Stars; 27; Hotchkin, Jason; ; 5; 229; 1; 1; 6; 5
+2008; Cleveland City Stars; 24; Jerome, Randolph; F; 13; 403; 1; 1; 8; 6
+2008; Cleveland City Stars; 19; Josten, George; ; 1; 45; ; ; ; 
+2008; Cleveland City Stars; 3; Lee, John (Tre); D; 3; 115; ; ; ; 3
+2008; Cleveland City Stars; 6; McClung, Kiel; D; 3; 179; ; ; 1; 1
+2008; Cleveland City Stars; 16; McGregor, Dana; M; 16; 687; 2; 3; 13; 4
+2008; Cleveland City Stars; 28; Miller, Ryan; ; 2; 155; ; ; ; 1
+2008; Cleveland City Stars; 20; Ogunsola, Olatomiwa; M; 1; 23; ; ; ; 
+2008; Cleveland City Stars; 2; Ongad, Musa Otieno; D; 7; 566; 1; 1; 6; 5
+2008; Cleveland City Stars; 0; Reed, Eric; GK; 12; 1080; ; ; ; 
+2008; Cleveland City Stars; 21; Ruud, Adam; M; 19; 782; 4; ; 20; 14
+2008; Cleveland City Stars; 25; Sarkodie, Kwame; M; 5; 191; ; 1; 2; 2
+2008; Cleveland City Stars; 9; Souza, Adriano Sella De; M; 13; 671; 1; 3; 28; 8
+2008; Cleveland City Stars; 17; Stewart, Ryan; M; 11; 602; 4; 1; 20; 4
+2008; Cleveland City Stars; 14; Stovall, Anthony; D; 19; 1678; ; 1; 4; 17
+2008; Cleveland City Stars; 8; Tenoff, Godfrey; ; 15; 1131; ; 1; 5; 9
+2008; Cleveland City Stars; 4; Tolleson, Jeremy; D; 20; 1761; ; ; 1; 14
+2008; Cleveland City Stars; 15; Westermann, Josh; D; 10; 608; ; 1; 2; 6
+2008; Cleveland City Stars; 28; Zayner, Jedidiah; ; 2; 163; ; ; 1; 8
+2008; Cleveland City Stars; 1; Gilstrap, Richard Hunter; GK; 8; 720; ; ; ; 
+2008; Cleveland City Stars; 7; Leibbrandt, Ian; F; 14; 787; 3; ; 24; 14
+2008; Cleveland City Stars; 9; Rigby, Stephen; ; ; ; ; ; ; 
+2008; Cleveland City Stars; 10; Potteiger, Derek; ; 17; 1414; 2; 1; 10; 36
+2008; Cleveland City Stars; 13; Schulte, Mark; D; 18; 1594; 2; 3; 14; 12
+2008; Cleveland City Stars; 18; Williams, Luke; M; 16; 790; 1; 2; 14; 11
+2008; Pittsburgh Riverhounds; 15; Bragg, Richard (Cody); ; 6; 375; ; ; 3; 5
+2008; Pittsburgh Riverhounds; 5; Brown, Allan; D/M; 7; 198; ; ; 1; 7
+2008; Pittsburgh Riverhounds; 10; Browne, Leon; F/M; 17; 873; 1; 1; 22; 11
+2008; Pittsburgh Riverhounds; 4; Caugherty, Ryan; M; 12; 986; ; 1; 11; 25
+2008; Pittsburgh Riverhounds; 18; Cheurlin, Romain; F/M; 7; 76; ; ; 1; 3
+2008; Pittsburgh Riverhounds; 7; Evans, Justin; M; 15; 1194; 4; 2; 23; 19
+2008; Pittsburgh Riverhounds; 11; Gibson, Scott; M; 1; 6; ; ; ; 
+2008; Pittsburgh Riverhounds; 8; Hayden, Ed; D; 17; 1515; 2; ; 11; 15
+2008; Pittsburgh Riverhounds; 23; Hughes, Jeffrey; F; 12; 618; ; 1; 4; 6
+2008; Pittsburgh Riverhounds; 16; Janicki, Greg; D; 14; 1036; ; 1; 4; 17
+2008; Pittsburgh Riverhounds; 22; Jerome, Jean (Robens); M; 19; 1419; 3; 2; 42; 4
+2008; Pittsburgh Riverhounds; 1; Keszler, Andrew; GK; 3; 269; ; ; ; 
+2008; Pittsburgh Riverhounds; 21; Khumalo, Thabiso (Boyzzz); M/F; 20; 1723; 6; 3; 55; 13
+2008; Pittsburgh Riverhounds; 19; Kutney, Jason; D; 17; 1411; 3; 2; 22; 9
+2008; Pittsburgh Riverhounds; 14; Langton, Matthew; M; 2; 7; ; ; ; 
+2008; Pittsburgh Riverhounds; 2; Liersemann, John; D; 16; 695; ; ; 5; 9
+2008; Pittsburgh Riverhounds; 3; MacKenzie, Travis; F/M; 19; 1603; 3; 1; 42; 20
+2008; Pittsburgh Riverhounds; 13; Marfuggi, Phil; GK; 5; 450; ; ; ; 
+2008; Pittsburgh Riverhounds; 20; Riley, Chris; D; 18; 1171; ; ; ; 8
+2008; Pittsburgh Riverhounds; 6; Salsi, Nathan; D; 20; 1799; 2; ; 11; 15
+2008; Pittsburgh Riverhounds; 0; Varga, Zach; GK; 12; 1080; ; ; ; 
+2008; Pittsburgh Riverhounds; 17; Zabinski, Ryan; M; 16; 708; ; ; 10; 5
+2008; Pittsburgh Riverhounds; 9; Zewe, Joseph; M/F; 7; 535; 1; 1; 7; 9
+2008; Charlotte Eagles; 12; Alexander, Andrew; D; ; ; ; ; ; 
+2008; Charlotte Eagles; 3; Bentos, Gustavo; F/M; 3; 70; 1; ; 5; 4
+2008; Charlotte Eagles; 7; Bilyk, Jeff; M; 10; 415; 1; ; 6; 10
+2008; Charlotte Eagles; 0; Boss, Terry; ; 16; 1432; ; ; ; 
+2008; Charlotte Eagles; 4; Bryant, Brady; D; 20; 1792; 1; ; 2; 24
+2008; Charlotte Eagles; 12; Connor, Joseph; ; 2; 83; ; ; 1; 
+2008; Charlotte Eagles; 19; Daka, Patrick; ; 15; 627; 3; 4; 20; 9
+2008; Charlotte Eagles; 16; DeLoach, Aaron; ; 2; 46; ; ; ; 
+2008; Charlotte Eagles; 15; Harvey, Daniel; ; 12; 269; 1; ; 4; 4
+2008; Charlotte Eagles; 9; Herrera, Jorge; ; 19; 1528; 9; 6; 40; 21
+2008; Charlotte Eagles; 2; Johnson, Benjamin; ; 16; 1310; ; 1; 1; 9
+2008; Charlotte Eagles; 13; Kabwe, Joseph; M/F; 19; 1543; 3; 5; 29; 26
+2008; Charlotte Eagles; 22; Klotz, Christopher (Klotzy); ; 10; 287; ; ; 5; 6
+2008; Charlotte Eagles; 14; Long, Jonah; D/M; 18; 1336; 4; 1; 28; 22
+2008; Charlotte Eagles; 8; Page, Benjamin; F; 10; 148; ; ; 4; 1
+2008; Charlotte Eagles; 0; Pattison, Eric; ; ; ; ; ; ; 
+2008; Charlotte Eagles; 24; Rife, Josh; M/D; 17; 1360; ; 2; 10; 5
+2008; Charlotte Eagles; 9; Sampson, Worteh; F; 11; 358; ; ; 15; 4
+2008; Charlotte Eagles; 1; Saxe, Taylor; GK; ; ; ; ; ; 
+2008; Charlotte Eagles; 17; Schroeder, Gregg; ; 5; 410; ; 1; ; 2
+2008; Charlotte Eagles; 20; Shak, Steve; ; 18; 1612; 1; ; 5; 20
+2008; Charlotte Eagles; 23; Smith, Chad; D; 8; 450; ; ; 1; 2
+2008; Charlotte Eagles; 5; Snelgrove, Josiah; M/D; 1; 45; ; ; ; 
+2008; Charlotte Eagles; 11; Ssejjemba, Robert; F; 16; 1115; 5; 4; 27; 20
+2008; Charlotte Eagles; 18; Swinehart, Dustin; ; 19; 1447; 16; 7; 42; 16
+2008; Charlotte Eagles; 21; Toby, Darren; M; 16; 840; ; 1; 4; 9
+2008; Charlotte Eagles; 0; Trapp, Kevin; GK; 4; 360; ; ; ; 
+2008; Charlotte Eagles; 6; Woods, Thomas; ; 14; 777; ; 1; 10; 14
+2008; Wilmington Hammerheads; 20; Alexander, Robert (Trey); ; 18; 1427; 6; 1; 17; 26
+2008; Wilmington Hammerheads; 22; Avellino, Matt; ; 10; 458; ; ; 6; 3
+2008; Wilmington Hammerheads; 18; Burklo, Jonathan; ; 13; 1030; 1; ; 5; 11
+2008; Wilmington Hammerheads; 4; Clark, Ben; ; 18; 1560; 1; 1; 6; 26
+2008; Wilmington Hammerheads; 10; Corrie, George; ; 9; 764; ; 1; 7; 13
+2008; Wilmington Hammerheads; 17; Curran, Brandon; ; 5; 450; ; ; 1; 4
+2008; Wilmington Hammerheads; 23; Cvilikas, Brian; ; 17; 937; 6; 2; 30; 19
+2008; Wilmington Hammerheads; 7; Garrambone, Derek Wilson; ; 3; 158; ; ; 2; 3
+2008; Wilmington Hammerheads; 14; Harrison, Alex; ; 13; 512; 4; ; 13; 8
+2008; Wilmington Hammerheads; 26; Holmes, Jamie Reid; ; 13; 815; 5; 1; 20; 16
+2008; Wilmington Hammerheads; 8; Hudson, Anthony; ; 5; 263; ; ; 1; 5
+2008; Wilmington Hammerheads; 13; Hughes, Jordan; ; 13; 1009; ; 3; 14; 7
+2008; Wilmington Hammerheads; 2; Keen, Johnnie; ; 6; 131; ; ; 3; 2
+2008; Wilmington Hammerheads; 21; Loyd, Eric; ; 4; 333; ; ; 1; 5
+2008; Wilmington Hammerheads; 3; Mattison, Landy; ; 14; 1025; ; 1; 3; 12
+2008; Wilmington Hammerheads; 19; Murray, Christopher; ; 17; 769; 1; 2; 8; 10
+2008; Wilmington Hammerheads; 12; Nerkowski, Mark; ; 11; 503; 1; ; 5; 13
+2008; Wilmington Hammerheads; 24; Northup, Nathan J.; ; 2; 15; ; ; ; 
+2008; Wilmington Hammerheads; 25; Noviello, Jyler; ; 15; 424; 2; 1; 14; 4
+2008; Wilmington Hammerheads; 1; O'Hara, John Gerard; ; 20; 1800; ; ; ; 
+2008; Wilmington Hammerheads; 30; Polak, Kyle Wilson; ; ; ; ; ; ; 
+2008; Wilmington Hammerheads; 11; Rowland, Jeffrey; ; 18; 823; 5; ; 17; 6
+2008; Wilmington Hammerheads; 9; Smith, Joshua Bailey; ; 18; 1444; ; 5; 7; 26
+2008; Wilmington Hammerheads; 16; Thayer, Jeritt; ; 17; 1204; ; 1; 5; 1
+2008; Wilmington Hammerheads; 5; Townsend, Ashleigh Peter; ; 6; 540; ; ; ; 8
+2008; Wilmington Hammerheads; 6; Walters, Dame (Tweety); ; 13; 1170; ; ; ; 15
+2008; Real Maryland Monarchs; 17; Alas Morales, Dennis; M; 14; 1187; 3; ; 54; 21
+2008; Real Maryland Monarchs; 30; Araujo, Oscar Edgardo; GK; 4; 315; ; ; ; 1
+2008; Real Maryland Monarchs; 12; Barnes, Devlin; D; 16; 1263; ; 1; 7; 27
+2008; Real Maryland Monarchs; 3; Basso, Stephen; D; 17; 1488; ; ; 9; 32
+2008; Real Maryland Monarchs; 2; Bissohong, Philippe; D; 9; 506; ; ; ; 10
+2008; Real Maryland Monarchs; 9; Brindley, William; F; 20; 1216; 3; 2; 22; 14
+2008; Real Maryland Monarchs; 20; Cerritos, Ronald; F; 15; 1109; 2; 1; 14; 5
+2008; Real Maryland Monarchs; 19; Chantel, Marcos; ; 15; 1065; ; ; 2; 24
+2008; Real Maryland Monarchs; 23; Da Silva, Dangelo; F/F; 1; 15; ; ; ; 1
+2008; Real Maryland Monarchs; 4; Dos Anjos, Mateus; M; 5; 306; ; ; 2; 4
+2008; Real Maryland Monarchs; 21; Eby, Matthew; D; 6; 305; ; ; 3; 2
+2008; Real Maryland Monarchs; 15; Ferguson, Daryl; D; 18; 1605; ; ; 5; 15
+2008; Real Maryland Monarchs; 16; Ferrufino, Bairon; M; ; ; ; ; ; 
+2008; Real Maryland Monarchs; 26; Gomez, Pablo Hernan; ; 8; 402; ; 1; 6; 9
+2008; Real Maryland Monarchs; 14; Hassen, Muner; M; 20; 1639; ; ; 9; 11
+2008; Real Maryland Monarchs; 7; Higueras, Angel; M; 8; 597; ; 1; 6; 11
+2008; Real Maryland Monarchs; 22; Hunte, Dia; ; 6; 526; ; ; 2; 18
+2008; Real Maryland Monarchs; 22; Kamara, Foday; M; 7; 280; ; ; ; 7
+2008; Real Maryland Monarchs; 8; Kish, Andrew Kenneth; M; 7; 605; ; ; ; 10
+2008; Real Maryland Monarchs; 10; Loughner, Clinton J; M; 4; 84; ; ; ; 
+2008; Real Maryland Monarchs; 6; Maldonado, Jose; M; 3; 95; ; ; 1; 1
+2008; Real Maryland Monarchs; 4; Martinez, Alfonso; D; 3; 270; ; ; 1; 4
+2008; Real Maryland Monarchs; 25; Montero, Cristian; GK; 1; 90; ; ; ; 
+2008; Real Maryland Monarchs; 23; Pena, Joseph; M; 5; 323; ; ; ; 5
+2008; Real Maryland Monarchs; 18; Perez, Nilson; F; 18; 1399; 6; ; 23; 22
+2008; Real Maryland Monarchs; 11; Ramirez, Teodoro; M; 16; 937; ; 1; 6; 12
+2008; Real Maryland Monarchs; 24; Ramirez, Victor; F; 16; 441; 1; 1; 10; 6
+2008; Real Maryland Monarchs; 5; Tupy, Stephen; M; 6; 84; ; ; ; 1
+2008; Richmond Kickers; 20; Bennett, Ian; M; 14; 599; 2; ; 8; 5
+2008; Richmond Kickers; 10; Bulow, David; F; 20; 1481; 11; 4; 44; 15
+2008; Richmond Kickers; 9; Bumbut, Adrian (Piticu); M; 17; 838; 2; 4; 19; 9
+2008; Richmond Kickers; 19; Burke, Michael; M; 19; 1179; 7; 8; 24; 9
+2008; Richmond Kickers; 12; Catalano, Anthony; D; 19; 1340; 3; ; 6; 15
+2008; Richmond Kickers; 8; Chavez, Adam; D; 14; 523; ; 1; 1; 4
+2008; Richmond Kickers; 26; Cowlishaw, Leigh; M; 1; 22; 1; ; 1; 
+2008; Richmond Kickers; 17; Dawkins, Fabian; F; 5; 318; 3; 2; 5; 3
+2008; Richmond Kickers; 21; Gilkerson, John; D; 6; 449; ; ; ; 2
+2008; Richmond Kickers; 23; Gorres, Sascha; M; 19; 1710; 2; 3; 25; 6
+2008; Richmond Kickers; 15; Harding, Evan; M/D; 18; 1526; ; 1; 2; 5
+2008; Richmond Kickers; 11; Hunter, Benjamin; F/M; 7; 319; 1; 3; 8; 3
+2008; Richmond Kickers; 5; Jones, Kelvin; D; 15; 1315; ; 2; 4; 9
+2008; Richmond Kickers; 3; Knight, Kevin; M/D; 4; 186; ; 1; 2; 3
+2008; Richmond Kickers; 25; McEachron, Trevor; D; 17; 1530; 1; 1; 6; 20
+2008; Richmond Kickers; 1; Murphy, Mark; GK; 6; 384; ; 1; ; 
+2008; Richmond Kickers; 27; Nyazamba, Stanley; M; 16; 1175; 6; 2; 27; 22
+2008; Richmond Kickers; 2; Pace, Ralph; M/D; 9; 202; 1; ; 1; 4
+2008; Richmond Kickers; 22; Pascale, Ronnie; GK; 16; 1416; ; ; ; 
+2008; Richmond Kickers; 14; Paschalis, Eliot; M; 13; 972; ; 1; 1; 13
+2008; Richmond Kickers; 24; Schramm, Frederick (Ricky); F; 1; 90; 1; ; 4; 2
+2008; Richmond Kickers; 7; Smith, Wilfred (Freddie); F; 12; 490; 3; 1; 12; 6
+2008; Richmond Kickers; 4; Vercollone, Luke; M; 19; 1552; 2; 2; 14; 21
+2008; Richmond Kickers; 16; Viray, Patrick; F; 11; 184; 1; 1; 6; 2
+2008; Crystal Palace Baltimore; 30; Brooks, Gary; F; 14; 908; 7; 1; 37; 22
+2008; Crystal Palace Baltimore; 24; Cherneski, James; ; 4; 277; ; ; 4; 1
+2008; Crystal Palace Baltimore; 10; Dos Anjos, Mateus; ; 6; 540; ; ; 1; 3
+2008; Crystal Palace Baltimore; 18; Feazell, David; ; 11; 569; 1; ; 4; 6
+2008; Crystal Palace Baltimore; 11; Flores, Sergio; ; 12; 607; 2; 1; 18; 6
+2008; Crystal Palace Baltimore; 21; Harada, Shintaro; ; 19; 1637; 1; ; 9; 31
+2008; Crystal Palace Baltimore; 8; Harkin, Bryan; M; 18; 1142; ; 2; 9; 26
+2008; Crystal Palace Baltimore; 9; Healey, Patrick; ; 19; 1224; 5; 2; 22; 28
+2008; Crystal Palace Baltimore; 4; Kante, Ibrahim; ; 13; 993; 2; ; 7; 15
+2008; Crystal Palace Baltimore; 19; King, Kevin Anthonio; ; 12; 638; ; 2; 17; 15
+2008; Crystal Palace Baltimore; 15; Lader, Dan; ; 14; 742; ; ; 7; 17
+2008; Crystal Palace Baltimore; 17; Lewis, Cecil; ; 13; 686; 1; 1; 13; 5
+2008; Crystal Palace Baltimore; 14; Lookingland, Michael; ; 15; 1066; 1; ; 9; 4
+2008; Crystal Palace Baltimore; 16; Mark, Larry; F/M; 12; 688; 3; 1; 14; 6
+2008; Crystal Palace Baltimore; 5; Marshall, Andrew; ; 20; 1718; ; 1; 9; 24
+2008; Crystal Palace Baltimore; 12; Mbuta, Andongcho; ; 17; 1264; 2; 2; 39; 16
+2008; Crystal Palace Baltimore; 22; Morales, Carlos; ; 7; 224; ; ; 1; 5
+2008; Crystal Palace Baltimore; 27; Nelson, Matthew; ; 6; 540; ; ; ; 
+2008; Crystal Palace Baltimore; 3; Robson, Paul; ; 18; 1555; ; 3; 3; 15
+2008; Crystal Palace Baltimore; 1; Rowland, Brian; ; 13; 1170; ; ; ; 1
+2008; Crystal Palace Baltimore; 7; Teixeira, Valdemar; ; 17; 1114; 4; 5; 29; 19
+2008; Crystal Palace Baltimore; 23; Thompson, Zekarius; GK; 1; 90; ; ; ; 
+2008; Crystal Palace Baltimore; 2; Ughiovhe, Idris; ; 5; 207; 1; ; 4; 3
+2008; Crystal Palace Baltimore; 10; Urquijo, Harold; ; 4; 119; ; ; 2; 4
+2008; Western Mass Pioneers; 0; Andre, Matt; ; ; ; ; ; ; 
+2008; Western Mass Pioneers; 18; Arteaga, Jhonny; ; 9; 75; ; ; ; 1
+2008; Western Mass Pioneers; 12; Augustine, Anthony; ; 18; 1597; ; ; 4; 24
+2008; Western Mass Pioneers; 5; Bissett, Callum; ; 12; 919; 1; ; 2; 9
+2008; Western Mass Pioneers; 16; Brito, Emanuel (Manny); ; 2; 24; ; ; ; 1
+2008; Western Mass Pioneers; 11; Bunsie, Noel; ; 13; 1005; 2; ; 16; 8
+2008; Western Mass Pioneers; 1; Cole, Joshua; ; 1; 90; ; ; ; 1
+2008; Western Mass Pioneers; 4; Cumberbatch, Kevin; D; 14; 898; ; ; ; 19
+2008; Western Mass Pioneers; 13; Deren, Jeff; ; 19; 1643; 5; 4; 22; 15
+2008; Western Mass Pioneers; 16; Germanese, Joseph D; ; 6; 502; 1; ; 6; 5
+2008; Western Mass Pioneers; 30; Glaeser, Matt; ; 20; 1800; ; ; ; 1
+2008; Western Mass Pioneers; 20; Greenslit, James; ; 19; 1710; 1; ; 2; 10
+2008; Western Mass Pioneers; 18; Howarth, Adam; ; ; ; ; ; ; 
+2008; Western Mass Pioneers; 6; Klinger, Fausto; ; 2; 156; ; ; 2; 2
+2008; Western Mass Pioneers; 22; Krause, Neil; ; 18; 1541; 6; 2; 25; 30
+2008; Western Mass Pioneers; 16; Larocca, Tim; ; 8; 187; ; ; 2; 2
+2008; Western Mass Pioneers; 14; Lima, Mike; ; 13; 600; ; 1; 1; 
+2008; Western Mass Pioneers; 10; Maciel, Everson; ; 7; 224; ; ; 5; 7
+2008; Western Mass Pioneers; 9; McFarlane, Omar; ; 15; 867; 1; 1; 9; 15
+2008; Western Mass Pioneers; 7; Molinari, Federico; ; 17; 1511; ; 5; 14; 22
+2008; Western Mass Pioneers; 8; Petrarca, Anthony; ; 20; 1551; ; ; 13; 20
+2008; Western Mass Pioneers; 6; Stewart, Craig; ; 1; 53; ; ; ; 
+2008; Western Mass Pioneers; 6; Tyler, Brandon; ; 4; 360; ; ; 1; 6
+2008; Western Mass Pioneers; 3; Willis, Jay; D/D; 20; 1787; 1; ; 14; 20
+2008; Western Mass Pioneers; 16; Wilson, Easton; ; 4; 343; ; 1; 5; 9
+2008; Western Mass Pioneers; 11; Zobre, Bryan; ; 10; 231; 1; ; 3; 4
+2008; Western Mass Pioneers; 33; cross, matt; ; 1; 90; ; ; ; 
+2008; Bermuda Hogges; 9; Astwood, Stephen (Ste); ; 14; 723; 1; 1; 15; 26
+2008; Bermuda Hogges; 23; Ball, Jonathan; ; 12; 1061; 1; ; 4; 8
+2008; Bermuda Hogges; 16; Bean, Blenn; ; 12; 1066; ; 1; 4; 7
+2008; Bermuda Hogges; 16; Bean, Keishen; ; 17; 1086; 2; ; 15; 15
+2008; Bermuda Hogges; 14; Bean, Ralph; ; 11; 408; ; 1; 2; 3
+2008; Bermuda Hogges; 12; Burgess, Lyndon (Nigel); ; 7; 461; ; ; 1; 
+2008; Bermuda Hogges; 5; Charlton, Andrew; ; 1; 10; ; ; ; 1
+2008; Bermuda Hogges; 19; Coddington, Damico; ; 11; 378; 1; ; 7; 6
+2008; Bermuda Hogges; 2; Cox, Darius; ; 15; 1310; 1; ; 4; 10
+2008; Bermuda Hogges; 25; Darrell, Seion; ; 7; 274; ; ; ; 1
+2008; Bermuda Hogges; 15; DeGraff, Devaun (Sammy); ; 13; 1013; ; 2; 14; 19
+2008; Bermuda Hogges; 5; Dill, Kofi L; ; 7; 622; ; ; 1; 4
+2008; Bermuda Hogges; 11; Dill, Lashun; ; 13; 740; 1; ; 17; 8
+2008; Bermuda Hogges; 1; Figureido, Timothy; ; 15; 1328; ; ; ; 
+2008; Bermuda Hogges; 20; Goater, Shaun; ; 1; 18; ; ; 1; 
+2008; Bermuda Hogges; 21; Holder, Laurence (Lloyd); ; 9; 234; ; ; 3; 4
+2008; Bermuda Hogges; 20; Jennings, Jemeiko Sykhi; ; 2; 151; ; ; 1; 3
+2008; Bermuda Hogges; 20; Jennings, Keith; ; 3; 202; ; ; 7; 7
+2008; Bermuda Hogges; 23; Lightbourne, Kyle (Lighty); ; 2; 29; ; ; 1; 
+2008; Bermuda Hogges; 7; Ming, Damon Jason; ; 17; 1403; 4; 4; 30; 21
+2008; Bermuda Hogges; 22; Minors, Brendon; ; 1; 22; ; ; 1; 
+2008; Bermuda Hogges; 99; Nusum, John Barry; ; 13; 919; 2; ; 33; 11
+2008; Bermuda Hogges; 18; Parsons, Michael; ; 6; 263; ; ; 1; 2
+2008; Bermuda Hogges; 6; Peniston, Jared; ; 14; 1167; 1; 1; 12; 17
+2008; Bermuda Hogges; 28; Richards, Kevin; ; 15; 1201; 1; ; 2; 4
+2008; Bermuda Hogges; 26; Robinson, Cecoy; ; 2; 22; ; ; ; 
+2008; Bermuda Hogges; 4; Scott, Jelani; ; 15; 1074; ; ; ; 12
+2008; Bermuda Hogges; 8; Shakir, Omar; ; 14; 1216; 1; ; 6; 16
+2008; Bermuda Hogges; 17; Steede, Kwame; ; 6; 455; 1; ; 5; 9
+2008; Bermuda Hogges; 24; Tucker, Arthur (Jabrel); ; 1; 57; ; ; ; 
+2008; Bermuda Hogges; 22; Williams, Jason; ; ; ; ; ; ; 
+2008; Bermuda Hogges; 3; Wilson, Robert; ; 2; 123; ; ; ; 
+2008; Bermuda Hogges; 10; Zuill, Aljame JL; ; 9; 425; 2; ; 16; 16
+2009; Wilmington Hammerheads; 20; Alexander, Robert; M; 1; 6; ; ; ; 
+2009; Wilmington Hammerheads; 2; Angus, Calum; D; 5; 450; 1; ; 5; 7
+2009; Wilmington Hammerheads; 33; Bagley, Christopher; F; 9; 590; 1; ; 13; 11
+2009; Wilmington Hammerheads; 21; Bermudez, Yeniel; M; 2; 108; ; ; 1; 1
+2009; Wilmington Hammerheads; 8; Briggs, Mark; M; 20; 1641; 1; 2; 8; 18
+2009; Wilmington Hammerheads; 20; Budnyy, Andriy; M; 1; 19; 1; ; 1; 
+2009; Wilmington Hammerheads; 9; Bundy, Kenneth; M; 20; 1510; 4; 9; 18; 11
+2009; Wilmington Hammerheads; 12; Curfman, Steven; M; 16; 341; 1; ; 4; 5
+2009; Wilmington Hammerheads; 7; DeVae, John; M; 6; 214; 1; 1; 5; 2
+2009; Wilmington Hammerheads; 15; Dombrowski, Zeke; M; 18; 1563; 2; ; 9; 16
+2009; Wilmington Hammerheads; 5; Falvey, Colin; D; 15; 1301; 1; ; 7; 12
+2009; Wilmington Hammerheads; 23; Franks, Jamie; M; 17; 1210; 1; 1; 18; 6
+2009; Wilmington Hammerheads; 11; Hufstader, Philip; F; 12; 828; 4; 2; 16; 12
+2009; Wilmington Hammerheads; 4; Karalexis, Timothy; D; 12; 962; 2; ; 8; 2
+2009; Wilmington Hammerheads; 11; King, Aaron; F; 4; 80; 1; 1; 2; 2
+2009; Wilmington Hammerheads; 0; McClellan, Chris; GK; 5; 450; ; ; ; 
+2009; Wilmington Hammerheads; 13; Murray, Christopher; M; 20; 806; ; 3; 8; 14
+2009; Wilmington Hammerheads; 14; Noviello, Jyler; F; 18; 453; 6; ; 13; 5
+2009; Wilmington Hammerheads; 23; Parker, Aaron; ; 4; 41; ; ; ; 
+2009; Wilmington Hammerheads; 3; Pierce, Rusty; D; 4; 247; ; ; ; 2
+2009; Wilmington Hammerheads; 30; Polak, Kyle; GK; 4; 300; ; ; ; 
+2009; Wilmington Hammerheads; 1; Sattler, Daryl; GK; 13; 1050; ; ; ; 3
+2009; Wilmington Hammerheads; 17; Solle, Ryan; M; 11; 401; 1; ; 2; 4
+2009; Wilmington Hammerheads; 22; Tate, Patrick; D; 9; 492; ; ; ; 6
+2009; Wilmington Hammerheads; 18; Tatters, Graham; D; 13; 1170; ; ; 2; 10
+2009; Wilmington Hammerheads; 16; Thayer, Jeritt; D; 17; 1152; 1; 2; 3; 4
+2009; Wilmington Hammerheads; 6; Walters, Dame; D; 14; 1101; ; ; 1; 19
+2009; Wilmington Hammerheads; 77; Watson, Jamie; F; 16; 1294; 12; 6; 38; 21
+2009; Richmond Kickers; 24; Andongcho, Mathew; F; 1; 90; ; ; 5; 
+2009; Richmond Kickers; 10; Bulow, David; M; 19; 901; 9; ; 19; 15
+2009; Richmond Kickers; 9; Bumbut, Adrian; F; 16; 691; 3; ; 13; 11
+2009; Richmond Kickers; 19; Burke, Michael; M; 18; 1211; 3; 7; 22; 12
+2009; Richmond Kickers; 16; Carrieri, Chris; M; 5; 318; 1; ; 6; 3
+2009; Richmond Kickers; 26; Cowlishaw, Leigh; M; 1; 6; ; ; ; 
+2009; Richmond Kickers; 17; Cutler, Kenny; D; 20; 1565; ; 2; 3; 2
+2009; Richmond Kickers; 7; Delicate, Matthew; F; 20; 1652; 13; 2; 34; 19
+2009; Richmond Kickers; 29; Diraimondo, John; M; 5; 414; 2; ; 10; 6
+2009; Richmond Kickers; 18; Dos Santos, Gerson P; M; 17; 1319; 1; 2; 12; 24
+2009; Richmond Kickers; 27; Elcock, Edson; M; 3; 198; ; ; 3; 
+2009; Richmond Kickers; 23; Goerres, Sascha; D; 17; 1461; ; 5; 4; 9
+2009; Richmond Kickers; 15; Harding, Evan; M; 12; 327; ; 1; 1; 1
+2009; Richmond Kickers; 11; Hunter, Benjamin; D; 18; 602; 2; ; 12; 10
+2009; Richmond Kickers; 5; Jones, Kelvin; D; 15; 544; ; ; 3; 4
+2009; Richmond Kickers; 25; Kalungi, Henry; D; 19; 1710; ; ; 1; 16
+2009; Richmond Kickers; 21; MacKenzie, Ross; M; 12; 242; 1; ; 10; 6
+2009; Richmond Kickers; 22; Pascale, Ronnie; GK; 20; 1800; ; ; 1; 1
+2009; Richmond Kickers; 3; Peters, Ferman Anthony; D; 4; 232; ; ; 1; 4
+2009; Richmond Kickers; 12; Rosenbaum, David; F; 3; 18; ; 1; ; 
+2009; Richmond Kickers; 16; Tolleson, Jeremy; D; 1; 90; ; ; ; 2
+2009; Richmond Kickers; 4; Vercollone, Luke; M; 20; 1660; ; 2; 10; 13
+2009; Richmond Kickers; 2; William, Yomby; D; 18; 1487; ; 2; 4; 17
+2009; Richmond Kickers; 8; Worthen, Joey; F; 17; 1149; 3; 3; 23; 13
+2009; Harrisburg City Islanders; 13; Baker, Nathan; M; 16; 930; ; ; 4; 9
+2009; Harrisburg City Islanders; 3; Bixler, Dustin; D; 13; 1161; ; ; ; 14
+2009; Harrisburg City Islanders; 4; Bloes, Geoffrey; D; 18; 1583; ; ; 7; 11
+2009; Harrisburg City Islanders; 9; Buffington, Phillip; F; 8; 143; ; 2; 7; 1
+2009; Harrisburg City Islanders; 23; Calvano, Anthony; D; 13; 1007; ; 1; 3; 10
+2009; Harrisburg City Islanders; 14; Chencinski, Tomer; GK; 4; 360; ; ; ; 
+2009; Harrisburg City Islanders; 16; DiRalmondo, John; ; 1; 25; ; ; ; 
+2009; Harrisburg City Islanders; 2; Fisher, Stephen; F; 20; 1385; 3; 5; 29; 13
+2009; Harrisburg City Islanders; 32; Harrison, Chase; GK; 16; 1440; ; ; ; 1
+2009; Harrisburg City Islanders; 18; Heinemann, Tommy; ; 1; 90; ; ; 1; 3
+2009; Harrisburg City Islanders; 0; Herford, Jay; GK; 1; 2; ; ; ; 
+2009; Harrisburg City Islanders; 17; Kasiguran, Kai; M; 18; 426; ; ; 3; 4
+2009; Harrisburg City Islanders; 7; Marples, Nigel; D; 1; 90; ; ; ; 
+2009; Harrisburg City Islanders; 8; Massie, Jason; M; 13; 332; ; 1; 2; 4
+2009; Harrisburg City Islanders; 16; Nunez, Agustino; F; 5; 247; ; ; 8; 
+2009; Harrisburg City Islanders; 19; Oduor, Mo; M; 18; 1173; 2; 2; 16; 18
+2009; Harrisburg City Islanders; 5; Paterson, Nicholas; M; 18; 1418; 1; 2; 17; 37
+2009; Harrisburg City Islanders; 22; Pelletier, Jason; M; 18; 1527; 3; 4; 21; 28
+2009; Harrisburg City Islanders; 18; Peters, Ferman Anthony; ; 1; 2; ; 1; ; 
+2009; Harrisburg City Islanders; 7; Reinberg, Stephen; D; 16; 965; 2; ; 8; 20
+2009; Harrisburg City Islanders; 10; Schofield, David; F; 19; 705; 1; 1; 13; 12
+2009; Harrisburg City Islanders; 20; Severs, Chad; F; 19; 1140; 9; 1; 28; 3
+2009; Harrisburg City Islanders; 12; Shipalane, Tiyiselani; M; 18; 1320; 6; 6; 41; 9
+2009; Harrisburg City Islanders; 11; Swartzendruber, Brandon; M; 18; 583; 4; ; 16; 11
+2009; Harrisburg City Islanders; 6; Velten, Timothy; D; 20; 1723; ; ; ; 29
+2009; Charlotte Eagles; 9; Bentos, Gustavo; F; 7; 189; 1; ; 5; 6
+2009; Charlotte Eagles; 4; Bryant, Brady; D; 9; 435; ; ; 1; 10
+2009; Charlotte Eagles; 0; Ceus, Steward; GK; 10; 900; ; ; ; 
+2009; Charlotte Eagles; 25; Coggins, Jacob; F; 18; 748; 2; 2; 16; 14
+2009; Charlotte Eagles; 5; Connor, Joseph; D; 5; 311; ; ; 1; 3
+2009; Charlotte Eagles; 19; Daka, Patrick; F; 16; 625; 1; ; 11; 4
+2009; Charlotte Eagles; 16; DeLoach, Aaron; F; 1; 35; ; ; 2; 
+2009; Charlotte Eagles; 3; Garcia, Nicolas; D; 2; 152; ; ; ; 2
+2009; Charlotte Eagles; 10; Herrera, Jorge; M; 19; 1602; 6; 6; 30; 23
+2009; Charlotte Eagles; 2; Johnson, Benjamin; D; 17; 742; ; 1; 4; 8
+2009; Charlotte Eagles; 22; Klotz, Christopher; M; 9; 205; ; 1; 3; 2
+2009; Charlotte Eagles; 0; Lefebure, Erik; GK; 1; 90; ; ; ; 
+2009; Charlotte Eagles; 7; Lemons, Chris; M; 19; 963; 2; ; 17; 11
+2009; Charlotte Eagles; 12; Martins, Diego; M; 18; 1297; 4; 6; 40; 11
+2009; Charlotte Eagles; 27; McFarlane, Omar; M; 1; 23; ; ; ; 1
+2009; Charlotte Eagles; 13; Nunes, Amaury; M; 12; 792; 9; 2; 23; 10
+2009; Charlotte Eagles; 8; Page, Benjamin; F; 14; 617; 3; 3; 20; 4
+2009; Charlotte Eagles; 24; Rife, Josh; D; 18; 1559; 1; 1; 6; 4
+2009; Charlotte Eagles; 17; Schroeder, Gregg; M; 8; 414; ; ; 2; 2
+2009; Charlotte Eagles; 20; Shak, Steve; D; 15; 1350; 1; ; 7; 15
+2009; Charlotte Eagles; 23; Smith, Chad; D; 14; 1037; ; ; 2; 10
+2009; Charlotte Eagles; 18; Swinehart, Dustin; F; 20; 1475; 7; 3; 36; 8
+2009; Charlotte Eagles; 21; Toby, Darren; M; 18; 1450; 1; ; 6; 10
+2009; Charlotte Eagles; 1; Trapp, Kevin; GK; 9; 810; ; ; ; 1
+2009; Charlotte Eagles; 15; Williams, Luke; D; 18; 1255; 1; 2; 5; 9
+2009; Charlotte Eagles; 6; Woods, Thomas; M; 18; 665; ; 2; 2; 8
+2009; Real Maryland Monarchs; 2; Borrajo, John; D; 20; 1800; ; ; 1; 11
+2009; Real Maryland Monarchs; 20; Brooks, Gary; F; 14; 1095; 6; 3; 36; 25
+2009; Real Maryland Monarchs; 14; Bulls, Daniel; M; 6; 155; ; ; ; 3
+2009; Real Maryland Monarchs; 8; Carroll, Jeffrey; M; 12; 652; ; 2; 2; 16
+2009; Real Maryland Monarchs; 21; Carroll, Patrick; D; 2; 180; ; ; ; 
+2009; Real Maryland Monarchs; 6; Cartaya, Loanny; M; 9; 716; ; ; 3; 12
+2009; Real Maryland Monarchs; 16; Chastain, Cameron; D; 5; 91; ; ; ; 
+2009; Real Maryland Monarchs; 22; Cordeiro, Ryan; F; 14; 1096; ; 4; 12; 19
+2009; Real Maryland Monarchs; 4; Diaz, Yendry; D; 10; 881; 1; ; 6; 21
+2009; Real Maryland Monarchs; 23; Funicello, Giuseppe; D; 12; 1059; ; ; 4; 13
+2009; Real Maryland Monarchs; 18; Ghebru, Michael; M; 8; 378; ; ; 4; 4
+2009; Real Maryland Monarchs; 24; Gonzaga, Lucio; F; 7; 504; 2; 1; 12; 5
+2009; Real Maryland Monarchs; 12; Gracien, Marc; M; 8; 396; 1; 1; 12; 7
+2009; Real Maryland Monarchs; 19; Hertel, Dave; M; 4; 214; ; ; 2; 1
+2009; Real Maryland Monarchs; 9; Holmes, Jamie; F; 11; 348; 3; ; 9; 5
+2009; Real Maryland Monarchs; 25; Holody, Michael; D; 9; 810; ; ; 3; 3
+2009; Real Maryland Monarchs; 1; Hughes, Justin; GK; 7; 630; ; ; ; 
+2009; Real Maryland Monarchs; 0; Kern, Dave; GK; 13; 1170; ; ; ; 
+2009; Real Maryland Monarchs; 11; King, Kevin; F; 2; 114; 2; ; 2; 6
+2009; Real Maryland Monarchs; 12; Lewis, Garry; M; 7; 514; ; ; 5; 11
+2009; Real Maryland Monarchs; 17; Lewis, Fabien; D; 10; 719; ; ; 2; 16
+2009; Real Maryland Monarchs; 14; Lewis, Cecil; M; 11; 931; 2; 2; 15; 14
+2009; Real Maryland Monarchs; 24; Martinez, Rey; F; 4; 91; ; ; ; 
+2009; Real Maryland Monarchs; 3; Purser, David; D; 6; 391; ; ; ; 6
+2009; Real Maryland Monarchs; 15; Ramirez, Victor; M; 11; 485; 1; 1; 12; 7
+2009; Real Maryland Monarchs; 10; Rush, Sean; M; 16; 1037; 1; 3; 12; 16
+2009; Real Maryland Monarchs; 19; Salas, Sergio; M; 3; 70; ; ; 2; 
+2009; Real Maryland Monarchs; 24; Schunk, Ross; ; 1; 90; ; ; 2; 2
+2009; Real Maryland Monarchs; 13; Stevens, James; F; 13; 559; 1; ; 6; 4
+2009; Real Maryland Monarchs; 7; Taylor, Tom; M; 18; 1386; 2; 1; 14; 18
+2009; Real Maryland Monarchs; 5; Townsend, Ashleigh; D; 14; 1172; ; ; 1; 14
+2009; Crystal Palace Baltimore; 2; Adelusimi, Olawale; D; 4; 181; ; ; ; 4
+2009; Crystal Palace Baltimore; 12; Andongcho, Mathew; ; 3; 270; 2; ; 8; 3
+2009; Crystal Palace Baltimore; 23; Basso, Stephen; D; 15; 1267; ; ; 5; 21
+2009; Crystal Palace Baltimore; 24; Cherneski, James; M; 1; 9; ; ; 1; 
+2009; Crystal Palace Baltimore; 0; Chiles, William; GK; 2; 121; ; ; ; 
+2009; Crystal Palace Baltimore; 10; Dos Anjos, Mateus; ; 12; 1080; ; 1; 4; 9
+2009; Crystal Palace Baltimore; 16; Flores, Zackary; D; 19; 1420; ; ; 14; 13
+2009; Crystal Palace Baltimore; 11; Gnatiko, Comlan; M; 16; 552; ; ; 7; 4
+2009; Crystal Palace Baltimore; 21; Harada, Shintaro; M; 20; 1675; ; 1; 16; 29
+2009; Crystal Palace Baltimore; 8; Harkin, Bryan; M; 14; 826; ; ; 6; 14
+2009; Crystal Palace Baltimore; 9; Healey, Patrick; M; 19; 1455; 2; 1; 20; 17
+2009; Crystal Palace Baltimore; 15; Lader, Dan; M; 18; 1266; 3; 1; 19; 25
+2009; Crystal Palace Baltimore; 16; Mark, Larry; F; 1; 30; ; ; ; 
+2009; Crystal Palace Baltimore; 5; Marshall, Andrew; D; 19; 1613; ; 1; 9; 22
+2009; Crystal Palace Baltimore; 28; Millwood, Machel; F; 9; 641; 1; 2; 14; 9
+2009; Crystal Palace Baltimore; 18; Nusum, John Barry; ; 5; 229; ; ; 7; 3
+2009; Crystal Palace Baltimore; 4; Pierce, Ryan; D; 15; 938; ; ; 2; 7
+2009; Crystal Palace Baltimore; 3; Robson, Paul; D; 18; 1572; ; 2; 9; 21
+2009; Crystal Palace Baltimore; 1; Rowland, Brian; GK; 20; 1679; ; ; ; 
+2009; Crystal Palace Baltimore; 10; Seabrook, Jordan; F; 20; 1300; 3; 2; 24; 5
+2009; Crystal Palace Baltimore; 7; Teixeira, Valdemar; F; 18; 1297; 5; ; 43; 24
+2009; Crystal Palace Baltimore; 2; Ughiovhe, Idris; ; 2; 111; ; ; ; 2
+2009; Crystal Palace Baltimore; 15; Vranis, Neil; M; 5; 78; ; ; ; 3
+2009; Crystal Palace Baltimore; 17; Zimmerman, Nick; ; 2; 123; ; ; 3; 2
+2009; Pittsburgh Riverhounds; 22; Bonseu, Tenywa; D; 14; 1177; 2; ; 9; 8
+2009; Pittsburgh Riverhounds; 15; Bragg, Richard; D; 15; 1108; ; ; 1; 10
+2009; Pittsburgh Riverhounds; 9; Brindley, William; F; 11; 346; 1; ; 7; 2
+2009; Pittsburgh Riverhounds; 5; Brown, Allan; D; 17; 666; ; ; 3; 11
+2009; Pittsburgh Riverhounds; 16; Bucknor, Sean; F; 10; 232; ; ; 7; 6
+2009; Pittsburgh Riverhounds; 21; Cameron, Sean; M; 10; 574; ; ; 9; 7
+2009; Pittsburgh Riverhounds; 7; Evans, Justin; M; 18; 1590; 1; 2; 26; 31
+2009; Pittsburgh Riverhounds; 11; Gibson, Scott; M; 3; 19; ; ; 1; 
+2009; Pittsburgh Riverhounds; 17; Gray, Thomas; M; 17; 1086; 1; ; 21; 7
+2009; Pittsburgh Riverhounds; 8; Hayden, Ed; D; 18; 1500; 1; ; 4; 19
+2009; Pittsburgh Riverhounds; 23; Hughes, Jeffrey; F; 17; 879; 2; 1; 17; 6
+2009; Pittsburgh Riverhounds; 22; Jerome, Jean; M; 2; 160; 1; ; 2; 2
+2009; Pittsburgh Riverhounds; 18; Jerome, Randolph; F; 15; 1228; 6; 1; 26; 19
+2009; Pittsburgh Riverhounds; 4; Katic, Nikola; M; 11; 870; ; ; 7; 27
+2009; Pittsburgh Riverhounds; 4; Katic, Nikola; D; 2; 180; ; ; 1; 4
+2009; Pittsburgh Riverhounds; 19; Kutney, Jason; M; 18; 1434; ; 1; 21; 16
+2009; Pittsburgh Riverhounds; 12; Labudovski, Tony; M; 19; 1069; 2; 1; 18; 9
+2009; Pittsburgh Riverhounds; 14; Langton, Matthew; M; 9; 324; ; ; 3; 2
+2009; Pittsburgh Riverhounds; 20; Riley, Chris; D; 13; 864; ; ; 3; 10
+2009; Pittsburgh Riverhounds; 6; Salsi, Nathan; D; 20; 1800; 1; 1; 9; 13
+2009; Pittsburgh Riverhounds; 0; Varga, Zach; GK; 5; 393; ; ; ; 
+2009; Pittsburgh Riverhounds; 1; Waltman, Danny; GK; 16; 1407; ; ; ; 
+2009; Pittsburgh Riverhounds; 10; Zewe, Joseph; M; 17; 716; ; 2; 7; 11
+2009; Bermuda Hogges; 9; Astwood, Stephen; M; 15; 1096; 3; 1; 24; 23
+2009; Bermuda Hogges; 3; Ball, Jonathan; F; 5; 243; 1; ; 2; 3
+2009; Bermuda Hogges; 16; Bean, Keishen; D; 1; 90; ; ; ; 
+2009; Bermuda Hogges; 16; Bean, Blenn; D; 19; 1658; ; 1; 9; 15
+2009; Bermuda Hogges; 12; Burgess, Lyndon; GK; 9; 810; ; ; ; 
+2009; Bermuda Hogges; 10; Coddington, Damico; F; 20; 1565; 4; ; 31; 17
+2009; Bermuda Hogges; 2; Cox, Darius; D; 20; 1702; ; 1; 5; 8
+2009; Bermuda Hogges; 28; Darrell, Seion; D; 18; 822; ; ; 13; 3
+2009; Bermuda Hogges; 15; DeGraff, Devaun; M; 18; 1272; ; ; 9; 11
+2009; Bermuda Hogges; 11; Dill, Lashun; M; 14; 489; ; 3; 9; 5
+2009; Bermuda Hogges; 5; Dill, Kofi; M; 3; 87; ; ; 1; 1
+2009; Bermuda Hogges; 1; Figureido, Timothy; ; 1; 18; ; ; ; 
+2009; Bermuda Hogges; 21; Holder, Laurence; F; 8; 253; 4; ; 11; 4
+2009; Bermuda Hogges; 20; Jennings, Keith; ; 6; 406; ; ; 11; 7
+2009; Bermuda Hogges; 27; Lewis, Keston; M; 12; 629; ; ; 5; 12
+2009; Bermuda Hogges; 19; Lightbourne, Kyle; F; 4; 23; ; ; 1; 
+2009; Bermuda Hogges; 7; Ming, Damon; M; 20; 1333; 2; 1; 25; 20
+2009; Bermuda Hogges; 6; Peniston, Jared; D; 17; 1285; ; 1; 6; 16
+2009; Bermuda Hogges; 4; Richards, Kevin; D; 17; 1404; 2; ; 7; 7
+2009; Bermuda Hogges; 29; Rojas, Marlon; ; 1; 34; ; ; ; 
+2009; Bermuda Hogges; 23; Russell, Tokia; M; 11; 775; ; ; 6; 7
+2009; Bermuda Hogges; 99; Russell, Antwan; F; 15; 1039; 1; 2; 21; 22
+2009; Bermuda Hogges; 8; Shakir, Omar; D; 16; 1203; 1; ; 8; 13
+2009; Bermuda Hogges; 22; Smith, Jamie; F; 15; 461; 1; ; 15; 14
+2009; Bermuda Hogges; 25; Williams, Jason; GK; 11; 965; ; ; ; 

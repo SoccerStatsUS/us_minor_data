@@ -1,1466 +1,1466 @@
 Competition: USL Premier Developmental League
-Key:        name	team	position	games_played	minutes	goals	assists	shots	fouls_committed	year
+Key:        name; team; position; games_played; minutes; goals; assists; shots; fouls_committed; year
 
-Barone, Giuseppe	Kalamazoo Kingdom	F	4	143		1	5	6	2003
-Challinor, Jon	Kalamazoo Kingdom	D	17	1526	2		19	35	2003
-Duhl, Scott	Kalamazoo Kingdom	M	14	1136	1	3	17	9	2003
-Dwaihy, David	Kalamazoo Kingdom	M	16	1050	3	1	14	3	2003
-Foster, Brendon	Kalamazoo Kingdom		3	60			0	3	2003
-Goss, Chris	Kalamazoo Kingdom						0	0	2003
-Keenan, Chris	Kalamazoo Kingdom	M	2	41			1	1	2003
-Kellogg, Matt	Kalamazoo Kingdom		4	196			1	3	2003
-Kelto, Anders	Kalamazoo Kingdom	M	14	1035	2	4	10	10	2003
-Kemple, Andrew	Kalamazoo Kingdom	D	18	1661			4	33	2003
-Kreh, Layne	Kalamazoo Kingdom	D	16	1172	1	1	8	32	2003
-Lukungu, Ali	Kalamazoo Kingdom	F	13	1166	5	1	26	23	2003
-Luya, Ian	Kalamazoo Kingdom	M	18	1661	3	3	21	5	2003
-Mead, Brandon	Kalamazoo Kingdom		1	72			0	2	2003
-Miller, Trent	Kalamazoo Kingdom	D	15	1117	1	1	1	20	2003
-Murphy, Brendan	Kalamazoo Kingdom	GK	15	1391			0	1	2003
-Nelson, Nicholas	Kalamazoo Kingdom	F	14	594	3	1	15	12	2003
-Ombiji, Brian	Kalamazoo Kingdom	F	11	1028	6	2	21	37	2003
-Peaslee, Trevor	Kalamazoo Kingdom	D	8	463			0	3	2003
-Schuring, Joseph	Kalamazoo Kingdom	D	8	176		1	2	2	2003
-Sokolowski, Bradley	Kalamazoo Kingdom		9	693	4		15	9	2003
-Teixeira, Giuliano	Kalamazoo Kingdom	M	14	902	1	2	13	19	2003
-Vandevusse, Craig	Kalamazoo Kingdom	M	10	329			2	5	2003
-Walton, Stephen	Kalamazoo Kingdom	M	12	615		1	2	18	2003
-Whitehouse, Carl	Kalamazoo Kingdom	GK	0						2003
-Ananda, Vairaji	West Michigan Edge	M/F	6	482			4	18	2003
-Benjamin, St. Nicholas	West Michigan Edge	D	17	1462	3	3	12	29	2003
-Blythe, Michael	West Michigan Edge		15	1322	2	3	23	22	2003
-Bruemmer, Alex	West Michigan Edge		5	229		1	2	2	2003
-Bryant, Brady	West Michigan Edge		11	1023		1	5	21	2003
-Chirico, Jordon	West Michigan Edge		2	128			1	3	2003
-Connor, Matthew	West Michigan Edge						0	0	2003
-Croucher-Dugan, Kevney	West Michigan Edge		5	406			0	5	2003
-Elmore, Jesse	West Michigan Edge	M	14	1297	3	1	24	18	2003
-Ferguson, James	West Michigan Edge	D	5	471	1		3	8	2003
-Flynn, Daniel	West Michigan Edge		5	192			0	4	2003
-Hall, Kevin	West Michigan Edge		10	691			0	11	2003
-Hayden, John	West Michigan Edge		9	459	1	1	9	3	2003
-Herdsman, Stephen	West Michigan Edge		3	249			0	1	2003
-Howard, Todd	West Michigan Edge		7	426			0	7	2003
-Kuklenski, Nicholas	West Michigan Edge		9	659			1	7	2003
-Leonard, Jonathan	West Michigan Edge	F	17	1523	9	1	22	32	2003
-Lepper, Steve	West Michigan Edge		17	1467	1		4	9	2003
-Linpow, Steve	West Michigan Edge		2	113			0	1	2003
-Ross, Jason	West Michigan Edge		10	405			2	4	2003
-Sanders, Oliver	West Michigan Edge	GK	16	1523			0	0	2003
-Schnerpenisse, Nathan	West Michigan Edge		2	180			0	0	2003
-Tudela, Joshua	West Michigan Edge		4	378			3	1	2003
-Wagner, Daniel	West Michigan Edge		11	739			8	13	2003
-Wagner, Ryan	West Michigan Edge		5	223			0	6	2003
-Woodward, Oliver	West Michigan Edge		12	920		1	3	2	2003
-Yadon, Scott	West Michigan Edge		11	376	1		2	1	2003
-Alexander, Ryan	Michigan Bucks	M/F	6	303		1	17	3	2003
-Cameron, Knox (Washington)	Michigan Bucks	M/F	13	882	6	2	31	15	2003
-Craft, Nate	Michigan Bucks	M	15	927		1	5	12	2003
-David, Stephan	Michigan Bucks	M	18	1398	2	4	21	8	2003
-DeGraw, Nicholas	Michigan Bucks	D/M	6	332			0	4	2003
-Detter, Justin	Michigan Bucks	M					0	0	2003
-Dzubay, Peter	Michigan Bucks	GK	8	736			0	0	2003
-Ferrin, Dan	Michigan Bucks	GK	3	225	1		1	1	2003
-Geiger, Abraham	Michigan Bucks	D	6	514			2	5	2003
-Gruber, Jordan	Michigan Bucks	M	10	326		1	5	2	2003
-Heinemann, Adam	Michigan Bucks	M	14	1015		1	4	18	2003
-Ikome, Francis	Michigan Bucks	D/M	4	121			1	3	2003
-Kalso, Kellen	Michigan Bucks	D					0	0	2003
-Khumalo, Thabiso	Michigan Bucks	M/F	2	42			3	3	2003
-Kithas, George	Michigan Bucks	F	10	421		1	11	7	2003
-Minagawa-Webster, John	Michigan Bucks	M	13	935	2	3	26	9	2003
-Nelson, Erik	Michigan Bucks	M	18	1363		5	20	17	2003
-Norman, Nathan	Michigan Bucks	M/F	10	706	1	2	7	10	2003
-Omekanda, Simon	Michigan Bucks	F	15	905	6	1	30	6	2003
-Perry, Jason	Michigan Bucks	D/M	15	1184			0	7	2003
-Rice, Douglas	Michigan Bucks	M					0	0	2003
-Rzepka, Ryan	Michigan Bucks	D/M	13	1077	2		14	5	2003
-Scicluna, Valentino	Michigan Bucks	D/M	7	481		1	7	8	2003
-Snape, Paul	Michigan Bucks	F	15	1021	8	2	38	20	2003
-Taylor, Kevin	Michigan Bucks	D/F	14	1204	3		9	7	2003
-Turpin, Mychal	Michigan Bucks	M/F	17	1057	8	5	35	8	2003
-White, Marquis	Michigan Bucks	F	1	10			0	0	2003
-White, Michael	Michigan Bucks	M/F	1	1			0	0	2003
-Wiese, Jeff	Michigan Bucks	GK	8	758			0	0	2003
-Agu, Alloysius	Indiana Invaders		14	1237			0	0	2003
-Aguiar, Jacob	Indiana Invaders	D	7	339			1	11	2003
-Ara, Ignacia	Indiana Invaders	M	16	1279			15	28	2003
-Bills, Daniel	Indiana Invaders		8	427			4	13	2003
-Braun, Erich	Indiana Invaders	F	1	90			2	0	2003
-Chillemi, Filippo	Indiana Invaders		3	152			3	2	2003
-Crouse, Benjamin	Indiana Invaders		5	450			2	7	2003
-Dargout, Jefferson	Indiana Invaders		2	19			0	0	2003
-Felman, Dario	Indiana Invaders		2	93			0	0	2003
-Forstner, Andreas	Indiana Invaders		6	509	1		6	7	2003
-Francis, Ricky	Indiana Invaders		14	1115	4	2	14	15	2003
-Garcia, Rafael	Indiana Invaders		9	760	4	1	23	8	2003
-Goldwaite, Kevin	Indiana Invaders	D	3	270		1	2	4	2003
-Hausler, Dario	Indiana Invaders	M	11	910	1		5	9	2003
-Hoge, Bradley	Indiana Invaders	M/D	1	14			0	0	2003
-Hyde, David	Indiana Invaders						0	0	2003
-Krause, Jeffrey	Indiana Invaders		12	633		1	6	13	2003
-Lopez, Oscar	Indiana Invaders	D	18	1641			3	18	2003
-Marques, Ryan	Indiana Invaders	D	15	1205		1	6	17	2003
-Martin, Greg	Indiana Invaders	M	9	792	3	2	15	16	2003
-Mault, Jordan	Indiana Invaders		3	64			0	1	2003
-Murphy, Brian	Indiana Invaders	M/F	9	476	1	2	8	9	2003
-Novas, Lomonaca, Ignacio	Indiana Invaders	F	14	843	6	1	24	12	2003
-Peirano-Pardeiro, Leonardo	Indiana Invaders	M/F	9	622	2		10	15	2003
-Roelke, Kyle	Indiana Invaders		3	121			0	0	2003
-Roman, Austin	Indiana Invaders	D	17	1525			0	11	2003
-Rowland, Jeffrey	Indiana Invaders		10	566	3	1	13	8	2003
-Rybak, Gerald	Indiana Invaders	D	1	13			0	0	2003
-Sanders, Aaron	Indiana Invaders						0	0	2003
-Sawyer, Chris	Indiana Invaders	GK	4	313			0	0	2003
-Snyder, Dustin	Indiana Invaders	F	11	395			5	11	2003
-Suflita, Samuel	Indiana Invaders		6	30			2	1	2003
-Taguinod, Brendon	Indiana Invaders	F	10	706	1	3	8	10	2003
-Wanecke, William	Indiana Invaders		6	97			1	6	2003
-Barber, Sasha	Columbus Shooting Stars	M	16	1172	1	3	18	16	2003
-Berry, Gary	Columbus Shooting Stars		7	130			2	7	2003
-Bertz, Kenneth	Columbus Shooting Stars		4	378			0	3	2003
-Bigelow, Chris	Columbus Shooting Stars						0	0	2003
-Chukwumah, Chiedu	Columbus Shooting Stars		10	846			0	5	2003
-Cook, Justin	Columbus Shooting Stars		4	212	1		6	7	2003
-Crew, Daniel	Columbus Shooting Stars		17	1572			5	23	2003
-Davis, Jordan	Columbus Shooting Stars		13	1116	1	1	9	19	2003
-Dombrowski, Jared	Columbus Shooting Stars		12	911	2		10	10	2003
-Fitzpatrick, Leslie	Columbus Shooting Stars		12	1136	5	4	42	15	2003
-Franks, Michael	Columbus Shooting Stars		12	778			0	0	2003
-Goggins, Jason	Columbus Shooting Stars	D	15	1152			4	8	2003
-Green, Chris	Columbus Shooting Stars		1	36			0	0	2003
-Hemmert, Johnathan	Columbus Shooting Stars		8	210			2	4	2003
-Jones, Bret	Columbus Shooting Stars	D/M	12	945		2	9	19	2003
-Kerr, Shane	Columbus Shooting Stars		5	294			5	1	2003
-Kletzien, William	Columbus Shooting Stars	D/M	3	202			0	4	2003
-Koita, Mamady	Columbus Shooting Stars		8	510	1	1	7	10	2003
-Larmond, Bunnyray	Columbus Shooting Stars	D	2	117			0	4	2003
-McCune, Matthew	Columbus Shooting Stars	F	15	1214	1	1	7	3	2003
-Menacho, Daniel	Columbus Shooting Stars	GK	1	90			0	0	2003
-Myers, Bradley	Columbus Shooting Stars	D	6	474	2		10	2	2003
-Nebbergall, Anthony	Columbus Shooting Stars		4	91			3	0	2003
-O'Rourke, Daniel	Columbus Shooting Stars		7	522		1	8	21	2003
-Reilly, Patrick	Columbus Shooting Stars		3	206			0	4	2003
-Riddle, Joshua	Columbus Shooting Stars	M	1	23	1		1	1	2003
-Rutledge, Andrew	Columbus Shooting Stars		9	521	3	1	14	1	2003
-Salvati, Ronald	Columbus Shooting Stars	GK	10	730			0	0	2003
-Schauer, Adam	Columbus Shooting Stars	D	12	645	1		9	6	2003
-Veris, Kyle	Columbus Shooting Stars	F	7	351	2	1	11	6	2003
-Wade, Nathan	Columbus Shooting Stars	D	5	350	1		2	4	2003
-Williams, Lindsey	Columbus Shooting Stars		8	484	3		13	10	2003
-Withers, Peter	Columbus Shooting Stars		12	734	2	2	6	13	2003
-Buck, Garrett	Fort Wayne Fever	F	18	1428	3		10	15	2003
-Buzzard, Brad	Fort Wayne Fever	GK					0	0	2003
-Chorvat, Marcus	Fort Wayne Fever	M	9	602	3	2	19	22	2003
-Crawford, Lee	Fort Wayne Fever	D	18	1484	1	1	15	28	2003
-Dulworth, Kyle	Fort Wayne Fever	M	12	490	1	2	9	2	2003
-Faily, Jesse	Fort Wayne Fever	F					0	0	2003
-Gonzalez-Olvera, Cesar	Fort Wayne Fever	M	4	115		1	3	3	2003
-Hein, Matt	Fort Wayne Fever	M	10	724	1		8	7	2003
-Johnson, Andrew	Fort Wayne Fever	M	9	416	1		10	4	2003
-Jordan, Cameron	Fort Wayne Fever	D/M	1	45			0	1	2003
-Knitter, Michael	Fort Wayne Fever	GK	5	470			0	0	2003
-Lopez-Peralta, Christian	Fort Wayne Fever	GK	3	270			0	0	2003
-Mariscalco, John	Fort Wayne Fever	D	17	1295			7	12	2003
-Nanchoff, George	Fort Wayne Fever	F	1	26			0	0	2003
-O'Driscoll, Patrick	Fort Wayne Fever	D/M	12	1129	2	1	11	12	2003
-Porto, Christian	Fort Wayne Fever	M	16	1200	4	3	43	12	2003
-Potter, Nick	Fort Wayne Fever	F	6	48	1		3	3	2003
-Pranger, Matthew	Fort Wayne Fever	F	3	83			4	0	2003
-Presser, Philip	Fort Wayne Fever	M	16	1119	2	1	37	10	2003
-Prosser, Mark	Fort Wayne Fever	D	5	97			1	1	2003
-Quiroz-Gardona, Gerardo	Fort Wayne Fever	F	5	377	1		11	10	2003
-Schwartz, Kyle	Fort Wayne Fever	D	13	1103			5	20	2003
-Sharpe, Dennis	Fort Wayne Fever	M	15	843			35	7	2003
-Shinabarger, Andrew	Fort Wayne Fever	D	17	1529			0	19	2003
-Stevens, Ben	Fort Wayne Fever	GK	10	956			0	0	2003
-Sulkin, Matt	Fort Wayne Fever	M	9	580	1		3	3	2003
-Suzuki, Jeff	Fort Wayne Fever	M	12	746	3		13	9	2003
-Swanson, Aaron	Fort Wayne Fever	F	10	400	2	1	6	5	2003
-Umelo, Michael	Fort Wayne Fever	D	13	723			1	17	2003
-Wilson, Philip	Fort Wayne Fever	F	4	139			4	0	2003
-Yates, Patrick	Fort Wayne Fever	D	1	31			1	0	2003
-Aldilami, Abdulaziz	Toledo Slayers		18	1479	1		20	11	2003
-Aliakbar, Yousef	Toledo Slayers		1	2			0	0	2003
-Behan, Patrick	Toledo Slayers		7	205	1		1	2	2003
-Bennett, Damion	Toledo Slayers		11	1010		1	1	15	2003
-Blanks, James	Toledo Slayers		11	510		2	5	8	2003
-Bokole, Bonyoko	Toledo Slayers	M/F	18	1516	6	7	52	15	2003
-Braithwaite, Richard	Toledo Slayers		17	1412			7	8	2003
-Bruh, Adam	Toledo Slayers		10	571			7	5	2003
-Degraff, Dave	Toledo Slayers		6	417			0	0	2003
-DeVilbiss, Brad	Toledo Slayers		4	179			1	2	2003
-Escobar-Fontal, Carlos	Toledo Slayers						0	0	2003
-Freudeman, Deryck	Toledo Slayers		12	425			10	8	2003
-Iding, Joseph	Toledo Slayers	D	14	1316		1	5	16	2003
-Khalil, Josef	Toledo Slayers		16	835		2	7	16	2003
-Mansell, Phil	Toledo Slayers		1	45			0	0	2003
-Merker, Steven	Toledo Slayers		7	227		1	3	2	2003
-Niemeyer, Matt	Toledo Slayers		1	45			0	1	2003
-Pogue, Eric	Toledo Slayers	GK	15	1234			0	0	2003
-Ringle, Michael	Toledo Slayers		1	20			0	0	2003
-Robinson, Kevin	Toledo Slayers		13	654	1		15	4	2003
-Roudbari, Ahmad	Toledo Slayers		18	1457		1	10	40	2003
-Royzman, Eugene	Toledo Slayers		7	347	1		2	8	2003
-Scheall, Brian	Toledo Slayers		18	1588			12	17	2003
-Shook, Tyler	Toledo Slayers		4	111			0	3	2003
-Uzoigwe, Kenny	Toledo Slayers		17	1474	9	2	85	46	2003
-Wakawa, Simi	Toledo Slayers		11	614			4	13	2003
-Wells, Jon	Toledo Slayers		11	725	2		6	8	2003
-Bain, Brenton	Kansas City Brass	M	1	8			1	1	2003
-Baker, Jesse	Kansas City Brass	M	11	944			12	8	2003
-Barber, Ryan	Kansas City Brass	D	15	1362	1	1	13	13	2003
-Bleyenberg, Jake	Kansas City Brass	F	15	1346	12	7	35	9	2003
-Blinzler, Adam	Kansas City Brass	D	18	799			0	3	2003
-Brennan, Zackary	Kansas City Brass	GK					0	0	2003
-Clifton, Andrew	Kansas City Brass	M	7	255	1	1	3	2	2003
-Dohlman, Todd	Kansas City Brass	GK	12	924		1	0	0	2003
-Duffy, Joshua	Kansas City Brass	D	10	810			1	5	2003
-Green, Dustin	Kansas City Brass	D	12	859			4	7	2003
-John, William	Kansas City Brass	M	5	290		1	9	1	2003
-Kincaid, Scott	Kansas City Brass	D	15	1353		1	7	14	2003
-Miles, Geoff	Kansas City Brass	M	15	952	1	1	12	17	2003
-Nekuda, Allan	Kansas City Brass	M	11	601	1	1	7	10	2003
-Patton, Michael	Kansas City Brass	GK	9	740			1	0	2003
-Perkins, Drew	Kansas City Brass	F	5	458	5	4	24	2	2003
-Raybould, Ryan	Kansas City Brass	M	13	1191	1	3	24	33	2003
-Rosenthal, Mike	Kansas City Brass	D	12	1101	1		7	7	2003
-Ryan, Blake	Kansas City Brass	M	14	1172	6	3	31	20	2003
-Scheller, Lawrence	Kansas City Brass	F	9	757	3	1	17	16	2003
-Sebus, Kyle	Kansas City Brass	M	11	860	1	2	16	6	2003
-Shaw, Ryan	Kansas City Brass	M	12	876	2	2	13	12	2003
-Snowden, Jeremy	Kansas City Brass	M	3	186			0	0	2003
-Van Pelt, Kurt	Kansas City Brass	M	2	49			0	0	2003
-Wyllie, James	Kansas City Brass	M	3	49			0	0	2003
-Zobrist, Eric	Kansas City Brass	D					0	0	2003
-Boltnar, Tomas	Des Moines Menace	M	15	1200	14	10	55	19	2003
-Bourne, Matthew	Des Moines Menace	D	3	84			2	4	2003
-Brackett, Benjamin	Des Moines Menace		3	78			1	2	2003
-Brazeau, Daryl	Des Moines Menace	D	17	1546	1		10	17	2003
-Cuevas, Cristian	Des Moines Menace		10	644	2	1	12	3	2003
-Disang, Edwin	Des Moines Menace		11	826	2	4	30	7	2003
-Doss-Carter, Jason	Des Moines Menace		2	127			1	0	2003
-Dukuly, Chris	Des Moines Menace						0	0	2003
-Grau, Dustin	Des Moines Menace	F	12	768	2		20	10	2003
-Harris, Jacob	Des Moines Menace		1	10			0	0	2003
-Henning, David	Des Moines Menace	D	11	925			5	4	2003
-Jones II, John	Des Moines Menace	M	110	731	6	1	20	9	2003
-Junuzovic, Adnan	Des Moines Menace	D	12	947			1	10	2003
-Kabwe, Joseph	Des Moines Menace		17	1398	9	10	36	27	2003
-Lovell, Peter	Des Moines Menace		6	281	2	1	10	7	2003
-Martos, Rastislav	Des Moines Menace	GK	1	90			0	0	2003
-Mason, Christian	Des Moines Menace		6	337		1	0	3	2003
-Mejias, Joseph	Des Moines Menace		1	21		1	2	0	2003
-Modershon, Seth	Des Moines Menace	M					0	0	2003
-Mujdzic, Armin	Des Moines Menace	F	2	55			2	3	2003
-Nickell, Matthew	Des Moines Menace	M	5	168			7	3	2003
-O'Neil, Kris	Des Moines Menace		14	906	4	2	24	14	2003
-Peercy, Lane	Des Moines Menace	D	12	1002		1	1	12	2003
-Redhage, Christopher	Des Moines Menace	F	15	1154	2	1	4	25	2003
-Reis-Wandrey, Josh	Des Moines Menace		1	30			0	0	2003
-Robinson, Chris (1)	Des Moines Menace		1	19			0	0	2003
-Rodrigues-Osorio, Joao	Des Moines Menace		9	609			4	21	2003
-Settle, Jake	Des Moines Menace	GK	2	146			0	0	2003
-Shirley, Stephen	Des Moines Menace		14	1194		2	12	30	2003
-Siberz, Jonathan	Des Moines Menace						0	0	2003
-Sithonnorath, Khampratana	Des Moines Menace	M	14	745	3	3	14	14	2003
-Tranchilla, Mike	Des Moines Menace	F					0	0	2003
-Van Der Westhuizen, Warren	Des Moines Menace		10	928			1	1	2003
-Wicks, Josh	Des Moines Menace		7	577			0	0	2003
-Babcock, Sean	Chicago Fire Premier	M	15	964	1	1	14	16	2003
-Blake, BJ	Chicago Fire Premier	F	9	448		1	8	6	2003
-Boy, Alberto	Chicago Fire Premier		2	31			2	0	2003
-Brown, Gregory	Chicago Fire Premier	GK	1	90	1		0	0	2003
-Chromik, Steve	Chicago Fire Premier	D	10	345	3	1	5	4	2003
-Clanton, Denny	Chicago Fire Premier	D	14	1207			1	11	2003
-DeClute, Jacob	Chicago Fire Premier	D/M	8	335			3	1	2003
-Dombrowski, Tighe	Chicago Fire Premier	F	15	1368	7	2	28	34	2003
-Doster, Stephen	Chicago Fire Premier	D					0	0	2003
-Drewry-Sutton, Jamal	Chicago Fire Premier	F	14	988	1	2	24	20	2003
-Duda, Eric	Chicago Fire Premier	D	8	404	4		6	6	2003
-Dunsheath, Christopher	Chicago Fire Premier		1	90			0	0	2003
-El Ahmed, Khaled	Chicago Fire Premier		5	438			0	6	2003
-Grabavoy, Ned	Chicago Fire Premier	F	15	1098	8	3	27	16	2003
-Grange, Patrick	Chicago Fire Premier	F	9	260	3	5	7	4	2003
-Guzan, Brad	Chicago Fire Premier						0	0	2003
-Halcrow, Ryan	Chicago Fire Premier	M	9	515			2	7	2003
-Hamburger, Chris	Chicago Fire Premier	M	5	328		1	2	3	2003
-Harwat, Kirk	Chicago Fire Premier	F	12	597	6	2	16	8	2003
-Lance, Kyle	Chicago Fire Premier	M	1	26			0	0	2003
-Miller, Ryan	Chicago Fire Premier	F	2	117	2		4	0	2003
-Mouw, Robert	Chicago Fire Premier	F	11	700	4	4	21	9	2003
-Odwell, Alexander	Chicago Fire Premier	M	11	584	7	2	13	11	2003
-Pickens, Matthew	Chicago Fire Premier	GK	16	1503			0	0	2003
-Plotkin, Brian	Chicago Fire Premier	M	7	526	2	1	12	6	2003
-Pollard, Nicholas	Chicago Fire Premier	D	8	666			0	2	2003
-Reti, Sean	Chicago Fire Premier						0	0	2003
-Robinson, Dasan	Chicago Fire Premier	D	12	945		1	2	19	2003
-Rolfe, Christopher	Chicago Fire Premier	F	7	459	3	3	18	6	2003
-Rupsis, Charles	Chicago Fire Premier		1	15			0	0	2003
-Smith, Jordan	Chicago Fire Premier	D	2	135			0	2	2003
-Strang, Brett	Chicago Fire Premier	D	5	397		1	4	5	2003
-Tanner, Kyle	Chicago Fire Premier	D	17	1515	3	1	13	12	2003
-Watson, Daniel	Chicago Fire Premier	D	2	108			3	0	2003
-Weis, Jarrod	Chicago Fire Premier		2	36			0	0	2003
-Wickart, Kevin	Chicago Fire Premier	D	11	928	1	2	11	17	2003
-Zayner, Jedidiah	Chicago Fire Premier	D	5	227			0	0	2003
-Androutsos, Vasilis	Thunder Bay Chill	F	18	1662	2	3	27	31	2003
-Badanai, Ron	Thunder Bay Chill	F	18	1585	7	3	34	27	2003
-Blankley, Martyn	Thunder Bay Chill	D	8	309	1		2	4	2003
-Camara, Glen	Thunder Bay Chill	F	5	23			0	0	2003
-Christey, Fitzroy	Thunder Bay Chill	M	17	1272	2	2	14	25	2003
-Colistro, Dave	Thunder Bay Chill	M	11	248	2		5	4	2003
-Dhillon, Parminder	Thunder Bay Chill	M	16	1228	1		3	6	2003
-Francis, Damian	Thunder Bay Chill	D					0	0	2003
-Goetting, Jordan	Thunder Bay Chill	M	18	1179	2	2	14	27	2003
-Gorton, Steve	Thunder Bay Chill	D	18	1556		1	2	16	2003
-Iachetta, Nicholas	Thunder Bay Chill	M	2	54			0	2	2003
-Iorianni, Emanuel	Thunder Bay Chill	D	13	152	1		6	2	2003
-Kolinski, Mike	Thunder Bay Chill	M	18	1664	5	5	34	22	2003
-Nordin, Brett	Thunder Bay Chill	M	15	616		2	4	4	2003
-Papa, Angelo	Thunder Bay Chill	D	1	9			0	0	2003
-Peura, Petri	Thunder Bay Chill	GK	3	287			0	0	2003
-Pollastrone, Angelo	Thunder Bay Chill	D	17	1565			1	26	2003
-Rose, Andrew	Thunder Bay Chill	D	16	953	1		4	15	2003
-Ruberto, Frank	Thunder Bay Chill	D					0	0	2003
-Tonianse, Armen	Thunder Bay Chill	GK	15	1404			0	0	2003
-Valente, Tony	Thunder Bay Chill	M	18	1177		1	3	8	2003
-Veneziale, Michael	Thunder Bay Chill	F	2	11			0	0	2003
-Wesseh, Doco	Thunder Bay Chill	F	18	1664	10	3	63	31	2003
-Bennett, Paul	Sioux Falls Spitfire	D	11	441		1	5	6	2003
-Bogdanov, Lubomir	Sioux Falls Spitfire	F	16	1294	14	2	57	16	2003
-Cole, Justin	Sioux Falls Spitfire		3	183		1	1	4	2003
-De Mares-Massi, Alfonso	Sioux Falls Spitfire	M	2	131			5	4	2003
-Guzman, Eric	Sioux Falls Spitfire	F	3	129			0	0	2003
-Haynes, Michael	Sioux Falls Spitfire	D	15	1380		1	0	8	2003
-Hemenway, Jared	Sioux Falls Spitfire	M	1	7			0	0	2003
-Johnson, Chris	Sioux Falls Spitfire	F	12	443	2	1	11	6	2003
-Jones, Martin	Sioux Falls Spitfire	GK	17	1274			0	0	2003
-Joseph, Roger	Sioux Falls Spitfire	M	15	1046	1	1	11	14	2003
-Lascody, Douglas	Sioux Falls Spitfire		18	1330	4	2	46	35	2003
-Lee, Shawn	Sioux Falls Spitfire	D	16	1176		1	13	26	2003
-Levesque, James	Sioux Falls Spitfire	M	12	991	1	1	13	11	2003
-McCabe, Timothy	Sioux Falls Spitfire	M	10	408	1	1	5	3	2003
-Miech, Jesse	Sioux Falls Spitfire	GK	8	349			0	0	2003
-Nelson, Joel	Sioux Falls Spitfire		8	363	3	1	7	4	2003
-Newland, Brandon	Sioux Falls Spitfire	D	10	493			0	6	2003
-Newland, Brian	Sioux Falls Spitfire	D/M	17	1560	1		5	15	2003
-Norray, Kerry	Sioux Falls Spitfire						0	0	2003
-Ochoa, Bernabe	Sioux Falls Spitfire	M	16	833	3	5	13	5	2003
-Pederson, Brian	Sioux Falls Spitfire	D		4			0	0	2003
-Soyer, Tyler	Sioux Falls Spitfire	F	1	7			0	0	2003
-Tranchilla, Mike	Sioux Falls Spitfire	F	9	807	4	5	27	6	2003
-Veldhouse, Joel	Sioux Falls Spitfire	M	10	810	2	1	29	16	2003
-Watson, Jonathan	Sioux Falls Spitfire	D	18	1573	1	1	12	6	2003
-Wylie, Brandon	Sioux Falls Spitfire	F	16	940	4	2	36	6	2003
-Bohnsacker, Aaron	Wisconsin Rebels	GK	1	91			0	0	2003
-Bremberger, Adam	Wisconsin Rebels		5	217			0	0	2003
-Brisson, Christopher	Wisconsin Rebels	M	5	460			7	4	2003
-Chin, David	Wisconsin Rebels		12	1040		1	4	13	2003
-Connealy, Clint	Wisconsin Rebels	D					0	0	2003
-Doyle, Terrence	Wisconsin Rebels		16	1172			9	11	2003
-Dugandzic, Marko	Wisconsin Rebels						0	0	2003
-Dziatkiewicz, Stephen	Wisconsin Rebels		14	977		1	21	2	2003
-Fisher, Jason	Wisconsin Rebels						0	0	2003
-Furtsch, Trent	Wisconsin Rebels	D	7	644	1		12	0	2003
-Gehrt, Adam	Wisconsin Rebels		7	625			1	5	2003
-German, Joel	Wisconsin Rebels		8	661			7	12	2003
-Goerlitz, Noah	Wisconsin Rebels						0	0	2003
-Goines, Thomas	Wisconsin Rebels		14	384			0	3	2003
-Hanson, Eric	Wisconsin Rebels		8	619			0	0	2003
-Hyde, David	Wisconsin Rebels		10	921	1	1	2	8	2003
-Johnson, Jermaine	Wisconsin Rebels		10	738	1	2	3	6	2003
-Kobussen, Matthew	Wisconsin Rebels		1	90			0	0	2003
-Lish, Robert	Wisconsin Rebels		4	334	1		19	3	2003
-McCaughey, Cort	Wisconsin Rebels		15	1084			7	6	2003
-Merzlicker, Scott	Wisconsin Rebels		17	1525	1		17	15	2003
-Meyer, Jerad	Wisconsin Rebels		11	418		1	6	1	2003
-Miller, Nicholas	Wisconsin Rebels		9	519	1		1	4	2003
-Morrison, Jacob	Wisconsin Rebels		6	208	1		2	1	2003
-Romero, Carlos	Wisconsin Rebels		1	60	1	1	1	0	2003
-Sanchez, Eric	Wisconsin Rebels	F	14	940	1		9	10	2003
-Schmeeckle, Daniel	Wisconsin Rebels						0	0	2003
-Sillars, Kyle	Wisconsin Rebels		12	969	2		22	5	2003
-Spruell, Elliott	Wisconsin Rebels		2	20			0	0	2003
-Ubert, Adam	Wisconsin Rebels		9	751			0	0	2003
-Vollmer, Steve	Wisconsin Rebels		8	575			1	5	2003
-Wolin, Matthew	Wisconsin Rebels		2	43			0	0	2003
-Zenoni, Kyle	Wisconsin Rebels		7	637			10	14	2003
-Anstey, Matthew	Boulder Rapids Reserves	M	5	220			7	4	2003
-Bowman, Scott	Boulder Rapids Reserves	F	10	549	1		16	6	2003
-Burden, Keith	Boulder Rapids Reserves	D	1	103			0	4	2003
-Cashman, Audren	Boulder Rapids Reserves		6	358	1		4	8	2003
-C'Debaca, Robbie	Boulder Rapids Reserves		2	78			1	2	2003
-Cronkrite, Erik	Boulder Rapids Reserves	D	18	1648	2	3	30	14	2003
-Deacon, Craig	Boulder Rapids Reserves		7	160	1		1	5	2003
-Eriksen, Stian	Boulder Rapids Reserves		12	872	1	1	13	2	2003
-Fink, Roy	Boulder Rapids Reserves	F	14	1001	3	3	31	18	2003
-Folbrycht, Robert	Boulder Rapids Reserves	D	17	1590		3	12	28	2003
-Fonseca, Kirk	Boulder Rapids Reserves		1	55			0	1	2003
-Goodson, Clarence	Boulder Rapids Reserves		12	1030	1		9	12	2003
-Guante-Vasquez, Miguel	Boulder Rapids Reserves						0	0	2003
-Hartman, Nick	Boulder Rapids Reserves	M	10	532		1	4	7	2003
-Hobbs, Gavin	Boulder Rapids Reserves		7	243			2	5	2003
-Hutton, Martin	Boulder Rapids Reserves	GK	5	382			0	1	2003
-Janusz, Matthew	Boulder Rapids Reserves						0	0	2003
-Lampert, Joseph	Boulder Rapids Reserves	D	18	1616	3		17	18	2003
-Lowder, Justin	Boulder Rapids Reserves		4	321			0	6	2003
-McCausland, Matthew	Boulder Rapids Reserves	M	5	155			0	0	2003
-Merritt, Tim	Boulder Rapids Reserves	M	16	1400			6	14	2003
-Moss, Brandon	Boulder Rapids Reserves	D	3	264			0	2	2003
-Robles, Luis	Boulder Rapids Reserves	GK	14	1293			0	0	2003
-Ryan, Marcus	Boulder Rapids Reserves	M					0	0	2003
-Salazar, Alejandro	Boulder Rapids Reserves	F	4	316	2		6	4	2003
-Smith, Jarrod	Boulder Rapids Reserves	F	14	1033	9	1	29	24	2003
-Stevens, Benjamin	Boulder Rapids Reserves		3	21			0	0	2003
-Thompson, Abe	Boulder Rapids Reserves		4	223	1	1	14	1	2003
-Thompson, Jason	Boulder Rapids Reserves	M	4	240	1		7	9	2003
-Wagenfuhr, David	Boulder Rapids Reserves	M	14	1044	2	2	23	18	2003
-Wellen, Mark	Boulder Rapids Reserves	M	11	837			0	7	2003
-Wilson, Kevin	Boulder Rapids Reserves	D	9	761			1	9	2003
-Alberts, Jay	St. Louis Strikers	F	8	470	1		6	7	2003
-Bayne, Lethon	St. Louis Strikers	D	7	614	1	1	2	5	2003
-Bujarski, Stephen	St. Louis Strikers	M	5	256	1		6	4	2003
-Caution, Matthew	St. Louis Strikers	M	2	140	1	2	4	2	2003
-Costello, Ken	St. Louis Strikers	D	2	180			0	4	2003
-DiMaria, Jeffrey	St. Louis Strikers		5	469		2	4	6	2003
-Ernst, Chance	St. Louis Strikers		6	505			2	6	2003
-Evers, Matthew	St. Louis Strikers	GK	6	380	1		1	1	2003
-Fusz, Peter	St. Louis Strikers	M	1	20			0	0	2003
-Guffey, Daniel	St. Louis Strikers	D	6	330			3	1	2003
-Hoff, Matthew	St. Louis Strikers	F	7	470	1	1	12	6	2003
-Hopson, Kyle	St. Louis Strikers	M	15	1063	6	4	14	11	2003
-Ibisevic, Vedad	St. Louis Strikers	F	4	374	1	3	16	10	2003
-Kafedzic, Elvir	St. Louis Strikers	F	6	397	4	1	12	4	2003
-Kirchoff, Michael	St. Louis Strikers	M	12	1063	1		3	8	2003
-Kreamalmeyer, Luke	St. Louis Strikers		7	550	3	1	8	5	2003
-Lamping, John	St. Louis Strikers	D	15	1244		1	0	9	2003
-Matteson, Alex	St. Louis Strikers	F	6	509	1		2	7	2003
-McKee, Cooper	St. Louis Strikers	M	5	328		1	1	7	2003
-Pancio, Andrew	St. Louis Strikers		6	442		1	1	2	2003
-Pollard, Nicholas	St. Louis Strikers		11	1024			1	7	2003
-Pusateri, Andrew	St. Louis Strikers	M	6	535		1	1	4	2003
-Quattrocchi, Ian	St. Louis Strikers	F	16	1272	8	2	30	18	2003
-Quigley, Kevin	St. Louis Strikers	F	9	576	3	3	14	9	2003
-Rique, Addae	St. Louis Strikers	M	4	351			3	5	2003
-Robinson, Colin	St. Louis Strikers						0	0	2003
-Sa Freire, Thiago	St. Louis Strikers	M	1	45			1	0	2003
-Santel, Mark	St. Louis Strikers						0	0	2003
-Schreck, Joshua	St. Louis Strikers	GK	15	1367			0	1	2003
-Spiess, Casey	St. Louis Strikers	M	1	45			0	1	2003
-Stremlau, John	St. Louis Strikers		1	29			0	0	2003
-Thibodeau, Kevin	St. Louis Strikers	M	11	686			1	12	2003
-Ward, James	St. Louis Strikers		6	247		1	1	1	2003
-Zarzecki, Lee	St. Louis Strikers		10	889	2	2	12	14	2003
-Avren, Matthew	Raleigh CASL Elite		14	1001			9	9	2003
-Baltz, Richard	Raleigh CASL Elite	GK	6	252			1	1	2003
-Branch, Justin	Raleigh CASL Elite	D	18	1057	2	2	18	13	2003
-Brown, Matt	Raleigh CASL Elite	GK					0	0	2003
-Buehler, David	Raleigh CASL Elite	D	17	1552	3	2	15	21	2003
-Catlett, Chris	Raleigh CASL Elite	D	4	159			1	0	2003
-Currey, Adam	Raleigh CASL Elite	M	8	461			4		2003
-Deter, Ryan	Raleigh CASL Elite		6	234	2		6	0	2003
-Fortier, Michael	Raleigh CASL Elite	D					0	0	2003
-Fragakis, Michael	Raleigh CASL Elite	D	10	940			0	17	2003
-Fumo, Raymond	Raleigh CASL Elite	M	8	518	1		9	4	2003
-Hollinger, Stephen	Raleigh CASL Elite	D	11	951		1	1	6	2003
-Hughes, Justin S.	Raleigh CASL Elite		3	270			0	0	2003
-Izzo, John	Raleigh CASL Elite	M	17	1407	4	3	27	55	2003
-Maxwell, Benjamin	Raleigh CASL Elite		5	108			0	2	2003
-Moore, Matthew	Raleigh CASL Elite	M	4	75			0	0	2003
-Nicholson, Keith	Raleigh CASL Elite		1	19			1	0	2003
-Norbet, Chris	Raleigh CASL Elite	F	17	1366	7		45	10	2003
-Odgers, Edward	Raleigh CASL Elite	M	11	759			7	10	2003
-O'Neil, Bryan	Raleigh CASL Elite	D					0	0	2003
-Perfect, Chase	Raleigh CASL Elite	M	9	311	1		2	1	2003
-Porter, Grant	Raleigh CASL Elite		7	539			2	11	2003
-Sartorio, David	Raleigh CASL Elite						0	0	2003
-Schwartzenberger, Gregory	Raleigh CASL Elite	D	14	972			11	9	2003
-Shaughness, Mike	Raleigh CASL Elite	GK					0	0	2003
-Simms, Clyde	Raleigh CASL Elite	M	17	1327	2	1	33	8	2003
-Smith, Blake	Raleigh CASL Elite	M	2	115			1	1	2003
-Steuck, Chad	Raleigh CASL Elite	M	11	922			2	7	2003
-Williams, Crawford	Raleigh CASL Elite	GK	14	1273			0	0	2003
-Wisdo, Joel	Raleigh CASL Elite		15	1269			11	5	2003
-Ahmad, Ashraf	West Virginia Chaos	M	9	500			4	6	2003
-Anderhov, Andreas	West Virginia Chaos		7	451		1	6	4	2003
-Birkelbach, John	West Virginia Chaos	D/M	15	1198			4	10	2003
-Boukhemis, Karim	West Virginia Chaos	M/F	4	256	1		2	5	2003
-Bracher, Stuart	West Virginia Chaos	F	14	1240	5	5	32	28	2003
-Broyles, Mark	West Virginia Chaos						0	0	2003
-Burnworth, John	West Virginia Chaos	D/M	2	112			0	0	2003
-Chavolla, Benjamin	West Virginia Chaos	M/F	13	754	2		9	10	2003
-Cummons, Brandon	West Virginia Chaos	D	13	760	1		1	10	2003
-Dirou, Paul	West Virginia Chaos	D	15	1240			6	16	2003
-Freeman, Justin	West Virginia Chaos	D	15	1154			10	15	2003
-Harrison, Karry	West Virginia Chaos		10	553			1	1	2003
-Jenkins, Ryan	West Virginia Chaos	M/F	14	891	1	2	4	7	2003
-Johns, Joseph	West Virginia Chaos		7	300			2	2	2003
-Kehoe, Steven	West Virginia Chaos	D	16	1482			4	24	2003
-Lockney, Dustin	West Virginia Chaos	M	8	299			0	5	2003
-Maddox, Brad	West Virginia Chaos	M/F					0	0	2003
-McKinney, Christopher	West Virginia Chaos	GK	12	780			3	0	2003
-McKinney, Jeffrey	West Virginia Chaos		15	847			0	5	2003
-Mouratidis, Kosmas	West Virginia Chaos	M	13	814	1		5	12	2003
-Nebel, Joe	West Virginia Chaos	GK	6	472			0	0	2003
-Schubert, Hans	West Virginia Chaos	M	16	1383	1		19	14	2003
-Taskas, Carl	West Virginia Chaos	D	5	105	1		1	2	2003
-Ward, Evan	West Virginia Chaos	M					0	0	2003
-White, John	West Virginia Chaos	D	4	358			1	2	2003
-Whittaker, Thomas	West Virginia Chaos	M/F	15	1329	3	1	22	29	2003
-Young, Brian	West Virginia Chaos	M	9	632	1	2	5	5	2003
-Borel, Kurt	Chesapeake Dragons		9	706	2	3	20	12	2003
-Butler, Danny	Chesapeake Dragons	F	2	160			1	0	2003
-Carrizales, Marco	Chesapeake Dragons		11	910			10	18	2003
-Dello-Russo, Michael	Chesapeake Dragons		1	78			1	1	2003
-Dyer, Jon	Chesapeake Dragons		1	11			0	0	2003
-Dyer, Justin	Chesapeake Dragons		2	103			0	2	2003
-Emanuel, Steven	Chesapeake Dragons		13	735	2		12	15	2003
-Gable, Timothy	Chesapeake Dragons		13	965			2	9	2003
-Gaul, Justin	Chesapeake Dragons		8	728			0	0	2003
-Hale, Samuel	Chesapeake Dragons		10	475	1		9	11	2003
-Herrera, Angelo	Chesapeake Dragons						0	0	2003
-Hoeck, Stephen	Chesapeake Dragons		3	273			3	11	2003
-Hunte, Dia	Chesapeake Dragons		12	924	2	1	19	17	2003
-Kelly, Roy	Chesapeake Dragons		13	802			2	5	2003
-Lewis, Keston	Chesapeake Dragons		4	168			3	6	2003
-Lookingland, Michael	Chesapeake Dragons		12	1009		1	1	5	2003
-Mahon, Eric	Chesapeake Dragons		14	976			4	17	2003
-Marcantonio, Nino	Chesapeake Dragons		5	386	2	1	10	4	2003
-McEachron, Trevor	Chesapeake Dragons		13	1136		1	1	18	2003
-McElligott, Derek	Chesapeake Dragons		6	385	3	1	10	3	2003
-Mezzadra, Kevin	Chesapeake Dragons		3	265			3	0	2003
-Murphy, Mark	Chesapeake Dragons		10	795			0	1	2003
-Nastalski, Adam	Chesapeake Dragons		12	790	1		2	13	2003
-Parra, Carlos	Chesapeake Dragons		4	306			1	1	2003
-Philips, Derek	Chesapeake Dragons		5	399			6	9	2003
-Rodway, Ian	Chesapeake Dragons		8	642		1	11	8	2003
-Scarfield, Brendon	Chesapeake Dragons		1	40			1	0	2003
-Sharifaie, Poya	Chesapeake Dragons		3	93			0	1	2003
-Vitagliano, Bryan	Chesapeake Dragons		6	500	2		7	0	2003
-Wolcott, Brian	Chesapeake Dragons		9	415	2	1	5	2	2003
-Wood, Scott	Chesapeake Dragons		10	515	1		2	1	2003
-Bass, Joseph	Richmond Kickers Future	D	2	23			0	0	2003
-Butler, Andrew	Richmond Kickers Future	D	5	304			0	6	2003
-Cephas, McColm	Richmond Kickers Future	F	12	1007	8	1	47	15	2003
-Corrales, Armando	Richmond Kickers Future	M	14	916		2	4	15	2003
-Creasman, Bartley	Richmond Kickers Future	GK	4	270			0	0	2003
-Davies, Christopher	Richmond Kickers Future	M	11	669			6	12	2003
-Delicate, Matthew	Richmond Kickers Future	F	17	1387	15	2	41	9	2003
-Depcrynski, Andrew	Richmond Kickers Future	F	6	127			2	2	2003
-Djordjevic, Miloward	Richmond Kickers Future	D	4	380			4	8	2003
-Douglas, Stephen	Richmond Kickers Future	F	8	239	1	1	10	4	2003
-Ferriter, Daniel	Richmond Kickers Future	F	3	57			2	1	2003
-Fisher, Micah	Richmond Kickers Future	M	9	241			5	2	2003
-Garay-Ortega, Carlos	Richmond Kickers Future	M/F	12	1078	2	1	14	7	2003
-Greiner, Cory	Richmond Kickers Future	M	16	1227			6	18	2003
-Hare, Jeff	Richmond Kickers Future	D	13	1134	2	1	8	19	2003
-Hartman, John	Richmond Kickers Future	D	17	1496		2	11	28	2003
-Hignett, Chris	Richmond Kickers Future	M					0	0	2003
-Hill, Zane	Richmond Kickers Future	M	7	410	1	1	12	11	2003
-Hogan, Timothy	Richmond Kickers Future	GK	4	270			0	0	2003
-Knighton, Brad	Richmond Kickers Future	GK					0	0	2003
-Kurspahic, Mirza	Richmond Kickers Future	M	14	636	1		8	3	2003
-Logan, Michael	Richmond Kickers Future	D/M	7	168		2	1	5	2003
-Nall, Justin	Richmond Kickers Future	D	7	292			0	2	2003
-Neagu, Christian	Richmond Kickers Future	M/F	16	1468	3	1	17	25	2003
-O'Hara, John	Richmond Kickers Future	GK	12	1108			0	0	2003
-Pauls, Mathew	Richmond Kickers Future	M	16	1397	6	5	34	14	2003
-Swann, Ben	Richmond Kickers Future	D	7	219			0	8	2003
-Thelen, Scott	Richmond Kickers Future	M	5	404	1	1	6	10	2003
-Vidmar, Joseph	Richmond Kickers Future	D/M	12	965		3	6	10	2003
-Wolfe, Steven	Richmond Kickers Future	M/F	3	61		1	0	3	2003
-Albert, Graham	Williamsburg Legacy	M	18	1655	4	1	26	19	2003
-Brown, Arthur	Williamsburg Legacy	D	17	1458			13	18	2003
-Butler, Richard	Williamsburg Legacy	D	4	112		1	1	0	2003
-Connelly, John	Williamsburg Legacy	GK	8	593			0	0	2003
-Garcia-Dominguez, Carlos	Williamsburg Legacy	F	10	782	6	5	45	19	2003
-Hansen, Matthew	Williamsburg Legacy	D	3	64			0	1	2003
-Hinkle, Bryan	Williamsburg Legacy	M	17	1485	1		9	11	2003
-Howe, Charlie	Williamsburg Legacy	M	10	739			8	5	2003
-Kaila, Ian	Williamsburg Legacy	D	11	952			5	13	2003
-Madrid, Christopher	Williamsburg Legacy	M	7	159			0	5	2003
-Madrid, Justin	Williamsburg Legacy	M	8	149			1	3	2003
-Matute, Helmis	Williamsburg Legacy	M	16	1327		4	19	5	2003
-Nagle, George	Williamsburg Legacy						0	0	2003
-O'Brien, Robert (Bobby)	Williamsburg Legacy	F	16	1124	7	4	35	24	2003
-Palmer, Noah	Williamsburg Legacy	GK	13	1077			0	0	2003
-Radovanovic, Dusan	Williamsburg Legacy		5	375			2	8	2003
-Segares-Gonzalez, Gonzalo	Williamsburg Legacy	D	5	430		1	4	13	2003
-Shumate, Brian	Williamsburg Legacy	GK					0	0	2003
-Thomas, Brannon	Williamsburg Legacy	F	9	795	3	2	23	8	2003
-Ugarte-Palma, Randy	Williamsburg Legacy	M	6	492	1	1	29	13	2003
-Umana-Romero, Jose	Williamsburg Legacy	M	17	1509	3	3	12	16	2003
-Voss, Clayton	Williamsburg Legacy	M	17	1453	2		23	13	2003
-Wendell, Dane	Williamsburg Legacy	D	6	245			2	3	2003
-Wright, Robbie	Williamsburg Legacy	D	15	1338	7	2	26	18	2003
-Abraham, Rhett	Greenville Lions						0	0	2003
-Bilotta, Domenico	Greenville Lions	M	1	69			0	1	2003
-Branan, Brett	Greenville Lions	D	14	1188	1	1	6	15	2003
-Bringsved, Oskar	Greenville Lions		9	738	1		3	15	2003
-Brown, Kyle	Greenville Lions	D/M	3	243		1	3	3	2003
-Bruce, Haven	Greenville Lions	F	15	1095	7	2	29	20	2003
-Cronin, McNeil	Greenville Lions	D	9	820			2	13	2003
-Crotts, Walter Clay	Greenville Lions	M	2	64			0	1	2003
-Cutler, Kenny	Greenville Lions	M	10	800	1		3	5	2003
-Domenick, Matt	Greenville Lions	D	2	36			0	2	2003
-Ferriter, Michael	Greenville Lions	M	5	157			1	5	2003
-Gibson, Bradley	Greenville Lions	D/M	16	1443	2	2	19	20	2003
-Gilstrap, Richard Hunter	Greenville Lions	GK	6	547			0	0	2003
-Grigsby, Joey	Greenville Lions	M	15	1190	2		5	17	2003
-Hansell, James	Greenville Lions	F	15	754		1	16	20	2003
-Hoch, Scott	Greenville Lions	F	6	475	1	1	7	14	2003
-Kato, Hajime,	Greenville Lions	M	14	623			8	7	2003
-Lawler, Joseph	Greenville Lions	F	4	360	1		1	6	2003
-Lee Yaw, Jerome	Greenville Lions	F	2	180			2	2	2003
-Molina-Benito, Andrew	Greenville Lions	F	14	814	3	2	11	25	2003
-Moncrief, Brandon	Greenville Lions	D	8	565			2	14	2003
-Rafique, Samir	Greenville Lions	F	5	125			1	2	2003
-Roberts, Charles	Greenville Lions	F	4	260	1		9	6	2003
-Simonson, Chris	Greenville Lions	GK	2	171			0	0	2003
-Stovall, Anthony	Greenville Lions	M	12	809	1	1	16	11	2003
-Stovall, David	Greenville Lions	M	2	114			0	1	2003
-Tucker, Taylor	Greenville Lions	GK	11	873			0	0	2003
-Ulrich, Todd	Greenville Lions	D	10	602			1	14	2003
-Vacca-Bultrago, Diego	Greenville Lions	D	14	1128			2	25	2003
-Valesky, Andrew	Greenville Lions	D	2	20	1		1	1	2003
-Wood, Thomas	Greenville Lions	F					0	0	2003
-Armington, Nicholas	Cape Cod Crusaders	GK					0	0	2003
-Bonomo, Jeremy	Cape Cod Crusaders	D	10	633			1	3	2003
-Boudreau, Keith	Cape Cod Crusaders	GK	10	866			0	0	2003
-Brillant, Felix	Cape Cod Crusaders	F	9	417	1	1	3	7	2003
-Bulow, David	Cape Cod Crusaders	F	18	1321	15	3	53	18	2003
-Chase, Paul	Cape Cod Crusaders	D	13	1142	1	2	9	18	2003
-Chicco, Nicola	Cape Cod Crusaders	F	3	36	1		2	0	2003
-Flakes, Phillip	Cape Cod Crusaders	D	12	927			5	5	2003
-Lynch, Eoin	Cape Cod Crusaders	M/F	13	544	3	1	9	4	2003
-McNutt, Martin	Cape Cod Crusaders	D	6	443			2	6	2003
-Ncube, Thucanil	Cape Cod Crusaders	D/M	12	958		1	6	18	2003
-Ndlovu, Methembe	Cape Cod Crusaders	M	11	786		1	3	18	2003
-Ngwenya, Joseph	Cape Cod Crusaders	F	13	963	17	2	45	11	2003
-O'Reilly, John	Cape Cod Crusaders	D	5	401			1	1	2003
-Palguta, Scott	Cape Cod Crusaders	D	15	1336	2	1	7	15	2003
-Perkins, Troy	Cape Cod Crusaders	GK	8	760			0	0	2003
-Pfeifer, Adam	Cape Cod Crusaders	M/F	18	1312	7	2	27	16	2003
-Pilarski, Ian	Cape Cod Crusaders	D	17	1286	2	9	33	8	2003
-Quinn, Damien	Cape Cod Crusaders	D/M	10	879	3	2	9	14	2003
-Reuter, Steve	Cape Cod Crusaders	M	17	1256	5	1	25	15	2003
-Risley, Kenneth	Cape Cod Crusaders	D	4	301			0	2	2003
-Sharkey, Lee	Cape Cod Crusaders						0	0	2003
-Tornaritis, Anthony	Cape Cod Crusaders	M					0	0	2003
-Tornaritis, Nicholas	Cape Cod Crusaders	M	2	66			2	3	2003
-Vercollone, Luke	Cape Cod Crusaders	M	18	1609	5	5	25	24	2003
-Weber, Andrew	Cape Cod Crusaders	GK	1	34			0	0	2003
-Bajek, Gregory	Jersey Falcons		14	1072	2	5	10	5	2003
-Bak, Rafal	Jersey Falcons		10	828			1	0	2003
-Bodyziak, Majiec	Jersey Falcons	D	3	185			0	3	2003
-DeMartini, Matthew	Jersey Falcons	M/F	8	555			3	2	2003
-Gorgurewicz, Piotr	Jersey Falcons		13	822			8	8	2003
-Gula, Slawomir	Jersey Falcons		10	796	10	2	21	9	2003
-Halupka, Krzysztof	Jersey Falcons	D/M	17	1526			6	16	2003
-Janiczak, Wojciech	Jersey Falcons						0	0	2003
-Levinson, Nikolas	Jersey Falcons		3	270	1		6	1	2003
-Matlijoski, Goran	Jersey Falcons		3	199	2		5	0	2003
-McGowan, Ryan	Jersey Falcons		8	669	2		5	9	2003
-Mustac, Peterias	Jersey Falcons	M/F	10	880	4		19	15	2003
-Niziolek, Derik	Jersey Falcons	M/F	11	923	1	2	7	10	2003
-Niziolek, Teddy	Jersey Falcons		14	1247	1		9	5	2003
-Paluch, Marcin	Jersey Falcons		11	914			0	0	2003
-Serafin, Luke	Jersey Falcons	M	3	225			0	1	2003
-Stykala, Jaroslaw	Jersey Falcons	D	10	855			0	4	2003
-Swenda, Phillip (Phil)	Jersey Falcons	F	11	956	2	1	16	15	2003
-Szetela, Gregory	Jersey Falcons	D	6	396			3	8	2003
-Szuflita, Tomasz	Jersey Falcons		13	1133			3	15	2003
-Welham, Stephen	Jersey Falcons	GK					0	0	2003
-Wyciszkiewicz, Zbigniew	Jersey Falcons		1	90			0	4	2003
-Wygonik, Tomasz	Jersey Falcons	D	12	944	1		8	10	2003
-Zulic, Eldar	Jersey Falcons		17	1464		3	8	9	2003
-Annan, Gregg	Jersey Shore Boca	M					0	0	2003
-Annan-Tweh, Dan	Jersey Shore Boca	M	8	540	4	2	10	5	2003
-Ara, Kevin	Jersey Shore Boca	M	7	538	1	1	19	6	2003
-Auckland, Jared	Jersey Shore Boca	F					0	0	2003
-Carrozza, John	Jersey Shore Boca		7	511	1		13	10	2003
-Cottrell, Andrew	Jersey Shore Boca		8	585			0	3	2003
-Curtis, Adam	Jersey Shore Boca	D	9	828			3	13	2003
-David, John	Jersey Shore Boca	M	2	164	1		2	1	2003
-Davis, Jamie	Jersey Shore Boca	D	2	82			0	1	2003
-Decker, Edward	Jersey Shore Boca	D	10	927		1	1	19	2003
-Elliot, Christopher	Jersey Shore Boca	D					0	0	2003
-Gaven, James	Jersey Shore Boca		8	510			0	4	2003
-Gretton, Andrew	Jersey Shore Boca	GK	2	180			0	0	2003
-Hayes, Michael	Jersey Shore Boca	F	7	448	2	1	13	2	2003
-Howard, Mary Helen	Jersey Shore Boca	D/M					0	0	2003
-Kansu, Kemal	Jersey Shore Boca	F	5	243			6	6	2003
-Konopka, Chris	Jersey Shore Boca	GK					0	0	2003
-Kutney, Jason	Jersey Shore Boca	M	10	798			3	5	2003
-Lewis, Jared	Jersey Shore Boca	D	1	90			0	1	2003
-Masuhr, Kenneth	Jersey Shore Boca	M	1	45			0	0	2003
-Nelson, Jamie	Jersey Shore Boca	F	3	61			0	0	2003
-Pardo, Cristian	Jersey Shore Boca	D	1	90			0	1	2003
-Poznanski, Thomas	Jersey Shore Boca	M	9	478	3		12	2	2003
-Scheer, Richard	Jersey Shore Boca		1	90			0	0	2003
-Schneider, Ariel	Jersey Shore Boca	M	10	946	2	1	5	8	2003
-Severs, Chad	Jersey Shore Boca	F	4	394	3	1	8	1	2003
-Sthay, Adam	Jersey Shore Boca	GK	9	811			0	0	2003
-Tripicchio, Gianfranco	Jersey Shore Boca	M	6	523	1	2	6	10	2003
-Vasilakis, George	Jersey Shore Boca	GK	1	90			0	0	2003
-Vaudreuil, David	Jersey Shore Boca	D	12	1010	1	1	4	9	2003
-Woodley, Damien	Jersey Shore Boca	F	11	893	3		12	19	2003
-Benson, Mark	Vermont Voltage		5	352			3	11	2003
-Bronner, Corey	Vermont Voltage		5	142			2	2	2003
-DeZotell, Kyle	Vermont Voltage	M	13	588	2		9	7	2003
-Diallo, Thierno	Vermont Voltage		8	529			0	10	2003
-Ellsworth, Oliver	Vermont Voltage	M	11	622	1	2	12	11	2003
-Handy, Anthony	Vermont Voltage	GK					0	0	2003
-Hutchins, Ethan	Vermont Voltage	M	3	108			0	1	2003
-Obradovic, Srdjan	Vermont Voltage		8	622		1	5	10	2003
-Occean, Olivier	Vermont Voltage	F	17	1545	9	4	44	21	2003
-Olivieri, Andrew	Vermont Voltage	GK	15	1421			0	0	2003
-Popovic, Milenko	Vermont Voltage	M	10	916	1	5	11	16	2003
-Randall, Joseph	Vermont Voltage	D	11	328			0	8	2003
-Remey, Kofi	Vermont Voltage	M	17	1453	1		10	7	2003
-Riquelme-Gutierrez, Sergio	Vermont Voltage	D	2	46			0	2	2003
-Rusten, John	Vermont Voltage	D					0	0	2003
-Savaria, Mathieu	Vermont Voltage	D	16	1497		1	0	11	2003
-Self, Robert	Vermont Voltage		7	548	1	1	4	17	2003
-Simic, Bozidar	Vermont Voltage	D	17	1505	2	6	39	25	2003
-Sullivan, David	Vermont Voltage		2	200			0	0	2003
-Thompson, Geoff	Vermont Voltage		6	404	1	4	12	5	2003
-Tomaro, Paul	Vermont Voltage	D	16	1515			1	13	2003
-Vuckovic, Bojan	Vermont Voltage	D	17	1619	17	5	60	33	2003
-Vuckovic, Branko	Vermont Voltage	F	14	456	1		9	10	2003
-Wagner, Jason	Vermont Voltage	M	12	566			6	5	2003
-Zura, Christopher	Vermont Voltage	M	9	763			1	8	2003
-Antunes-Silva, Indalecio	Rhode Island Stingrays	M	14	1164	16	4	42	12	2003
-Boras, Matthew	Rhode Island Stingrays		1	4			0	0	2003
-Brito, Emanuel	Rhode Island Stingrays	M	17	1517	5	3	14	19	2003
-Carmona-Hoyas, Giovanni	Rhode Island Stingrays	M	9	280		2	1	4	2003
-De Pina-Rodrigues, Nathaniel	Rhode Island Stingrays	D	12	863			0	6	2003
-Fernandes, Carlos	Rhode Island Stingrays	F	18	1693	1		4	15	2003
-Fernandes, Narciso	Rhode Island Stingrays	F	17	1495	6	5	46	24	2003
-Figueiredo, Benjamin	Rhode Island Stingrays	M	9	384			2	12	2003
-Fortes, Miguel	Rhode Island Stingrays	D	9	643	2		4	11	2003
-Fortes-Lopes, Rui	Rhode Island Stingrays	M	6	498			3	8	2003
-Goldman, Matthew	Rhode Island Stingrays	D/M	10	769	1	2	2	4	2003
-Lopes, Cory	Rhode Island Stingrays						0	0	2003
-Mahoney, Peter	Rhode Island Stingrays	GK	15	1341			0	0	2003
-Napolitano, Chris	Rhode Island Stingrays	F	14	1206	11	3	27	12	2003
-Newman, Jeffrey	Rhode Island Stingrays	GK	5	400			0	0	2003
-Noyes, David	Rhode Island Stingrays	GK					0	0	2003
-Pereira, Michael	Rhode Island Stingrays		4	106	1		1	0	2003
-Perry, Brian	Rhode Island Stingrays		8	170	1	1	4	1	2003
-Petrarca, Anthony	Rhode Island Stingrays		17	1583	7	3	11	11	2003
-Romaneiro, Marcos	Rhode Island Stingrays	M/F	13	436	3	4	13	4	2003
-Ruddy, Dean	Rhode Island Stingrays						0	0	2003
-Teixeira, Valdemar	Rhode Island Stingrays	D/M	18	1614	4	3	14	21	2003
-Tobin, Zachary	Rhode Island Stingrays		16	1430		4	4	10	2003
-Villasenor, Alonso	Rhode Island Stingrays	M	8	641	1		5	8	2003
-Villasenor-Morales, Jose	Rhode Island Stingrays		6	351	1	3	1	3	2003
-Ward-Smith, Anthony	Rhode Island Stingrays						0	0	2003
-Ward-Smith, David	Rhode Island Stingrays		1	77		1	1	3	2003
-Albanese, Tim	Albany Blackwatch Highlanders						0	0	2003
-Barnard, Zachary	Albany Blackwatch Highlanders						0	0	2003
-Barnes, Devlin	Albany Blackwatch Highlanders		15	1370			0	20	2003
-Bennice, Chris	Albany Blackwatch Highlanders		11	520	1	1	3	9	2003
-Bochette, Nicholas	Albany Blackwatch Highlanders						0	0	2003
-Brooks, Matthew	Albany Blackwatch Highlanders		3	110			0	2	2003
-Burns, Colin	Albany Blackwatch Highlanders	GK	9	830			0	0	2003
-Cannon, Scott	Albany Blackwatch Highlanders	D	4	380			0	2	2003
-Chevalier, Greg	Albany Blackwatch Highlanders		18	1640	9	8	35	11	2003
-Chew, Matthew	Albany Blackwatch Highlanders		3	97			1	0	2003
-Cooke, Travis	Albany Blackwatch Highlanders		2	19			1	0	2003
-Cordeiro, Ryan	Albany Blackwatch Highlanders						0	0	2003
-Degnan, Bryan	Albany Blackwatch Highlanders		16	1434	1	1	7	8	2003
-Flaherty, Matthew	Albany Blackwatch Highlanders		12	757	2	1	9	2	2003
-Freeman, Steve	Albany Blackwatch Highlanders		12	904			0	6	2003
-Gersternberger, Paul	Albany Blackwatch Highlanders						0	0	2003
-Jones, Matt	Albany Blackwatch Highlanders		13	883		1	3	15	2003
-Knoll, Andrew	Albany Blackwatch Highlanders		5	164			0	2	2003
-Mabee, Jonathan	Albany Blackwatch Highlanders		10	664	4		10	3	2003
-McCallion, Michael	Albany Blackwatch Highlanders		4	225			1	6	2003
-Murray, Kenneth	Albany Blackwatch Highlanders		10	850		2	6	9	2003
-Popovich, Derek	Albany Blackwatch Highlanders		18	1543	9	1	27	27	2003
-Procknal, Steven	Albany Blackwatch Highlanders		17	1506	7	1	22	25	2003
-Purcell, Kevin	Albany Blackwatch Highlanders		3	139			1	5	2003
-Russell, Kevin	Albany Blackwatch Highlanders		1	90			0	0	2003
-Southworth, Nick	Albany Blackwatch Highlanders		18	1353	2	2	18	29	2003
-Sullivan, Matthew	Albany Blackwatch Highlanders	GK	9	810			0	0	2003
-Utter, Benjamin	Albany Blackwatch Highlanders		1	90			0	2	2003
-Vitale, Joseph	Albany Blackwatch Highlanders		3	29			0	0	2003
-Wren, Patrick	Albany Blackwatch Highlanders		17	1550	1		6	9	2003
-Bastidas, Vincent	South Jersey Barons		2	180	1		4	0	2003
-Carvalho-Teixeira, David	South Jersey Barons		8	280			1	1	2003
-Devlin, Brian	South Jersey Barons		16	1423	1		15	23	2003
-Franks, Jamie	South Jersey Barons	D	2	129	3		3	1	2003
-Haggerty, Patrick	South Jersey Barons		17	1550			2	9	2003
-Harvey, James	South Jersey Barons	D	7	579			0	4	2003
-Heins, Ryan	South Jersey Barons	F	7	289	4	1	10	2	2003
-Hertz, Guy	South Jersey Barons	GK	14	1236			0	1	2003
-Hickey, Patrick	South Jersey Barons	D/M	4	54			0	0	2003
-Holloway, Neil	South Jersey Barons	M	9	621	1		6	5	2003
-James, Harvey	South Jersey Barons	D	1	81			0	0	2003
-Jenks, Stephen	South Jersey Barons		10	177	1		1	2	2003
-Karcz, Christopher	South Jersey Barons	F	11	884	3	2	15	7	2003
-Kirk, Wesley	South Jersey Barons		12	1046	5	2	15	7	2003
-Kroculick, Stephen	South Jersey Barons		4	145	1		3	2	2003
-Landers, Jason	South Jersey Barons		4	224			0	0	2003
-Lucas, Matthew	South Jersey Barons	M/F	17	1345		1	2	9	2003
-Mingo, Ruben	South Jersey Barons	M	16	1094	9	3	26	16	2003
-O'Neil, Timothy	South Jersey Barons	M	15	1332	1		14	9	2003
-Poveda-Aray, William	South Jersey Barons						0	0	2003
-Quiah, Sargba	South Jersey Barons		4	189			3	2	2003
-Sadler, Justin	South Jersey Barons		7	513	3		11	6	2003
-Thompson, John	South Jersey Barons	D	17	1550			2	15	2003
-White, Erik	South Jersey Barons		5	470	2		7	1	2003
-Avakian, Jason	Worcester Kings	D	2	180			0	3	2003
-Baraybar, Diego	Worcester Kings		1	52			0	1	2003
-Bates, Evan	Worcester Kings	M	2	125			0	2	2003
-Bennett, Greg	Worcester Kings	D	1	58			0	1	2003
-Benoit, Markens	Worcester Kings	M	7	504	1	1	1	1	2003
-Burke, Brendan	Worcester Kings	D	10	918	3		6	8	2003
-Caldwell, Keith	Worcester Kings	M	12	966	4	1	12	6	2003
-Carroll, Joshua	Worcester Kings		1	90			0	1	2003
-Chernelki, James	Worcester Kings	M	2	42			0	1	2003
-Cochenour, Brian	Worcester Kings	D	13	965		1	1	8	2003
-Cole, Joshua	Worcester Kings	GK	7	630			0	0	2003
-Collins, Benjamin	Worcester Kings		10	691		1	9	8	2003
-Colwell, Daniel	Worcester Kings	M/F	3	256	1	1	3	2	2003
-Dimovski, Christopher	Worcester Kings	D	6	549			4	7	2003
-Doherty, Michael	Worcester Kings		9	828			0	0	2003
-Gosselin, Sean	Worcester Kings		7	611			3	9	2003
-Gula, Slawomir	Worcester Kings						0	0	2003
-Houle, Joshua	Worcester Kings	F	2	157			3	1	2003
-Jusczk, Glen	Worcester Kings	D	6	352			3	6	2003
-Keel, Stephen	Worcester Kings						0	0	2003
-Ketnouvong, Phonethip	Worcester Kings		1	333			0	2	2003
-Khalil, Ahmad	Worcester Kings	D	14	1077	1		2	10	2003
-Krause, John	Worcester Kings		9	817	1		8	11	2003
-Krause, Neil	Worcester Kings	F	8	718	4	1	16	9	2003
-Lumley-Smith, Tom	Worcester Kings	D	2	180			2	4	2003
-Macrury, Stuart	Worcester Kings	F	3	243	1		1	2	2003
-McElhaney, Bill	Worcester Kings	GK					0	0	2003
-McGuane, Daniel	Worcester Kings	F	2	48			0	1	2003
-McGuane, Peter	Worcester Kings	F	1	30			0	2	2003
-McMenamin, Kevin	Worcester Kings	F	6	123			1	0	2003
-Meir-Miranda, Alejandro	Worcester Kings		1	111			0	3	2003
-Parkhurst, Michael	Worcester Kings	D					0	0	2003
-Patramanis, Constantino	Worcester Kings	M	14	1048		3	3	9	2003
-Paye, Emmanuel	Worcester Kings	D	1	43			0	1	2003
-Paylor, Sean	Worcester Kings		6	424		1	4	2	2003
-Pietropinto, Claudio	Worcester Kings	F	10	509	2		3	8	2003
-Plumley, Brent	Worcester Kings		7	525	1	2	6	3	2003
-Smith, Thomas	Worcester Kings	D					0	0	2003
-Sniegoski, Ryan	Worcester Kings		5	303			3	2	2003
-Villatoro, Allan	Worcester Kings	F	13	907	2	2	21	6	2003
-Walker, Geofrey	Worcester Kings	M	7	551			5	12	2003
-Acquista, Alessandro	Brooklyn Knights	M	10	664			3	8	2003
-Afful, Joseph	Brooklyn Knights	D	14	1151	1	1	10	18	2003
-Aloisi, Christopher	Brooklyn Knights		10	879	1	1	4	11	2003
-Blair, Shannon	Brooklyn Knights	M	3	95			0	4	2003
-Borges, Andre	Brooklyn Knights	F	13	1164	12	2	30	6	2003
-Chambers, Rinaldo	Brooklyn Knights	F	12	820	7	3	25	9	2003
-Cila, Jordan	Brooklyn Knights		5	490	3	5	14	4	2003
-Corcoran, Chris	Brooklyn Knights	M	2	200	1	2	3	1	2003
-Drew, Padraig	Brooklyn Knights	D	3	233			5	2	2003
-Elcock, Edson	Brooklyn Knights	F					0	0	2003
-Fucci, Robert	Brooklyn Knights	D	10	903			0	12	2003
-Gaudette, William	Brooklyn Knights	GK	15	1378			0	0	2003
-Gil, Brian	Brooklyn Knights	GK	2	143			0	0	2003
-Gumbrecht, Matthias	Brooklyn Knights		2	101			0	0	2003
-Guren, Adam	Brooklyn Knights		10	450			2	3	2003
-Herman, Andrew	Brooklyn Knights						0	0	2003
-Hunt, James	Brooklyn Knights	D	1	110			0	0	2003
-Kramer, Daniel	Brooklyn Knights	M	10	534	1	1	7	7	2003
-Lefferts, Chris	Brooklyn Knights	D/M	15	937	2	4	12	5	2003
-Leidner, Chris	Brooklyn Knights	D	14	1122	1		7	7	2003
-Lesmes, Richard	Brooklyn Knights	F	7	283	2		6	8	2003
-Moncaleno, Carlos	Brooklyn Knights	M	11	613			3	7	2003
-Orantes, Pablo	Brooklyn Knights	D	10	929		1	1	4	2003
-Philippou, Robert	Brooklyn Knights	M					0	0	2003
-Schmid, Andre	Brooklyn Knights	F	5	297	2	1	10	6	2003
-Smart, Craig	Brooklyn Knights	F	11	862	9	4	20	10	2003
-Sullivan, Gary	Brooklyn Knights	M	16	1427	1	2	7	8	2003
-Wingert, Chris	Brooklyn Knights	D	12	1097	1	6	11	11	2003
-Buerger, Ben	Nashville Metros	M	18	1529	4	10	16	14	2003
-Burns, Charles	Nashville Metros	GK	7	587			0	0	2003
-Charnock, Brian	Nashville Metros	M	7	321	1		5	4	2003
-Chitapa, Tawanda	Nashville Metros	M	3	262			2	4	2003
-Cline, Joshua	Nashville Metros	M	7	174			0	1	2003
-Cobbs, Bradley	Nashville Metros	F	11	241			6	4	2003
-Devall, Danny	Nashville Metros	D/M	9	774	2	2	10	17	2003
-Dixon, Neal	Nashville Metros	D/M	8	587			1	6	2003
-Dos Santos, Mauricio	Nashville Metros	F	2	24			0	0	2003
-Gathany, Stephen	Nashville Metros	F	13	943	5	1	26	25	2003
-Hanger, Scott	Nashville Metros	M	16	1415		2	4	26	2003
-Hopkins, Paul	Nashville Metros	F	12	794	5	2	23	11	2003
-Kinturi, Pasi	Nashville Metros	M	8	385	2	2	16	3	2003
-Mattison, Landy	Nashville Metros	F	16	1393	5	6	22	20	2003
-McCallum, Thomas	Nashville Metros	D	15	1359			2	9	2003
-Murray, Stephen	Nashville Metros	M	17	1415	8	4	29	48	2003
-Parks, Michael	Nashville Metros	D	9	620			0	12	2003
-Phetivhok, Mark	Nashville Metros	M	15	1001	2	1	16	13	2003
-Robbins, Bryan	Nashville Metros	D	8	550		1	2	6	2003
-Roufs, Jason	Nashville Metros	F	6	332	1		4	10	2003
-Said, David	Nashville Metros		3	35			0	1	2003
-Sattler, Daryl	Nashville Metros	GK	10	862			0	0	2003
-Stjepic, Igor	Nashville Metros	M/F	7	364	1		3	11	2003
-Stubblefield, Jason	Nashville Metros	D	9	220	2	1	3	5	2003
-Suffron, Tyler	Nashville Metros	M	11	555			9	12	2003
-Troglen, Ryan	Nashville Metros	D	9	226			0	6	2003
-Wright, Brandon	Nashville Metros	F	8	607	2	1	16	14	2003
-Baytos, Brian	Memphis Express		3	256			0	0	2003
-Beck, Vincent	Memphis Express	D/M	14	1209		1	2	13	2003
-Browne, Clinton	Memphis Express	M	11	956	2		13	25	2003
-Burana, Greg	Memphis Express		1	2			0	0	2003
-Church, Russell	Memphis Express	M	11	879		2	6	10	2003
-Drain, Jimmy	Memphis Express	F	16	1026	1		4	23	2003
-Dyer, Justin	Memphis Express		15	663			2	7	2003
-Franklin, Mark	Memphis Express	D	9	699			4	23	2003
-Gibbs, Graham	Memphis Express	D	3	246			0	3	2003
-Hoorman, Ryan	Memphis Express	F	12	345	4	3	11	1	2003
-Ilari-Bonfico, Mariano	Memphis Express	F	17	1138	6	6	28	15	2003
-Keene, Richard	Memphis Express	D	11	469		1	8	8	2003
-Kuhn, Anthony	Memphis Express	F	14	1033	7	3	26	25	2003
-Laird, David	Memphis Express		13	970	1	2	16	9	2003
-Lewis, Stephen	Memphis Express	D	15	1304			0	9	2003
-McLynn, Ross	Memphis Express	D	16	1482			1	18	2003
-Medlock, Steven	Memphis Express		10	204	1		3	5	2003
-O'Brien, Dayton	Memphis Express	F	17	1512	12	9	33	19	2003
-Paule, Grant	Memphis Express	M	9	184			0	4	2003
-Ridenhour, David	Memphis Express	M	7	293			2	3	2003
-Schmidt, Chris	Memphis Express						0	0	2003
-Vecchio-Dezillo, Sebastian	Memphis Express	GK	15	1326			0	0	2003
-Vogel, Michael	Memphis Express	M	16	860	6	1	13	16	2003
-Aertker, Scott	New Orleans Shell Shockers	M	11	169	2		6	0	2003
-Barron, Andrew	New Orleans Shell Shockers	M	14	1094	5	3	30	6	2003
-Benjamin, Glenn	New Orleans Shell Shockers	M	16	1369	1	2	25	16	2003
-Butchard, Ian 	New Orleans Shell Shockers		1	21				0	2003
-Diaz, Eric	New Orleans Shell Shockers	F	7	323	2	1	12	12	2003
-Enamorado, Marco	New Orleans Shell Shockers	M	8	549	1		8	22	2003
-Ericson-Neilson, William	New Orleans Shell Shockers	D	2	95			0	2	2003
-Geraci, Dane	New Orleans Shell Shockers	GK	1	3			0	0	2003
-Gunn, Jeremy	New Orleans Shell Shockers	M	10	388			0	4	2003
-Hiebert, Garrett	New Orleans Shell Shockers	GK	16	1449			0	0	2003
-Hoey, Colin	New Orleans Shell Shockers	GK	1	90			0	0	2003
-Judice, Jeremy	New Orleans Shell Shockers	F	13	246	6	1	13	6	2003
-Lambert, Nick	New Orleans Shell Shockers	D	14	1101		2	9	21	2003
-Lopez, Jonas	New Orleans Shell Shockers	F	15	898	11		35	8	2003
-McAnespie, Stephen	New Orleans Shell Shockers	D	16	1452	1	1	5	8	2003
-Montero-Chinchilla, Martin	New Orleans Shell Shockers	M	11	646		1	5	13	2003
-Montz, Jared	New Orleans Shell Shockers	D	15	1073	1		6	16	2003
-Najarro, Roberto	New Orleans Shell Shockers	F	17	1285	9	6	48	12	2003
-Pate, Stephen	New Orleans Shell Shockers	M	17	1501	5	7	30	17	2003
-Reyes, Luis	New Orleans Shell Shockers	M	5	182			1	1	2003
-Rocke, Colin	New Orleans Shell Shockers	D	12	993		2	5	12	2003
-Sommers, David	New Orleans Shell Shockers		3	109	1		5	2	2003
-Steen, Casey	New Orleans Shell Shockers	M	2	36			0	0	2003
-Viquez-Gonzalez, Kenneth	New Orleans Shell Shockers	F	5	198	3	1	7	2	2003
-Webb, Gannon	New Orleans Shell Shockers	D	17	1536		1	3	17	2003
-Wilson, William	New Orleans Shell Shockers	M	4	36			0	0	2003
-Ambrose, Stephen	Texas Spurs		11	515	2	1	6	4	2003
-Blackburn, Michael	Texas Spurs		11	663	2		12	5	2003
-Bragg, Richard	Texas Spurs		13	1009			4	13	2003
-Brown, Kyle (2)	Texas Spurs		3	256			5	6	2003
-Clark, Matthew	Texas Spurs	M	18	1543	13	6	40	12	2003
-Da Silva, Antonio	Texas Spurs		8	620	2	1	7	11	2003
-Florance, David	Texas Spurs		1	34			0	0	2003
-Fray, Tafaria	Texas Spurs	M/F	3	268	2	2	6	4	2003
-Freeman, Hunter	Texas Spurs		9	702	1		7	13	2003
-Gall, John	Texas Spurs	M	10	844		4	11	15	2003
-Garcia-Garcia, Fernando	Texas Spurs	M	8	490	2		11	4	2003
-Gibson, Torrence	Texas Spurs	D/M	18	1670	2		5	22	2003
-Hammett, Robert	Texas Spurs	D	14	1186			2	10	2003
-Heasley, Lucas	Texas Spurs	GK	9	494			0	4	2003
-Johnston, Jeff	Texas Spurs	F	7	592	1		10	9	2003
-King, Clay	Texas Spurs		14	812	5	2	15	14	2003
-Latham, Ryan	Texas Spurs		4	202	1	1	9	3	2003
-Lonergran, Tim	Texas Spurs		4	111			0	8	2003
-Louis, Peter	Texas Spurs		3	63			1	2	2003
-Martin-Romero, David	Texas Spurs		10	531	1	3	9	9	2003
-Morrell, John	Texas Spurs		8	509			1	16	2003
-Pampillonia, Anthony	Texas Spurs	M	7	640		1	0	14	2003
-Press, Jerry	Texas Spurs	M	14	1076	3		11	21	2003
-Schell, Dominic	Texas Spurs	M					0	0	2003
-Smith, Chad	Texas Spurs		16	1406	2	2	19	25	2003
-Tamporello, Sammy	Texas Spurs		2	18			0	1	2003
-Terry, Kevin	Texas Spurs		3	124	1		3	0	2003
-Tomasso, Thomas	Texas Spurs		2	137			0	0	2003
-Waggoner, Joseph	Texas Spurs	GK	14	1230			0	1	2003
-Zindel, Kellan	Texas Spurs		8	574	4	2	24	13	2003
-Acosta-Sevilla, Wilson	Houston Toros	M	9	482			7	3	2003
-Anderson, Paul	Houston Toros	GK	10	895			0	0	2003
-Ashiofu, Anthony	Houston Toros		4	309			4	2	2003
-Ban, Shota	Houston Toros	D	6	538			0	6	2003
-Beasley, Daniel	Houston Toros	D	11	988	1	2	5	6	2003
-Bonilla-Amaya, Nelson	Houston Toros		5	315			1	3	2003
-Branham, Michael	Houston Toros	GK	3	118			0	0	2003
-Bujano, Chad	Houston Toros		13	1033		1	3	12	2003
-Castilla-Botia, Sebastian	Houston Toros		3	196		1	2	1	2003
-Castillo, Mirko	Houston Toros	F	3	197			0	0	2003
-Chavez, Christian	Houston Toros		5	244			0	2	2003
-Daniele, Andrew	Houston Toros		5	468			2	3	2003
-Davila-Alonso, Raul	Houston Toros		2	167			1	0	2003
-Diaz-Granados, Ricardo	Houston Toros		4	335	1	1	4	1	2003
-Duran-Lizardi, Ramon	Houston Toros	D	13	1091			0	5	2003
-Frias-Garza, Jesus	Houston Toros		12	819	1		8	5	2003
-Futrell, Mark	Houston Toros		4	334			2	2	2003
-Galo-Guerara, Roger	Houston Toros	F	1	90			0	0	2003
-Gardner, Joshua	Houston Toros		5	458	2		15	2	2003
-Giraldo, Jonathan	Houston Toros	M	13	922	1	1	5	9	2003
-Kinney, Zacry	Houston Toros	M	2	165			0	2	2003
-Lafuente, Stefano	Houston Toros		13	816	4	1	9	7	2003
-Martinez, Eric	Houston Toros	M	7	485	1	1	12	3	2003
-Mustapha, Mohamed	Houston Toros	F	9	827	3	1	17	8	2003
-North, Joseph	Houston Toros						0	0	2003
-Olvera-Sanchez, Luis	Houston Toros	M	4	197			1	5	2003
-Richard, Brent	Houston Toros		2	135			1	0	2003
-Rivera-Rivera, Mauricio	Houston Toros		9	688	1		5	1	2003
-Robertson, James	Houston Toros	D	6	525	1	1	4	5	2003
-Soto, Javier	Houston Toros		8	455	2	2	6	1	2003
-Tendende, Mpoki	Houston Toros		1	40			1	2	2003
-Torrez, Edwim	Houston Toros		3	246			0	0	2003
-Uwaifo, Osagie	Houston Toros		3	179		1	0	0	2003
-Vazquez-Flores, Jose	Houston Toros		10	793	1		1	7	2003
-Amaya, Wilbert	Louisiana Outlaws	M					0	0	2003
-Angelle, Justin	Louisiana Outlaws		14	903	2	2	26	15	2003
-Austin, Christopher	Louisiana Outlaws		6	542	1		2	10	2003
-Barrett, Tom	Louisiana Outlaws	D	1	45			0	1	2003
-Bennett, Jonathan	Louisiana Outlaws	GK	1	32			0	0	2003
-Bokol, Daniel	Louisiana Outlaws		2	126			1	3	2003
-Bronars, Joshua	Louisiana Outlaws		3	191			0	0	2003
-Brown, Beau	Louisiana Outlaws	F	9	726		1	4	2	2003
-Brunet, Jonathan	Louisiana Outlaws		10	737	1	4	9	14	2003
-Caldwell, Martin	Louisiana Outlaws		3	149			1	0	2003
-Carrier, Jeffrey	Louisiana Outlaws		7	648			2	8	2003
-Croisant, John	Louisiana Outlaws	D	9	471			1	5	2003
-Delcambre, Dustin	Louisiana Outlaws		2	127			2	2	2003
-Fung, Chris	Louisiana Outlaws		4	360			1	1	2003
-Gill, Steven	Louisiana Outlaws		2	180			2	6	2003
-Goodloe, John	Louisiana Outlaws		18	1614			3	6	2003
-Horton, David	Louisiana Outlaws		14	768			9	4	2003
-Jackson, Ellis	Louisiana Outlaws		16	949		1	3	15	2003
-Millet, Mathew	Louisiana Outlaws	M	4	324			4	6	2003
-Moffat, Anthony	Louisiana Outlaws		10	876	6	4	28	17	2003
-Pastor, Javier	Louisiana Outlaws		11	1014			0	0	2003
-Pickard, Michael	Louisiana Outlaws		15	1390	7	1	40	12	2003
-Rebuck, Daniel	Louisiana Outlaws	F	4	362	1	2	3	4	2003
-Roberts, Benjamin	Louisiana Outlaws						0	0	2003
-Samol, Brian	Louisiana Outlaws		6	455			0	0	2003
-Senecal, Thomas	Louisiana Outlaws		8	758	1		5	13	2003
-Southard, Tor	Louisiana Outlaws		12	1035	1	2	8	14	2003
-Todd, Curtis	Louisiana Outlaws		8	321			1	1	2003
-Vadrine, Josh	Louisiana Outlaws	F	7	364			3	7	2003
-Veselka, Chris	Louisiana Outlaws	M	4	342	1		11	4	2003
-Wainwright, Daniel	Louisiana Outlaws		10	407			1	3	2003
-Young, Jason	Louisiana Outlaws		17	1568			1	8	2003
-Aguirre, Norvet	Austin Lightning	F	2	132			0	0	2003
-Baizabal-Vazquez, Alberto	Austin Lightning	D	8	602	1	2	9	5	2003
-Barnett, Christopher	Austin Lightning	D/M	16	1433	1		4	19	2003
-Brooks, John	Austin Lightning	D/M	11	722			4	11	2003
-Bueno-Bermudez, Johnny	Austin Lightning		8	555			3	7	2003
-Chandler, Jared	Austin Lightning	M	18	1394	2		10	14	2003
-Collins, Conor	Austin Lightning		13	1052	2		23	19	2003
-Contie, Douglas	Austin Lightning	M	2	180		1	10	5	2003
-Cruz, Juan	Austin Lightning	D	10	543	1		5	3	2003
-Cuero, Diego	Austin Lightning	M	16	977	3		31	16	2003
-Galicia-Resendiz, Juan	Austin Lightning	M	13	407	1		9	5	2003
-Gallardo-Aparicio, Miguel	Austin Lightning	GK	17	1501			0	0	2003
-Handy, Allen	Austin Lightning	D	17	1451			9	13	2003
-Handy, Chris	Austin Lightning	D	4	68			4	1	2003
-Katunaric, Mitch	Austin Lightning	F	4	225		1	1	5	2003
-Lucke, Jonathan	Austin Lightning	M	5	309	1	1	0	1	2003
-Michaud, Justin	Austin Lightning	GK					0	0	2003
-Muller, David	Austin Lightning	F	7	484	3		9	1	2003
-Olivera-Montes, Mario	Austin Lightning	M	11	407			8	5	2003
-Osbon, Clint	Austin Lightning	M	12	926			2	8	2003
-Pettit, Joel	Austin Lightning	F	6	118			1	2	2003
-Rhyne, Stephen	Austin Lightning	M/F	15	1309	9	6	39	8	2003
-Toman, Jason	Austin Lightning	GK	2	36			2	0	2003
-Uriarte, Jon	Austin Lightning	M	15	1190	3	2	22	21	2003
-Uriarte, Marcelino	Austin Lightning	M	10	881	2	5	16	20	2003
-Vazquez, Arturo	Austin Lightning		1	32			0	1	2003
-Veselka, Chris	Austin Lightning	M	5	390	2	2	12	5	2003
-Benavides, Carlos	Palm Beach Pumas		13	1077			0	0	2003
-Donev, Miljce	Palm Beach Pumas	M	3	51			0	0	2003
-Garrambone, Derek	Palm Beach Pumas	D	10	763			4	2	2003
-Garrambone, Scot	Palm Beach Pumas	F	8	236			1	1	2003
-Gil-Alzate, Oscar	Palm Beach Pumas	F	9	521	3	3	1	2	2003
-Kephart, Jeremy	Palm Beach Pumas		10	539			1	3	2003
-Kolba, JR., Thoms	Palm Beach Pumas		7	612			0	0	2003
-Lennon, Robert	Palm Beach Pumas		3	203			0	3	2003
-Logan, Christopher	Palm Beach Pumas		5	218			0	0	2003
-Mankowski, Jesse	Palm Beach Pumas		13	1092	6	3	15	6	2003
-Marvin, Kyle	Palm Beach Pumas		11	554			1	1	2003
-Meijia, Mauricio	Palm Beach Pumas		13	1127		1	1	5	2003
-Myers, Ptah	Palm Beach Pumas		8	662	1		1	1	2003
-Parker, Adam	Palm Beach Pumas		14	1260	1		1	6	2003
-Poveda-Aray, William	Palm Beach Pumas		3	174	2		3	1	2003
-Raduka, Mark	Palm Beach Pumas		4	89			0	0	2003
-Rios-Velez, Jonathan	Palm Beach Pumas		12	995	2	3	3	5	2003
-Rooney, Jim	Palm Beach Pumas	F					0	0	2003
-Strunk, Jeffrey	Palm Beach Pumas	D	8	524		1	0	0	2003
-Thomas, Benjamin	Palm Beach Pumas		4	380			0	2	2003
-Thompson, Geoffrey	Palm Beach Pumas	D	8	557	4	1	0	1	2003
-Tolar, Matt	Palm Beach Pumas		5	287			0	1	2003
-Warner, Byron	Palm Beach Pumas	M	4	380			0	2	2003
-Whitmore, Christopher	Palm Beach Pumas		7	360			0	1	2003
-Ambrosio, Frank	Central Florida Kraze		11	540	1	2	5	2	2003
-Barreto-Ruiz, Mauricio	Central Florida Kraze						0	0	2003
-Bender, Travis	Central Florida Kraze	D	4	281			0	3	2003
-De Gregory, Kamal	Central Florida Kraze		7	475			1	4	2003
-Dodds, Ryan	Central Florida Kraze	F					0	0	2003
-Dwyer, David	Central Florida Kraze	D					0	0	2003
-Gay, James	Central Florida Kraze		12	811	2		3	11	2003
-Hartmann, Ryan	Central Florida Kraze	D/M	7	498	1	1	0	3	2003
-Judino, William	Central Florida Kraze	F	4	253	1		3	2	2003
-Kays, Chad	Central Florida Kraze	F	2	200			1	3	2003
-Levy, Rodney	Central Florida Kraze	D/M	11	626	1		1	2	2003
-Litchford, Chris	Central Florida Kraze	GK	3	113			0	0	2003
-Loch, Emil	Central Florida Kraze		7	135			0	1	2003
-Mackey, David	Central Florida Kraze	D	8	595			0	1	2003
-Martins-DeSousa, Hugo	Central Florida Kraze	F	5	412	4	1	4	4	2003
-Meert, Christopher	Central Florida Kraze		11	840			0	0	2003
-Menard, Francois Didier	Central Florida Kraze	GK	4	290			0	0	2003
-Metrius, Darick	Central Florida Kraze	M	9	632	3	3	4	5	2003
-Nix, Timothy	Central Florida Kraze	F	7	107	1		2	0	2003
-Philip-Wales, Clifton	Central Florida Kraze	F	14	1172	10	2	10	2	2003
-Piesner, Brian	Central Florida Kraze	M	5	338			4	2	2003
-Pittman, Jamara	Central Florida Kraze	D	11	896	1		1	5	2003
-Potts, Joseph	Central Florida Kraze		4	308		1	1	4	2003
-Ruiz, Mauricio	Central Florida Kraze		1	1			0	0	2003
-Santiago, Anthony	Central Florida Kraze	D	11	534	1		1	1	2003
-Sargeant, Sherwin	Central Florida Kraze	D	10	795		1	4	4	2003
-Smith, Matt	Central Florida Kraze		9	224	2		3	2	2003
-Steed, Sean	Central Florida Kraze		10	833	1		2	5	2003
-Toro, Mauricio	Central Florida Kraze	M	4	368			1	3	2003
-Vasquez, Eric	Central Florida Kraze	M	10	832	3	6	5	7	2003
-Amato, Anthony	Cocoa Expos		6	520	2		4	2	2003
-Atkinson, David	Cocoa Expos	M	2	136	4		6	1	2003
-Balc, Adrian	Cocoa Expos		12	683	6		20	7	2003
-Balkanloo, Matthew	Cocoa Expos		9	733			0	0	2003
-Bigham, Daniel	Cocoa Expos		14	1245			3	14	2003
-Broxup, Daniel	Cocoa Expos		1	60			5	0	2003
-Bull, Liam	Cocoa Expos		7	440			0	0	2003
-Carrigan, Michael	Cocoa Expos		4	219	1		4	2	2003
-Chan, Robin	Cocoa Expos	M					0	0	2003
-Chisoni, Mubarike	Cocoa Expos		13	1079	13	2	23	12	2003
-Coker, Olufolahanmi	Cocoa Expos						0	0	2003
-Collins, Peter	Cocoa Expos	D	13	1132	1	1	5	6	2003
-Collins, Sean	Cocoa Expos						0	0	2003
-Danella, Matthew	Cocoa Expos		10	393			3	7	2003
-Delgado, Xavier Andres	Cocoa Expos		6	494	1	1	4	5	2003
-DeVito, Greg	Cocoa Expos		10	807		1	2	7	2003
-Fochler, Ingo	Cocoa Expos		7	564		3	3	2	2003
-Freeman, Steve (1)	Cocoa Expos	M	3	225	3		8	1	2003
-Gabe, Zachary	Cocoa Expos	M					0	0	2003
-Gowan, Matthew	Cocoa Expos		3	91			1	1	2003
-Guinn, David	Cocoa Expos		5	400			1	2	2003
-Hitchen, Peter	Cocoa Expos		2	118			0	0	2003
-Holstein, Robert	Cocoa Expos		7	306	2		3	2	2003
-Lundy, Brian	Cocoa Expos						0	0	2003
-McGrory, Declain	Cocoa Expos		10	483	1		8	9	2003
-Middaugh, Stephen	Cocoa Expos						0	0	2003
-Phillips, James	Cocoa Expos		3	232			4	3	2003
-Pondwa, Itayi	Cocoa Expos		11	941	1	1	5	8	2003
-Queen, Warren	Cocoa Expos		2	55			2	1	2003
-Riegler, Jason	Cocoa Expos		4	253			2	2	2003
-Rugaiganisa, Andrew	Cocoa Expos		3	132			1	0	2003
-Schultz, Adam	Cocoa Expos		6	560	1		1	3	2003
-Scully, Michael	Cocoa Expos		1	90			3	2	2003
-Shibly, Gabriel-Marin	Cocoa Expos		4	72			0	0	2003
-Smeraglinolo, Jeff	Cocoa Expos						0	0	2003
-Smith, Steve	Cocoa Expos						0	0	2003
-Sypura, Andrew	Cocoa Expos		6	404			2	7	2003
-Venn, Sappia	Cocoa Expos						0	0	2003
-Watkins, Kevan	Cocoa Expos	M	4	275			0	2	2003
-Welch, Andrew	Cocoa Expos	M	1	90			0	0	2003
-Alden-Dunn, Miles	Bradenton Academics	M	1	90			0	0	2003
-Bartholomew, Arthur	Bradenton Academics	M	7	448		1	4	2	2003
-Britton, Jonathan	Bradenton Academics	D	6	294	1	1	5	1	2003
-Burns, Kevin	Bradenton Academics	M	13	1005	2	2	5	3	2003
-Calligaris, Billy	Bradenton Academics	F	13	623	2		13	13	2003
-De Sousa, Heverton	Bradenton Academics		7	509	3	1	17	14	2003
-Dowdell, Rory	Bradenton Academics	D	11	766	2		3	5	2003
-Downs, Jacob	Bradenton Academics	M	6	252		1	2	2	2003
-Elder, Corwin	Bradenton Academics	D					0	0	2003
-Graham, John (Stash)	Bradenton Academics	GK	6	540			0	0	2003
-Herman, Andrew	Bradenton Academics	D					0	0	2003
-Humphrey, Robert	Bradenton Academics		12	846	2	2	6	7	2003
-Jefferson-Dow, Benjamin	Bradenton Academics	F	2	92			0	2	2003
-Keel, Stephen	Bradenton Academics		6	155	1	2	3	1	2003
-Kroll, Andrew	Bradenton Academics	GK					0	0	2003
-Mahoney, David	Bradenton Academics	GK	9	890			0	0	2003
-Morsink, Kurt	Bradenton Academics	D	11	916	1		5	10	2003
-Parkhurst, Michael	Bradenton Academics	D	10	882	2	1	11	8	2003
-Pearce, Heath	Bradenton Academics	D	11	1005	1	1	12	5	2003
-Ramos, Jose Roberto	Bradenton Academics	F	8	540	3		5	9	2003
-Rosinsky, Robert	Bradenton Academics	F	7	341	2	1	5	2	2003
-Sheldon, Nolan	Bradenton Academics	D	1	90	1		0	0	2003
-Stellberger, Dawson	Bradenton Academics	D	8	490			1	5	2003
-Tenn-McClellan, Asher	Bradenton Academics	D	5	219			0	2	2003
-Thompson, Matthew	Bradenton Academics	D	9	761			0	8	2003
-Trowbridge, Justin	Bradenton Academics	GK					0	0	2003
-Villalobos, Luis	Bradenton Academics	M	8	340	1		0	5	2003
-Vinciguerra, Bradley	Bradenton Academics	F	6	454	2		7	11	2003
-Vock, Jared	Bradenton Academics	M	8	745			1	8	2003
-Wyrick, David	Bradenton Academics	D	8	398	1	1	2	3	2003
-Allen, Jacob	Cascade Surge	M	8	441			1	4	2003
-Andrade-Taffolla, Isidro	Cascade Surge	F	6	454			2	8	2003
-Boehne, Brian	Cascade Surge	M	5	199			0	2	2003
-Boss, Terry	Cascade Surge	GK	9	834			0	0	2003
-Breen, Erin	Cascade Surge	D	17	1276	2	1	2	20	2003
-Camarena-Corzo, Enrique	Cascade Surge	F	15	1205	5	7	24	23	2003
-Chavez, Mauricio	Cascade Surge	M	14	1204	7	2	15	20	2003
-Chighizola, Sean	Cascade Surge	D	12	1072			5	17	2003
-Cook, Nathanael	Cascade Surge	D	3	161			0	2	2003
-Curley, Kevin	Cascade Surge	D	16	1107	1		3	15	2003
-Daka, Patrick	Cascade Surge	F	18	1445	6	4	35	23	2003
-Dasher, Shane	Cascade Surge	D	2	62		1	0	2	2003
-Esquvivel, Julian	Cascade Surge	M	6	76			0	1	2003
-Gorski, Ryszard	Cascade Surge	GK	10	800			0	0	2003
-Holbrook, Dustin	Cascade Surge	M	11	572			2	8	2003
-Iheroronye, Ezzy	Cascade Surge	D	3	188			0	2	2003
-Kos, Vaso	Cascade Surge	D	7	683			2	4	2003
-Madigan, Casey	Cascade Surge	M	16	817		1	3	7	2003
-McClellan, Ryan	Cascade Surge	M	10	717			2	6	2003
-McCool, Taylor	Cascade Surge	M	16	1223	1		8	18	2003
-Medel, Sergio	Cascade Surge	M					0	0	2003
-Myles, Graham	Cascade Surge		1	90			0	0	2003
-Pohle, Jesse	Cascade Surge		2	87			1	1	2003
-Reyes, Vincente	Cascade Surge	M	5	265			1	0	2003
-Sanchez, Ricardo	Cascade Surge	F	16	1166	3	5	22	21	2003
-Sanchez Jr., Demetrio	Cascade Surge	D	16	1263	5	2	17	14	2003
-Weber, Brandon	Cascade Surge	GK	1	90			0	0	2003
-Amahzion, Fikrejesus	Calgary Storm Prospects 	M	12	1029	1	1	13	20	2003
-Bahia, Kashmir	Calgary Storm Prospects 		12	1021			2	4	2003
-Deeprose, Matthew	Calgary Storm Prospects 		8	720			2	17	2003
-Flannery, Troy	Calgary Storm Prospects 	F					0	0	2003
-Gareau, Dwayne	Calgary Storm Prospects 	M	12	1090	1		7	21	2003
-Garritty, Brendan	Calgary Storm Prospects 	M	10	902	3	1	6	12	2003
-Gilchrist, Steve	Calgary Storm Prospects 						0	0	2003
-John, Cecil	Calgary Storm Prospects 	M	7	540	1		1	9	2003
-Jovica, Allen	Calgary Storm Prospects 		1	80			0	1	2003
-Kuhn, Erik	Calgary Storm Prospects 	D	2	75			0	0	2003
-Ludtke, Clint	Calgary Storm Prospects 	F	10	371			1	5	2003
-McDermott, Brett	Calgary Storm Prospects 	GK	12	1100			0	0	2003
-Nielsen, Danny	Calgary Storm Prospects 	M	10	854			1	3	2003
-Onulov, Adam	Calgary Storm Prospects 	D	12	1077			1	17	2003
-Panik, Jeff	Calgary Storm Prospects 	D	5	171			1	3	2003
-Paszkowski, Konrad	Calgary Storm Prospects 	D	11	916	4	1	11	9	2003
-Pollock, Adam	Calgary Storm Prospects 	D	8	512			1	4	2003
-Prime, Amilcar	Calgary Storm Prospects 	D	12	798		2	2	9	2003
-Taylor, Fredric	Calgary Storm Prospects 	D	8	355			1	3	2003
-Taylor, Tim	Calgary Storm Prospects 		4	308	3		4	1	2003
-Torres, Ronny	Calgary Storm Prospects 	M	3	78			0	0	2003
-Tse, Justin	Calgary Storm Prospects 	D	2	28			0	2	2003
-Atencio, Christian	Yakima Reds	M	5	286	2	1	3	3	2003
-Auckland, Jared	Yakima Reds	F	16	1339	11	3	46	23	2003
-Auckland, Jordan	Yakima Reds	M	3	156	1	1	3	5	2003
-Barajas-Partida, Eder	Yakima Reds	M	12	1054			4	10	2003
-Calderon-Castro, Victor	Yakima Reds	D	4	149	1		1	3	2003
-Delo, Ryan	Yakima Reds	F	9	800	1	1	10	12	2003
-Esterhuizen, Hans	Yakima Reds	D	14	1269			2	24	2003
-Franco-Cobaleda, Eric	Yakima Reds	F	1	2			0	0	2003
-Lane, Jeff	Yakima Reds	M	14	1151	4	2	16	14	2003
-Licht, Jesse	Yakima Reds						0	0	2003
-Lopez-Ayala, Angel	Yakima Reds						0	0	2003
-Machado, Luiz Marcelo	Yakima Reds	F	4	101			2	0	2003
-Masaki, Nishijyo	Yakima Reds		3	26		1	1	0	2003
-Rhoads, Jacob	Yakima Reds	GK	5	406			0	0	2003
-Rivera-Valdovinos, Santa Maria	Yakima Reds	M	9	785	2		10	14	2003
-Roberts, Tyler	Yakima Reds	F	14	1280			0	18	2003
-Rojas, Alonso	Yakima Reds	F	8	398			2	1	2003
-Rojas, Raymundo	Yakima Reds	D/F	10	372			6	1	2003
-Sardon, Anthony	Yakima Reds		6	355			4	3	2003
-Schafer, Mikel	Yakima Reds		4	208		1	2	13	2003
-Schefter, John	Yakima Reds	M	14	1019	1		12	11	2003
-Serna-Rivera, Jose	Yakima Reds	D	1	200			0	1	2003
-Shen, Tao	Yakima Reds		3	75			0	2	2003
-Suhm, Brad	Yakima Reds	M	16	1290			9	23	2003
-Suhm, Douglas Tyler	Yakima Reds	M	14	1250	5		11	30	2003
-Supang, Joseph	Yakima Reds		9	790		1	3	6	2003
-Timm, Jason	Yakima Reds	D	4	354			1	9	2003
-Waltman, Danny	Yakima Reds	GK	11	1008			0	0	2003
-Wright, Travis	Yakima Reds	D	5	354			0	12	2003
-Vidal, Juan	Yakima Reds	M/F					0	0	2003
-Abunbiz, Chon	Abbotsford Rangers		1	56			1	0	2003
-Ascolese, Nick	Abbotsford Rangers	F	2	180		1	2	4	2003
-Ballard, Paul	Abbotsford Rangers	D	11	939			1	9	2003
-Cecil, Chris	Abbotsford Rangers	GK	8	723			0	0	2003
-Crocker, Sean	Abbotsford Rangers	M/F	12	670		5	5	6	2003
-Crocker, Simon	Abbotsford Rangers	D	13	973	1	4	2	5	2003
-Duben, Josef	Abbotsford Rangers	F	10	570	1		4	17	2003
-Flint, Jason	Abbotsford Rangers	F	7	440	2	1	5	5	2003
-Frazao, Steven	Abbotsford Rangers	F	7	524	1		4	3	2003
-Garcia, Estevan	Abbotsford Rangers	GK					0	0	2003
-Giebelhaus, James	Abbotsford Rangers	D	12	1086		1	4	8	2003
-Guiseppi, Sean	Abbotsford Rangers	F	7	141	1		2	3	2003
-Hernandez, Hector	Abbotsford Rangers	M/F	12	923	1	1	7	5	2003
-Jorgensen, Jason	Abbotsford Rangers	F	13	894	7		16	15	2003
-Leon, Guido Luis	Abbotsford Rangers	GK	5	474			0	0	2003
-McCulloch, Andrew	Abbotsford Rangers	D	8	530		1	1	7	2003
-McEachern, Scott	Abbotsford Rangers	D					0	0	2003
-Peetoom, Brad	Abbotsford Rangers	D	3	294	1		1	4	2003
-Powell, Christopher	Abbotsford Rangers	M/F	9	358			2	7	2003
-Riehl, James	Abbotsford Rangers	M/F	14	1200	1	1	12	21	2003
-Riehl, Mike	Abbotsford Rangers	M/F	14	1199			11	25	2003
-Rosencrans, Trevor	Abbotsford Rangers	M/F	12	899	1		14	4	2003
-Schmidt, Spencer	Abbotsford Rangers	F	5	309	4	1	10	6	2003
-Werstuik, Jeff	Abbotsford Rangers	D	8	521			0	2	2003
-Allberry, Dustin	Spokane Shadow	M	15	762	6	2	24	12	2003
-Anderson, Robert	Spokane Shadow	M	11	998			0	9	2003
-Barton, Kieran	Spokane Shadow	M	3	249	1		2	3	2003
-Baune, Jon	Spokane Shadow	D	13	1162			3	11	2003
-Conrad, Trevor	Spokane Shadow		13	637	1		4	5	2003
-Cummings, Evan	Spokane Shadow	M	6	408	2		6	9	2003
-Cummings, Garth	Spokane Shadow		11	836	4	2	24	29	2003
-Everall, James	Spokane Shadow		14	1165			2	9	2003
-Eylander, Christopher	Spokane Shadow	GK	8	733			0	0	2003
-Fauske, Elliott	Spokane Shadow	M	8	651	2	1	13	4	2003
-Grubb, Aaron	Spokane Shadow	D	15	1328			1	4	2003
-Herzog, Michael	Spokane Shadow		15	832	2		6	0	2003
-Hite, Brett	Spokane Shadow		4	42			0	0	2003
-Johnson, Paul	Spokane Shadow	M	15	1134	4	1	14	17	2003
-Kalnasy, Shaun	Spokane Shadow		9	850			0	0	2003
-Kerwien, Scott	Spokane Shadow		6	304	1		2	1	2003
-Kuska, Jason	Spokane Shadow	F	15	983	9	3	29	18	2003
-Moug, Jake	Spokane Shadow	F	11	540	2	4	10	10	2003
-Nagle, George	Spokane Shadow						0	0	2003
-Palladino, John	Spokane Shadow	D	16	1094		2	8	18	2003
-Ready, Troy	Spokane Shadow	M	12	991		2	17	13	2003
-Stueckle, Matt	Spokane Shadow	D	15	1326	4		11	2	2003
-Whitmore, Christopher	Spokane Shadow	M					0	0	2003
-Wright, Kristofer	Spokane Shadow						0	0	2003
-Yuska, Scott	Spokane Shadow		7	474	1	1	7	3	2003
-Adlong, Daniel	BYU Cougars						0	0	2003
-Affleck, Matthew	BYU Cougars	F	18	1584	6	2	50	28	2003
-Blake, Brock	BYU Cougars	F	14	588	1		12	25	2003
-Bryan, Paul	BYU Cougars	M/F	11	458		2	4	12	2003
-Carlson, Kendall	BYU Cougars						0	0	2003
-Degraff, Broch	BYU Cougars						0	0	2003
-Deshler, Chad	BYU Cougars	M/F	15	1139	1	2	22	7	2003
-Foster, Thomas	BYU Cougars	D					0	0	2003
-Foulger, Matthew	BYU Cougars	D	9	238			1	6	2003
-Gabbart, Aaron	BYU Cougars	D	17	1429			8	24	2003
-Gilliam, Brandon	BYU Cougars	GK	3	197			0	0	2003
-Graham, Curtis	BYU Cougars	M/F	18	1591	1		15	15	2003
-Jensen, Jeffrey	BYU Cougars	M/F	17	1389			9	28	2003
-Lacey, Michael	BYU Cougars	GK	8	637			0	0	2003
-Lamb, Christopher	BYU Cougars	F	13	384	3		11	3	2003
-Lowe, Nathan	BYU Cougars	M/F					0	0	2003
-Matsumori, Devin	BYU Cougars	D	18	1647	2		3	9	2003
-Monson, Shane	BYU Cougars	M/F	3	32			0	0	2003
-Ojuka, Ken	BYU Cougars	F	14	887		1	7	14	2003
-Osborne, Britton	BYU Cougars						0	0	2003
-Peterson, Brad	BYU Cougars	F	18	1405	4		34	12	2003
-Russell, Christian	BYU Cougars	M/F	12	585		1	0	5	2003
-Stevens, Benjamin	BYU Cougars						0	0	2003
-Viernes, J. Spencer	BYU Cougars	M/F	16	767	1	1	16	11	2003
-Walker, Matthew	BYU Cougars	D	15	1312	1		7	14	2003
-Walunas, Erik	BYU Cougars	GK	10	798			0	0	2003
-Winn, Travis	BYU Cougars	M/F	12	685	1	1	15	10	2003
-Yescas-Nogales, Daniel	BYU Cougars	M/F	13	281		1	2	1	2003
-Aigbogun, Paul	Nevada Wonders	D/M	6	329			0	1	2003
-Ayala-Mora, Jose Antonio	Nevada Wonders	M/F	12	872			24	9	2003
-Blackburn, Chris	Nevada Wonders	M	13	1206	3	3	39	26	2003
-Blackley, John	Nevada Wonders	D	15	1388	2		9	24	2003
-Delgado, Richard	Nevada Wonders	M/F	13	1195		1	17	21	2003
-Edwards, Kai	Nevada Wonders	F	8	670		2	18	11	2003
-Estrada-Macias, Noe	Nevada Wonders	D	4	275			0	1	2003
-Farfan, Mario	Nevada Wonders	M	7	553			9	5	2003
-Flores-Maydral, Nestor	Nevada Wonders	M	3	207			3	0	2003
-Grillo, Anthony	Nevada Wonders	M	12	624	1		11	9	2003
-Harris, Kirkwood	Nevada Wonders	D/M	13	785	2	3	15	10	2003
-Hernandez, Thomas	Nevada Wonders		4	401			0	3	2003
-Licciardi, Vincent	Nevada Wonders	GK	2	69			2	1	2003
-Loera-Villalvazo, Juan	Nevada Wonders	M/F	3	293			8	5	2003
-Miller, Matthew Ian	Nevada Wonders		9	688	1		19	16	2003
-Morley, Bernard	Nevada Wonders	M	11	1010	2		19	30	2003
-Morris, Mathew	Nevada Wonders	F	5	450		1	6	3	2003
-Nealis, Sean	Nevada Wonders	D	6	560			4	7	2003
-Oliden-Cardenas, Ernesto	Nevada Wonders	M/F	3	252	1		11	5	2003
-Otalor, Kenneth	Nevada Wonders	D	16	1478			9	41	2003
-Roser, Landon	Nevada Wonders	D/M	17	1379			12	8	2003
-Rowe, Sebastian	Nevada Wonders	GK	11	965			0	0	2003
-Saldana-Jacinto, Gerardo	Nevada Wonders	D	8	664			2	22	2003
-Scott, Luke	Nevada Wonders	M	8	740			7	12	2003
-Shabazz, Hassan	Nevada Wonders		6	581			0	0	2003
-Shorrock, John	Nevada Wonders	M/F	7	132			1	4	2003
-White, Jeffrey	Nevada Wonders		3	198			0	0	2003
-Adams, Joseph	Southern California Seahorses	M/F	2	27			1	2	2003
-Babel, Mark	Southern California Seahorses	M/F	7	216			1	3	2003
-Benton, Daniel	Southern California Seahorses	GK	7	648			0	0	2003
-Collins, Danny	Southern California Seahorses	F	14	768	3	2	21	10	2003
-Elkins, Todd	Southern California Seahorses	M/F	15	1150		2	10	11	2003
-Evans, Matt	Southern California Seahorses	M	9	805		4	13	9	2003
-Hess, Matthew	Southern California Seahorses	F	17	955	4	3	30	12	2003
-Hotchkin, Jason	Southern California Seahorses	M/F	18	1361	14	4	59	31	2003
-Hoxie, Allen	Southern California Seahorses	D	3	163			1	3	2003
-Jepson, Timmy	Southern California Seahorses	M	7	448		1	8	15	2003
-Jones, Jordan	Southern California Seahorses	F	17	812	2		21	10	2003
-Lawson, Beau	Southern California Seahorses	M	14	932	1	1	13	28	2003
-Marcus, Todd	Southern California Seahorses	M	15	796		1	16	16	2003
-Martinez, Dylan	Southern California Seahorses	F	12	317	1		15	8	2003
-McLeish, Josh	Southern California Seahorses	M	17	1215	4	3	17	15	2003
-Meek, Benjamin	Southern California Seahorses	D	16	1486	1	1	12	21	2003
-Oakes, Ryan	Southern California Seahorses	M	2	78			2	1	2003
-Schroeder, Gregg	Southern California Seahorses	D	18	1666		1	6	15	2003
-Searles, John	Southern California Seahorses	D	3	125			3	0	2003
-Thibault, Daniel	Southern California Seahorses	GK					0	0	2003
-Throop, Adam	Southern California Seahorses	GK	11	941			0	1	2003
-Ward, Jacob	Southern California Seahorses	D	15	1211	2		9	17	2003
-Wilson, Daniel	Southern California Seahorses	D	16	1425			3	25	2003
-Wilson, Randy	Southern California Seahorses	M	13	437			6	12	2003
-Alvarez-Ochoa, Francisco	Fresno Fuego	GK	9	656			0	0	2003
-Anderson, Makoto	Fresno Fuego	M	11	587	1	1	7	4	2003
-Blanco, Milton	Fresno Fuego	M	16	1340	3	3	10	26	2003
-Carter, Jacob	Fresno Fuego	M	2	105			0	0	2003
-Cignetti, Gaston	Fresno Fuego	M	5	468	1		8	10	2003
-Codeceira-Lopes, Fabricio	Fresno Fuego	M	11	972	3	5	20	21	2003
-Contreras-Salazar, Edgardo	Fresno Fuego	F	15	1087	11	4	48	14	2003
-Delgadillo-Servin, Jose Luis	Fresno Fuego	D	18	1548	2	1	9	12	2003
-Espindola, Jose	Fresno Fuego	F	17	999	5	5	24	18	2003
-Farfan, Erik	Fresno Fuego	F	6	288	1	2	9	2	2003
-Gutierrez, Eddie	Fresno Fuego	M	15	1098	2	3	9	15	2003
-Hammond, Nick	Fresno Fuego	GK	10	620			0	0	2003
-Lomeli, Nick	Fresno Fuego		4	100			1	2	2003
-Lopez, Derek	Fresno Fuego	D	11	1014			2	9	2003
-McKinney, Timothy	Fresno Fuego	F	12	412	1		6	6	2003
-Mexicano, Jose	Fresno Fuego	D	9	512			1	6	2003
-Montes-Contreras, Alejandro	Fresno Fuego		7	93			0	2	2003
-Mora-Ramirez, Heber	Fresno Fuego		8	276	2		6	2	2003
-Padilla, Rogelio	Fresno Fuego	D	14	1176	2		4	18	2003
-Perez-Camacho, Roberto	Fresno Fuego						0	0	2003
-Proud, Jeremy	Fresno Fuego	GK	4	333			0	0	2003
-Ramirez, Orlando	Fresno Fuego	F	13	811	11	3	31	10	2003
-Rivas-Flores, Jose	Fresno Fuego	D	15	1302	1	2	2	9	2003
-Rivera, Raul	Fresno Fuego	M	17	987	2	1	15	9	2003
-Santillan-Garcia, Hector	Fresno Fuego	D	6	247			1	2	2003
-Smith, James	Fresno Fuego						0	0	2003
-Souza, Jarrod	Fresno Fuego	D	9	571			3	4	2003
-Vega, Ernesto	Fresno Fuego		7	420	1		3	6	2003
-Acuna-Mostaccero, Dardo	Orange County Blue Star						0	0	2003
-Barton, Joseph	Orange County Blue Star	GK	5	452			0	0	2003
-Coiner, Ryan	Orange County Blue Star		17	996	11	1	26	8	2003
-Donnelly, Tim	Orange County Blue Star	M	12	540		1	5	5	2003
-Erush, Michael	Orange County Blue Star	M	5	234			0	2	2003
-Goppingen, Jay	Orange County Blue Star		8	673	5	3	22	1	2003
-Gregorio, Adolfo	Orange County Blue Star		11	705	1	4	10	3	2003
-Griffin, Leonard	Orange County Blue Star	D	18	1592	1	2	5	8	2003
-Higgins, Shaun	Orange County Blue Star	D	16	1364			3	21	2003
-Kennedy, Daniel	Orange County Blue Star		13	1125			0	0	2003
-Kovar, Matthew	Orange County Blue Star	D	4	305			0	1	2003
-Kubota, Matt	Orange County Blue Star	M	7	451			5	6	2003
-Lawson, Anthony	Orange County Blue Star	D	12	1002	1		1	2	2003
-Maurin, Ty	Orange County Blue Star		5	278			1	2	2003
-Mcathy, Drew	Orange County Blue Star	F	9	437	2		8	2	2003
-Meissner, Kevin	Orange County Blue Star	M	8	401			0	3	2003
-Owen, Dwight	Orange County Blue Star	D					0	0	2003
-Poltl, Thomas	Orange County Blue Star	M	17	1514	5	7	17	19	2003
-Rogers, Robbie	Orange County Blue Star	F	5	209	1	2	3	1	2003
-Saunders, Shawn	Orange County Blue Star	D	13	1046	1	1	4	7	2003
-Spencer, Jonathan	Orange County Blue Star	F	13	973	8		22	6	2003
-Taylor, Matthew	Orange County Blue Star	F	18	1220	11	3	23	7	2003
-Theslof, Nick	Orange County Blue Star	M	15	767	1	2	6	8	2003
-Theslof, Tyler	Orange County Blue Star	M	10	466			1	3	2003
-Vizcarra, Anthony	Orange County Blue Star	M	10	635			6	6	2003
+Barone, Giuseppe; Kalamazoo Kingdom; F; 4; 143; ; 1; 5; 6; 2003
+Challinor, Jon; Kalamazoo Kingdom; D; 17; 1526; 2; ; 19; 35; 2003
+Duhl, Scott; Kalamazoo Kingdom; M; 14; 1136; 1; 3; 17; 9; 2003
+Dwaihy, David; Kalamazoo Kingdom; M; 16; 1050; 3; 1; 14; 3; 2003
+Foster, Brendon; Kalamazoo Kingdom; ; 3; 60; ; ; 0; 3; 2003
+Goss, Chris; Kalamazoo Kingdom; ; ; ; ; ; 0; 0; 2003
+Keenan, Chris; Kalamazoo Kingdom; M; 2; 41; ; ; 1; 1; 2003
+Kellogg, Matt; Kalamazoo Kingdom; ; 4; 196; ; ; 1; 3; 2003
+Kelto, Anders; Kalamazoo Kingdom; M; 14; 1035; 2; 4; 10; 10; 2003
+Kemple, Andrew; Kalamazoo Kingdom; D; 18; 1661; ; ; 4; 33; 2003
+Kreh, Layne; Kalamazoo Kingdom; D; 16; 1172; 1; 1; 8; 32; 2003
+Lukungu, Ali; Kalamazoo Kingdom; F; 13; 1166; 5; 1; 26; 23; 2003
+Luya, Ian; Kalamazoo Kingdom; M; 18; 1661; 3; 3; 21; 5; 2003
+Mead, Brandon; Kalamazoo Kingdom; ; 1; 72; ; ; 0; 2; 2003
+Miller, Trent; Kalamazoo Kingdom; D; 15; 1117; 1; 1; 1; 20; 2003
+Murphy, Brendan; Kalamazoo Kingdom; GK; 15; 1391; ; ; 0; 1; 2003
+Nelson, Nicholas; Kalamazoo Kingdom; F; 14; 594; 3; 1; 15; 12; 2003
+Ombiji, Brian; Kalamazoo Kingdom; F; 11; 1028; 6; 2; 21; 37; 2003
+Peaslee, Trevor; Kalamazoo Kingdom; D; 8; 463; ; ; 0; 3; 2003
+Schuring, Joseph; Kalamazoo Kingdom; D; 8; 176; ; 1; 2; 2; 2003
+Sokolowski, Bradley; Kalamazoo Kingdom; ; 9; 693; 4; ; 15; 9; 2003
+Teixeira, Giuliano; Kalamazoo Kingdom; M; 14; 902; 1; 2; 13; 19; 2003
+Vandevusse, Craig; Kalamazoo Kingdom; M; 10; 329; ; ; 2; 5; 2003
+Walton, Stephen; Kalamazoo Kingdom; M; 12; 615; ; 1; 2; 18; 2003
+Whitehouse, Carl; Kalamazoo Kingdom; GK; 0; ; ; ; ; ; 2003
+Ananda, Vairaji; West Michigan Edge; M/F; 6; 482; ; ; 4; 18; 2003
+Benjamin, St. Nicholas; West Michigan Edge; D; 17; 1462; 3; 3; 12; 29; 2003
+Blythe, Michael; West Michigan Edge; ; 15; 1322; 2; 3; 23; 22; 2003
+Bruemmer, Alex; West Michigan Edge; ; 5; 229; ; 1; 2; 2; 2003
+Bryant, Brady; West Michigan Edge; ; 11; 1023; ; 1; 5; 21; 2003
+Chirico, Jordon; West Michigan Edge; ; 2; 128; ; ; 1; 3; 2003
+Connor, Matthew; West Michigan Edge; ; ; ; ; ; 0; 0; 2003
+Croucher-Dugan, Kevney; West Michigan Edge; ; 5; 406; ; ; 0; 5; 2003
+Elmore, Jesse; West Michigan Edge; M; 14; 1297; 3; 1; 24; 18; 2003
+Ferguson, James; West Michigan Edge; D; 5; 471; 1; ; 3; 8; 2003
+Flynn, Daniel; West Michigan Edge; ; 5; 192; ; ; 0; 4; 2003
+Hall, Kevin; West Michigan Edge; ; 10; 691; ; ; 0; 11; 2003
+Hayden, John; West Michigan Edge; ; 9; 459; 1; 1; 9; 3; 2003
+Herdsman, Stephen; West Michigan Edge; ; 3; 249; ; ; 0; 1; 2003
+Howard, Todd; West Michigan Edge; ; 7; 426; ; ; 0; 7; 2003
+Kuklenski, Nicholas; West Michigan Edge; ; 9; 659; ; ; 1; 7; 2003
+Leonard, Jonathan; West Michigan Edge; F; 17; 1523; 9; 1; 22; 32; 2003
+Lepper, Steve; West Michigan Edge; ; 17; 1467; 1; ; 4; 9; 2003
+Linpow, Steve; West Michigan Edge; ; 2; 113; ; ; 0; 1; 2003
+Ross, Jason; West Michigan Edge; ; 10; 405; ; ; 2; 4; 2003
+Sanders, Oliver; West Michigan Edge; GK; 16; 1523; ; ; 0; 0; 2003
+Schnerpenisse, Nathan; West Michigan Edge; ; 2; 180; ; ; 0; 0; 2003
+Tudela, Joshua; West Michigan Edge; ; 4; 378; ; ; 3; 1; 2003
+Wagner, Daniel; West Michigan Edge; ; 11; 739; ; ; 8; 13; 2003
+Wagner, Ryan; West Michigan Edge; ; 5; 223; ; ; 0; 6; 2003
+Woodward, Oliver; West Michigan Edge; ; 12; 920; ; 1; 3; 2; 2003
+Yadon, Scott; West Michigan Edge; ; 11; 376; 1; ; 2; 1; 2003
+Alexander, Ryan; Michigan Bucks; M/F; 6; 303; ; 1; 17; 3; 2003
+Cameron, Knox (Washington); Michigan Bucks; M/F; 13; 882; 6; 2; 31; 15; 2003
+Craft, Nate; Michigan Bucks; M; 15; 927; ; 1; 5; 12; 2003
+David, Stephan; Michigan Bucks; M; 18; 1398; 2; 4; 21; 8; 2003
+DeGraw, Nicholas; Michigan Bucks; D/M; 6; 332; ; ; 0; 4; 2003
+Detter, Justin; Michigan Bucks; M; ; ; ; ; 0; 0; 2003
+Dzubay, Peter; Michigan Bucks; GK; 8; 736; ; ; 0; 0; 2003
+Ferrin, Dan; Michigan Bucks; GK; 3; 225; 1; ; 1; 1; 2003
+Geiger, Abraham; Michigan Bucks; D; 6; 514; ; ; 2; 5; 2003
+Gruber, Jordan; Michigan Bucks; M; 10; 326; ; 1; 5; 2; 2003
+Heinemann, Adam; Michigan Bucks; M; 14; 1015; ; 1; 4; 18; 2003
+Ikome, Francis; Michigan Bucks; D/M; 4; 121; ; ; 1; 3; 2003
+Kalso, Kellen; Michigan Bucks; D; ; ; ; ; 0; 0; 2003
+Khumalo, Thabiso; Michigan Bucks; M/F; 2; 42; ; ; 3; 3; 2003
+Kithas, George; Michigan Bucks; F; 10; 421; ; 1; 11; 7; 2003
+Minagawa-Webster, John; Michigan Bucks; M; 13; 935; 2; 3; 26; 9; 2003
+Nelson, Erik; Michigan Bucks; M; 18; 1363; ; 5; 20; 17; 2003
+Norman, Nathan; Michigan Bucks; M/F; 10; 706; 1; 2; 7; 10; 2003
+Omekanda, Simon; Michigan Bucks; F; 15; 905; 6; 1; 30; 6; 2003
+Perry, Jason; Michigan Bucks; D/M; 15; 1184; ; ; 0; 7; 2003
+Rice, Douglas; Michigan Bucks; M; ; ; ; ; 0; 0; 2003
+Rzepka, Ryan; Michigan Bucks; D/M; 13; 1077; 2; ; 14; 5; 2003
+Scicluna, Valentino; Michigan Bucks; D/M; 7; 481; ; 1; 7; 8; 2003
+Snape, Paul; Michigan Bucks; F; 15; 1021; 8; 2; 38; 20; 2003
+Taylor, Kevin; Michigan Bucks; D/F; 14; 1204; 3; ; 9; 7; 2003
+Turpin, Mychal; Michigan Bucks; M/F; 17; 1057; 8; 5; 35; 8; 2003
+White, Marquis; Michigan Bucks; F; 1; 10; ; ; 0; 0; 2003
+White, Michael; Michigan Bucks; M/F; 1; 1; ; ; 0; 0; 2003
+Wiese, Jeff; Michigan Bucks; GK; 8; 758; ; ; 0; 0; 2003
+Agu, Alloysius; Indiana Invaders; ; 14; 1237; ; ; 0; 0; 2003
+Aguiar, Jacob; Indiana Invaders; D; 7; 339; ; ; 1; 11; 2003
+Ara, Ignacia; Indiana Invaders; M; 16; 1279; ; ; 15; 28; 2003
+Bills, Daniel; Indiana Invaders; ; 8; 427; ; ; 4; 13; 2003
+Braun, Erich; Indiana Invaders; F; 1; 90; ; ; 2; 0; 2003
+Chillemi, Filippo; Indiana Invaders; ; 3; 152; ; ; 3; 2; 2003
+Crouse, Benjamin; Indiana Invaders; ; 5; 450; ; ; 2; 7; 2003
+Dargout, Jefferson; Indiana Invaders; ; 2; 19; ; ; 0; 0; 2003
+Felman, Dario; Indiana Invaders; ; 2; 93; ; ; 0; 0; 2003
+Forstner, Andreas; Indiana Invaders; ; 6; 509; 1; ; 6; 7; 2003
+Francis, Ricky; Indiana Invaders; ; 14; 1115; 4; 2; 14; 15; 2003
+Garcia, Rafael; Indiana Invaders; ; 9; 760; 4; 1; 23; 8; 2003
+Goldwaite, Kevin; Indiana Invaders; D; 3; 270; ; 1; 2; 4; 2003
+Hausler, Dario; Indiana Invaders; M; 11; 910; 1; ; 5; 9; 2003
+Hoge, Bradley; Indiana Invaders; M/D; 1; 14; ; ; 0; 0; 2003
+Hyde, David; Indiana Invaders; ; ; ; ; ; 0; 0; 2003
+Krause, Jeffrey; Indiana Invaders; ; 12; 633; ; 1; 6; 13; 2003
+Lopez, Oscar; Indiana Invaders; D; 18; 1641; ; ; 3; 18; 2003
+Marques, Ryan; Indiana Invaders; D; 15; 1205; ; 1; 6; 17; 2003
+Martin, Greg; Indiana Invaders; M; 9; 792; 3; 2; 15; 16; 2003
+Mault, Jordan; Indiana Invaders; ; 3; 64; ; ; 0; 1; 2003
+Murphy, Brian; Indiana Invaders; M/F; 9; 476; 1; 2; 8; 9; 2003
+Novas, Lomonaca, Ignacio; Indiana Invaders; F; 14; 843; 6; 1; 24; 12; 2003
+Peirano-Pardeiro, Leonardo; Indiana Invaders; M/F; 9; 622; 2; ; 10; 15; 2003
+Roelke, Kyle; Indiana Invaders; ; 3; 121; ; ; 0; 0; 2003
+Roman, Austin; Indiana Invaders; D; 17; 1525; ; ; 0; 11; 2003
+Rowland, Jeffrey; Indiana Invaders; ; 10; 566; 3; 1; 13; 8; 2003
+Rybak, Gerald; Indiana Invaders; D; 1; 13; ; ; 0; 0; 2003
+Sanders, Aaron; Indiana Invaders; ; ; ; ; ; 0; 0; 2003
+Sawyer, Chris; Indiana Invaders; GK; 4; 313; ; ; 0; 0; 2003
+Snyder, Dustin; Indiana Invaders; F; 11; 395; ; ; 5; 11; 2003
+Suflita, Samuel; Indiana Invaders; ; 6; 30; ; ; 2; 1; 2003
+Taguinod, Brendon; Indiana Invaders; F; 10; 706; 1; 3; 8; 10; 2003
+Wanecke, William; Indiana Invaders; ; 6; 97; ; ; 1; 6; 2003
+Barber, Sasha; Columbus Shooting Stars; M; 16; 1172; 1; 3; 18; 16; 2003
+Berry, Gary; Columbus Shooting Stars; ; 7; 130; ; ; 2; 7; 2003
+Bertz, Kenneth; Columbus Shooting Stars; ; 4; 378; ; ; 0; 3; 2003
+Bigelow, Chris; Columbus Shooting Stars; ; ; ; ; ; 0; 0; 2003
+Chukwumah, Chiedu; Columbus Shooting Stars; ; 10; 846; ; ; 0; 5; 2003
+Cook, Justin; Columbus Shooting Stars; ; 4; 212; 1; ; 6; 7; 2003
+Crew, Daniel; Columbus Shooting Stars; ; 17; 1572; ; ; 5; 23; 2003
+Davis, Jordan; Columbus Shooting Stars; ; 13; 1116; 1; 1; 9; 19; 2003
+Dombrowski, Jared; Columbus Shooting Stars; ; 12; 911; 2; ; 10; 10; 2003
+Fitzpatrick, Leslie; Columbus Shooting Stars; ; 12; 1136; 5; 4; 42; 15; 2003
+Franks, Michael; Columbus Shooting Stars; ; 12; 778; ; ; 0; 0; 2003
+Goggins, Jason; Columbus Shooting Stars; D; 15; 1152; ; ; 4; 8; 2003
+Green, Chris; Columbus Shooting Stars; ; 1; 36; ; ; 0; 0; 2003
+Hemmert, Johnathan; Columbus Shooting Stars; ; 8; 210; ; ; 2; 4; 2003
+Jones, Bret; Columbus Shooting Stars; D/M; 12; 945; ; 2; 9; 19; 2003
+Kerr, Shane; Columbus Shooting Stars; ; 5; 294; ; ; 5; 1; 2003
+Kletzien, William; Columbus Shooting Stars; D/M; 3; 202; ; ; 0; 4; 2003
+Koita, Mamady; Columbus Shooting Stars; ; 8; 510; 1; 1; 7; 10; 2003
+Larmond, Bunnyray; Columbus Shooting Stars; D; 2; 117; ; ; 0; 4; 2003
+McCune, Matthew; Columbus Shooting Stars; F; 15; 1214; 1; 1; 7; 3; 2003
+Menacho, Daniel; Columbus Shooting Stars; GK; 1; 90; ; ; 0; 0; 2003
+Myers, Bradley; Columbus Shooting Stars; D; 6; 474; 2; ; 10; 2; 2003
+Nebbergall, Anthony; Columbus Shooting Stars; ; 4; 91; ; ; 3; 0; 2003
+O'Rourke, Daniel; Columbus Shooting Stars; ; 7; 522; ; 1; 8; 21; 2003
+Reilly, Patrick; Columbus Shooting Stars; ; 3; 206; ; ; 0; 4; 2003
+Riddle, Joshua; Columbus Shooting Stars; M; 1; 23; 1; ; 1; 1; 2003
+Rutledge, Andrew; Columbus Shooting Stars; ; 9; 521; 3; 1; 14; 1; 2003
+Salvati, Ronald; Columbus Shooting Stars; GK; 10; 730; ; ; 0; 0; 2003
+Schauer, Adam; Columbus Shooting Stars; D; 12; 645; 1; ; 9; 6; 2003
+Veris, Kyle; Columbus Shooting Stars; F; 7; 351; 2; 1; 11; 6; 2003
+Wade, Nathan; Columbus Shooting Stars; D; 5; 350; 1; ; 2; 4; 2003
+Williams, Lindsey; Columbus Shooting Stars; ; 8; 484; 3; ; 13; 10; 2003
+Withers, Peter; Columbus Shooting Stars; ; 12; 734; 2; 2; 6; 13; 2003
+Buck, Garrett; Fort Wayne Fever; F; 18; 1428; 3; ; 10; 15; 2003
+Buzzard, Brad; Fort Wayne Fever; GK; ; ; ; ; 0; 0; 2003
+Chorvat, Marcus; Fort Wayne Fever; M; 9; 602; 3; 2; 19; 22; 2003
+Crawford, Lee; Fort Wayne Fever; D; 18; 1484; 1; 1; 15; 28; 2003
+Dulworth, Kyle; Fort Wayne Fever; M; 12; 490; 1; 2; 9; 2; 2003
+Faily, Jesse; Fort Wayne Fever; F; ; ; ; ; 0; 0; 2003
+Gonzalez-Olvera, Cesar; Fort Wayne Fever; M; 4; 115; ; 1; 3; 3; 2003
+Hein, Matt; Fort Wayne Fever; M; 10; 724; 1; ; 8; 7; 2003
+Johnson, Andrew; Fort Wayne Fever; M; 9; 416; 1; ; 10; 4; 2003
+Jordan, Cameron; Fort Wayne Fever; D/M; 1; 45; ; ; 0; 1; 2003
+Knitter, Michael; Fort Wayne Fever; GK; 5; 470; ; ; 0; 0; 2003
+Lopez-Peralta, Christian; Fort Wayne Fever; GK; 3; 270; ; ; 0; 0; 2003
+Mariscalco, John; Fort Wayne Fever; D; 17; 1295; ; ; 7; 12; 2003
+Nanchoff, George; Fort Wayne Fever; F; 1; 26; ; ; 0; 0; 2003
+O'Driscoll, Patrick; Fort Wayne Fever; D/M; 12; 1129; 2; 1; 11; 12; 2003
+Porto, Christian; Fort Wayne Fever; M; 16; 1200; 4; 3; 43; 12; 2003
+Potter, Nick; Fort Wayne Fever; F; 6; 48; 1; ; 3; 3; 2003
+Pranger, Matthew; Fort Wayne Fever; F; 3; 83; ; ; 4; 0; 2003
+Presser, Philip; Fort Wayne Fever; M; 16; 1119; 2; 1; 37; 10; 2003
+Prosser, Mark; Fort Wayne Fever; D; 5; 97; ; ; 1; 1; 2003
+Quiroz-Gardona, Gerardo; Fort Wayne Fever; F; 5; 377; 1; ; 11; 10; 2003
+Schwartz, Kyle; Fort Wayne Fever; D; 13; 1103; ; ; 5; 20; 2003
+Sharpe, Dennis; Fort Wayne Fever; M; 15; 843; ; ; 35; 7; 2003
+Shinabarger, Andrew; Fort Wayne Fever; D; 17; 1529; ; ; 0; 19; 2003
+Stevens, Ben; Fort Wayne Fever; GK; 10; 956; ; ; 0; 0; 2003
+Sulkin, Matt; Fort Wayne Fever; M; 9; 580; 1; ; 3; 3; 2003
+Suzuki, Jeff; Fort Wayne Fever; M; 12; 746; 3; ; 13; 9; 2003
+Swanson, Aaron; Fort Wayne Fever; F; 10; 400; 2; 1; 6; 5; 2003
+Umelo, Michael; Fort Wayne Fever; D; 13; 723; ; ; 1; 17; 2003
+Wilson, Philip; Fort Wayne Fever; F; 4; 139; ; ; 4; 0; 2003
+Yates, Patrick; Fort Wayne Fever; D; 1; 31; ; ; 1; 0; 2003
+Aldilami, Abdulaziz; Toledo Slayers; ; 18; 1479; 1; ; 20; 11; 2003
+Aliakbar, Yousef; Toledo Slayers; ; 1; 2; ; ; 0; 0; 2003
+Behan, Patrick; Toledo Slayers; ; 7; 205; 1; ; 1; 2; 2003
+Bennett, Damion; Toledo Slayers; ; 11; 1010; ; 1; 1; 15; 2003
+Blanks, James; Toledo Slayers; ; 11; 510; ; 2; 5; 8; 2003
+Bokole, Bonyoko; Toledo Slayers; M/F; 18; 1516; 6; 7; 52; 15; 2003
+Braithwaite, Richard; Toledo Slayers; ; 17; 1412; ; ; 7; 8; 2003
+Bruh, Adam; Toledo Slayers; ; 10; 571; ; ; 7; 5; 2003
+Degraff, Dave; Toledo Slayers; ; 6; 417; ; ; 0; 0; 2003
+DeVilbiss, Brad; Toledo Slayers; ; 4; 179; ; ; 1; 2; 2003
+Escobar-Fontal, Carlos; Toledo Slayers; ; ; ; ; ; 0; 0; 2003
+Freudeman, Deryck; Toledo Slayers; ; 12; 425; ; ; 10; 8; 2003
+Iding, Joseph; Toledo Slayers; D; 14; 1316; ; 1; 5; 16; 2003
+Khalil, Josef; Toledo Slayers; ; 16; 835; ; 2; 7; 16; 2003
+Mansell, Phil; Toledo Slayers; ; 1; 45; ; ; 0; 0; 2003
+Merker, Steven; Toledo Slayers; ; 7; 227; ; 1; 3; 2; 2003
+Niemeyer, Matt; Toledo Slayers; ; 1; 45; ; ; 0; 1; 2003
+Pogue, Eric; Toledo Slayers; GK; 15; 1234; ; ; 0; 0; 2003
+Ringle, Michael; Toledo Slayers; ; 1; 20; ; ; 0; 0; 2003
+Robinson, Kevin; Toledo Slayers; ; 13; 654; 1; ; 15; 4; 2003
+Roudbari, Ahmad; Toledo Slayers; ; 18; 1457; ; 1; 10; 40; 2003
+Royzman, Eugene; Toledo Slayers; ; 7; 347; 1; ; 2; 8; 2003
+Scheall, Brian; Toledo Slayers; ; 18; 1588; ; ; 12; 17; 2003
+Shook, Tyler; Toledo Slayers; ; 4; 111; ; ; 0; 3; 2003
+Uzoigwe, Kenny; Toledo Slayers; ; 17; 1474; 9; 2; 85; 46; 2003
+Wakawa, Simi; Toledo Slayers; ; 11; 614; ; ; 4; 13; 2003
+Wells, Jon; Toledo Slayers; ; 11; 725; 2; ; 6; 8; 2003
+Bain, Brenton; Kansas City Brass; M; 1; 8; ; ; 1; 1; 2003
+Baker, Jesse; Kansas City Brass; M; 11; 944; ; ; 12; 8; 2003
+Barber, Ryan; Kansas City Brass; D; 15; 1362; 1; 1; 13; 13; 2003
+Bleyenberg, Jake; Kansas City Brass; F; 15; 1346; 12; 7; 35; 9; 2003
+Blinzler, Adam; Kansas City Brass; D; 18; 799; ; ; 0; 3; 2003
+Brennan, Zackary; Kansas City Brass; GK; ; ; ; ; 0; 0; 2003
+Clifton, Andrew; Kansas City Brass; M; 7; 255; 1; 1; 3; 2; 2003
+Dohlman, Todd; Kansas City Brass; GK; 12; 924; ; 1; 0; 0; 2003
+Duffy, Joshua; Kansas City Brass; D; 10; 810; ; ; 1; 5; 2003
+Green, Dustin; Kansas City Brass; D; 12; 859; ; ; 4; 7; 2003
+John, William; Kansas City Brass; M; 5; 290; ; 1; 9; 1; 2003
+Kincaid, Scott; Kansas City Brass; D; 15; 1353; ; 1; 7; 14; 2003
+Miles, Geoff; Kansas City Brass; M; 15; 952; 1; 1; 12; 17; 2003
+Nekuda, Allan; Kansas City Brass; M; 11; 601; 1; 1; 7; 10; 2003
+Patton, Michael; Kansas City Brass; GK; 9; 740; ; ; 1; 0; 2003
+Perkins, Drew; Kansas City Brass; F; 5; 458; 5; 4; 24; 2; 2003
+Raybould, Ryan; Kansas City Brass; M; 13; 1191; 1; 3; 24; 33; 2003
+Rosenthal, Mike; Kansas City Brass; D; 12; 1101; 1; ; 7; 7; 2003
+Ryan, Blake; Kansas City Brass; M; 14; 1172; 6; 3; 31; 20; 2003
+Scheller, Lawrence; Kansas City Brass; F; 9; 757; 3; 1; 17; 16; 2003
+Sebus, Kyle; Kansas City Brass; M; 11; 860; 1; 2; 16; 6; 2003
+Shaw, Ryan; Kansas City Brass; M; 12; 876; 2; 2; 13; 12; 2003
+Snowden, Jeremy; Kansas City Brass; M; 3; 186; ; ; 0; 0; 2003
+Van Pelt, Kurt; Kansas City Brass; M; 2; 49; ; ; 0; 0; 2003
+Wyllie, James; Kansas City Brass; M; 3; 49; ; ; 0; 0; 2003
+Zobrist, Eric; Kansas City Brass; D; ; ; ; ; 0; 0; 2003
+Boltnar, Tomas; Des Moines Menace; M; 15; 1200; 14; 10; 55; 19; 2003
+Bourne, Matthew; Des Moines Menace; D; 3; 84; ; ; 2; 4; 2003
+Brackett, Benjamin; Des Moines Menace; ; 3; 78; ; ; 1; 2; 2003
+Brazeau, Daryl; Des Moines Menace; D; 17; 1546; 1; ; 10; 17; 2003
+Cuevas, Cristian; Des Moines Menace; ; 10; 644; 2; 1; 12; 3; 2003
+Disang, Edwin; Des Moines Menace; ; 11; 826; 2; 4; 30; 7; 2003
+Doss-Carter, Jason; Des Moines Menace; ; 2; 127; ; ; 1; 0; 2003
+Dukuly, Chris; Des Moines Menace; ; ; ; ; ; 0; 0; 2003
+Grau, Dustin; Des Moines Menace; F; 12; 768; 2; ; 20; 10; 2003
+Harris, Jacob; Des Moines Menace; ; 1; 10; ; ; 0; 0; 2003
+Henning, David; Des Moines Menace; D; 11; 925; ; ; 5; 4; 2003
+Jones II, John; Des Moines Menace; M; 110; 731; 6; 1; 20; 9; 2003
+Junuzovic, Adnan; Des Moines Menace; D; 12; 947; ; ; 1; 10; 2003
+Kabwe, Joseph; Des Moines Menace; ; 17; 1398; 9; 10; 36; 27; 2003
+Lovell, Peter; Des Moines Menace; ; 6; 281; 2; 1; 10; 7; 2003
+Martos, Rastislav; Des Moines Menace; GK; 1; 90; ; ; 0; 0; 2003
+Mason, Christian; Des Moines Menace; ; 6; 337; ; 1; 0; 3; 2003
+Mejias, Joseph; Des Moines Menace; ; 1; 21; ; 1; 2; 0; 2003
+Modershon, Seth; Des Moines Menace; M; ; ; ; ; 0; 0; 2003
+Mujdzic, Armin; Des Moines Menace; F; 2; 55; ; ; 2; 3; 2003
+Nickell, Matthew; Des Moines Menace; M; 5; 168; ; ; 7; 3; 2003
+O'Neil, Kris; Des Moines Menace; ; 14; 906; 4; 2; 24; 14; 2003
+Peercy, Lane; Des Moines Menace; D; 12; 1002; ; 1; 1; 12; 2003
+Redhage, Christopher; Des Moines Menace; F; 15; 1154; 2; 1; 4; 25; 2003
+Reis-Wandrey, Josh; Des Moines Menace; ; 1; 30; ; ; 0; 0; 2003
+Robinson, Chris (1); Des Moines Menace; ; 1; 19; ; ; 0; 0; 2003
+Rodrigues-Osorio, Joao; Des Moines Menace; ; 9; 609; ; ; 4; 21; 2003
+Settle, Jake; Des Moines Menace; GK; 2; 146; ; ; 0; 0; 2003
+Shirley, Stephen; Des Moines Menace; ; 14; 1194; ; 2; 12; 30; 2003
+Siberz, Jonathan; Des Moines Menace; ; ; ; ; ; 0; 0; 2003
+Sithonnorath, Khampratana; Des Moines Menace; M; 14; 745; 3; 3; 14; 14; 2003
+Tranchilla, Mike; Des Moines Menace; F; ; ; ; ; 0; 0; 2003
+Van Der Westhuizen, Warren; Des Moines Menace; ; 10; 928; ; ; 1; 1; 2003
+Wicks, Josh; Des Moines Menace; ; 7; 577; ; ; 0; 0; 2003
+Babcock, Sean; Chicago Fire Premier; M; 15; 964; 1; 1; 14; 16; 2003
+Blake, BJ; Chicago Fire Premier; F; 9; 448; ; 1; 8; 6; 2003
+Boy, Alberto; Chicago Fire Premier; ; 2; 31; ; ; 2; 0; 2003
+Brown, Gregory; Chicago Fire Premier; GK; 1; 90; 1; ; 0; 0; 2003
+Chromik, Steve; Chicago Fire Premier; D; 10; 345; 3; 1; 5; 4; 2003
+Clanton, Denny; Chicago Fire Premier; D; 14; 1207; ; ; 1; 11; 2003
+DeClute, Jacob; Chicago Fire Premier; D/M; 8; 335; ; ; 3; 1; 2003
+Dombrowski, Tighe; Chicago Fire Premier; F; 15; 1368; 7; 2; 28; 34; 2003
+Doster, Stephen; Chicago Fire Premier; D; ; ; ; ; 0; 0; 2003
+Drewry-Sutton, Jamal; Chicago Fire Premier; F; 14; 988; 1; 2; 24; 20; 2003
+Duda, Eric; Chicago Fire Premier; D; 8; 404; 4; ; 6; 6; 2003
+Dunsheath, Christopher; Chicago Fire Premier; ; 1; 90; ; ; 0; 0; 2003
+El Ahmed, Khaled; Chicago Fire Premier; ; 5; 438; ; ; 0; 6; 2003
+Grabavoy, Ned; Chicago Fire Premier; F; 15; 1098; 8; 3; 27; 16; 2003
+Grange, Patrick; Chicago Fire Premier; F; 9; 260; 3; 5; 7; 4; 2003
+Guzan, Brad; Chicago Fire Premier; ; ; ; ; ; 0; 0; 2003
+Halcrow, Ryan; Chicago Fire Premier; M; 9; 515; ; ; 2; 7; 2003
+Hamburger, Chris; Chicago Fire Premier; M; 5; 328; ; 1; 2; 3; 2003
+Harwat, Kirk; Chicago Fire Premier; F; 12; 597; 6; 2; 16; 8; 2003
+Lance, Kyle; Chicago Fire Premier; M; 1; 26; ; ; 0; 0; 2003
+Miller, Ryan; Chicago Fire Premier; F; 2; 117; 2; ; 4; 0; 2003
+Mouw, Robert; Chicago Fire Premier; F; 11; 700; 4; 4; 21; 9; 2003
+Odwell, Alexander; Chicago Fire Premier; M; 11; 584; 7; 2; 13; 11; 2003
+Pickens, Matthew; Chicago Fire Premier; GK; 16; 1503; ; ; 0; 0; 2003
+Plotkin, Brian; Chicago Fire Premier; M; 7; 526; 2; 1; 12; 6; 2003
+Pollard, Nicholas; Chicago Fire Premier; D; 8; 666; ; ; 0; 2; 2003
+Reti, Sean; Chicago Fire Premier; ; ; ; ; ; 0; 0; 2003
+Robinson, Dasan; Chicago Fire Premier; D; 12; 945; ; 1; 2; 19; 2003
+Rolfe, Christopher; Chicago Fire Premier; F; 7; 459; 3; 3; 18; 6; 2003
+Rupsis, Charles; Chicago Fire Premier; ; 1; 15; ; ; 0; 0; 2003
+Smith, Jordan; Chicago Fire Premier; D; 2; 135; ; ; 0; 2; 2003
+Strang, Brett; Chicago Fire Premier; D; 5; 397; ; 1; 4; 5; 2003
+Tanner, Kyle; Chicago Fire Premier; D; 17; 1515; 3; 1; 13; 12; 2003
+Watson, Daniel; Chicago Fire Premier; D; 2; 108; ; ; 3; 0; 2003
+Weis, Jarrod; Chicago Fire Premier; ; 2; 36; ; ; 0; 0; 2003
+Wickart, Kevin; Chicago Fire Premier; D; 11; 928; 1; 2; 11; 17; 2003
+Zayner, Jedidiah; Chicago Fire Premier; D; 5; 227; ; ; 0; 0; 2003
+Androutsos, Vasilis; Thunder Bay Chill; F; 18; 1662; 2; 3; 27; 31; 2003
+Badanai, Ron; Thunder Bay Chill; F; 18; 1585; 7; 3; 34; 27; 2003
+Blankley, Martyn; Thunder Bay Chill; D; 8; 309; 1; ; 2; 4; 2003
+Camara, Glen; Thunder Bay Chill; F; 5; 23; ; ; 0; 0; 2003
+Christey, Fitzroy; Thunder Bay Chill; M; 17; 1272; 2; 2; 14; 25; 2003
+Colistro, Dave; Thunder Bay Chill; M; 11; 248; 2; ; 5; 4; 2003
+Dhillon, Parminder; Thunder Bay Chill; M; 16; 1228; 1; ; 3; 6; 2003
+Francis, Damian; Thunder Bay Chill; D; ; ; ; ; 0; 0; 2003
+Goetting, Jordan; Thunder Bay Chill; M; 18; 1179; 2; 2; 14; 27; 2003
+Gorton, Steve; Thunder Bay Chill; D; 18; 1556; ; 1; 2; 16; 2003
+Iachetta, Nicholas; Thunder Bay Chill; M; 2; 54; ; ; 0; 2; 2003
+Iorianni, Emanuel; Thunder Bay Chill; D; 13; 152; 1; ; 6; 2; 2003
+Kolinski, Mike; Thunder Bay Chill; M; 18; 1664; 5; 5; 34; 22; 2003
+Nordin, Brett; Thunder Bay Chill; M; 15; 616; ; 2; 4; 4; 2003
+Papa, Angelo; Thunder Bay Chill; D; 1; 9; ; ; 0; 0; 2003
+Peura, Petri; Thunder Bay Chill; GK; 3; 287; ; ; 0; 0; 2003
+Pollastrone, Angelo; Thunder Bay Chill; D; 17; 1565; ; ; 1; 26; 2003
+Rose, Andrew; Thunder Bay Chill; D; 16; 953; 1; ; 4; 15; 2003
+Ruberto, Frank; Thunder Bay Chill; D; ; ; ; ; 0; 0; 2003
+Tonianse, Armen; Thunder Bay Chill; GK; 15; 1404; ; ; 0; 0; 2003
+Valente, Tony; Thunder Bay Chill; M; 18; 1177; ; 1; 3; 8; 2003
+Veneziale, Michael; Thunder Bay Chill; F; 2; 11; ; ; 0; 0; 2003
+Wesseh, Doco; Thunder Bay Chill; F; 18; 1664; 10; 3; 63; 31; 2003
+Bennett, Paul; Sioux Falls Spitfire; D; 11; 441; ; 1; 5; 6; 2003
+Bogdanov, Lubomir; Sioux Falls Spitfire; F; 16; 1294; 14; 2; 57; 16; 2003
+Cole, Justin; Sioux Falls Spitfire; ; 3; 183; ; 1; 1; 4; 2003
+De Mares-Massi, Alfonso; Sioux Falls Spitfire; M; 2; 131; ; ; 5; 4; 2003
+Guzman, Eric; Sioux Falls Spitfire; F; 3; 129; ; ; 0; 0; 2003
+Haynes, Michael; Sioux Falls Spitfire; D; 15; 1380; ; 1; 0; 8; 2003
+Hemenway, Jared; Sioux Falls Spitfire; M; 1; 7; ; ; 0; 0; 2003
+Johnson, Chris; Sioux Falls Spitfire; F; 12; 443; 2; 1; 11; 6; 2003
+Jones, Martin; Sioux Falls Spitfire; GK; 17; 1274; ; ; 0; 0; 2003
+Joseph, Roger; Sioux Falls Spitfire; M; 15; 1046; 1; 1; 11; 14; 2003
+Lascody, Douglas; Sioux Falls Spitfire; ; 18; 1330; 4; 2; 46; 35; 2003
+Lee, Shawn; Sioux Falls Spitfire; D; 16; 1176; ; 1; 13; 26; 2003
+Levesque, James; Sioux Falls Spitfire; M; 12; 991; 1; 1; 13; 11; 2003
+McCabe, Timothy; Sioux Falls Spitfire; M; 10; 408; 1; 1; 5; 3; 2003
+Miech, Jesse; Sioux Falls Spitfire; GK; 8; 349; ; ; 0; 0; 2003
+Nelson, Joel; Sioux Falls Spitfire; ; 8; 363; 3; 1; 7; 4; 2003
+Newland, Brandon; Sioux Falls Spitfire; D; 10; 493; ; ; 0; 6; 2003
+Newland, Brian; Sioux Falls Spitfire; D/M; 17; 1560; 1; ; 5; 15; 2003
+Norray, Kerry; Sioux Falls Spitfire; ; ; ; ; ; 0; 0; 2003
+Ochoa, Bernabe; Sioux Falls Spitfire; M; 16; 833; 3; 5; 13; 5; 2003
+Pederson, Brian; Sioux Falls Spitfire; D; ; 4; ; ; 0; 0; 2003
+Soyer, Tyler; Sioux Falls Spitfire; F; 1; 7; ; ; 0; 0; 2003
+Tranchilla, Mike; Sioux Falls Spitfire; F; 9; 807; 4; 5; 27; 6; 2003
+Veldhouse, Joel; Sioux Falls Spitfire; M; 10; 810; 2; 1; 29; 16; 2003
+Watson, Jonathan; Sioux Falls Spitfire; D; 18; 1573; 1; 1; 12; 6; 2003
+Wylie, Brandon; Sioux Falls Spitfire; F; 16; 940; 4; 2; 36; 6; 2003
+Bohnsacker, Aaron; Wisconsin Rebels; GK; 1; 91; ; ; 0; 0; 2003
+Bremberger, Adam; Wisconsin Rebels; ; 5; 217; ; ; 0; 0; 2003
+Brisson, Christopher; Wisconsin Rebels; M; 5; 460; ; ; 7; 4; 2003
+Chin, David; Wisconsin Rebels; ; 12; 1040; ; 1; 4; 13; 2003
+Connealy, Clint; Wisconsin Rebels; D; ; ; ; ; 0; 0; 2003
+Doyle, Terrence; Wisconsin Rebels; ; 16; 1172; ; ; 9; 11; 2003
+Dugandzic, Marko; Wisconsin Rebels; ; ; ; ; ; 0; 0; 2003
+Dziatkiewicz, Stephen; Wisconsin Rebels; ; 14; 977; ; 1; 21; 2; 2003
+Fisher, Jason; Wisconsin Rebels; ; ; ; ; ; 0; 0; 2003
+Furtsch, Trent; Wisconsin Rebels; D; 7; 644; 1; ; 12; 0; 2003
+Gehrt, Adam; Wisconsin Rebels; ; 7; 625; ; ; 1; 5; 2003
+German, Joel; Wisconsin Rebels; ; 8; 661; ; ; 7; 12; 2003
+Goerlitz, Noah; Wisconsin Rebels; ; ; ; ; ; 0; 0; 2003
+Goines, Thomas; Wisconsin Rebels; ; 14; 384; ; ; 0; 3; 2003
+Hanson, Eric; Wisconsin Rebels; ; 8; 619; ; ; 0; 0; 2003
+Hyde, David; Wisconsin Rebels; ; 10; 921; 1; 1; 2; 8; 2003
+Johnson, Jermaine; Wisconsin Rebels; ; 10; 738; 1; 2; 3; 6; 2003
+Kobussen, Matthew; Wisconsin Rebels; ; 1; 90; ; ; 0; 0; 2003
+Lish, Robert; Wisconsin Rebels; ; 4; 334; 1; ; 19; 3; 2003
+McCaughey, Cort; Wisconsin Rebels; ; 15; 1084; ; ; 7; 6; 2003
+Merzlicker, Scott; Wisconsin Rebels; ; 17; 1525; 1; ; 17; 15; 2003
+Meyer, Jerad; Wisconsin Rebels; ; 11; 418; ; 1; 6; 1; 2003
+Miller, Nicholas; Wisconsin Rebels; ; 9; 519; 1; ; 1; 4; 2003
+Morrison, Jacob; Wisconsin Rebels; ; 6; 208; 1; ; 2; 1; 2003
+Romero, Carlos; Wisconsin Rebels; ; 1; 60; 1; 1; 1; 0; 2003
+Sanchez, Eric; Wisconsin Rebels; F; 14; 940; 1; ; 9; 10; 2003
+Schmeeckle, Daniel; Wisconsin Rebels; ; ; ; ; ; 0; 0; 2003
+Sillars, Kyle; Wisconsin Rebels; ; 12; 969; 2; ; 22; 5; 2003
+Spruell, Elliott; Wisconsin Rebels; ; 2; 20; ; ; 0; 0; 2003
+Ubert, Adam; Wisconsin Rebels; ; 9; 751; ; ; 0; 0; 2003
+Vollmer, Steve; Wisconsin Rebels; ; 8; 575; ; ; 1; 5; 2003
+Wolin, Matthew; Wisconsin Rebels; ; 2; 43; ; ; 0; 0; 2003
+Zenoni, Kyle; Wisconsin Rebels; ; 7; 637; ; ; 10; 14; 2003
+Anstey, Matthew; Boulder Rapids Reserves; M; 5; 220; ; ; 7; 4; 2003
+Bowman, Scott; Boulder Rapids Reserves; F; 10; 549; 1; ; 16; 6; 2003
+Burden, Keith; Boulder Rapids Reserves; D; 1; 103; ; ; 0; 4; 2003
+Cashman, Audren; Boulder Rapids Reserves; ; 6; 358; 1; ; 4; 8; 2003
+C'Debaca, Robbie; Boulder Rapids Reserves; ; 2; 78; ; ; 1; 2; 2003
+Cronkrite, Erik; Boulder Rapids Reserves; D; 18; 1648; 2; 3; 30; 14; 2003
+Deacon, Craig; Boulder Rapids Reserves; ; 7; 160; 1; ; 1; 5; 2003
+Eriksen, Stian; Boulder Rapids Reserves; ; 12; 872; 1; 1; 13; 2; 2003
+Fink, Roy; Boulder Rapids Reserves; F; 14; 1001; 3; 3; 31; 18; 2003
+Folbrycht, Robert; Boulder Rapids Reserves; D; 17; 1590; ; 3; 12; 28; 2003
+Fonseca, Kirk; Boulder Rapids Reserves; ; 1; 55; ; ; 0; 1; 2003
+Goodson, Clarence; Boulder Rapids Reserves; ; 12; 1030; 1; ; 9; 12; 2003
+Guante-Vasquez, Miguel; Boulder Rapids Reserves; ; ; ; ; ; 0; 0; 2003
+Hartman, Nick; Boulder Rapids Reserves; M; 10; 532; ; 1; 4; 7; 2003
+Hobbs, Gavin; Boulder Rapids Reserves; ; 7; 243; ; ; 2; 5; 2003
+Hutton, Martin; Boulder Rapids Reserves; GK; 5; 382; ; ; 0; 1; 2003
+Janusz, Matthew; Boulder Rapids Reserves; ; ; ; ; ; 0; 0; 2003
+Lampert, Joseph; Boulder Rapids Reserves; D; 18; 1616; 3; ; 17; 18; 2003
+Lowder, Justin; Boulder Rapids Reserves; ; 4; 321; ; ; 0; 6; 2003
+McCausland, Matthew; Boulder Rapids Reserves; M; 5; 155; ; ; 0; 0; 2003
+Merritt, Tim; Boulder Rapids Reserves; M; 16; 1400; ; ; 6; 14; 2003
+Moss, Brandon; Boulder Rapids Reserves; D; 3; 264; ; ; 0; 2; 2003
+Robles, Luis; Boulder Rapids Reserves; GK; 14; 1293; ; ; 0; 0; 2003
+Ryan, Marcus; Boulder Rapids Reserves; M; ; ; ; ; 0; 0; 2003
+Salazar, Alejandro; Boulder Rapids Reserves; F; 4; 316; 2; ; 6; 4; 2003
+Smith, Jarrod; Boulder Rapids Reserves; F; 14; 1033; 9; 1; 29; 24; 2003
+Stevens, Benjamin; Boulder Rapids Reserves; ; 3; 21; ; ; 0; 0; 2003
+Thompson, Abe; Boulder Rapids Reserves; ; 4; 223; 1; 1; 14; 1; 2003
+Thompson, Jason; Boulder Rapids Reserves; M; 4; 240; 1; ; 7; 9; 2003
+Wagenfuhr, David; Boulder Rapids Reserves; M; 14; 1044; 2; 2; 23; 18; 2003
+Wellen, Mark; Boulder Rapids Reserves; M; 11; 837; ; ; 0; 7; 2003
+Wilson, Kevin; Boulder Rapids Reserves; D; 9; 761; ; ; 1; 9; 2003
+Alberts, Jay; St. Louis Strikers; F; 8; 470; 1; ; 6; 7; 2003
+Bayne, Lethon; St. Louis Strikers; D; 7; 614; 1; 1; 2; 5; 2003
+Bujarski, Stephen; St. Louis Strikers; M; 5; 256; 1; ; 6; 4; 2003
+Caution, Matthew; St. Louis Strikers; M; 2; 140; 1; 2; 4; 2; 2003
+Costello, Ken; St. Louis Strikers; D; 2; 180; ; ; 0; 4; 2003
+DiMaria, Jeffrey; St. Louis Strikers; ; 5; 469; ; 2; 4; 6; 2003
+Ernst, Chance; St. Louis Strikers; ; 6; 505; ; ; 2; 6; 2003
+Evers, Matthew; St. Louis Strikers; GK; 6; 380; 1; ; 1; 1; 2003
+Fusz, Peter; St. Louis Strikers; M; 1; 20; ; ; 0; 0; 2003
+Guffey, Daniel; St. Louis Strikers; D; 6; 330; ; ; 3; 1; 2003
+Hoff, Matthew; St. Louis Strikers; F; 7; 470; 1; 1; 12; 6; 2003
+Hopson, Kyle; St. Louis Strikers; M; 15; 1063; 6; 4; 14; 11; 2003
+Ibisevic, Vedad; St. Louis Strikers; F; 4; 374; 1; 3; 16; 10; 2003
+Kafedzic, Elvir; St. Louis Strikers; F; 6; 397; 4; 1; 12; 4; 2003
+Kirchoff, Michael; St. Louis Strikers; M; 12; 1063; 1; ; 3; 8; 2003
+Kreamalmeyer, Luke; St. Louis Strikers; ; 7; 550; 3; 1; 8; 5; 2003
+Lamping, John; St. Louis Strikers; D; 15; 1244; ; 1; 0; 9; 2003
+Matteson, Alex; St. Louis Strikers; F; 6; 509; 1; ; 2; 7; 2003
+McKee, Cooper; St. Louis Strikers; M; 5; 328; ; 1; 1; 7; 2003
+Pancio, Andrew; St. Louis Strikers; ; 6; 442; ; 1; 1; 2; 2003
+Pollard, Nicholas; St. Louis Strikers; ; 11; 1024; ; ; 1; 7; 2003
+Pusateri, Andrew; St. Louis Strikers; M; 6; 535; ; 1; 1; 4; 2003
+Quattrocchi, Ian; St. Louis Strikers; F; 16; 1272; 8; 2; 30; 18; 2003
+Quigley, Kevin; St. Louis Strikers; F; 9; 576; 3; 3; 14; 9; 2003
+Rique, Addae; St. Louis Strikers; M; 4; 351; ; ; 3; 5; 2003
+Robinson, Colin; St. Louis Strikers; ; ; ; ; ; 0; 0; 2003
+Sa Freire, Thiago; St. Louis Strikers; M; 1; 45; ; ; 1; 0; 2003
+Santel, Mark; St. Louis Strikers; ; ; ; ; ; 0; 0; 2003
+Schreck, Joshua; St. Louis Strikers; GK; 15; 1367; ; ; 0; 1; 2003
+Spiess, Casey; St. Louis Strikers; M; 1; 45; ; ; 0; 1; 2003
+Stremlau, John; St. Louis Strikers; ; 1; 29; ; ; 0; 0; 2003
+Thibodeau, Kevin; St. Louis Strikers; M; 11; 686; ; ; 1; 12; 2003
+Ward, James; St. Louis Strikers; ; 6; 247; ; 1; 1; 1; 2003
+Zarzecki, Lee; St. Louis Strikers; ; 10; 889; 2; 2; 12; 14; 2003
+Avren, Matthew; Raleigh CASL Elite; ; 14; 1001; ; ; 9; 9; 2003
+Baltz, Richard; Raleigh CASL Elite; GK; 6; 252; ; ; 1; 1; 2003
+Branch, Justin; Raleigh CASL Elite; D; 18; 1057; 2; 2; 18; 13; 2003
+Brown, Matt; Raleigh CASL Elite; GK; ; ; ; ; 0; 0; 2003
+Buehler, David; Raleigh CASL Elite; D; 17; 1552; 3; 2; 15; 21; 2003
+Catlett, Chris; Raleigh CASL Elite; D; 4; 159; ; ; 1; 0; 2003
+Currey, Adam; Raleigh CASL Elite; M; 8; 461; ; ; 4; ; 2003
+Deter, Ryan; Raleigh CASL Elite; ; 6; 234; 2; ; 6; 0; 2003
+Fortier, Michael; Raleigh CASL Elite; D; ; ; ; ; 0; 0; 2003
+Fragakis, Michael; Raleigh CASL Elite; D; 10; 940; ; ; 0; 17; 2003
+Fumo, Raymond; Raleigh CASL Elite; M; 8; 518; 1; ; 9; 4; 2003
+Hollinger, Stephen; Raleigh CASL Elite; D; 11; 951; ; 1; 1; 6; 2003
+Hughes, Justin S.; Raleigh CASL Elite; ; 3; 270; ; ; 0; 0; 2003
+Izzo, John; Raleigh CASL Elite; M; 17; 1407; 4; 3; 27; 55; 2003
+Maxwell, Benjamin; Raleigh CASL Elite; ; 5; 108; ; ; 0; 2; 2003
+Moore, Matthew; Raleigh CASL Elite; M; 4; 75; ; ; 0; 0; 2003
+Nicholson, Keith; Raleigh CASL Elite; ; 1; 19; ; ; 1; 0; 2003
+Norbet, Chris; Raleigh CASL Elite; F; 17; 1366; 7; ; 45; 10; 2003
+Odgers, Edward; Raleigh CASL Elite; M; 11; 759; ; ; 7; 10; 2003
+O'Neil, Bryan; Raleigh CASL Elite; D; ; ; ; ; 0; 0; 2003
+Perfect, Chase; Raleigh CASL Elite; M; 9; 311; 1; ; 2; 1; 2003
+Porter, Grant; Raleigh CASL Elite; ; 7; 539; ; ; 2; 11; 2003
+Sartorio, David; Raleigh CASL Elite; ; ; ; ; ; 0; 0; 2003
+Schwartzenberger, Gregory; Raleigh CASL Elite; D; 14; 972; ; ; 11; 9; 2003
+Shaughness, Mike; Raleigh CASL Elite; GK; ; ; ; ; 0; 0; 2003
+Simms, Clyde; Raleigh CASL Elite; M; 17; 1327; 2; 1; 33; 8; 2003
+Smith, Blake; Raleigh CASL Elite; M; 2; 115; ; ; 1; 1; 2003
+Steuck, Chad; Raleigh CASL Elite; M; 11; 922; ; ; 2; 7; 2003
+Williams, Crawford; Raleigh CASL Elite; GK; 14; 1273; ; ; 0; 0; 2003
+Wisdo, Joel; Raleigh CASL Elite; ; 15; 1269; ; ; 11; 5; 2003
+Ahmad, Ashraf; West Virginia Chaos; M; 9; 500; ; ; 4; 6; 2003
+Anderhov, Andreas; West Virginia Chaos; ; 7; 451; ; 1; 6; 4; 2003
+Birkelbach, John; West Virginia Chaos; D/M; 15; 1198; ; ; 4; 10; 2003
+Boukhemis, Karim; West Virginia Chaos; M/F; 4; 256; 1; ; 2; 5; 2003
+Bracher, Stuart; West Virginia Chaos; F; 14; 1240; 5; 5; 32; 28; 2003
+Broyles, Mark; West Virginia Chaos; ; ; ; ; ; 0; 0; 2003
+Burnworth, John; West Virginia Chaos; D/M; 2; 112; ; ; 0; 0; 2003
+Chavolla, Benjamin; West Virginia Chaos; M/F; 13; 754; 2; ; 9; 10; 2003
+Cummons, Brandon; West Virginia Chaos; D; 13; 760; 1; ; 1; 10; 2003
+Dirou, Paul; West Virginia Chaos; D; 15; 1240; ; ; 6; 16; 2003
+Freeman, Justin; West Virginia Chaos; D; 15; 1154; ; ; 10; 15; 2003
+Harrison, Karry; West Virginia Chaos; ; 10; 553; ; ; 1; 1; 2003
+Jenkins, Ryan; West Virginia Chaos; M/F; 14; 891; 1; 2; 4; 7; 2003
+Johns, Joseph; West Virginia Chaos; ; 7; 300; ; ; 2; 2; 2003
+Kehoe, Steven; West Virginia Chaos; D; 16; 1482; ; ; 4; 24; 2003
+Lockney, Dustin; West Virginia Chaos; M; 8; 299; ; ; 0; 5; 2003
+Maddox, Brad; West Virginia Chaos; M/F; ; ; ; ; 0; 0; 2003
+McKinney, Christopher; West Virginia Chaos; GK; 12; 780; ; ; 3; 0; 2003
+McKinney, Jeffrey; West Virginia Chaos; ; 15; 847; ; ; 0; 5; 2003
+Mouratidis, Kosmas; West Virginia Chaos; M; 13; 814; 1; ; 5; 12; 2003
+Nebel, Joe; West Virginia Chaos; GK; 6; 472; ; ; 0; 0; 2003
+Schubert, Hans; West Virginia Chaos; M; 16; 1383; 1; ; 19; 14; 2003
+Taskas, Carl; West Virginia Chaos; D; 5; 105; 1; ; 1; 2; 2003
+Ward, Evan; West Virginia Chaos; M; ; ; ; ; 0; 0; 2003
+White, John; West Virginia Chaos; D; 4; 358; ; ; 1; 2; 2003
+Whittaker, Thomas; West Virginia Chaos; M/F; 15; 1329; 3; 1; 22; 29; 2003
+Young, Brian; West Virginia Chaos; M; 9; 632; 1; 2; 5; 5; 2003
+Borel, Kurt; Chesapeake Dragons; ; 9; 706; 2; 3; 20; 12; 2003
+Butler, Danny; Chesapeake Dragons; F; 2; 160; ; ; 1; 0; 2003
+Carrizales, Marco; Chesapeake Dragons; ; 11; 910; ; ; 10; 18; 2003
+Dello-Russo, Michael; Chesapeake Dragons; ; 1; 78; ; ; 1; 1; 2003
+Dyer, Jon; Chesapeake Dragons; ; 1; 11; ; ; 0; 0; 2003
+Dyer, Justin; Chesapeake Dragons; ; 2; 103; ; ; 0; 2; 2003
+Emanuel, Steven; Chesapeake Dragons; ; 13; 735; 2; ; 12; 15; 2003
+Gable, Timothy; Chesapeake Dragons; ; 13; 965; ; ; 2; 9; 2003
+Gaul, Justin; Chesapeake Dragons; ; 8; 728; ; ; 0; 0; 2003
+Hale, Samuel; Chesapeake Dragons; ; 10; 475; 1; ; 9; 11; 2003
+Herrera, Angelo; Chesapeake Dragons; ; ; ; ; ; 0; 0; 2003
+Hoeck, Stephen; Chesapeake Dragons; ; 3; 273; ; ; 3; 11; 2003
+Hunte, Dia; Chesapeake Dragons; ; 12; 924; 2; 1; 19; 17; 2003
+Kelly, Roy; Chesapeake Dragons; ; 13; 802; ; ; 2; 5; 2003
+Lewis, Keston; Chesapeake Dragons; ; 4; 168; ; ; 3; 6; 2003
+Lookingland, Michael; Chesapeake Dragons; ; 12; 1009; ; 1; 1; 5; 2003
+Mahon, Eric; Chesapeake Dragons; ; 14; 976; ; ; 4; 17; 2003
+Marcantonio, Nino; Chesapeake Dragons; ; 5; 386; 2; 1; 10; 4; 2003
+McEachron, Trevor; Chesapeake Dragons; ; 13; 1136; ; 1; 1; 18; 2003
+McElligott, Derek; Chesapeake Dragons; ; 6; 385; 3; 1; 10; 3; 2003
+Mezzadra, Kevin; Chesapeake Dragons; ; 3; 265; ; ; 3; 0; 2003
+Murphy, Mark; Chesapeake Dragons; ; 10; 795; ; ; 0; 1; 2003
+Nastalski, Adam; Chesapeake Dragons; ; 12; 790; 1; ; 2; 13; 2003
+Parra, Carlos; Chesapeake Dragons; ; 4; 306; ; ; 1; 1; 2003
+Philips, Derek; Chesapeake Dragons; ; 5; 399; ; ; 6; 9; 2003
+Rodway, Ian; Chesapeake Dragons; ; 8; 642; ; 1; 11; 8; 2003
+Scarfield, Brendon; Chesapeake Dragons; ; 1; 40; ; ; 1; 0; 2003
+Sharifaie, Poya; Chesapeake Dragons; ; 3; 93; ; ; 0; 1; 2003
+Vitagliano, Bryan; Chesapeake Dragons; ; 6; 500; 2; ; 7; 0; 2003
+Wolcott, Brian; Chesapeake Dragons; ; 9; 415; 2; 1; 5; 2; 2003
+Wood, Scott; Chesapeake Dragons; ; 10; 515; 1; ; 2; 1; 2003
+Bass, Joseph; Richmond Kickers Future; D; 2; 23; ; ; 0; 0; 2003
+Butler, Andrew; Richmond Kickers Future; D; 5; 304; ; ; 0; 6; 2003
+Cephas, McColm; Richmond Kickers Future; F; 12; 1007; 8; 1; 47; 15; 2003
+Corrales, Armando; Richmond Kickers Future; M; 14; 916; ; 2; 4; 15; 2003
+Creasman, Bartley; Richmond Kickers Future; GK; 4; 270; ; ; 0; 0; 2003
+Davies, Christopher; Richmond Kickers Future; M; 11; 669; ; ; 6; 12; 2003
+Delicate, Matthew; Richmond Kickers Future; F; 17; 1387; 15; 2; 41; 9; 2003
+Depcrynski, Andrew; Richmond Kickers Future; F; 6; 127; ; ; 2; 2; 2003
+Djordjevic, Miloward; Richmond Kickers Future; D; 4; 380; ; ; 4; 8; 2003
+Douglas, Stephen; Richmond Kickers Future; F; 8; 239; 1; 1; 10; 4; 2003
+Ferriter, Daniel; Richmond Kickers Future; F; 3; 57; ; ; 2; 1; 2003
+Fisher, Micah; Richmond Kickers Future; M; 9; 241; ; ; 5; 2; 2003
+Garay-Ortega, Carlos; Richmond Kickers Future; M/F; 12; 1078; 2; 1; 14; 7; 2003
+Greiner, Cory; Richmond Kickers Future; M; 16; 1227; ; ; 6; 18; 2003
+Hare, Jeff; Richmond Kickers Future; D; 13; 1134; 2; 1; 8; 19; 2003
+Hartman, John; Richmond Kickers Future; D; 17; 1496; ; 2; 11; 28; 2003
+Hignett, Chris; Richmond Kickers Future; M; ; ; ; ; 0; 0; 2003
+Hill, Zane; Richmond Kickers Future; M; 7; 410; 1; 1; 12; 11; 2003
+Hogan, Timothy; Richmond Kickers Future; GK; 4; 270; ; ; 0; 0; 2003
+Knighton, Brad; Richmond Kickers Future; GK; ; ; ; ; 0; 0; 2003
+Kurspahic, Mirza; Richmond Kickers Future; M; 14; 636; 1; ; 8; 3; 2003
+Logan, Michael; Richmond Kickers Future; D/M; 7; 168; ; 2; 1; 5; 2003
+Nall, Justin; Richmond Kickers Future; D; 7; 292; ; ; 0; 2; 2003
+Neagu, Christian; Richmond Kickers Future; M/F; 16; 1468; 3; 1; 17; 25; 2003
+O'Hara, John; Richmond Kickers Future; GK; 12; 1108; ; ; 0; 0; 2003
+Pauls, Mathew; Richmond Kickers Future; M; 16; 1397; 6; 5; 34; 14; 2003
+Swann, Ben; Richmond Kickers Future; D; 7; 219; ; ; 0; 8; 2003
+Thelen, Scott; Richmond Kickers Future; M; 5; 404; 1; 1; 6; 10; 2003
+Vidmar, Joseph; Richmond Kickers Future; D/M; 12; 965; ; 3; 6; 10; 2003
+Wolfe, Steven; Richmond Kickers Future; M/F; 3; 61; ; 1; 0; 3; 2003
+Albert, Graham; Williamsburg Legacy; M; 18; 1655; 4; 1; 26; 19; 2003
+Brown, Arthur; Williamsburg Legacy; D; 17; 1458; ; ; 13; 18; 2003
+Butler, Richard; Williamsburg Legacy; D; 4; 112; ; 1; 1; 0; 2003
+Connelly, John; Williamsburg Legacy; GK; 8; 593; ; ; 0; 0; 2003
+Garcia-Dominguez, Carlos; Williamsburg Legacy; F; 10; 782; 6; 5; 45; 19; 2003
+Hansen, Matthew; Williamsburg Legacy; D; 3; 64; ; ; 0; 1; 2003
+Hinkle, Bryan; Williamsburg Legacy; M; 17; 1485; 1; ; 9; 11; 2003
+Howe, Charlie; Williamsburg Legacy; M; 10; 739; ; ; 8; 5; 2003
+Kaila, Ian; Williamsburg Legacy; D; 11; 952; ; ; 5; 13; 2003
+Madrid, Christopher; Williamsburg Legacy; M; 7; 159; ; ; 0; 5; 2003
+Madrid, Justin; Williamsburg Legacy; M; 8; 149; ; ; 1; 3; 2003
+Matute, Helmis; Williamsburg Legacy; M; 16; 1327; ; 4; 19; 5; 2003
+Nagle, George; Williamsburg Legacy; ; ; ; ; ; 0; 0; 2003
+O'Brien, Robert (Bobby); Williamsburg Legacy; F; 16; 1124; 7; 4; 35; 24; 2003
+Palmer, Noah; Williamsburg Legacy; GK; 13; 1077; ; ; 0; 0; 2003
+Radovanovic, Dusan; Williamsburg Legacy; ; 5; 375; ; ; 2; 8; 2003
+Segares-Gonzalez, Gonzalo; Williamsburg Legacy; D; 5; 430; ; 1; 4; 13; 2003
+Shumate, Brian; Williamsburg Legacy; GK; ; ; ; ; 0; 0; 2003
+Thomas, Brannon; Williamsburg Legacy; F; 9; 795; 3; 2; 23; 8; 2003
+Ugarte-Palma, Randy; Williamsburg Legacy; M; 6; 492; 1; 1; 29; 13; 2003
+Umana-Romero, Jose; Williamsburg Legacy; M; 17; 1509; 3; 3; 12; 16; 2003
+Voss, Clayton; Williamsburg Legacy; M; 17; 1453; 2; ; 23; 13; 2003
+Wendell, Dane; Williamsburg Legacy; D; 6; 245; ; ; 2; 3; 2003
+Wright, Robbie; Williamsburg Legacy; D; 15; 1338; 7; 2; 26; 18; 2003
+Abraham, Rhett; Greenville Lions; ; ; ; ; ; 0; 0; 2003
+Bilotta, Domenico; Greenville Lions; M; 1; 69; ; ; 0; 1; 2003
+Branan, Brett; Greenville Lions; D; 14; 1188; 1; 1; 6; 15; 2003
+Bringsved, Oskar; Greenville Lions; ; 9; 738; 1; ; 3; 15; 2003
+Brown, Kyle; Greenville Lions; D/M; 3; 243; ; 1; 3; 3; 2003
+Bruce, Haven; Greenville Lions; F; 15; 1095; 7; 2; 29; 20; 2003
+Cronin, McNeil; Greenville Lions; D; 9; 820; ; ; 2; 13; 2003
+Crotts, Walter Clay; Greenville Lions; M; 2; 64; ; ; 0; 1; 2003
+Cutler, Kenny; Greenville Lions; M; 10; 800; 1; ; 3; 5; 2003
+Domenick, Matt; Greenville Lions; D; 2; 36; ; ; 0; 2; 2003
+Ferriter, Michael; Greenville Lions; M; 5; 157; ; ; 1; 5; 2003
+Gibson, Bradley; Greenville Lions; D/M; 16; 1443; 2; 2; 19; 20; 2003
+Gilstrap, Richard Hunter; Greenville Lions; GK; 6; 547; ; ; 0; 0; 2003
+Grigsby, Joey; Greenville Lions; M; 15; 1190; 2; ; 5; 17; 2003
+Hansell, James; Greenville Lions; F; 15; 754; ; 1; 16; 20; 2003
+Hoch, Scott; Greenville Lions; F; 6; 475; 1; 1; 7; 14; 2003
+Kato, Hajime,; Greenville Lions; M; 14; 623; ; ; 8; 7; 2003
+Lawler, Joseph; Greenville Lions; F; 4; 360; 1; ; 1; 6; 2003
+Lee Yaw, Jerome; Greenville Lions; F; 2; 180; ; ; 2; 2; 2003
+Molina-Benito, Andrew; Greenville Lions; F; 14; 814; 3; 2; 11; 25; 2003
+Moncrief, Brandon; Greenville Lions; D; 8; 565; ; ; 2; 14; 2003
+Rafique, Samir; Greenville Lions; F; 5; 125; ; ; 1; 2; 2003
+Roberts, Charles; Greenville Lions; F; 4; 260; 1; ; 9; 6; 2003
+Simonson, Chris; Greenville Lions; GK; 2; 171; ; ; 0; 0; 2003
+Stovall, Anthony; Greenville Lions; M; 12; 809; 1; 1; 16; 11; 2003
+Stovall, David; Greenville Lions; M; 2; 114; ; ; 0; 1; 2003
+Tucker, Taylor; Greenville Lions; GK; 11; 873; ; ; 0; 0; 2003
+Ulrich, Todd; Greenville Lions; D; 10; 602; ; ; 1; 14; 2003
+Vacca-Bultrago, Diego; Greenville Lions; D; 14; 1128; ; ; 2; 25; 2003
+Valesky, Andrew; Greenville Lions; D; 2; 20; 1; ; 1; 1; 2003
+Wood, Thomas; Greenville Lions; F; ; ; ; ; 0; 0; 2003
+Armington, Nicholas; Cape Cod Crusaders; GK; ; ; ; ; 0; 0; 2003
+Bonomo, Jeremy; Cape Cod Crusaders; D; 10; 633; ; ; 1; 3; 2003
+Boudreau, Keith; Cape Cod Crusaders; GK; 10; 866; ; ; 0; 0; 2003
+Brillant, Felix; Cape Cod Crusaders; F; 9; 417; 1; 1; 3; 7; 2003
+Bulow, David; Cape Cod Crusaders; F; 18; 1321; 15; 3; 53; 18; 2003
+Chase, Paul; Cape Cod Crusaders; D; 13; 1142; 1; 2; 9; 18; 2003
+Chicco, Nicola; Cape Cod Crusaders; F; 3; 36; 1; ; 2; 0; 2003
+Flakes, Phillip; Cape Cod Crusaders; D; 12; 927; ; ; 5; 5; 2003
+Lynch, Eoin; Cape Cod Crusaders; M/F; 13; 544; 3; 1; 9; 4; 2003
+McNutt, Martin; Cape Cod Crusaders; D; 6; 443; ; ; 2; 6; 2003
+Ncube, Thucanil; Cape Cod Crusaders; D/M; 12; 958; ; 1; 6; 18; 2003
+Ndlovu, Methembe; Cape Cod Crusaders; M; 11; 786; ; 1; 3; 18; 2003
+Ngwenya, Joseph; Cape Cod Crusaders; F; 13; 963; 17; 2; 45; 11; 2003
+O'Reilly, John; Cape Cod Crusaders; D; 5; 401; ; ; 1; 1; 2003
+Palguta, Scott; Cape Cod Crusaders; D; 15; 1336; 2; 1; 7; 15; 2003
+Perkins, Troy; Cape Cod Crusaders; GK; 8; 760; ; ; 0; 0; 2003
+Pfeifer, Adam; Cape Cod Crusaders; M/F; 18; 1312; 7; 2; 27; 16; 2003
+Pilarski, Ian; Cape Cod Crusaders; D; 17; 1286; 2; 9; 33; 8; 2003
+Quinn, Damien; Cape Cod Crusaders; D/M; 10; 879; 3; 2; 9; 14; 2003
+Reuter, Steve; Cape Cod Crusaders; M; 17; 1256; 5; 1; 25; 15; 2003
+Risley, Kenneth; Cape Cod Crusaders; D; 4; 301; ; ; 0; 2; 2003
+Sharkey, Lee; Cape Cod Crusaders; ; ; ; ; ; 0; 0; 2003
+Tornaritis, Anthony; Cape Cod Crusaders; M; ; ; ; ; 0; 0; 2003
+Tornaritis, Nicholas; Cape Cod Crusaders; M; 2; 66; ; ; 2; 3; 2003
+Vercollone, Luke; Cape Cod Crusaders; M; 18; 1609; 5; 5; 25; 24; 2003
+Weber, Andrew; Cape Cod Crusaders; GK; 1; 34; ; ; 0; 0; 2003
+Bajek, Gregory; Jersey Falcons; ; 14; 1072; 2; 5; 10; 5; 2003
+Bak, Rafal; Jersey Falcons; ; 10; 828; ; ; 1; 0; 2003
+Bodyziak, Majiec; Jersey Falcons; D; 3; 185; ; ; 0; 3; 2003
+DeMartini, Matthew; Jersey Falcons; M/F; 8; 555; ; ; 3; 2; 2003
+Gorgurewicz, Piotr; Jersey Falcons; ; 13; 822; ; ; 8; 8; 2003
+Gula, Slawomir; Jersey Falcons; ; 10; 796; 10; 2; 21; 9; 2003
+Halupka, Krzysztof; Jersey Falcons; D/M; 17; 1526; ; ; 6; 16; 2003
+Janiczak, Wojciech; Jersey Falcons; ; ; ; ; ; 0; 0; 2003
+Levinson, Nikolas; Jersey Falcons; ; 3; 270; 1; ; 6; 1; 2003
+Matlijoski, Goran; Jersey Falcons; ; 3; 199; 2; ; 5; 0; 2003
+McGowan, Ryan; Jersey Falcons; ; 8; 669; 2; ; 5; 9; 2003
+Mustac, Peterias; Jersey Falcons; M/F; 10; 880; 4; ; 19; 15; 2003
+Niziolek, Derik; Jersey Falcons; M/F; 11; 923; 1; 2; 7; 10; 2003
+Niziolek, Teddy; Jersey Falcons; ; 14; 1247; 1; ; 9; 5; 2003
+Paluch, Marcin; Jersey Falcons; ; 11; 914; ; ; 0; 0; 2003
+Serafin, Luke; Jersey Falcons; M; 3; 225; ; ; 0; 1; 2003
+Stykala, Jaroslaw; Jersey Falcons; D; 10; 855; ; ; 0; 4; 2003
+Swenda, Phillip (Phil); Jersey Falcons; F; 11; 956; 2; 1; 16; 15; 2003
+Szetela, Gregory; Jersey Falcons; D; 6; 396; ; ; 3; 8; 2003
+Szuflita, Tomasz; Jersey Falcons; ; 13; 1133; ; ; 3; 15; 2003
+Welham, Stephen; Jersey Falcons; GK; ; ; ; ; 0; 0; 2003
+Wyciszkiewicz, Zbigniew; Jersey Falcons; ; 1; 90; ; ; 0; 4; 2003
+Wygonik, Tomasz; Jersey Falcons; D; 12; 944; 1; ; 8; 10; 2003
+Zulic, Eldar; Jersey Falcons; ; 17; 1464; ; 3; 8; 9; 2003
+Annan, Gregg; Jersey Shore Boca; M; ; ; ; ; 0; 0; 2003
+Annan-Tweh, Dan; Jersey Shore Boca; M; 8; 540; 4; 2; 10; 5; 2003
+Ara, Kevin; Jersey Shore Boca; M; 7; 538; 1; 1; 19; 6; 2003
+Auckland, Jared; Jersey Shore Boca; F; ; ; ; ; 0; 0; 2003
+Carrozza, John; Jersey Shore Boca; ; 7; 511; 1; ; 13; 10; 2003
+Cottrell, Andrew; Jersey Shore Boca; ; 8; 585; ; ; 0; 3; 2003
+Curtis, Adam; Jersey Shore Boca; D; 9; 828; ; ; 3; 13; 2003
+David, John; Jersey Shore Boca; M; 2; 164; 1; ; 2; 1; 2003
+Davis, Jamie; Jersey Shore Boca; D; 2; 82; ; ; 0; 1; 2003
+Decker, Edward; Jersey Shore Boca; D; 10; 927; ; 1; 1; 19; 2003
+Elliot, Christopher; Jersey Shore Boca; D; ; ; ; ; 0; 0; 2003
+Gaven, James; Jersey Shore Boca; ; 8; 510; ; ; 0; 4; 2003
+Gretton, Andrew; Jersey Shore Boca; GK; 2; 180; ; ; 0; 0; 2003
+Hayes, Michael; Jersey Shore Boca; F; 7; 448; 2; 1; 13; 2; 2003
+Howard, Mary Helen; Jersey Shore Boca; D/M; ; ; ; ; 0; 0; 2003
+Kansu, Kemal; Jersey Shore Boca; F; 5; 243; ; ; 6; 6; 2003
+Konopka, Chris; Jersey Shore Boca; GK; ; ; ; ; 0; 0; 2003
+Kutney, Jason; Jersey Shore Boca; M; 10; 798; ; ; 3; 5; 2003
+Lewis, Jared; Jersey Shore Boca; D; 1; 90; ; ; 0; 1; 2003
+Masuhr, Kenneth; Jersey Shore Boca; M; 1; 45; ; ; 0; 0; 2003
+Nelson, Jamie; Jersey Shore Boca; F; 3; 61; ; ; 0; 0; 2003
+Pardo, Cristian; Jersey Shore Boca; D; 1; 90; ; ; 0; 1; 2003
+Poznanski, Thomas; Jersey Shore Boca; M; 9; 478; 3; ; 12; 2; 2003
+Scheer, Richard; Jersey Shore Boca; ; 1; 90; ; ; 0; 0; 2003
+Schneider, Ariel; Jersey Shore Boca; M; 10; 946; 2; 1; 5; 8; 2003
+Severs, Chad; Jersey Shore Boca; F; 4; 394; 3; 1; 8; 1; 2003
+Sthay, Adam; Jersey Shore Boca; GK; 9; 811; ; ; 0; 0; 2003
+Tripicchio, Gianfranco; Jersey Shore Boca; M; 6; 523; 1; 2; 6; 10; 2003
+Vasilakis, George; Jersey Shore Boca; GK; 1; 90; ; ; 0; 0; 2003
+Vaudreuil, David; Jersey Shore Boca; D; 12; 1010; 1; 1; 4; 9; 2003
+Woodley, Damien; Jersey Shore Boca; F; 11; 893; 3; ; 12; 19; 2003
+Benson, Mark; Vermont Voltage; ; 5; 352; ; ; 3; 11; 2003
+Bronner, Corey; Vermont Voltage; ; 5; 142; ; ; 2; 2; 2003
+DeZotell, Kyle; Vermont Voltage; M; 13; 588; 2; ; 9; 7; 2003
+Diallo, Thierno; Vermont Voltage; ; 8; 529; ; ; 0; 10; 2003
+Ellsworth, Oliver; Vermont Voltage; M; 11; 622; 1; 2; 12; 11; 2003
+Handy, Anthony; Vermont Voltage; GK; ; ; ; ; 0; 0; 2003
+Hutchins, Ethan; Vermont Voltage; M; 3; 108; ; ; 0; 1; 2003
+Obradovic, Srdjan; Vermont Voltage; ; 8; 622; ; 1; 5; 10; 2003
+Occean, Olivier; Vermont Voltage; F; 17; 1545; 9; 4; 44; 21; 2003
+Olivieri, Andrew; Vermont Voltage; GK; 15; 1421; ; ; 0; 0; 2003
+Popovic, Milenko; Vermont Voltage; M; 10; 916; 1; 5; 11; 16; 2003
+Randall, Joseph; Vermont Voltage; D; 11; 328; ; ; 0; 8; 2003
+Remey, Kofi; Vermont Voltage; M; 17; 1453; 1; ; 10; 7; 2003
+Riquelme-Gutierrez, Sergio; Vermont Voltage; D; 2; 46; ; ; 0; 2; 2003
+Rusten, John; Vermont Voltage; D; ; ; ; ; 0; 0; 2003
+Savaria, Mathieu; Vermont Voltage; D; 16; 1497; ; 1; 0; 11; 2003
+Self, Robert; Vermont Voltage; ; 7; 548; 1; 1; 4; 17; 2003
+Simic, Bozidar; Vermont Voltage; D; 17; 1505; 2; 6; 39; 25; 2003
+Sullivan, David; Vermont Voltage; ; 2; 200; ; ; 0; 0; 2003
+Thompson, Geoff; Vermont Voltage; ; 6; 404; 1; 4; 12; 5; 2003
+Tomaro, Paul; Vermont Voltage; D; 16; 1515; ; ; 1; 13; 2003
+Vuckovic, Bojan; Vermont Voltage; D; 17; 1619; 17; 5; 60; 33; 2003
+Vuckovic, Branko; Vermont Voltage; F; 14; 456; 1; ; 9; 10; 2003
+Wagner, Jason; Vermont Voltage; M; 12; 566; ; ; 6; 5; 2003
+Zura, Christopher; Vermont Voltage; M; 9; 763; ; ; 1; 8; 2003
+Antunes-Silva, Indalecio; Rhode Island Stingrays; M; 14; 1164; 16; 4; 42; 12; 2003
+Boras, Matthew; Rhode Island Stingrays; ; 1; 4; ; ; 0; 0; 2003
+Brito, Emanuel; Rhode Island Stingrays; M; 17; 1517; 5; 3; 14; 19; 2003
+Carmona-Hoyas, Giovanni; Rhode Island Stingrays; M; 9; 280; ; 2; 1; 4; 2003
+De Pina-Rodrigues, Nathaniel; Rhode Island Stingrays; D; 12; 863; ; ; 0; 6; 2003
+Fernandes, Carlos; Rhode Island Stingrays; F; 18; 1693; 1; ; 4; 15; 2003
+Fernandes, Narciso; Rhode Island Stingrays; F; 17; 1495; 6; 5; 46; 24; 2003
+Figueiredo, Benjamin; Rhode Island Stingrays; M; 9; 384; ; ; 2; 12; 2003
+Fortes, Miguel; Rhode Island Stingrays; D; 9; 643; 2; ; 4; 11; 2003
+Fortes-Lopes, Rui; Rhode Island Stingrays; M; 6; 498; ; ; 3; 8; 2003
+Goldman, Matthew; Rhode Island Stingrays; D/M; 10; 769; 1; 2; 2; 4; 2003
+Lopes, Cory; Rhode Island Stingrays; ; ; ; ; ; 0; 0; 2003
+Mahoney, Peter; Rhode Island Stingrays; GK; 15; 1341; ; ; 0; 0; 2003
+Napolitano, Chris; Rhode Island Stingrays; F; 14; 1206; 11; 3; 27; 12; 2003
+Newman, Jeffrey; Rhode Island Stingrays; GK; 5; 400; ; ; 0; 0; 2003
+Noyes, David; Rhode Island Stingrays; GK; ; ; ; ; 0; 0; 2003
+Pereira, Michael; Rhode Island Stingrays; ; 4; 106; 1; ; 1; 0; 2003
+Perry, Brian; Rhode Island Stingrays; ; 8; 170; 1; 1; 4; 1; 2003
+Petrarca, Anthony; Rhode Island Stingrays; ; 17; 1583; 7; 3; 11; 11; 2003
+Romaneiro, Marcos; Rhode Island Stingrays; M/F; 13; 436; 3; 4; 13; 4; 2003
+Ruddy, Dean; Rhode Island Stingrays; ; ; ; ; ; 0; 0; 2003
+Teixeira, Valdemar; Rhode Island Stingrays; D/M; 18; 1614; 4; 3; 14; 21; 2003
+Tobin, Zachary; Rhode Island Stingrays; ; 16; 1430; ; 4; 4; 10; 2003
+Villasenor, Alonso; Rhode Island Stingrays; M; 8; 641; 1; ; 5; 8; 2003
+Villasenor-Morales, Jose; Rhode Island Stingrays; ; 6; 351; 1; 3; 1; 3; 2003
+Ward-Smith, Anthony; Rhode Island Stingrays; ; ; ; ; ; 0; 0; 2003
+Ward-Smith, David; Rhode Island Stingrays; ; 1; 77; ; 1; 1; 3; 2003
+Albanese, Tim; Albany Blackwatch Highlanders; ; ; ; ; ; 0; 0; 2003
+Barnard, Zachary; Albany Blackwatch Highlanders; ; ; ; ; ; 0; 0; 2003
+Barnes, Devlin; Albany Blackwatch Highlanders; ; 15; 1370; ; ; 0; 20; 2003
+Bennice, Chris; Albany Blackwatch Highlanders; ; 11; 520; 1; 1; 3; 9; 2003
+Bochette, Nicholas; Albany Blackwatch Highlanders; ; ; ; ; ; 0; 0; 2003
+Brooks, Matthew; Albany Blackwatch Highlanders; ; 3; 110; ; ; 0; 2; 2003
+Burns, Colin; Albany Blackwatch Highlanders; GK; 9; 830; ; ; 0; 0; 2003
+Cannon, Scott; Albany Blackwatch Highlanders; D; 4; 380; ; ; 0; 2; 2003
+Chevalier, Greg; Albany Blackwatch Highlanders; ; 18; 1640; 9; 8; 35; 11; 2003
+Chew, Matthew; Albany Blackwatch Highlanders; ; 3; 97; ; ; 1; 0; 2003
+Cooke, Travis; Albany Blackwatch Highlanders; ; 2; 19; ; ; 1; 0; 2003
+Cordeiro, Ryan; Albany Blackwatch Highlanders; ; ; ; ; ; 0; 0; 2003
+Degnan, Bryan; Albany Blackwatch Highlanders; ; 16; 1434; 1; 1; 7; 8; 2003
+Flaherty, Matthew; Albany Blackwatch Highlanders; ; 12; 757; 2; 1; 9; 2; 2003
+Freeman, Steve; Albany Blackwatch Highlanders; ; 12; 904; ; ; 0; 6; 2003
+Gersternberger, Paul; Albany Blackwatch Highlanders; ; ; ; ; ; 0; 0; 2003
+Jones, Matt; Albany Blackwatch Highlanders; ; 13; 883; ; 1; 3; 15; 2003
+Knoll, Andrew; Albany Blackwatch Highlanders; ; 5; 164; ; ; 0; 2; 2003
+Mabee, Jonathan; Albany Blackwatch Highlanders; ; 10; 664; 4; ; 10; 3; 2003
+McCallion, Michael; Albany Blackwatch Highlanders; ; 4; 225; ; ; 1; 6; 2003
+Murray, Kenneth; Albany Blackwatch Highlanders; ; 10; 850; ; 2; 6; 9; 2003
+Popovich, Derek; Albany Blackwatch Highlanders; ; 18; 1543; 9; 1; 27; 27; 2003
+Procknal, Steven; Albany Blackwatch Highlanders; ; 17; 1506; 7; 1; 22; 25; 2003
+Purcell, Kevin; Albany Blackwatch Highlanders; ; 3; 139; ; ; 1; 5; 2003
+Russell, Kevin; Albany Blackwatch Highlanders; ; 1; 90; ; ; 0; 0; 2003
+Southworth, Nick; Albany Blackwatch Highlanders; ; 18; 1353; 2; 2; 18; 29; 2003
+Sullivan, Matthew; Albany Blackwatch Highlanders; GK; 9; 810; ; ; 0; 0; 2003
+Utter, Benjamin; Albany Blackwatch Highlanders; ; 1; 90; ; ; 0; 2; 2003
+Vitale, Joseph; Albany Blackwatch Highlanders; ; 3; 29; ; ; 0; 0; 2003
+Wren, Patrick; Albany Blackwatch Highlanders; ; 17; 1550; 1; ; 6; 9; 2003
+Bastidas, Vincent; South Jersey Barons; ; 2; 180; 1; ; 4; 0; 2003
+Carvalho-Teixeira, David; South Jersey Barons; ; 8; 280; ; ; 1; 1; 2003
+Devlin, Brian; South Jersey Barons; ; 16; 1423; 1; ; 15; 23; 2003
+Franks, Jamie; South Jersey Barons; D; 2; 129; 3; ; 3; 1; 2003
+Haggerty, Patrick; South Jersey Barons; ; 17; 1550; ; ; 2; 9; 2003
+Harvey, James; South Jersey Barons; D; 7; 579; ; ; 0; 4; 2003
+Heins, Ryan; South Jersey Barons; F; 7; 289; 4; 1; 10; 2; 2003
+Hertz, Guy; South Jersey Barons; GK; 14; 1236; ; ; 0; 1; 2003
+Hickey, Patrick; South Jersey Barons; D/M; 4; 54; ; ; 0; 0; 2003
+Holloway, Neil; South Jersey Barons; M; 9; 621; 1; ; 6; 5; 2003
+James, Harvey; South Jersey Barons; D; 1; 81; ; ; 0; 0; 2003
+Jenks, Stephen; South Jersey Barons; ; 10; 177; 1; ; 1; 2; 2003
+Karcz, Christopher; South Jersey Barons; F; 11; 884; 3; 2; 15; 7; 2003
+Kirk, Wesley; South Jersey Barons; ; 12; 1046; 5; 2; 15; 7; 2003
+Kroculick, Stephen; South Jersey Barons; ; 4; 145; 1; ; 3; 2; 2003
+Landers, Jason; South Jersey Barons; ; 4; 224; ; ; 0; 0; 2003
+Lucas, Matthew; South Jersey Barons; M/F; 17; 1345; ; 1; 2; 9; 2003
+Mingo, Ruben; South Jersey Barons; M; 16; 1094; 9; 3; 26; 16; 2003
+O'Neil, Timothy; South Jersey Barons; M; 15; 1332; 1; ; 14; 9; 2003
+Poveda-Aray, William; South Jersey Barons; ; ; ; ; ; 0; 0; 2003
+Quiah, Sargba; South Jersey Barons; ; 4; 189; ; ; 3; 2; 2003
+Sadler, Justin; South Jersey Barons; ; 7; 513; 3; ; 11; 6; 2003
+Thompson, John; South Jersey Barons; D; 17; 1550; ; ; 2; 15; 2003
+White, Erik; South Jersey Barons; ; 5; 470; 2; ; 7; 1; 2003
+Avakian, Jason; Worcester Kings; D; 2; 180; ; ; 0; 3; 2003
+Baraybar, Diego; Worcester Kings; ; 1; 52; ; ; 0; 1; 2003
+Bates, Evan; Worcester Kings; M; 2; 125; ; ; 0; 2; 2003
+Bennett, Greg; Worcester Kings; D; 1; 58; ; ; 0; 1; 2003
+Benoit, Markens; Worcester Kings; M; 7; 504; 1; 1; 1; 1; 2003
+Burke, Brendan; Worcester Kings; D; 10; 918; 3; ; 6; 8; 2003
+Caldwell, Keith; Worcester Kings; M; 12; 966; 4; 1; 12; 6; 2003
+Carroll, Joshua; Worcester Kings; ; 1; 90; ; ; 0; 1; 2003
+Chernelki, James; Worcester Kings; M; 2; 42; ; ; 0; 1; 2003
+Cochenour, Brian; Worcester Kings; D; 13; 965; ; 1; 1; 8; 2003
+Cole, Joshua; Worcester Kings; GK; 7; 630; ; ; 0; 0; 2003
+Collins, Benjamin; Worcester Kings; ; 10; 691; ; 1; 9; 8; 2003
+Colwell, Daniel; Worcester Kings; M/F; 3; 256; 1; 1; 3; 2; 2003
+Dimovski, Christopher; Worcester Kings; D; 6; 549; ; ; 4; 7; 2003
+Doherty, Michael; Worcester Kings; ; 9; 828; ; ; 0; 0; 2003
+Gosselin, Sean; Worcester Kings; ; 7; 611; ; ; 3; 9; 2003
+Gula, Slawomir; Worcester Kings; ; ; ; ; ; 0; 0; 2003
+Houle, Joshua; Worcester Kings; F; 2; 157; ; ; 3; 1; 2003
+Jusczk, Glen; Worcester Kings; D; 6; 352; ; ; 3; 6; 2003
+Keel, Stephen; Worcester Kings; ; ; ; ; ; 0; 0; 2003
+Ketnouvong, Phonethip; Worcester Kings; ; 1; 333; ; ; 0; 2; 2003
+Khalil, Ahmad; Worcester Kings; D; 14; 1077; 1; ; 2; 10; 2003
+Krause, John; Worcester Kings; ; 9; 817; 1; ; 8; 11; 2003
+Krause, Neil; Worcester Kings; F; 8; 718; 4; 1; 16; 9; 2003
+Lumley-Smith, Tom; Worcester Kings; D; 2; 180; ; ; 2; 4; 2003
+Macrury, Stuart; Worcester Kings; F; 3; 243; 1; ; 1; 2; 2003
+McElhaney, Bill; Worcester Kings; GK; ; ; ; ; 0; 0; 2003
+McGuane, Daniel; Worcester Kings; F; 2; 48; ; ; 0; 1; 2003
+McGuane, Peter; Worcester Kings; F; 1; 30; ; ; 0; 2; 2003
+McMenamin, Kevin; Worcester Kings; F; 6; 123; ; ; 1; 0; 2003
+Meir-Miranda, Alejandro; Worcester Kings; ; 1; 111; ; ; 0; 3; 2003
+Parkhurst, Michael; Worcester Kings; D; ; ; ; ; 0; 0; 2003
+Patramanis, Constantino; Worcester Kings; M; 14; 1048; ; 3; 3; 9; 2003
+Paye, Emmanuel; Worcester Kings; D; 1; 43; ; ; 0; 1; 2003
+Paylor, Sean; Worcester Kings; ; 6; 424; ; 1; 4; 2; 2003
+Pietropinto, Claudio; Worcester Kings; F; 10; 509; 2; ; 3; 8; 2003
+Plumley, Brent; Worcester Kings; ; 7; 525; 1; 2; 6; 3; 2003
+Smith, Thomas; Worcester Kings; D; ; ; ; ; 0; 0; 2003
+Sniegoski, Ryan; Worcester Kings; ; 5; 303; ; ; 3; 2; 2003
+Villatoro, Allan; Worcester Kings; F; 13; 907; 2; 2; 21; 6; 2003
+Walker, Geofrey; Worcester Kings; M; 7; 551; ; ; 5; 12; 2003
+Acquista, Alessandro; Brooklyn Knights; M; 10; 664; ; ; 3; 8; 2003
+Afful, Joseph; Brooklyn Knights; D; 14; 1151; 1; 1; 10; 18; 2003
+Aloisi, Christopher; Brooklyn Knights; ; 10; 879; 1; 1; 4; 11; 2003
+Blair, Shannon; Brooklyn Knights; M; 3; 95; ; ; 0; 4; 2003
+Borges, Andre; Brooklyn Knights; F; 13; 1164; 12; 2; 30; 6; 2003
+Chambers, Rinaldo; Brooklyn Knights; F; 12; 820; 7; 3; 25; 9; 2003
+Cila, Jordan; Brooklyn Knights; ; 5; 490; 3; 5; 14; 4; 2003
+Corcoran, Chris; Brooklyn Knights; M; 2; 200; 1; 2; 3; 1; 2003
+Drew, Padraig; Brooklyn Knights; D; 3; 233; ; ; 5; 2; 2003
+Elcock, Edson; Brooklyn Knights; F; ; ; ; ; 0; 0; 2003
+Fucci, Robert; Brooklyn Knights; D; 10; 903; ; ; 0; 12; 2003
+Gaudette, William; Brooklyn Knights; GK; 15; 1378; ; ; 0; 0; 2003
+Gil, Brian; Brooklyn Knights; GK; 2; 143; ; ; 0; 0; 2003
+Gumbrecht, Matthias; Brooklyn Knights; ; 2; 101; ; ; 0; 0; 2003
+Guren, Adam; Brooklyn Knights; ; 10; 450; ; ; 2; 3; 2003
+Herman, Andrew; Brooklyn Knights; ; ; ; ; ; 0; 0; 2003
+Hunt, James; Brooklyn Knights; D; 1; 110; ; ; 0; 0; 2003
+Kramer, Daniel; Brooklyn Knights; M; 10; 534; 1; 1; 7; 7; 2003
+Lefferts, Chris; Brooklyn Knights; D/M; 15; 937; 2; 4; 12; 5; 2003
+Leidner, Chris; Brooklyn Knights; D; 14; 1122; 1; ; 7; 7; 2003
+Lesmes, Richard; Brooklyn Knights; F; 7; 283; 2; ; 6; 8; 2003
+Moncaleno, Carlos; Brooklyn Knights; M; 11; 613; ; ; 3; 7; 2003
+Orantes, Pablo; Brooklyn Knights; D; 10; 929; ; 1; 1; 4; 2003
+Philippou, Robert; Brooklyn Knights; M; ; ; ; ; 0; 0; 2003
+Schmid, Andre; Brooklyn Knights; F; 5; 297; 2; 1; 10; 6; 2003
+Smart, Craig; Brooklyn Knights; F; 11; 862; 9; 4; 20; 10; 2003
+Sullivan, Gary; Brooklyn Knights; M; 16; 1427; 1; 2; 7; 8; 2003
+Wingert, Chris; Brooklyn Knights; D; 12; 1097; 1; 6; 11; 11; 2003
+Buerger, Ben; Nashville Metros; M; 18; 1529; 4; 10; 16; 14; 2003
+Burns, Charles; Nashville Metros; GK; 7; 587; ; ; 0; 0; 2003
+Charnock, Brian; Nashville Metros; M; 7; 321; 1; ; 5; 4; 2003
+Chitapa, Tawanda; Nashville Metros; M; 3; 262; ; ; 2; 4; 2003
+Cline, Joshua; Nashville Metros; M; 7; 174; ; ; 0; 1; 2003
+Cobbs, Bradley; Nashville Metros; F; 11; 241; ; ; 6; 4; 2003
+Devall, Danny; Nashville Metros; D/M; 9; 774; 2; 2; 10; 17; 2003
+Dixon, Neal; Nashville Metros; D/M; 8; 587; ; ; 1; 6; 2003
+Dos Santos, Mauricio; Nashville Metros; F; 2; 24; ; ; 0; 0; 2003
+Gathany, Stephen; Nashville Metros; F; 13; 943; 5; 1; 26; 25; 2003
+Hanger, Scott; Nashville Metros; M; 16; 1415; ; 2; 4; 26; 2003
+Hopkins, Paul; Nashville Metros; F; 12; 794; 5; 2; 23; 11; 2003
+Kinturi, Pasi; Nashville Metros; M; 8; 385; 2; 2; 16; 3; 2003
+Mattison, Landy; Nashville Metros; F; 16; 1393; 5; 6; 22; 20; 2003
+McCallum, Thomas; Nashville Metros; D; 15; 1359; ; ; 2; 9; 2003
+Murray, Stephen; Nashville Metros; M; 17; 1415; 8; 4; 29; 48; 2003
+Parks, Michael; Nashville Metros; D; 9; 620; ; ; 0; 12; 2003
+Phetivhok, Mark; Nashville Metros; M; 15; 1001; 2; 1; 16; 13; 2003
+Robbins, Bryan; Nashville Metros; D; 8; 550; ; 1; 2; 6; 2003
+Roufs, Jason; Nashville Metros; F; 6; 332; 1; ; 4; 10; 2003
+Said, David; Nashville Metros; ; 3; 35; ; ; 0; 1; 2003
+Sattler, Daryl; Nashville Metros; GK; 10; 862; ; ; 0; 0; 2003
+Stjepic, Igor; Nashville Metros; M/F; 7; 364; 1; ; 3; 11; 2003
+Stubblefield, Jason; Nashville Metros; D; 9; 220; 2; 1; 3; 5; 2003
+Suffron, Tyler; Nashville Metros; M; 11; 555; ; ; 9; 12; 2003
+Troglen, Ryan; Nashville Metros; D; 9; 226; ; ; 0; 6; 2003
+Wright, Brandon; Nashville Metros; F; 8; 607; 2; 1; 16; 14; 2003
+Baytos, Brian; Memphis Express; ; 3; 256; ; ; 0; 0; 2003
+Beck, Vincent; Memphis Express; D/M; 14; 1209; ; 1; 2; 13; 2003
+Browne, Clinton; Memphis Express; M; 11; 956; 2; ; 13; 25; 2003
+Burana, Greg; Memphis Express; ; 1; 2; ; ; 0; 0; 2003
+Church, Russell; Memphis Express; M; 11; 879; ; 2; 6; 10; 2003
+Drain, Jimmy; Memphis Express; F; 16; 1026; 1; ; 4; 23; 2003
+Dyer, Justin; Memphis Express; ; 15; 663; ; ; 2; 7; 2003
+Franklin, Mark; Memphis Express; D; 9; 699; ; ; 4; 23; 2003
+Gibbs, Graham; Memphis Express; D; 3; 246; ; ; 0; 3; 2003
+Hoorman, Ryan; Memphis Express; F; 12; 345; 4; 3; 11; 1; 2003
+Ilari-Bonfico, Mariano; Memphis Express; F; 17; 1138; 6; 6; 28; 15; 2003
+Keene, Richard; Memphis Express; D; 11; 469; ; 1; 8; 8; 2003
+Kuhn, Anthony; Memphis Express; F; 14; 1033; 7; 3; 26; 25; 2003
+Laird, David; Memphis Express; ; 13; 970; 1; 2; 16; 9; 2003
+Lewis, Stephen; Memphis Express; D; 15; 1304; ; ; 0; 9; 2003
+McLynn, Ross; Memphis Express; D; 16; 1482; ; ; 1; 18; 2003
+Medlock, Steven; Memphis Express; ; 10; 204; 1; ; 3; 5; 2003
+O'Brien, Dayton; Memphis Express; F; 17; 1512; 12; 9; 33; 19; 2003
+Paule, Grant; Memphis Express; M; 9; 184; ; ; 0; 4; 2003
+Ridenhour, David; Memphis Express; M; 7; 293; ; ; 2; 3; 2003
+Schmidt, Chris; Memphis Express; ; ; ; ; ; 0; 0; 2003
+Vecchio-Dezillo, Sebastian; Memphis Express; GK; 15; 1326; ; ; 0; 0; 2003
+Vogel, Michael; Memphis Express; M; 16; 860; 6; 1; 13; 16; 2003
+Aertker, Scott; New Orleans Shell Shockers; M; 11; 169; 2; ; 6; 0; 2003
+Barron, Andrew; New Orleans Shell Shockers; M; 14; 1094; 5; 3; 30; 6; 2003
+Benjamin, Glenn; New Orleans Shell Shockers; M; 16; 1369; 1; 2; 25; 16; 2003
+Butchard, Ian ; New Orleans Shell Shockers; ; 1; 21; ; ; ; 0; 2003
+Diaz, Eric; New Orleans Shell Shockers; F; 7; 323; 2; 1; 12; 12; 2003
+Enamorado, Marco; New Orleans Shell Shockers; M; 8; 549; 1; ; 8; 22; 2003
+Ericson-Neilson, William; New Orleans Shell Shockers; D; 2; 95; ; ; 0; 2; 2003
+Geraci, Dane; New Orleans Shell Shockers; GK; 1; 3; ; ; 0; 0; 2003
+Gunn, Jeremy; New Orleans Shell Shockers; M; 10; 388; ; ; 0; 4; 2003
+Hiebert, Garrett; New Orleans Shell Shockers; GK; 16; 1449; ; ; 0; 0; 2003
+Hoey, Colin; New Orleans Shell Shockers; GK; 1; 90; ; ; 0; 0; 2003
+Judice, Jeremy; New Orleans Shell Shockers; F; 13; 246; 6; 1; 13; 6; 2003
+Lambert, Nick; New Orleans Shell Shockers; D; 14; 1101; ; 2; 9; 21; 2003
+Lopez, Jonas; New Orleans Shell Shockers; F; 15; 898; 11; ; 35; 8; 2003
+McAnespie, Stephen; New Orleans Shell Shockers; D; 16; 1452; 1; 1; 5; 8; 2003
+Montero-Chinchilla, Martin; New Orleans Shell Shockers; M; 11; 646; ; 1; 5; 13; 2003
+Montz, Jared; New Orleans Shell Shockers; D; 15; 1073; 1; ; 6; 16; 2003
+Najarro, Roberto; New Orleans Shell Shockers; F; 17; 1285; 9; 6; 48; 12; 2003
+Pate, Stephen; New Orleans Shell Shockers; M; 17; 1501; 5; 7; 30; 17; 2003
+Reyes, Luis; New Orleans Shell Shockers; M; 5; 182; ; ; 1; 1; 2003
+Rocke, Colin; New Orleans Shell Shockers; D; 12; 993; ; 2; 5; 12; 2003
+Sommers, David; New Orleans Shell Shockers; ; 3; 109; 1; ; 5; 2; 2003
+Steen, Casey; New Orleans Shell Shockers; M; 2; 36; ; ; 0; 0; 2003
+Viquez-Gonzalez, Kenneth; New Orleans Shell Shockers; F; 5; 198; 3; 1; 7; 2; 2003
+Webb, Gannon; New Orleans Shell Shockers; D; 17; 1536; ; 1; 3; 17; 2003
+Wilson, William; New Orleans Shell Shockers; M; 4; 36; ; ; 0; 0; 2003
+Ambrose, Stephen; Texas Spurs; ; 11; 515; 2; 1; 6; 4; 2003
+Blackburn, Michael; Texas Spurs; ; 11; 663; 2; ; 12; 5; 2003
+Bragg, Richard; Texas Spurs; ; 13; 1009; ; ; 4; 13; 2003
+Brown, Kyle (2); Texas Spurs; ; 3; 256; ; ; 5; 6; 2003
+Clark, Matthew; Texas Spurs; M; 18; 1543; 13; 6; 40; 12; 2003
+Da Silva, Antonio; Texas Spurs; ; 8; 620; 2; 1; 7; 11; 2003
+Florance, David; Texas Spurs; ; 1; 34; ; ; 0; 0; 2003
+Fray, Tafaria; Texas Spurs; M/F; 3; 268; 2; 2; 6; 4; 2003
+Freeman, Hunter; Texas Spurs; ; 9; 702; 1; ; 7; 13; 2003
+Gall, John; Texas Spurs; M; 10; 844; ; 4; 11; 15; 2003
+Garcia-Garcia, Fernando; Texas Spurs; M; 8; 490; 2; ; 11; 4; 2003
+Gibson, Torrence; Texas Spurs; D/M; 18; 1670; 2; ; 5; 22; 2003
+Hammett, Robert; Texas Spurs; D; 14; 1186; ; ; 2; 10; 2003
+Heasley, Lucas; Texas Spurs; GK; 9; 494; ; ; 0; 4; 2003
+Johnston, Jeff; Texas Spurs; F; 7; 592; 1; ; 10; 9; 2003
+King, Clay; Texas Spurs; ; 14; 812; 5; 2; 15; 14; 2003
+Latham, Ryan; Texas Spurs; ; 4; 202; 1; 1; 9; 3; 2003
+Lonergran, Tim; Texas Spurs; ; 4; 111; ; ; 0; 8; 2003
+Louis, Peter; Texas Spurs; ; 3; 63; ; ; 1; 2; 2003
+Martin-Romero, David; Texas Spurs; ; 10; 531; 1; 3; 9; 9; 2003
+Morrell, John; Texas Spurs; ; 8; 509; ; ; 1; 16; 2003
+Pampillonia, Anthony; Texas Spurs; M; 7; 640; ; 1; 0; 14; 2003
+Press, Jerry; Texas Spurs; M; 14; 1076; 3; ; 11; 21; 2003
+Schell, Dominic; Texas Spurs; M; ; ; ; ; 0; 0; 2003
+Smith, Chad; Texas Spurs; ; 16; 1406; 2; 2; 19; 25; 2003
+Tamporello, Sammy; Texas Spurs; ; 2; 18; ; ; 0; 1; 2003
+Terry, Kevin; Texas Spurs; ; 3; 124; 1; ; 3; 0; 2003
+Tomasso, Thomas; Texas Spurs; ; 2; 137; ; ; 0; 0; 2003
+Waggoner, Joseph; Texas Spurs; GK; 14; 1230; ; ; 0; 1; 2003
+Zindel, Kellan; Texas Spurs; ; 8; 574; 4; 2; 24; 13; 2003
+Acosta-Sevilla, Wilson; Houston Toros; M; 9; 482; ; ; 7; 3; 2003
+Anderson, Paul; Houston Toros; GK; 10; 895; ; ; 0; 0; 2003
+Ashiofu, Anthony; Houston Toros; ; 4; 309; ; ; 4; 2; 2003
+Ban, Shota; Houston Toros; D; 6; 538; ; ; 0; 6; 2003
+Beasley, Daniel; Houston Toros; D; 11; 988; 1; 2; 5; 6; 2003
+Bonilla-Amaya, Nelson; Houston Toros; ; 5; 315; ; ; 1; 3; 2003
+Branham, Michael; Houston Toros; GK; 3; 118; ; ; 0; 0; 2003
+Bujano, Chad; Houston Toros; ; 13; 1033; ; 1; 3; 12; 2003
+Castilla-Botia, Sebastian; Houston Toros; ; 3; 196; ; 1; 2; 1; 2003
+Castillo, Mirko; Houston Toros; F; 3; 197; ; ; 0; 0; 2003
+Chavez, Christian; Houston Toros; ; 5; 244; ; ; 0; 2; 2003
+Daniele, Andrew; Houston Toros; ; 5; 468; ; ; 2; 3; 2003
+Davila-Alonso, Raul; Houston Toros; ; 2; 167; ; ; 1; 0; 2003
+Diaz-Granados, Ricardo; Houston Toros; ; 4; 335; 1; 1; 4; 1; 2003
+Duran-Lizardi, Ramon; Houston Toros; D; 13; 1091; ; ; 0; 5; 2003
+Frias-Garza, Jesus; Houston Toros; ; 12; 819; 1; ; 8; 5; 2003
+Futrell, Mark; Houston Toros; ; 4; 334; ; ; 2; 2; 2003
+Galo-Guerara, Roger; Houston Toros; F; 1; 90; ; ; 0; 0; 2003
+Gardner, Joshua; Houston Toros; ; 5; 458; 2; ; 15; 2; 2003
+Giraldo, Jonathan; Houston Toros; M; 13; 922; 1; 1; 5; 9; 2003
+Kinney, Zacry; Houston Toros; M; 2; 165; ; ; 0; 2; 2003
+Lafuente, Stefano; Houston Toros; ; 13; 816; 4; 1; 9; 7; 2003
+Martinez, Eric; Houston Toros; M; 7; 485; 1; 1; 12; 3; 2003
+Mustapha, Mohamed; Houston Toros; F; 9; 827; 3; 1; 17; 8; 2003
+North, Joseph; Houston Toros; ; ; ; ; ; 0; 0; 2003
+Olvera-Sanchez, Luis; Houston Toros; M; 4; 197; ; ; 1; 5; 2003
+Richard, Brent; Houston Toros; ; 2; 135; ; ; 1; 0; 2003
+Rivera-Rivera, Mauricio; Houston Toros; ; 9; 688; 1; ; 5; 1; 2003
+Robertson, James; Houston Toros; D; 6; 525; 1; 1; 4; 5; 2003
+Soto, Javier; Houston Toros; ; 8; 455; 2; 2; 6; 1; 2003
+Tendende, Mpoki; Houston Toros; ; 1; 40; ; ; 1; 2; 2003
+Torrez, Edwim; Houston Toros; ; 3; 246; ; ; 0; 0; 2003
+Uwaifo, Osagie; Houston Toros; ; 3; 179; ; 1; 0; 0; 2003
+Vazquez-Flores, Jose; Houston Toros; ; 10; 793; 1; ; 1; 7; 2003
+Amaya, Wilbert; Louisiana Outlaws; M; ; ; ; ; 0; 0; 2003
+Angelle, Justin; Louisiana Outlaws; ; 14; 903; 2; 2; 26; 15; 2003
+Austin, Christopher; Louisiana Outlaws; ; 6; 542; 1; ; 2; 10; 2003
+Barrett, Tom; Louisiana Outlaws; D; 1; 45; ; ; 0; 1; 2003
+Bennett, Jonathan; Louisiana Outlaws; GK; 1; 32; ; ; 0; 0; 2003
+Bokol, Daniel; Louisiana Outlaws; ; 2; 126; ; ; 1; 3; 2003
+Bronars, Joshua; Louisiana Outlaws; ; 3; 191; ; ; 0; 0; 2003
+Brown, Beau; Louisiana Outlaws; F; 9; 726; ; 1; 4; 2; 2003
+Brunet, Jonathan; Louisiana Outlaws; ; 10; 737; 1; 4; 9; 14; 2003
+Caldwell, Martin; Louisiana Outlaws; ; 3; 149; ; ; 1; 0; 2003
+Carrier, Jeffrey; Louisiana Outlaws; ; 7; 648; ; ; 2; 8; 2003
+Croisant, John; Louisiana Outlaws; D; 9; 471; ; ; 1; 5; 2003
+Delcambre, Dustin; Louisiana Outlaws; ; 2; 127; ; ; 2; 2; 2003
+Fung, Chris; Louisiana Outlaws; ; 4; 360; ; ; 1; 1; 2003
+Gill, Steven; Louisiana Outlaws; ; 2; 180; ; ; 2; 6; 2003
+Goodloe, John; Louisiana Outlaws; ; 18; 1614; ; ; 3; 6; 2003
+Horton, David; Louisiana Outlaws; ; 14; 768; ; ; 9; 4; 2003
+Jackson, Ellis; Louisiana Outlaws; ; 16; 949; ; 1; 3; 15; 2003
+Millet, Mathew; Louisiana Outlaws; M; 4; 324; ; ; 4; 6; 2003
+Moffat, Anthony; Louisiana Outlaws; ; 10; 876; 6; 4; 28; 17; 2003
+Pastor, Javier; Louisiana Outlaws; ; 11; 1014; ; ; 0; 0; 2003
+Pickard, Michael; Louisiana Outlaws; ; 15; 1390; 7; 1; 40; 12; 2003
+Rebuck, Daniel; Louisiana Outlaws; F; 4; 362; 1; 2; 3; 4; 2003
+Roberts, Benjamin; Louisiana Outlaws; ; ; ; ; ; 0; 0; 2003
+Samol, Brian; Louisiana Outlaws; ; 6; 455; ; ; 0; 0; 2003
+Senecal, Thomas; Louisiana Outlaws; ; 8; 758; 1; ; 5; 13; 2003
+Southard, Tor; Louisiana Outlaws; ; 12; 1035; 1; 2; 8; 14; 2003
+Todd, Curtis; Louisiana Outlaws; ; 8; 321; ; ; 1; 1; 2003
+Vadrine, Josh; Louisiana Outlaws; F; 7; 364; ; ; 3; 7; 2003
+Veselka, Chris; Louisiana Outlaws; M; 4; 342; 1; ; 11; 4; 2003
+Wainwright, Daniel; Louisiana Outlaws; ; 10; 407; ; ; 1; 3; 2003
+Young, Jason; Louisiana Outlaws; ; 17; 1568; ; ; 1; 8; 2003
+Aguirre, Norvet; Austin Lightning; F; 2; 132; ; ; 0; 0; 2003
+Baizabal-Vazquez, Alberto; Austin Lightning; D; 8; 602; 1; 2; 9; 5; 2003
+Barnett, Christopher; Austin Lightning; D/M; 16; 1433; 1; ; 4; 19; 2003
+Brooks, John; Austin Lightning; D/M; 11; 722; ; ; 4; 11; 2003
+Bueno-Bermudez, Johnny; Austin Lightning; ; 8; 555; ; ; 3; 7; 2003
+Chandler, Jared; Austin Lightning; M; 18; 1394; 2; ; 10; 14; 2003
+Collins, Conor; Austin Lightning; ; 13; 1052; 2; ; 23; 19; 2003
+Contie, Douglas; Austin Lightning; M; 2; 180; ; 1; 10; 5; 2003
+Cruz, Juan; Austin Lightning; D; 10; 543; 1; ; 5; 3; 2003
+Cuero, Diego; Austin Lightning; M; 16; 977; 3; ; 31; 16; 2003
+Galicia-Resendiz, Juan; Austin Lightning; M; 13; 407; 1; ; 9; 5; 2003
+Gallardo-Aparicio, Miguel; Austin Lightning; GK; 17; 1501; ; ; 0; 0; 2003
+Handy, Allen; Austin Lightning; D; 17; 1451; ; ; 9; 13; 2003
+Handy, Chris; Austin Lightning; D; 4; 68; ; ; 4; 1; 2003
+Katunaric, Mitch; Austin Lightning; F; 4; 225; ; 1; 1; 5; 2003
+Lucke, Jonathan; Austin Lightning; M; 5; 309; 1; 1; 0; 1; 2003
+Michaud, Justin; Austin Lightning; GK; ; ; ; ; 0; 0; 2003
+Muller, David; Austin Lightning; F; 7; 484; 3; ; 9; 1; 2003
+Olivera-Montes, Mario; Austin Lightning; M; 11; 407; ; ; 8; 5; 2003
+Osbon, Clint; Austin Lightning; M; 12; 926; ; ; 2; 8; 2003
+Pettit, Joel; Austin Lightning; F; 6; 118; ; ; 1; 2; 2003
+Rhyne, Stephen; Austin Lightning; M/F; 15; 1309; 9; 6; 39; 8; 2003
+Toman, Jason; Austin Lightning; GK; 2; 36; ; ; 2; 0; 2003
+Uriarte, Jon; Austin Lightning; M; 15; 1190; 3; 2; 22; 21; 2003
+Uriarte, Marcelino; Austin Lightning; M; 10; 881; 2; 5; 16; 20; 2003
+Vazquez, Arturo; Austin Lightning; ; 1; 32; ; ; 0; 1; 2003
+Veselka, Chris; Austin Lightning; M; 5; 390; 2; 2; 12; 5; 2003
+Benavides, Carlos; Palm Beach Pumas; ; 13; 1077; ; ; 0; 0; 2003
+Donev, Miljce; Palm Beach Pumas; M; 3; 51; ; ; 0; 0; 2003
+Garrambone, Derek; Palm Beach Pumas; D; 10; 763; ; ; 4; 2; 2003
+Garrambone, Scot; Palm Beach Pumas; F; 8; 236; ; ; 1; 1; 2003
+Gil-Alzate, Oscar; Palm Beach Pumas; F; 9; 521; 3; 3; 1; 2; 2003
+Kephart, Jeremy; Palm Beach Pumas; ; 10; 539; ; ; 1; 3; 2003
+Kolba, JR., Thoms; Palm Beach Pumas; ; 7; 612; ; ; 0; 0; 2003
+Lennon, Robert; Palm Beach Pumas; ; 3; 203; ; ; 0; 3; 2003
+Logan, Christopher; Palm Beach Pumas; ; 5; 218; ; ; 0; 0; 2003
+Mankowski, Jesse; Palm Beach Pumas; ; 13; 1092; 6; 3; 15; 6; 2003
+Marvin, Kyle; Palm Beach Pumas; ; 11; 554; ; ; 1; 1; 2003
+Meijia, Mauricio; Palm Beach Pumas; ; 13; 1127; ; 1; 1; 5; 2003
+Myers, Ptah; Palm Beach Pumas; ; 8; 662; 1; ; 1; 1; 2003
+Parker, Adam; Palm Beach Pumas; ; 14; 1260; 1; ; 1; 6; 2003
+Poveda-Aray, William; Palm Beach Pumas; ; 3; 174; 2; ; 3; 1; 2003
+Raduka, Mark; Palm Beach Pumas; ; 4; 89; ; ; 0; 0; 2003
+Rios-Velez, Jonathan; Palm Beach Pumas; ; 12; 995; 2; 3; 3; 5; 2003
+Rooney, Jim; Palm Beach Pumas; F; ; ; ; ; 0; 0; 2003
+Strunk, Jeffrey; Palm Beach Pumas; D; 8; 524; ; 1; 0; 0; 2003
+Thomas, Benjamin; Palm Beach Pumas; ; 4; 380; ; ; 0; 2; 2003
+Thompson, Geoffrey; Palm Beach Pumas; D; 8; 557; 4; 1; 0; 1; 2003
+Tolar, Matt; Palm Beach Pumas; ; 5; 287; ; ; 0; 1; 2003
+Warner, Byron; Palm Beach Pumas; M; 4; 380; ; ; 0; 2; 2003
+Whitmore, Christopher; Palm Beach Pumas; ; 7; 360; ; ; 0; 1; 2003
+Ambrosio, Frank; Central Florida Kraze; ; 11; 540; 1; 2; 5; 2; 2003
+Barreto-Ruiz, Mauricio; Central Florida Kraze; ; ; ; ; ; 0; 0; 2003
+Bender, Travis; Central Florida Kraze; D; 4; 281; ; ; 0; 3; 2003
+De Gregory, Kamal; Central Florida Kraze; ; 7; 475; ; ; 1; 4; 2003
+Dodds, Ryan; Central Florida Kraze; F; ; ; ; ; 0; 0; 2003
+Dwyer, David; Central Florida Kraze; D; ; ; ; ; 0; 0; 2003
+Gay, James; Central Florida Kraze; ; 12; 811; 2; ; 3; 11; 2003
+Hartmann, Ryan; Central Florida Kraze; D/M; 7; 498; 1; 1; 0; 3; 2003
+Judino, William; Central Florida Kraze; F; 4; 253; 1; ; 3; 2; 2003
+Kays, Chad; Central Florida Kraze; F; 2; 200; ; ; 1; 3; 2003
+Levy, Rodney; Central Florida Kraze; D/M; 11; 626; 1; ; 1; 2; 2003
+Litchford, Chris; Central Florida Kraze; GK; 3; 113; ; ; 0; 0; 2003
+Loch, Emil; Central Florida Kraze; ; 7; 135; ; ; 0; 1; 2003
+Mackey, David; Central Florida Kraze; D; 8; 595; ; ; 0; 1; 2003
+Martins-DeSousa, Hugo; Central Florida Kraze; F; 5; 412; 4; 1; 4; 4; 2003
+Meert, Christopher; Central Florida Kraze; ; 11; 840; ; ; 0; 0; 2003
+Menard, Francois Didier; Central Florida Kraze; GK; 4; 290; ; ; 0; 0; 2003
+Metrius, Darick; Central Florida Kraze; M; 9; 632; 3; 3; 4; 5; 2003
+Nix, Timothy; Central Florida Kraze; F; 7; 107; 1; ; 2; 0; 2003
+Philip-Wales, Clifton; Central Florida Kraze; F; 14; 1172; 10; 2; 10; 2; 2003
+Piesner, Brian; Central Florida Kraze; M; 5; 338; ; ; 4; 2; 2003
+Pittman, Jamara; Central Florida Kraze; D; 11; 896; 1; ; 1; 5; 2003
+Potts, Joseph; Central Florida Kraze; ; 4; 308; ; 1; 1; 4; 2003
+Ruiz, Mauricio; Central Florida Kraze; ; 1; 1; ; ; 0; 0; 2003
+Santiago, Anthony; Central Florida Kraze; D; 11; 534; 1; ; 1; 1; 2003
+Sargeant, Sherwin; Central Florida Kraze; D; 10; 795; ; 1; 4; 4; 2003
+Smith, Matt; Central Florida Kraze; ; 9; 224; 2; ; 3; 2; 2003
+Steed, Sean; Central Florida Kraze; ; 10; 833; 1; ; 2; 5; 2003
+Toro, Mauricio; Central Florida Kraze; M; 4; 368; ; ; 1; 3; 2003
+Vasquez, Eric; Central Florida Kraze; M; 10; 832; 3; 6; 5; 7; 2003
+Amato, Anthony; Cocoa Expos; ; 6; 520; 2; ; 4; 2; 2003
+Atkinson, David; Cocoa Expos; M; 2; 136; 4; ; 6; 1; 2003
+Balc, Adrian; Cocoa Expos; ; 12; 683; 6; ; 20; 7; 2003
+Balkanloo, Matthew; Cocoa Expos; ; 9; 733; ; ; 0; 0; 2003
+Bigham, Daniel; Cocoa Expos; ; 14; 1245; ; ; 3; 14; 2003
+Broxup, Daniel; Cocoa Expos; ; 1; 60; ; ; 5; 0; 2003
+Bull, Liam; Cocoa Expos; ; 7; 440; ; ; 0; 0; 2003
+Carrigan, Michael; Cocoa Expos; ; 4; 219; 1; ; 4; 2; 2003
+Chan, Robin; Cocoa Expos; M; ; ; ; ; 0; 0; 2003
+Chisoni, Mubarike; Cocoa Expos; ; 13; 1079; 13; 2; 23; 12; 2003
+Coker, Olufolahanmi; Cocoa Expos; ; ; ; ; ; 0; 0; 2003
+Collins, Peter; Cocoa Expos; D; 13; 1132; 1; 1; 5; 6; 2003
+Collins, Sean; Cocoa Expos; ; ; ; ; ; 0; 0; 2003
+Danella, Matthew; Cocoa Expos; ; 10; 393; ; ; 3; 7; 2003
+Delgado, Xavier Andres; Cocoa Expos; ; 6; 494; 1; 1; 4; 5; 2003
+DeVito, Greg; Cocoa Expos; ; 10; 807; ; 1; 2; 7; 2003
+Fochler, Ingo; Cocoa Expos; ; 7; 564; ; 3; 3; 2; 2003
+Freeman, Steve (1); Cocoa Expos; M; 3; 225; 3; ; 8; 1; 2003
+Gabe, Zachary; Cocoa Expos; M; ; ; ; ; 0; 0; 2003
+Gowan, Matthew; Cocoa Expos; ; 3; 91; ; ; 1; 1; 2003
+Guinn, David; Cocoa Expos; ; 5; 400; ; ; 1; 2; 2003
+Hitchen, Peter; Cocoa Expos; ; 2; 118; ; ; 0; 0; 2003
+Holstein, Robert; Cocoa Expos; ; 7; 306; 2; ; 3; 2; 2003
+Lundy, Brian; Cocoa Expos; ; ; ; ; ; 0; 0; 2003
+McGrory, Declain; Cocoa Expos; ; 10; 483; 1; ; 8; 9; 2003
+Middaugh, Stephen; Cocoa Expos; ; ; ; ; ; 0; 0; 2003
+Phillips, James; Cocoa Expos; ; 3; 232; ; ; 4; 3; 2003
+Pondwa, Itayi; Cocoa Expos; ; 11; 941; 1; 1; 5; 8; 2003
+Queen, Warren; Cocoa Expos; ; 2; 55; ; ; 2; 1; 2003
+Riegler, Jason; Cocoa Expos; ; 4; 253; ; ; 2; 2; 2003
+Rugaiganisa, Andrew; Cocoa Expos; ; 3; 132; ; ; 1; 0; 2003
+Schultz, Adam; Cocoa Expos; ; 6; 560; 1; ; 1; 3; 2003
+Scully, Michael; Cocoa Expos; ; 1; 90; ; ; 3; 2; 2003
+Shibly, Gabriel-Marin; Cocoa Expos; ; 4; 72; ; ; 0; 0; 2003
+Smeraglinolo, Jeff; Cocoa Expos; ; ; ; ; ; 0; 0; 2003
+Smith, Steve; Cocoa Expos; ; ; ; ; ; 0; 0; 2003
+Sypura, Andrew; Cocoa Expos; ; 6; 404; ; ; 2; 7; 2003
+Venn, Sappia; Cocoa Expos; ; ; ; ; ; 0; 0; 2003
+Watkins, Kevan; Cocoa Expos; M; 4; 275; ; ; 0; 2; 2003
+Welch, Andrew; Cocoa Expos; M; 1; 90; ; ; 0; 0; 2003
+Alden-Dunn, Miles; Bradenton Academics; M; 1; 90; ; ; 0; 0; 2003
+Bartholomew, Arthur; Bradenton Academics; M; 7; 448; ; 1; 4; 2; 2003
+Britton, Jonathan; Bradenton Academics; D; 6; 294; 1; 1; 5; 1; 2003
+Burns, Kevin; Bradenton Academics; M; 13; 1005; 2; 2; 5; 3; 2003
+Calligaris, Billy; Bradenton Academics; F; 13; 623; 2; ; 13; 13; 2003
+De Sousa, Heverton; Bradenton Academics; ; 7; 509; 3; 1; 17; 14; 2003
+Dowdell, Rory; Bradenton Academics; D; 11; 766; 2; ; 3; 5; 2003
+Downs, Jacob; Bradenton Academics; M; 6; 252; ; 1; 2; 2; 2003
+Elder, Corwin; Bradenton Academics; D; ; ; ; ; 0; 0; 2003
+Graham, John (Stash); Bradenton Academics; GK; 6; 540; ; ; 0; 0; 2003
+Herman, Andrew; Bradenton Academics; D; ; ; ; ; 0; 0; 2003
+Humphrey, Robert; Bradenton Academics; ; 12; 846; 2; 2; 6; 7; 2003
+Jefferson-Dow, Benjamin; Bradenton Academics; F; 2; 92; ; ; 0; 2; 2003
+Keel, Stephen; Bradenton Academics; ; 6; 155; 1; 2; 3; 1; 2003
+Kroll, Andrew; Bradenton Academics; GK; ; ; ; ; 0; 0; 2003
+Mahoney, David; Bradenton Academics; GK; 9; 890; ; ; 0; 0; 2003
+Morsink, Kurt; Bradenton Academics; D; 11; 916; 1; ; 5; 10; 2003
+Parkhurst, Michael; Bradenton Academics; D; 10; 882; 2; 1; 11; 8; 2003
+Pearce, Heath; Bradenton Academics; D; 11; 1005; 1; 1; 12; 5; 2003
+Ramos, Jose Roberto; Bradenton Academics; F; 8; 540; 3; ; 5; 9; 2003
+Rosinsky, Robert; Bradenton Academics; F; 7; 341; 2; 1; 5; 2; 2003
+Sheldon, Nolan; Bradenton Academics; D; 1; 90; 1; ; 0; 0; 2003
+Stellberger, Dawson; Bradenton Academics; D; 8; 490; ; ; 1; 5; 2003
+Tenn-McClellan, Asher; Bradenton Academics; D; 5; 219; ; ; 0; 2; 2003
+Thompson, Matthew; Bradenton Academics; D; 9; 761; ; ; 0; 8; 2003
+Trowbridge, Justin; Bradenton Academics; GK; ; ; ; ; 0; 0; 2003
+Villalobos, Luis; Bradenton Academics; M; 8; 340; 1; ; 0; 5; 2003
+Vinciguerra, Bradley; Bradenton Academics; F; 6; 454; 2; ; 7; 11; 2003
+Vock, Jared; Bradenton Academics; M; 8; 745; ; ; 1; 8; 2003
+Wyrick, David; Bradenton Academics; D; 8; 398; 1; 1; 2; 3; 2003
+Allen, Jacob; Cascade Surge; M; 8; 441; ; ; 1; 4; 2003
+Andrade-Taffolla, Isidro; Cascade Surge; F; 6; 454; ; ; 2; 8; 2003
+Boehne, Brian; Cascade Surge; M; 5; 199; ; ; 0; 2; 2003
+Boss, Terry; Cascade Surge; GK; 9; 834; ; ; 0; 0; 2003
+Breen, Erin; Cascade Surge; D; 17; 1276; 2; 1; 2; 20; 2003
+Camarena-Corzo, Enrique; Cascade Surge; F; 15; 1205; 5; 7; 24; 23; 2003
+Chavez, Mauricio; Cascade Surge; M; 14; 1204; 7; 2; 15; 20; 2003
+Chighizola, Sean; Cascade Surge; D; 12; 1072; ; ; 5; 17; 2003
+Cook, Nathanael; Cascade Surge; D; 3; 161; ; ; 0; 2; 2003
+Curley, Kevin; Cascade Surge; D; 16; 1107; 1; ; 3; 15; 2003
+Daka, Patrick; Cascade Surge; F; 18; 1445; 6; 4; 35; 23; 2003
+Dasher, Shane; Cascade Surge; D; 2; 62; ; 1; 0; 2; 2003
+Esquvivel, Julian; Cascade Surge; M; 6; 76; ; ; 0; 1; 2003
+Gorski, Ryszard; Cascade Surge; GK; 10; 800; ; ; 0; 0; 2003
+Holbrook, Dustin; Cascade Surge; M; 11; 572; ; ; 2; 8; 2003
+Iheroronye, Ezzy; Cascade Surge; D; 3; 188; ; ; 0; 2; 2003
+Kos, Vaso; Cascade Surge; D; 7; 683; ; ; 2; 4; 2003
+Madigan, Casey; Cascade Surge; M; 16; 817; ; 1; 3; 7; 2003
+McClellan, Ryan; Cascade Surge; M; 10; 717; ; ; 2; 6; 2003
+McCool, Taylor; Cascade Surge; M; 16; 1223; 1; ; 8; 18; 2003
+Medel, Sergio; Cascade Surge; M; ; ; ; ; 0; 0; 2003
+Myles, Graham; Cascade Surge; ; 1; 90; ; ; 0; 0; 2003
+Pohle, Jesse; Cascade Surge; ; 2; 87; ; ; 1; 1; 2003
+Reyes, Vincente; Cascade Surge; M; 5; 265; ; ; 1; 0; 2003
+Sanchez, Ricardo; Cascade Surge; F; 16; 1166; 3; 5; 22; 21; 2003
+Sanchez Jr., Demetrio; Cascade Surge; D; 16; 1263; 5; 2; 17; 14; 2003
+Weber, Brandon; Cascade Surge; GK; 1; 90; ; ; 0; 0; 2003
+Amahzion, Fikrejesus; Calgary Storm Prospects ; M; 12; 1029; 1; 1; 13; 20; 2003
+Bahia, Kashmir; Calgary Storm Prospects ; ; 12; 1021; ; ; 2; 4; 2003
+Deeprose, Matthew; Calgary Storm Prospects ; ; 8; 720; ; ; 2; 17; 2003
+Flannery, Troy; Calgary Storm Prospects ; F; ; ; ; ; 0; 0; 2003
+Gareau, Dwayne; Calgary Storm Prospects ; M; 12; 1090; 1; ; 7; 21; 2003
+Garritty, Brendan; Calgary Storm Prospects ; M; 10; 902; 3; 1; 6; 12; 2003
+Gilchrist, Steve; Calgary Storm Prospects ; ; ; ; ; ; 0; 0; 2003
+John, Cecil; Calgary Storm Prospects ; M; 7; 540; 1; ; 1; 9; 2003
+Jovica, Allen; Calgary Storm Prospects ; ; 1; 80; ; ; 0; 1; 2003
+Kuhn, Erik; Calgary Storm Prospects ; D; 2; 75; ; ; 0; 0; 2003
+Ludtke, Clint; Calgary Storm Prospects ; F; 10; 371; ; ; 1; 5; 2003
+McDermott, Brett; Calgary Storm Prospects ; GK; 12; 1100; ; ; 0; 0; 2003
+Nielsen, Danny; Calgary Storm Prospects ; M; 10; 854; ; ; 1; 3; 2003
+Onulov, Adam; Calgary Storm Prospects ; D; 12; 1077; ; ; 1; 17; 2003
+Panik, Jeff; Calgary Storm Prospects ; D; 5; 171; ; ; 1; 3; 2003
+Paszkowski, Konrad; Calgary Storm Prospects ; D; 11; 916; 4; 1; 11; 9; 2003
+Pollock, Adam; Calgary Storm Prospects ; D; 8; 512; ; ; 1; 4; 2003
+Prime, Amilcar; Calgary Storm Prospects ; D; 12; 798; ; 2; 2; 9; 2003
+Taylor, Fredric; Calgary Storm Prospects ; D; 8; 355; ; ; 1; 3; 2003
+Taylor, Tim; Calgary Storm Prospects ; ; 4; 308; 3; ; 4; 1; 2003
+Torres, Ronny; Calgary Storm Prospects ; M; 3; 78; ; ; 0; 0; 2003
+Tse, Justin; Calgary Storm Prospects ; D; 2; 28; ; ; 0; 2; 2003
+Atencio, Christian; Yakima Reds; M; 5; 286; 2; 1; 3; 3; 2003
+Auckland, Jared; Yakima Reds; F; 16; 1339; 11; 3; 46; 23; 2003
+Auckland, Jordan; Yakima Reds; M; 3; 156; 1; 1; 3; 5; 2003
+Barajas-Partida, Eder; Yakima Reds; M; 12; 1054; ; ; 4; 10; 2003
+Calderon-Castro, Victor; Yakima Reds; D; 4; 149; 1; ; 1; 3; 2003
+Delo, Ryan; Yakima Reds; F; 9; 800; 1; 1; 10; 12; 2003
+Esterhuizen, Hans; Yakima Reds; D; 14; 1269; ; ; 2; 24; 2003
+Franco-Cobaleda, Eric; Yakima Reds; F; 1; 2; ; ; 0; 0; 2003
+Lane, Jeff; Yakima Reds; M; 14; 1151; 4; 2; 16; 14; 2003
+Licht, Jesse; Yakima Reds; ; ; ; ; ; 0; 0; 2003
+Lopez-Ayala, Angel; Yakima Reds; ; ; ; ; ; 0; 0; 2003
+Machado, Luiz Marcelo; Yakima Reds; F; 4; 101; ; ; 2; 0; 2003
+Masaki, Nishijyo; Yakima Reds; ; 3; 26; ; 1; 1; 0; 2003
+Rhoads, Jacob; Yakima Reds; GK; 5; 406; ; ; 0; 0; 2003
+Rivera-Valdovinos, Santa Maria; Yakima Reds; M; 9; 785; 2; ; 10; 14; 2003
+Roberts, Tyler; Yakima Reds; F; 14; 1280; ; ; 0; 18; 2003
+Rojas, Alonso; Yakima Reds; F; 8; 398; ; ; 2; 1; 2003
+Rojas, Raymundo; Yakima Reds; D/F; 10; 372; ; ; 6; 1; 2003
+Sardon, Anthony; Yakima Reds; ; 6; 355; ; ; 4; 3; 2003
+Schafer, Mikel; Yakima Reds; ; 4; 208; ; 1; 2; 13; 2003
+Schefter, John; Yakima Reds; M; 14; 1019; 1; ; 12; 11; 2003
+Serna-Rivera, Jose; Yakima Reds; D; 1; 200; ; ; 0; 1; 2003
+Shen, Tao; Yakima Reds; ; 3; 75; ; ; 0; 2; 2003
+Suhm, Brad; Yakima Reds; M; 16; 1290; ; ; 9; 23; 2003
+Suhm, Douglas Tyler; Yakima Reds; M; 14; 1250; 5; ; 11; 30; 2003
+Supang, Joseph; Yakima Reds; ; 9; 790; ; 1; 3; 6; 2003
+Timm, Jason; Yakima Reds; D; 4; 354; ; ; 1; 9; 2003
+Waltman, Danny; Yakima Reds; GK; 11; 1008; ; ; 0; 0; 2003
+Wright, Travis; Yakima Reds; D; 5; 354; ; ; 0; 12; 2003
+Vidal, Juan; Yakima Reds; M/F; ; ; ; ; 0; 0; 2003
+Abunbiz, Chon; Abbotsford Rangers; ; 1; 56; ; ; 1; 0; 2003
+Ascolese, Nick; Abbotsford Rangers; F; 2; 180; ; 1; 2; 4; 2003
+Ballard, Paul; Abbotsford Rangers; D; 11; 939; ; ; 1; 9; 2003
+Cecil, Chris; Abbotsford Rangers; GK; 8; 723; ; ; 0; 0; 2003
+Crocker, Sean; Abbotsford Rangers; M/F; 12; 670; ; 5; 5; 6; 2003
+Crocker, Simon; Abbotsford Rangers; D; 13; 973; 1; 4; 2; 5; 2003
+Duben, Josef; Abbotsford Rangers; F; 10; 570; 1; ; 4; 17; 2003
+Flint, Jason; Abbotsford Rangers; F; 7; 440; 2; 1; 5; 5; 2003
+Frazao, Steven; Abbotsford Rangers; F; 7; 524; 1; ; 4; 3; 2003
+Garcia, Estevan; Abbotsford Rangers; GK; ; ; ; ; 0; 0; 2003
+Giebelhaus, James; Abbotsford Rangers; D; 12; 1086; ; 1; 4; 8; 2003
+Guiseppi, Sean; Abbotsford Rangers; F; 7; 141; 1; ; 2; 3; 2003
+Hernandez, Hector; Abbotsford Rangers; M/F; 12; 923; 1; 1; 7; 5; 2003
+Jorgensen, Jason; Abbotsford Rangers; F; 13; 894; 7; ; 16; 15; 2003
+Leon, Guido Luis; Abbotsford Rangers; GK; 5; 474; ; ; 0; 0; 2003
+McCulloch, Andrew; Abbotsford Rangers; D; 8; 530; ; 1; 1; 7; 2003
+McEachern, Scott; Abbotsford Rangers; D; ; ; ; ; 0; 0; 2003
+Peetoom, Brad; Abbotsford Rangers; D; 3; 294; 1; ; 1; 4; 2003
+Powell, Christopher; Abbotsford Rangers; M/F; 9; 358; ; ; 2; 7; 2003
+Riehl, James; Abbotsford Rangers; M/F; 14; 1200; 1; 1; 12; 21; 2003
+Riehl, Mike; Abbotsford Rangers; M/F; 14; 1199; ; ; 11; 25; 2003
+Rosencrans, Trevor; Abbotsford Rangers; M/F; 12; 899; 1; ; 14; 4; 2003
+Schmidt, Spencer; Abbotsford Rangers; F; 5; 309; 4; 1; 10; 6; 2003
+Werstuik, Jeff; Abbotsford Rangers; D; 8; 521; ; ; 0; 2; 2003
+Allberry, Dustin; Spokane Shadow; M; 15; 762; 6; 2; 24; 12; 2003
+Anderson, Robert; Spokane Shadow; M; 11; 998; ; ; 0; 9; 2003
+Barton, Kieran; Spokane Shadow; M; 3; 249; 1; ; 2; 3; 2003
+Baune, Jon; Spokane Shadow; D; 13; 1162; ; ; 3; 11; 2003
+Conrad, Trevor; Spokane Shadow; ; 13; 637; 1; ; 4; 5; 2003
+Cummings, Evan; Spokane Shadow; M; 6; 408; 2; ; 6; 9; 2003
+Cummings, Garth; Spokane Shadow; ; 11; 836; 4; 2; 24; 29; 2003
+Everall, James; Spokane Shadow; ; 14; 1165; ; ; 2; 9; 2003
+Eylander, Christopher; Spokane Shadow; GK; 8; 733; ; ; 0; 0; 2003
+Fauske, Elliott; Spokane Shadow; M; 8; 651; 2; 1; 13; 4; 2003
+Grubb, Aaron; Spokane Shadow; D; 15; 1328; ; ; 1; 4; 2003
+Herzog, Michael; Spokane Shadow; ; 15; 832; 2; ; 6; 0; 2003
+Hite, Brett; Spokane Shadow; ; 4; 42; ; ; 0; 0; 2003
+Johnson, Paul; Spokane Shadow; M; 15; 1134; 4; 1; 14; 17; 2003
+Kalnasy, Shaun; Spokane Shadow; ; 9; 850; ; ; 0; 0; 2003
+Kerwien, Scott; Spokane Shadow; ; 6; 304; 1; ; 2; 1; 2003
+Kuska, Jason; Spokane Shadow; F; 15; 983; 9; 3; 29; 18; 2003
+Moug, Jake; Spokane Shadow; F; 11; 540; 2; 4; 10; 10; 2003
+Nagle, George; Spokane Shadow; ; ; ; ; ; 0; 0; 2003
+Palladino, John; Spokane Shadow; D; 16; 1094; ; 2; 8; 18; 2003
+Ready, Troy; Spokane Shadow; M; 12; 991; ; 2; 17; 13; 2003
+Stueckle, Matt; Spokane Shadow; D; 15; 1326; 4; ; 11; 2; 2003
+Whitmore, Christopher; Spokane Shadow; M; ; ; ; ; 0; 0; 2003
+Wright, Kristofer; Spokane Shadow; ; ; ; ; ; 0; 0; 2003
+Yuska, Scott; Spokane Shadow; ; 7; 474; 1; 1; 7; 3; 2003
+Adlong, Daniel; BYU Cougars; ; ; ; ; ; 0; 0; 2003
+Affleck, Matthew; BYU Cougars; F; 18; 1584; 6; 2; 50; 28; 2003
+Blake, Brock; BYU Cougars; F; 14; 588; 1; ; 12; 25; 2003
+Bryan, Paul; BYU Cougars; M/F; 11; 458; ; 2; 4; 12; 2003
+Carlson, Kendall; BYU Cougars; ; ; ; ; ; 0; 0; 2003
+Degraff, Broch; BYU Cougars; ; ; ; ; ; 0; 0; 2003
+Deshler, Chad; BYU Cougars; M/F; 15; 1139; 1; 2; 22; 7; 2003
+Foster, Thomas; BYU Cougars; D; ; ; ; ; 0; 0; 2003
+Foulger, Matthew; BYU Cougars; D; 9; 238; ; ; 1; 6; 2003
+Gabbart, Aaron; BYU Cougars; D; 17; 1429; ; ; 8; 24; 2003
+Gilliam, Brandon; BYU Cougars; GK; 3; 197; ; ; 0; 0; 2003
+Graham, Curtis; BYU Cougars; M/F; 18; 1591; 1; ; 15; 15; 2003
+Jensen, Jeffrey; BYU Cougars; M/F; 17; 1389; ; ; 9; 28; 2003
+Lacey, Michael; BYU Cougars; GK; 8; 637; ; ; 0; 0; 2003
+Lamb, Christopher; BYU Cougars; F; 13; 384; 3; ; 11; 3; 2003
+Lowe, Nathan; BYU Cougars; M/F; ; ; ; ; 0; 0; 2003
+Matsumori, Devin; BYU Cougars; D; 18; 1647; 2; ; 3; 9; 2003
+Monson, Shane; BYU Cougars; M/F; 3; 32; ; ; 0; 0; 2003
+Ojuka, Ken; BYU Cougars; F; 14; 887; ; 1; 7; 14; 2003
+Osborne, Britton; BYU Cougars; ; ; ; ; ; 0; 0; 2003
+Peterson, Brad; BYU Cougars; F; 18; 1405; 4; ; 34; 12; 2003
+Russell, Christian; BYU Cougars; M/F; 12; 585; ; 1; 0; 5; 2003
+Stevens, Benjamin; BYU Cougars; ; ; ; ; ; 0; 0; 2003
+Viernes, J. Spencer; BYU Cougars; M/F; 16; 767; 1; 1; 16; 11; 2003
+Walker, Matthew; BYU Cougars; D; 15; 1312; 1; ; 7; 14; 2003
+Walunas, Erik; BYU Cougars; GK; 10; 798; ; ; 0; 0; 2003
+Winn, Travis; BYU Cougars; M/F; 12; 685; 1; 1; 15; 10; 2003
+Yescas-Nogales, Daniel; BYU Cougars; M/F; 13; 281; ; 1; 2; 1; 2003
+Aigbogun, Paul; Nevada Wonders; D/M; 6; 329; ; ; 0; 1; 2003
+Ayala-Mora, Jose Antonio; Nevada Wonders; M/F; 12; 872; ; ; 24; 9; 2003
+Blackburn, Chris; Nevada Wonders; M; 13; 1206; 3; 3; 39; 26; 2003
+Blackley, John; Nevada Wonders; D; 15; 1388; 2; ; 9; 24; 2003
+Delgado, Richard; Nevada Wonders; M/F; 13; 1195; ; 1; 17; 21; 2003
+Edwards, Kai; Nevada Wonders; F; 8; 670; ; 2; 18; 11; 2003
+Estrada-Macias, Noe; Nevada Wonders; D; 4; 275; ; ; 0; 1; 2003
+Farfan, Mario; Nevada Wonders; M; 7; 553; ; ; 9; 5; 2003
+Flores-Maydral, Nestor; Nevada Wonders; M; 3; 207; ; ; 3; 0; 2003
+Grillo, Anthony; Nevada Wonders; M; 12; 624; 1; ; 11; 9; 2003
+Harris, Kirkwood; Nevada Wonders; D/M; 13; 785; 2; 3; 15; 10; 2003
+Hernandez, Thomas; Nevada Wonders; ; 4; 401; ; ; 0; 3; 2003
+Licciardi, Vincent; Nevada Wonders; GK; 2; 69; ; ; 2; 1; 2003
+Loera-Villalvazo, Juan; Nevada Wonders; M/F; 3; 293; ; ; 8; 5; 2003
+Miller, Matthew Ian; Nevada Wonders; ; 9; 688; 1; ; 19; 16; 2003
+Morley, Bernard; Nevada Wonders; M; 11; 1010; 2; ; 19; 30; 2003
+Morris, Mathew; Nevada Wonders; F; 5; 450; ; 1; 6; 3; 2003
+Nealis, Sean; Nevada Wonders; D; 6; 560; ; ; 4; 7; 2003
+Oliden-Cardenas, Ernesto; Nevada Wonders; M/F; 3; 252; 1; ; 11; 5; 2003
+Otalor, Kenneth; Nevada Wonders; D; 16; 1478; ; ; 9; 41; 2003
+Roser, Landon; Nevada Wonders; D/M; 17; 1379; ; ; 12; 8; 2003
+Rowe, Sebastian; Nevada Wonders; GK; 11; 965; ; ; 0; 0; 2003
+Saldana-Jacinto, Gerardo; Nevada Wonders; D; 8; 664; ; ; 2; 22; 2003
+Scott, Luke; Nevada Wonders; M; 8; 740; ; ; 7; 12; 2003
+Shabazz, Hassan; Nevada Wonders; ; 6; 581; ; ; 0; 0; 2003
+Shorrock, John; Nevada Wonders; M/F; 7; 132; ; ; 1; 4; 2003
+White, Jeffrey; Nevada Wonders; ; 3; 198; ; ; 0; 0; 2003
+Adams, Joseph; Southern California Seahorses; M/F; 2; 27; ; ; 1; 2; 2003
+Babel, Mark; Southern California Seahorses; M/F; 7; 216; ; ; 1; 3; 2003
+Benton, Daniel; Southern California Seahorses; GK; 7; 648; ; ; 0; 0; 2003
+Collins, Danny; Southern California Seahorses; F; 14; 768; 3; 2; 21; 10; 2003
+Elkins, Todd; Southern California Seahorses; M/F; 15; 1150; ; 2; 10; 11; 2003
+Evans, Matt; Southern California Seahorses; M; 9; 805; ; 4; 13; 9; 2003
+Hess, Matthew; Southern California Seahorses; F; 17; 955; 4; 3; 30; 12; 2003
+Hotchkin, Jason; Southern California Seahorses; M/F; 18; 1361; 14; 4; 59; 31; 2003
+Hoxie, Allen; Southern California Seahorses; D; 3; 163; ; ; 1; 3; 2003
+Jepson, Timmy; Southern California Seahorses; M; 7; 448; ; 1; 8; 15; 2003
+Jones, Jordan; Southern California Seahorses; F; 17; 812; 2; ; 21; 10; 2003
+Lawson, Beau; Southern California Seahorses; M; 14; 932; 1; 1; 13; 28; 2003
+Marcus, Todd; Southern California Seahorses; M; 15; 796; ; 1; 16; 16; 2003
+Martinez, Dylan; Southern California Seahorses; F; 12; 317; 1; ; 15; 8; 2003
+McLeish, Josh; Southern California Seahorses; M; 17; 1215; 4; 3; 17; 15; 2003
+Meek, Benjamin; Southern California Seahorses; D; 16; 1486; 1; 1; 12; 21; 2003
+Oakes, Ryan; Southern California Seahorses; M; 2; 78; ; ; 2; 1; 2003
+Schroeder, Gregg; Southern California Seahorses; D; 18; 1666; ; 1; 6; 15; 2003
+Searles, John; Southern California Seahorses; D; 3; 125; ; ; 3; 0; 2003
+Thibault, Daniel; Southern California Seahorses; GK; ; ; ; ; 0; 0; 2003
+Throop, Adam; Southern California Seahorses; GK; 11; 941; ; ; 0; 1; 2003
+Ward, Jacob; Southern California Seahorses; D; 15; 1211; 2; ; 9; 17; 2003
+Wilson, Daniel; Southern California Seahorses; D; 16; 1425; ; ; 3; 25; 2003
+Wilson, Randy; Southern California Seahorses; M; 13; 437; ; ; 6; 12; 2003
+Alvarez-Ochoa, Francisco; Fresno Fuego; GK; 9; 656; ; ; 0; 0; 2003
+Anderson, Makoto; Fresno Fuego; M; 11; 587; 1; 1; 7; 4; 2003
+Blanco, Milton; Fresno Fuego; M; 16; 1340; 3; 3; 10; 26; 2003
+Carter, Jacob; Fresno Fuego; M; 2; 105; ; ; 0; 0; 2003
+Cignetti, Gaston; Fresno Fuego; M; 5; 468; 1; ; 8; 10; 2003
+Codeceira-Lopes, Fabricio; Fresno Fuego; M; 11; 972; 3; 5; 20; 21; 2003
+Contreras-Salazar, Edgardo; Fresno Fuego; F; 15; 1087; 11; 4; 48; 14; 2003
+Delgadillo-Servin, Jose Luis; Fresno Fuego; D; 18; 1548; 2; 1; 9; 12; 2003
+Espindola, Jose; Fresno Fuego; F; 17; 999; 5; 5; 24; 18; 2003
+Farfan, Erik; Fresno Fuego; F; 6; 288; 1; 2; 9; 2; 2003
+Gutierrez, Eddie; Fresno Fuego; M; 15; 1098; 2; 3; 9; 15; 2003
+Hammond, Nick; Fresno Fuego; GK; 10; 620; ; ; 0; 0; 2003
+Lomeli, Nick; Fresno Fuego; ; 4; 100; ; ; 1; 2; 2003
+Lopez, Derek; Fresno Fuego; D; 11; 1014; ; ; 2; 9; 2003
+McKinney, Timothy; Fresno Fuego; F; 12; 412; 1; ; 6; 6; 2003
+Mexicano, Jose; Fresno Fuego; D; 9; 512; ; ; 1; 6; 2003
+Montes-Contreras, Alejandro; Fresno Fuego; ; 7; 93; ; ; 0; 2; 2003
+Mora-Ramirez, Heber; Fresno Fuego; ; 8; 276; 2; ; 6; 2; 2003
+Padilla, Rogelio; Fresno Fuego; D; 14; 1176; 2; ; 4; 18; 2003
+Perez-Camacho, Roberto; Fresno Fuego; ; ; ; ; ; 0; 0; 2003
+Proud, Jeremy; Fresno Fuego; GK; 4; 333; ; ; 0; 0; 2003
+Ramirez, Orlando; Fresno Fuego; F; 13; 811; 11; 3; 31; 10; 2003
+Rivas-Flores, Jose; Fresno Fuego; D; 15; 1302; 1; 2; 2; 9; 2003
+Rivera, Raul; Fresno Fuego; M; 17; 987; 2; 1; 15; 9; 2003
+Santillan-Garcia, Hector; Fresno Fuego; D; 6; 247; ; ; 1; 2; 2003
+Smith, James; Fresno Fuego; ; ; ; ; ; 0; 0; 2003
+Souza, Jarrod; Fresno Fuego; D; 9; 571; ; ; 3; 4; 2003
+Vega, Ernesto; Fresno Fuego; ; 7; 420; 1; ; 3; 6; 2003
+Acuna-Mostaccero, Dardo; Orange County Blue Star; ; ; ; ; ; 0; 0; 2003
+Barton, Joseph; Orange County Blue Star; GK; 5; 452; ; ; 0; 0; 2003
+Coiner, Ryan; Orange County Blue Star; ; 17; 996; 11; 1; 26; 8; 2003
+Donnelly, Tim; Orange County Blue Star; M; 12; 540; ; 1; 5; 5; 2003
+Erush, Michael; Orange County Blue Star; M; 5; 234; ; ; 0; 2; 2003
+Goppingen, Jay; Orange County Blue Star; ; 8; 673; 5; 3; 22; 1; 2003
+Gregorio, Adolfo; Orange County Blue Star; ; 11; 705; 1; 4; 10; 3; 2003
+Griffin, Leonard; Orange County Blue Star; D; 18; 1592; 1; 2; 5; 8; 2003
+Higgins, Shaun; Orange County Blue Star; D; 16; 1364; ; ; 3; 21; 2003
+Kennedy, Daniel; Orange County Blue Star; ; 13; 1125; ; ; 0; 0; 2003
+Kovar, Matthew; Orange County Blue Star; D; 4; 305; ; ; 0; 1; 2003
+Kubota, Matt; Orange County Blue Star; M; 7; 451; ; ; 5; 6; 2003
+Lawson, Anthony; Orange County Blue Star; D; 12; 1002; 1; ; 1; 2; 2003
+Maurin, Ty; Orange County Blue Star; ; 5; 278; ; ; 1; 2; 2003
+Mcathy, Drew; Orange County Blue Star; F; 9; 437; 2; ; 8; 2; 2003
+Meissner, Kevin; Orange County Blue Star; M; 8; 401; ; ; 0; 3; 2003
+Owen, Dwight; Orange County Blue Star; D; ; ; ; ; 0; 0; 2003
+Poltl, Thomas; Orange County Blue Star; M; 17; 1514; 5; 7; 17; 19; 2003
+Rogers, Robbie; Orange County Blue Star; F; 5; 209; 1; 2; 3; 1; 2003
+Saunders, Shawn; Orange County Blue Star; D; 13; 1046; 1; 1; 4; 7; 2003
+Spencer, Jonathan; Orange County Blue Star; F; 13; 973; 8; ; 22; 6; 2003
+Taylor, Matthew; Orange County Blue Star; F; 18; 1220; 11; 3; 23; 7; 2003
+Theslof, Nick; Orange County Blue Star; M; 15; 767; 1; 2; 6; 8; 2003
+Theslof, Tyler; Orange County Blue Star; M; 10; 466; ; ; 1; 3; 2003
+Vizcarra, Anthony; Orange County Blue Star; M; 10; 635; ; ; 6; 6; 2003

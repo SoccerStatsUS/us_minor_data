@@ -294,7 +294,7 @@ BlockSource: http://www.uslsoccer.com/teams/2013/22339.html#STATS
 16; M; Walker, Walter; 6; 1; 192; -; 1; 3; 4; 
 9; F; Yeverino, Ricardo; 3; 1; 167; -; 1; 11; 4; 
 
-Real Colorado Foxes
+Team: Real Colorado Foxes
 BlockSource: http://www.uslsoccer.com/teams/2013/13598684.html#STATS
 
 13; F; Akindele, Sheldon; 1; -; 25; -; -; -; -; 
@@ -607,8 +607,8 @@ BlockSource: http://www.uslsoccer.com/teams/2013/22341.html#STATS
 27; D; Weinzimer, Adam; 2; -; 7; -; -; -; -;
 6; D; Wharf, Thomas; 10; -; 808; -; -; 2; 4;
 
-; Team: NJ Luso Rangers
-; BlockSource: http://www.uslsoccer.com/teams/2013/8986441.html#STATS
+Team: NJ Luso Rangers
+BlockSource: http://www.uslsoccer.com/teams/2013/8986441.html#STATS
 
 14; M; Andre, Luis; 9; -; 631; -; -; 1; 1;
 23; F; Boucher, Naeem; 1; -; 2; -; -; -; -;
