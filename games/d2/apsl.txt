@@ -33,10 +33,10 @@ Team: FC Seattle
 Competition: Friendly
 
 6/2/85  Dundee         H   0-1
-6/8/85  Santos         H   2-1    B.Schmetzer (2)
+6/8/85  Santos (Brazil)        H   2-1    B.Schmetzer (2)
 6/16/85 Chivas         H   2-3    A.Schmetzer, Zipp
 6/23/85 United States  H   2-3    B.Schmetzer, A.Schmetzer
-6/30/85 Portland       H   0-2
+6/30/85 FC Portland       H   0-2
 7/14/85 Canada         H   3-2    W.Schmetzer(2),Gunnell
 
 Team: Victoria Riptides
@@ -845,7 +845,7 @@ Team: Colorado Foxes
 8/30/92 Tampa Bay          H   3-1      Diane, Haynes, Medved
 
 
-Competition: Professional Cup
+Competition: APSL Professional Cup
 
 8/3/92  Vancouver          H   3-2      Medved (2), Eck
 8/11/92 Vancouver          A   2-1      Eck, Hooker
@@ -873,7 +873,7 @@ Team: Fort Lauderdale Strikers
 8/30/92 Miami              H    2-1     Eichmann, Kinsey
 
 
-Competition: Professional Cup
+Competition: APSL Professional Cup
 
 8/8/92  Miami              H    2-1     Eichmann (2)
 8/12/92 Miami              A    3-1     McKinley, Kinsey, Muchotrigo
@@ -899,7 +899,7 @@ Team: Miami Freedom
 8/29/92 Ft. Lauderdale     A    1-5     Klein
 8/30/92 Ft. Lauderdale     A    1-2     Benedetti
 
-Competition: Professional Cup
+Competition: APSL Professional Cup
 
 8/8/92  Ft. Lauderdale     A    1-2     Doe
 8/12/92 Ft. Lauderdale     H    1-3     Doe
@@ -925,7 +925,7 @@ Team: San Francisco Bay Blackhawks
 8/29/92 Tampa Bay          H   4-2     Lozzano (2),Lilavois (2)
 
 
-Competition: Professional Cup
+Competition: APSL Professional Cup
 
 7/22/92 Chicago Power      H   2-0     Pena, Holocher
 ??????? Chicago Power      A   ???
@@ -963,7 +963,7 @@ Team: Tampa Bay Rowdies
 8/30/92 Colorado            A    1-3
 
 
-Competition: Professional Cup
+Competition: APSL Professional Cup
 
 8/1/92  Montreal            H    5-1     Harbor(3), Sloan, Hill
 8/12/92 Montreal            A    2-0     Harbor, Van Der Beck
