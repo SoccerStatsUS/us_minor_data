@@ -1,2 +1,270 @@
-Competition: NASL2
+Competition: North American Soccer League (2011-)
 Season: 2013
+
+Key: name; position; games_played; games_started; goals; assists; points; yellow_cards; red_cards; minutes
+
+Team: Atlanta Silverbacks
+
+Ruben Luna; f; 19; 16; 8; 1; 17; 1; 0; 1283
+Pedro Mendes; f; 24; 21; 8; 0; 16; 7; 0; 1744
+Danny Barrera; f; 21; 19; 4; 7; 15; 2; 3; 1540
+Shane Moroney; d; 10; 8; 1; 3; 7; 2; 0; 707
+Milton Blanco; m; 25; 24; 1; 3; 7; 6; 0; 2073
+Richard Menjivar; m; 21; 20; 2; 2; 6; 5; 0; 1834
+Horace James; m; 21; 11; 2; 1; 5; 4; 0; 1069
+Pablo Cruz; m/f; 23; 13; 1; 2; 4; 2; 0; 1233
+Bobby Reiss; d; 11; 8; 2; 0; 4; 2; 0; 753
+Brad Stisser; f; 17; 6; 2; 0; 4; 3; 0; 739
+Mike Randolph; d; 20; 17; 1; 1; 3; 2; 1; 1618
+Beto Navarro; d; 24; 24; 1; 0; 2; 6; 1; 2132
+Martyn Lancaster; d; 23; 22; 1; 0; 2; 4; 0; 1737
+Borfor Carr; m/f; 17; 16; 0; 2; 2; 2; 0; 1221
+Mark Bloom; d; 12; 12; 0; 1; 1; 0; 0; 1080
+Willie Hunt; d; 16; 12; 0; 0; 0; 1; 0; 1044
+Alex Caceres; m; 10; 4; 0; 0; 0; 2; 0; 486
+Kellen Gulley; f; 10; 1; 0; 0; 0; 1; 0; 210
+Jesus Gonzalez; m; 3; 1; 0; 0; 0; 0; 0; 169
+Josh Suggs; d; 2; 2; 0; 0; 0; 0; 0; 153
+Lucas Paulini; m; 4; 1; 0; 0; 0; 0; 0; 137
+Jahbari Willis; f; 1; 1; 0; 0; 0; 0; 0; 75
+
+Joe Nasco; gk; 20; 20; 0; 0; 0; 0; 1; 1642
+Eric Ati; 6; 5; 0; 0; 0; 0; 0; 608
+Cody Mizell; 1; 1; 0; 0; 0; 0; 0; 90
+
+
+Team: Carolina Railhawks
+
+Brian Shriver; f; 22; 22; 15; 1; 31; 1; 0; 1915
+Austin Da Luz; m; 17; 17; 4; 4; 12; 6; 1; 1398
+Tiyi Shipalane; m; 20; 16; 3; 4; 10; 0; 0; 1467
+Zack Schilawski; 24; 22; 2; 4; 8; 3; 0; 1816
+Floyd Franks; m; 10; 10; 3; 0; 6; 3; 1; 881
+Enzo Martinez; m; 13; 9; 2; 2; 6; 1; 0; 794
+Brian Ackley; f; 22; 4; 2; 2; 6; 0; 0; 607
+Cesar Elizondo; m; 17; 9; 2; 1; 5; 2; 0; 865
+Kupono Low; d; 25; 25; 1; 1; 3; 2; 0; 2187
+Paul Hamilton; d; 24; 23; 1; 0; 2; 5; 1; 2003
+Jordan Graye; d; 19; 19; 1; 0; 2; 0; 0; 1535
+Kevin Rutkiewicz; d; 11; 9; 1; 0; 2; 0; 1; 813
+Breiner Oritz; m; 7; 7; 1; 0; 2; 2; 0; 600
+Nicholas Addlery; f; 9; 6; 1; 0; 2; 1; 0; 488
+Henry Kalungi; d; 4; 4; 1; 0; 2; 1; 0; 360
+Kenney Walker; m; 11; 10; 0; 2; 2; 0; 0; 920
+Ciaran O'Brien; m; 7; 0; 0; 2; 2; 0; 0; 52
+Nick Millington ; m; 22; 20; 0; 0; 0; 4; 0; 1753
+Julius James; d; 16; 16; 0; 0; 0; 7; 0; 1396
+Austen King; d; 6; 4; 0; 0; 0; 1; 0; 431
+Jonathan Greenfield; d; 4; 4; 0; 0; 0; 0; 0; 320
+Bryan Gaul; d; 7; 2; 0; 0; 0; 1; 0; 204
+Eddie Ababio; 4; 2; 0; 0; 0; 1; 0; 159
+Luciano Delbono; m; 2; 0; 0; 0; 0; 0; 107
+Greg Shields; d; 1; 0; 0; 0; 0; 0; 0; 44
+Justin Willis; d; 1; 0; 0; 0; 0; 1; 0; 22
+Jake Beckford; m; 3; 0; 0; 0; 0; 1; 1; 16
+Mike Callahan; m; 1; 0; 0; 0; 0; 0; 0; 3
+
+Akira Fitzgerald; gk; 25; 25; 0; 0; 0; 0; 0; 2250
+Tim Murray; gk; 1; 1; 0; 0; 0; 0; 0; 90
+
+
+Team: FC Edmonton
+
+Daryl Fordyce; f; 24; 23; 7; 1; 15; 2; 0; 2097
+Neil Hlavaty; m; 25; 25; 2; 4; 8; 5; 0; 2230
+Chris Nurse; m; 22; 21; 2; 3; 7; 9; 1; 1808
+Shaun Saiko; m; 17; 13; 2; 3; 7; 3; 0; 1109
+Michael Cox; f; 18; 14; 3; 0; 6; 5; 0; 1232
+Corey Hertzog; f; 13; 13; 2; 1; 5; 4; 0; 1151
+Lance Laing; d; 24; 24; 1; 2; 4; 4; 0; 2160
+Robert Garrett; m; 21; 20; 1; 1; 3; 4; 0; 1625
+Mallan Roberts; d; 11; 11; 1; 0; 2; 2; 1; 946
+David Proctor; d; 16; 11; 1; 0; 2; 1; 0; 945
+Sadi Jalali; f; 14; 4; 0; 2; 2; 1; 0; 382
+Wes Knight; m; 6; 5; 1; 0; 2; 1; 0; 357
+Antonio Rago; d; 16; 10; 0; 2; 2; 2; 0; 973
+Albert Watson; d; 20; 20; 0; 1; 1; 1; 0; 1789
+Eddie Edward; d; 20; 20; 0; 1; 1; 4; 1; 1749
+Massimo Mirabelli; m; 19; 6; 2; 0; 4; 1; 0; 727
+Carlyle Mitchell; d; 7; 7; 0; 0; 0; 2; 0; 559
+Adrian LeRoy; d; 6; 5; 0; 0; 0; 1; 0; 521
+Anthony Adur; f; 8; 3; 0; 0; 0; 3; 0; 282
+Gagandeep Dosanjh; m; 5; 3; 0; 0; 0; 0; 0; 273
+Edem Mortotsi; m; 10; 2; 0; 0; 0; 0; 0; 244
+Michael Nonni; d; 3; 0; 0; 0; 0; 0; 0; 43
+Hanson Boaki; m; 3; 0; 0; 0; 0; 0; 0; 32
+
+Lance Parker; gk; 20; 20; 0; 0; 0; 0; 1; 1736
+John Smits; 7; 6; 0; 0; 0; 0; 0; 604
+
+
+Team: Fort Lauderdale Strikers
+
+Martin Nunez; f; 13; 11; 5; 1; 11; 1; 0; 982
+Carlos Salazar; m; 17; 13; 4; 1; 9; 6; 1; 1102
+Bradlee Baladez; f; 12; 3; 4; 0; 8; 0; 0; 377
+Darnell King; f; 26; 24; 3; 1; 7; 5; 0; 2194
+Yaikel Perez; f; 10; 9; 3; 1; 7; 4; 0; 721
+Ivan Guerrero; d; 22; 22; 0; 6; 6; 3; 0; 1962
+Mark nderson; m; 12; 11; 2; 1; 5; 0; 0; 932
+Walter Restrepo; m; 19; 11; 2; 0; 4; 8; 1; 1188
+Scott Gordon; d; 8; 8; 2; 0; 4; 3; 0; 690
+Jemal Johnson; f; 11; 10; 1; 1; 3; 2; 0; 848
+Paulo Junior; m; 12; 8; 1; 1; 3; 0; 0; 745
+Toni Stahl; d; 21; 19; 0; 2; 2; 4; 0; 1687
+Manny Gonzalez; m; 17; 12; 0; 2; 2; 2; 0; 1080
+Pecka; m; 17; 17; 0; 1; 1; 3; 0; 1473
+Stefan Antonijevic; d; 15; 14; 0; 1; 1; 1; 0; 1265
+Rafael Alves; d; 14; 14; 0; 1; 1; 1; 0; 1260
+Stephane Guillaume; d; 14; 14; 0; 0; 0; 3; 1; 1159
+Shavar Thomas; d; 9; 9; 0; 0; 0; 2; 1; 732
+Justin Chavez; 13; 5; 0; 0; 0; 0; 0; 544
+Stefan Dimitrov; f; 7; 6; 0; 0; 0; 1; 0; 497
+Hosman Ramos; m; 7; 5; 0; 0; 0; 1; 0; 408
+David Foley; f; 5; 5; 2; 0; 4; 2; 0; 354
+Rubens Pinheiro; m; 7; 4; 0; 0; 0; 2; 0; 329
+Daniel Arcila; d; 3; 3; 0; 0; 0; 0; 0; 267
+Gonzalo De Mujica; m; 9; 3; 0; 0; 0; 0; 1; 250
+Aly Alberto Hassan; f; 6; 0; 0; 0; 0; 1; 0; 95
+Kenneth Walker; m; 1; 0; 0; 0; 0; 1; 0; 53
+Andy Herron; 3; 0; 0; 0; 0; 0; 0; 36
+Jahbari Willis; f; 2; 0; 0; 0; 0; 0; 0; 32
+Mike Dietze; m; 1; 0; 0; 0; 0; 0; 0; 4
+
+Richard Sanchez; gk; 14; 14; 0; 0; 0; 1; 0; 1260
+Matt Glaeser; gk; 7; 6; 0; 0; 0; 0; 0; 596
+Jeff Attinella; gk; 4; 4; 0; 0; 0; 0; 0; 360
+Lionel Brown; gk; 1; 1; 0; 0; 0; 0; 0; 90
+Cody Laurendi; gk; 1; 1; 0; 0; 0; 0; 0; 34
+
+
+
+Team: Minnesota United
+
+Pablo Campos; f; 22; 22; 13; 4; 30; 5; 0; 1980
+Simone Bracalello; f; 22; 18; 7; 5; 19; 4; 0; 1522
+Omar Daley; m; 6; 2; 3; 1; 7; 1; 0; 232
+Aaron Pitchkolan; m; 20; 19; 2; 1; 5; 4; 0; 1665
+Miguel Ibarra; m; 26; 21; 1; 3; 5; 1; 0; 1962
+Cristiano Dias; d; 18; 17; 2; 0; 4; 4; 0; 1542
+Etienne Barbara; f; 7; 6; 2; 0; 4; 0; 0; 551
+Lucas Rodriguez; m; 11; 10; 1; 2; 4; 0; 0; 746
+Connor Tobin; d; 17; 17; 1; 1; 3; 0; 0; 1450
+Calum Mallace; d; 12; 11; 1; 1; 3; 2; 0; 976
+Max Griffin; 14; 8; 1; 1; 3; 1; 0; 642
+Brian Kallman; d; 18; 17; 1; 0; 2; 4; 1; 1472
+Michael Reed; m; 15; 13; 1; 0; 2; 0; 0; 1164
+Floyd Franks; m; 13; 8; 1; 0; 2; 1; 0; 666
+Geison Moura; m;3; 2; 1; 0; 2; 1; 1; 188
+Justin Davis; d; 19; 19; 0; 2; 2; 1; 0; 1665
+Mike Ambersley; f; 13; 8; 0; 2; 2; 0; 0; 768
+Kentaro Takada; m; 15; 9; 0; 1; 1; 2; 0; 875
+Brent Kallman; d; 1; 1; 0; 1; 1; 0; 0; 90
+Kevin Venegas; m; 16; 11; 0; 0; 0; 0; 0; 1101
+Kyle Altman; d; 10; 10; 0; 0; 0; 1; 0; 856
+Sinisa Ubiparipovic; m; 7; 4; 0; 0; 0; 0; 1; 393
+Bryan Arguez; m; 5; 4; 0; 0; 0; 3; 0; 393
+Kevin Friedland; d; 3; 1; 0; 0; 0; 0; 0; 202
+Travis Wall; f; 9; 1; 0; 0; 0; 1; 0; 157
+Edi Buro; d; 1; 1; 0; 0; 0; 0; 0; 57
+Sean De Silva; m; 3; 0; 0; 0; 0; 0; 0; 29
+Luis Piffer; d; 1; 0; 0; 0; 0; 0; 0; 20
+Nate Polak; m; 1; 0; 0; 0; 0; 0; 0; 7
+
+Matt Van Oekel; gk; 18; 18; 0; 0; 0; 1; 0; 1620
+Daryl Sattler; 6; 6; 0; 0; 0; 0; 0; 540
+Mitch Hildebrandt; 2; 2; 0; 0; 0; 0; 0; 180
+
+
+Team: New York Cosmos
+
+Marcos Senna; m; 13; 13; 5; 2; 12; 3; 0; 1149
+Diomar Diaz; f; 12; 9; 5; 2; 12; 3; 0; 767
+Alessandro Noselli; f; 9; 4; 3; 0; 6; 2; 0; 375
+Stefan Dimitrov; f; 12; 9; 1; 3; 5; 1; 0; 789
+Paulo Mendes; m; 7; 6; 2; 1; 5; 1; 0; 484
+Peri Marosevic; f; 8; 6; 2; 0; 4; 0; 0; 465
+Henry Lopez; f; 5; 1; 2; 0; 4; 0; 0; 135
+Sebastian Guenzatti; f; 10; 8; 1; 1; 3; 1; 1; 774
+Danny Szetela; m; 12; 10; 1; 0; 2; 4; 0; 966
+Carlos Mendes; d; 13; 13; 0; 1; 1; 0; 0; 1155
+Hunter Freeman; d; 12; 12; 0; 1; 1; 4; 1; 1070
+Ayoze; m; 13; 12; 0; 1; 1; 4; 0; 1057
+Korey Veeder; d; 4; 4; 0; 1; 1; 1; 0; 294
+Kyle Reynish; gk; 13; 13; 0; 0; 0; 0; 0; 1170
+Roversion; d; 11; 10; 0; 0; 0; 2; 0; 944
+Joseph Nane; m; 9; 5; 0; 0; 0; 1; 1; 393
+Hagop Chirishian; m; 7; 4; 0; 0; 0; 0; 0; 353
+Satoru Kashiwase; f; 4; 2; 0; 0; 0; 0; 0; 215
+Chris Rodd; d; 2; 1; 0; 0; 0; 1; 0; 93
+Edison Bilbao Zarate; m; 1; 1; 0; 0; 0; 0; 0; 90
+Juan Gonzalez; m; 1; 1; 0; 0; 0; 0; 0; 90
+Jimmy Maurer; gk; 1; 1; 0; 0; 0; 0; 0; 90
+James Nealis; d; 1; 1; 0; 0; 0; 0; 0; 90
+David Diosa; f; 1; 0; 0; 0; 0; 0; 0; 38
+Jemal Johnson; f; 1; 0; 0; 0; 0; 0; 0; 18
+Dane Murphy; m; 2; 0; 0; 0; 0; 0; 1; 4
+
+
+Team: Ottawa Fury
+
+
+
+Team: San Antonio Scorpions
+
+Hans Denissen; f; 21; 19; 12; 2; 26; 2; 0; 1548
+Tomasz Zahorski; f; 14; 14; 9; 0; 18; 2; 0; 1260
+Javier Saavedra; m; 22; 20; 1; 7; 9; 0; 0; 1603
+Walter Ramirez; d; 24; 18; 2; 1; 5; 3; 0; 1577
+Blake Wagner; d; 22; 17; 2; 0; 4; 7; 0; 1526
+Kevin Harmse; d; 15; 15; 1; 3; 4; 4; 1; 1342
+Eriq Zavaleta; d; 2; 2; 1; 1; 3; 0; 0; 156
+Luka Vucko; d; 26; 26; 1; 0; 2; 4; 0; 2340
+Edin Husic; m; 19; 13; 1; 0; 2; 6; 0; 1210
+Bryan Jordan; m; 8; 4; 1; 0; 2; 3; 0; 410
+Nikola Vaslic; f; 5; 2; 1; 0; 2; 1; 0; 269
+Sainey Touray; f; 4; 3; 1; 0; 2; 0; 0; 295
+Fabrice Noel; f; 6; 0; 0; 2; 2; 0; 0; 78
+Stephen DeRoux; m; 19; 17; 0; 1; 1; 3; 1; 1530
+Lyle Martin; d; 16; 14; 0; 1; 1; 1; 0; 1279
+Borja Rubiato; f; 9; 6; 0; 1; 1; 3; 0; 533
+Dennis Chin; f; 5; 5; 0; 1; 1; 0; 0; 393
+Greg Janicki; d; 20; 20; 0; 0; 0; 7; 1; 1682
+Patrick Phelan; m; 20; 16; 0; 0; 0; 5; 0; 1447
+Jeremy Vuolo; gk; 14; 13; 0; 0; 0; 1; 0; 1238
+Pat Hannigan; gk; 13; 13; 0; 0; 0; 1; 0; 1102
+Jeff Jennings; m; 18; 11; 0; 0; 0; 3; 1; 994
+Esteban Bayona; f; 16; 5; 0; 0; 0; 0; 0; 612
+Chris Williams; d; 5; 4; 0; 0; 0; 0; 0; 440
+Ivan Milicevic; f; 5; 4; 0; 0; 0; 0; 0; 293
+Logan Emory; d; 3; 3; 0; 0; 0; 1; 0; 270
+Ciaran O'Brien; m; 4; 0; 0; 0; 0; 1; 0; 66
+Sean Arters; m; 1; 0; 0; 0; 0; 0; 0; 6
+
+
+Team: Tampa Bay Rowdies
+
+Georgi Hristov; f; 22; 21; 12; 8; 32; 3; 0; 1834
+Luke Mulholland; m; 25; 25; 11; 7; 29; 8; 1; 2250
+Evans Frimpong; f; 23; 19; 6; 2; 14; 2; 0; 1652
+Keith Savage; m; 25; 21; 4; 2; 10; 0; 0; 1939
+Amani Walker; f; 9; 6; 2; 2; 6; 0; 0; 475
+Etienne Barbara; f; 10; 5; 1; 4; 6; 2; 0; 531
+Devin Del Do; f; 15; 5; 1; 3; 5; 1; 0; 546
+Shane Hill; m; 19; 18; 2; 0; 4; 1; 1; 1491
+Jay Needham; d; 20; 17; 2; 0; 4; 3; 0; 1481
+Luck Mkosana; f; 9; 8; 2; 0; 4; 2; 0; 717
+Carl Cort; f; 11; 4; 2; 0; 4; 1; 1; 452
+Mike Ambersley; f; 6; 3; 2; 0; 4; 1; 0; 286
+Andres Arango; d; 20; 20; 1; 0; 2; 2; 1; 1605
+Alex Dixon; m; 3; 0; 1; 0; 2; 0; 0; 71
+Frankie Sanfilippo; d; 25; 25; 0; 2; 2; 0; 0; 2206
+Diego Restrepo; gk; 23; 23; 0; 0; 0; 2; 0; 2069
+Takuya Yamada; d; 22; 22; 0; 0; 0; 0; 0; 1966
+Raphael Cox; m; 18; 14; 0; 0; 0; 5; 0; 1193
+Stuart Campbell; m; 15; 12; 0; 0; 0; 1; 0; 1090
+Jordan Gafa; d; 14; 10; 0; 0; 0; 2; 0; 1047
+Daniel Scott; d; 6; 5; 0; 0; 0; 3; 0; 494
+Andrew Fontein; gk; 3; 3; 0; 0; 0; 0; 0; 271
+Kyle Clinton; m; 2; 0; 0; 0; 0; 0; 0; 14
+Jamael Cox; m; 1; 0; 0; 0; 0; 0; 0; 7
