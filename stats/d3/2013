@@ -152,6 +152,8 @@ Team: Harrisburg City Islanders
 BlockSource: http://www.uslsoccer.com/teams/2013/33398866.html#STATS
 Team: Orange County Blues
 
+Key: number; position; name; games_played; _; minutes; goals; assists; shots; fouls
+
 14  ;   M    ;  Bakal, David                 ;     7    ;   -     ;  197   ;  -   ;    -    ;   -    ;   1
 9   ;   F    ;  Cortez, Christopher          ;     23   ;   21    ;  1356  ;  9   ;    3    ;   65   ;   20
 11  ;   F    ;  Davis, George                ;     24   ;   18    ;  1872  ;  7   ;    4    ;   48   ;   28
@@ -171,19 +173,21 @@ Team: Orange County Blues
 6   ;   D    ;  Miller, Cory                 ;     23   ;      2  ;     1792;    1;       - ;      8 ;      22
 22  ;   GK   ;  Mohammadi, Mohammad          ;     7    ;   -     ;  630   ;  -   ;    -    ;   -    ;   -
 13  ;   M    ;  Momeni Azandaryani, Mehrshad ;     20   ;   3     ;  1125  ;  1   ;    1    ;   8    ;   16
-90  ;   D    ;  O'Leary, Ryan                ;     5    ;         ;1       ;271   ;  -      ; 1      ; -       3
-24  ;   GK   ;  Perez, Aaron                 ;     2    ;         ;-       ;180   ;  -      ; -      ; -       -
-8   ;   M    ;  Perez-Bernal, Juan           ;     21   ;         ;6       ;644   ;  3      ; -      ; 14      9
-2   ;   D    ;  Pettys, Charles              ;     16   ;         ;-       ;483   ;  -      ; -      ; 1       4
-4   ;   M    ;  Pizarro, Nelson              ;     20   ;         ;3       ;1188  ;  1      ; 1      ; 8       18
-77  ;   D    ;  Roknipour, Mohammad          ;     3    ;         ;-       ;46    ;  -      ; -      ; 6       1
-7   ;   M    ;  Russell, Allan               ;     25   ;         ;8       ;2140  ;  2      ; 4      ; 26      27
-27  ;   D    ;  Spitz, Shay                  ;     17   ;         ;9       ;1232  ;  4      ; 1      ; 15      5
-19  ;   F    ;  Stanley, Duran               ;     4    ;         ;-       ;74    ;  -      ; -      ; 3       6
-3   ;   D    ;  Turner, James                ;     23   ;         ;2       ;1398  ;  -      ; 2      ; 6       14
-23  ;   F    ;  Valle-Ortiz, Sergio          ;     8    ;         ;2       ;171   ;  1      ; -      ; 2       2
-1   ;   GK   ;  Woszczynski, Carl            ;     12   ;         ;-       ;1080  ;  -      ; -      ; -       -
-10  ;   M    ;  Yazdani, Daryuosh            ;     2    ;         ;-       ;59    ;  -      ; -      ; -       1
+90  ;   D    ;  O'Leary, Ryan                ;     5    ;         1;       271   ;  -      ; 1      ; -   ;    3
+24  ;   GK   ;  Perez, Aaron                 ;     2    ;         -;       180   ;  -      ; -      ; -   ;    -
+8   ;   M    ;  Perez-Bernal, Juan           ;     21   ;         6;       644   ;  3      ; -      ; 14  ;    9
+2   ;   D    ;  Pettys, Charles              ;     16   ;         -;       483   ;  -      ; -      ; 1   ;    4
+4   ;   M    ;  Pizarro, Nelson              ;     20   ;         3;       1188  ;  1      ; 1      ; 8   ;    18
+77  ;   D    ;  Roknipour, Mohammad          ;     3    ;         -;       46    ;  -      ; -      ; 6   ;    1
+7   ;   M    ;  Russell, Allan               ;     25   ;         8;       2140  ;  2      ; 4      ; 26  ;    27
+27  ;   D    ;  Spitz, Shay                  ;     17   ;         9;       1232  ;  4      ; 1      ; 15  ;    5
+19  ;   F    ;  Stanley, Duran               ;     4    ;         -;       74    ;  -      ; -      ; 3   ;    6
+3   ;   D    ;  Turner, James                ;     23   ;         2;       1398  ;  -      ; 2      ; 6   ;    14
+23  ;   F    ;  Valle-Ortiz, Sergio          ;     8    ;         2;       171   ;  1      ; -      ; 2   ;    2
+1   ;   GK   ;  Woszczynski, Carl            ;     12   ;         -;       1080  ;  -      ; -      ; -   ;    -
+10  ;   M    ;  Yazdani, Daryuosh            ;     2    ;         -;       59    ;  -      ; -      ; -   ;    1
+
+
 
 * Missing Orlando City!!!
 * Stats are incomplete on uslsoccer.com!!
@@ -297,16 +301,16 @@ Team: Wilmington Hammerheads
 9      ;    F  ;  Isberner, Richard     ;  13    ;  -     ;  631   ;  -    ;   -   ;    10  ;    9
 4      ;    M  ;  Nicholson, Paul       ;  21    ;  7     ;  1569  ;  3    ;   1   ;    17  ;    17
 12     ;    M  ;  Nicklaw, Shawn        ;  21    ;  4     ;  1843  ;  1    ;   3   ;    13  ;    12
-14     ;    F  ;  Oliveira Barroso, Mickael;     ;  10    ;  7     ;  737  ;   3   ;    1   ;    20      5
-2      ;    D  ;  Parratt, Tom          ;    19  ;        ;  6     ;  1306 ;   -   ;    6   ;    17      19
-7      ;    M  ;  Patrick, Arron        ;    9   ;        ;  -     ;  448  ;   -   ;    -   ;    1       5
-11     ;    F  ;  Perry, Steven         ;    24  ;        ;  9     ;  597  ;   4   ;    1   ;    13      6
-18     ;    M  ;  Roberts, Daniel       ;    16  ;        ;  5     ;  1026 ;   1   ;    3   ;    7       8
-5      ;    M  ;  Steres, Daniel        ;    25  ;        ;  17    ;  2166 ;   7   ;    3   ;    34      14
-15     ;    M  ;  Taylor, Bryce         ;    22  ;        ;  4     ;  1040 ;   1   ;    2   ;    15      10
-1      ;    GK ;  Tuttle, Philip        ;    14  ;        ;  -     ;  1260 ;   -   ;    -   ;    -       -
-24     ;    D  ;  Utterson, Shaun       ;    20  ;        ;  -     ;  1466 ;   -   ;    -   ;    4       9
-19     ;    D  ;  Wallace, Jamel        ;    15  ;        ;  6     ;  1111 ;   3   ;    -   ;    14      8
+14     ;    F  ;  Oliveira Barroso, Mickael;     ;  10    ;  7     ;  737  ;   3   ;    1   ;    20  ;    5
+2      ;    D  ;  Parratt, Tom          ;    19          ;  6     ;  1306 ;   -   ;    6   ;    17  ;    19
+7      ;    M  ;  Patrick, Arron        ;    9           ;  -     ;  448  ;   -   ;    -   ;    1   ;    5
+11     ;    F  ;  Perry, Steven         ;    24          ;  9     ;  597  ;   4   ;    1   ;    13  ;    6
+18     ;    M  ;  Roberts, Daniel       ;    16          ;  5     ;  1026 ;   1   ;    3   ;    7   ;    8
+5      ;    M  ;  Steres, Daniel        ;    25          ;  17    ;  2166 ;   7   ;    3   ;    34  ;    14
+15     ;    M  ;  Taylor, Bryce         ;    22          ;  4     ;  1040 ;   1   ;    2   ;    15  ;    10
+1      ;    GK ;  Tuttle, Philip        ;    14          ;  -     ;  1260 ;   -   ;    -   ;    -   ;    -
+24     ;    D  ;  Utterson, Shaun       ;    20          ;  -     ;  1466 ;   -   ;    -   ;    4   ;    9
+19     ;    D  ;  Wallace, Jamel        ;    15          ;  6     ;  1111 ;   3   ;    -   ;    14  ;    8
 
 
 BlockSource: http://www.uslsoccer.com/teams/2013/58092995.html#STATS
