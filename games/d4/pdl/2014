@@ -251,7 +251,7 @@ Cam Stokes (Riley O'Neill) 4, Ryan Ashlee (Carlo Basso) 7, Carlo Basso (Cam Hund
 
 Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421183
 
-5/23/2014 2200;         San Jose Earthquakes     ;   0-2 ;      Fresno Fuego; Chukchansi Park        ; Nestor Chavez, Brian Yip, Andrew Hanks, and Christi Postlethwaite; 3627
+5/23/2014 2200;         San Jose Earthquakes     ;   0-2 ;      Fresno Fuego; Chukchansi Park        ; Nestor Chavez, Brian Yip, Andrew Hanks, Christi Postlethwaite; 3627
 ; Salciccia (Cuevas) 27, Bettencourt (Garcia) 90   
 Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421180
 
@@ -1295,7 +1295,7 @@ Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E
 Jamie Henderson 11, Home Callum 33, Scott McCoubrey (Anthony Novak) 83; Tyler Hemming (Josh Hughes) 40, Quin Duncan (Alex Decarolis) 77, Yannnis Becker 90
 Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421453
 
-7/4/2014 2130; LA Misioneros FC ; 2-2;     BYU Cougars; BYU South Field     ; Ben Jensen, Ben Jackson, Hensen Keetch and James Roy; 2957
+7/4/2014 2130; LA Misioneros FC ; 2-2;     BYU Cougars; BYU South Field     ; Ben Jensen, Ben Jackson, Hensen Keetch, James Roy; 2957
 Kyrian Kwabueze 30, Bryan De La Fuente 53; Winston Sorhaitz (Blake Frischknecht) 23, Colby Bauer (Winston Sorhaitz) 52
 Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421451
 
@@ -1397,104 +1397,390 @@ Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E
 7/7/2014 1900; SW Florida Adrenaline; 1-0; Floridians FC; Central Broward Regional Park
 Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421351
 
-7/8/2014 1100;   Pittsburgh Riverhounds U23     ; v;     Chicago Fire U-23;       Toyota Park     
-7/8/2014 1830;    Floridians F.C.       ; v;      IMG Academy Bradenton   ;        IMG Academy     
-7/8/2014 1900;    Orlando City U23      ; v;      Ocala Stampede          ;        Trinity Catholic High School    
-7/8/2014 1930;    Forest City London    ; v;      Michigan Bucks          ;        Ultimate Soccer Arenas          
-7/8/2014 2030;    Austin Aztex          ; v;      Houston Dutch Lions     ;        HDL FC Soccer Complex           
-7/8/2014 2130;    Albuquerque Sol F.C.  ; v;      BYU Cougars ;  BYU South Field   
-7/8/2014 2200;   Vancouver Whitecaps FC U-23    ; v; Lane United FC  ;    Willamalane Center for Sports & Recreati        
-7/8/2014 2200;   Sounders FC U23    ; v;Washington Crossfire ;    Redmond High School 
+7/8/2014 1100;   Pittsburgh Riverhounds U23     ; 0-4;     Chicago Fire U-23;       Toyota Park     
+; Joey Calistri (Tyle Engel) 31, Tyle Engel (Patrick Doody) 40, Eric Pothast (Patrick Doody) 78, Mike Kozielek (Nick Jones) 90
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421480
 
-7/9/2014 1900; Ocean City Nor'easters    ; v;     F.A. Euro   ;    Aviator Sports Center   
-7/9/2014 1900; Toronto Lynx              ; v;     K-W United FC ;  Wilfrid Laurier University University Stadium   
-7/9/2014 1930; Baltimore Bohemians       ; v;     Northern Virginia Royals ;       Westfield High School 
+7/8/2014 1830;    Floridians F.C.       ; 2-2;      IMG Academy Bradenton   ;        IMG Academy   ; Emmanuel Durriba, Errik Durriba, Miguel Martes, T. Lazelle; 150
+Juan Gonzalez 31, Orlando McKay (Miguel Benito) 72; Danny Valenciano (Ivan Pineda) 11, Mario Mesen (Nuno Gourgel) 90
+Red Card: ; Yussuf Olajide 90
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421482  
+
+7/8/2014 1900;    Orlando City U23      ; 1-2;      Ocala Stampede          ;        Trinity Catholic High School    ; Daniel Guitterez, Edison Aragon, Elvis Osmonovic,  Jeff Fedenko; 106
+Lucas Diniz (Gorka Aperribay) 10; Ilija Ilic (Paco Craig) 37, Karamba Janneh (Ilija Ilic) 73
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421485
+
+7/8/2014 1930;    Forest City London    ; 0-5;      Michigan Bucks          ;        Ultimate Soccer Arenas          ; Donovan Noocha, Jorge Padilla, Joe Agosta, Gratian Moldovan; 342
+; Dzenan Catic (David Goldsmith) 6, Dzenan Catic (David Goldsmith) 60, Dzenan Catic (David Goldsmith) 81, Gary Ogilvie (Bradley Vanino) 83, Nick Wysong 91
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421484
+
+7/8/2014 2030;    Austin Aztex          ; 4-1;      Houston Dutch Lions     ;        HDL FC Soccer Complex           ; Kyle Phillips, Milton Carson, Christine Hudginson; 80
+Hector Gomez (Jobe Buba) 26, Kalen Ryden (Devin Perales Cook) 36, Sito Seone (Justin Franz) 70, Adam Black 90; Wessel Verhaar (Mitchell Ostrowski) 86
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421481
+
+7/8/2014 2130;    Albuquerque Sol F.C.  ; 2-2;      BYU Cougars ;  BYU South Field   ; Mitch Lillywhite, Alex Krelo, Karsten Gillwald, Scott Reynolds; 3075
+Isaiah Madrid 17, Julio Velasquez 94; Jace Green 16, Jonathan Junca 21
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421479
+
+7/8/2014 2200;   Vancouver Whitecaps FC U-23    ; v; Lane United FC  ;    Willamalane Center for Sports & Recreati; Alejandro Robles, Ben Warren, Jonathan Kaminski, Andrew Marihart; 305
+Ali Musse (Brett Levis) 69, Jordian Farahani (Ali Musse) 90; Edgar Gomez 80
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421483
+
+7/8/2014 2200;   Sounders FC U23    ; 1-4; Washington Crossfire ;    Redmond High School ; Benjamin Oakley, Benjamin Moore, Joseph Tompkins; 265
+Esteban Reyes 72; Louis Schott 16, Louis Schott (Junior Sanchez)  34, Hamza Haddadi 70, Liam Kelly 89
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421486
+
+7/9/2014 1900; Ocean City Nor'easters    ; 3-2;     F.A. Euro   ;    Aviator Sports Center   ; Steve Danisi, Victor Vazquez, Emmanuel Tadonkeng, Matthew Schwartz; 90
+Shawn McLaws 9, Birnis Adames (Mitch Grotti) 16, Mitch Grotti (Glenroy Chapman) 79; Jason Lampkin 11, Alagie Janneh 24
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421178
+
+7/9/2014 1900; Toronto Lynx              ; 1-2;     K-W United FC ;  Wilfrid Laurier University University Stadium   ; S. Bowman, D. Agrueso, A. Karkorian, F. Parsons; 437
+Leich Veidman 39; Paris Bateman (Ricky Garbanzo) 45, Stefan Vukovic 86
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421488
+
+7/9/2014 1930; Baltimore Bohemians       ; 1-0;     Northern Virginia Royals ;       Westfield High School ; P.Roasas, H.Barnett, C.Carson; 156
+Austin Martz (David Witkoff) 5;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421487
+
 7/9/2014 1930; Chicago Inferno           ; v;     Thunder Bay Chill; Chapples Park 
-7/9/2014 2000; NJ LUSO Parma             ; v;     Jersey Express   ; NJIT Stadium  
-7/9/2014 2200;   Las Vegas Mobsters     ; v;     Southern California Seahorses;   La Mirada HS    
-7/9/2014 2200;   OC Pateadores Blues    ; v;     Ventura County Fusion        ;   Ventura College 
-7/9/2014 2245;   San Jose Earthquakes   ; v;     LA Misioneros FC             ;   Glendale Sports Complex 
 
-7/10/2014 1900;  River City Rovers; v;     SC United Bantams  ;     Spring Valley Soccer Stadium    
-7/10/2014 2115;  Mississippi Brilla       ; v;Laredo Heat     ;     Texas A&M Intl Univ Soccer Complex      
+7/9/2014 2000; NJ LUSO Parma             ; 0-5;     Jersey Express   ; NJIT Stadium  ; Neil Barbules Cuari, Michael McBride, Logan Brown; 175
+; Eze Kene (Walter Hines) 6, Eze Kene (Christopher Karcz) 10, Christopher Karcz (Andrew Tinari) 15, Walter Hines (Matthew Mahoney) 28, Eze Kene (Andrew Tinari) 35
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421141
 
-7/11/2014 1700;  Real Boston Rams ; v;     Montreal Impact U23  ;   Saputo Stadium Turf Field       
-7/11/2014 1900;  Cincinnati Dutch Lions   ; v;      West Virginia Chaos;   Schoenbaum Stadium       
-7/11/2014 1900;  Panama City Beach Pirates; v;      SW Florida Adrenaline; Barron Collier High School       
-7/11/2014 1900;  IMG Academy Bradenton    ; v;      Orlando City U23     ; Seminole Soccer Complex          
-7/11/2014 1900;  Reading United AC        ; v;      Ocean City Nor'easters;         Carey Stadium           
-7/11/2014 1930;  Seacoast United Phantoms ; v;      Western Mass Pioneers ;         Lusitano Stadium        
-7/11/2014 1930;  Chicago Fire U-23        ; v;      Forest City London     ;        German Club             
-7/11/2014 2000;  Chicago Inferno          ; v;      WSA Winnipeg            ;       Winnipeg Soccer Complex 
-7/11/2014 2030;  Midland/Odessa Sockers FC; v;      Austin Aztex             ;      House Park Stadium      
-7/11/2014 2200; Portland Timbers U-23s; v;Lane United FC;  Willamalane Center for Sports & Recreati        
-7/11/2014 2200; Victoria Highlanders FC  ; v;  Puget Sound Gunners FC; Issaquah HS       
-7/11/2014 2200; Las Vegas Mobsters  ; v;  Ventura County Fusion ;   Ventura College      
-7/11/2014 2200; San Jose Earthquakes; v;  Southern California Seahorses ;   La Mirada HS 
-7/11/2014 2215; OC Pateadores Blues ; v;  LA Misioneros FC   ; Linda Marquez High School 
-7/11/2014 2230; Kitsap Pumas ; v;    Washington Crossfire    ; Redmond High School       
+7/9/2014 2200;   Las Vegas Mobsters     ; 1-2;     Southern California Seahorses;   La Mirada HS    ; Issam Ashkar, Robert Alvarez, Melissa Gonzalez; 105
+Emmanuel Ayim (Kevin Partida);  Nathaniel Nugen (Keyran Kelly), Michael Hodgen (Kevin Kiser)
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421490
 
-7/12/2014 1400; Westchester Flames       ; v;     CFC Azul   ;     Western Connecticut State University    
-7/12/2014 1900;  Cincinnati Dutch Lions   ; v;     Carolina Dynamo; Macpherson Stadium  
-7/12/2014 1900;  GPS Portland Phoenix     ; v;     Vermont Voltage; Collins-Perley Sports Complex   
-7/12/2014 1900;  Southern West Virginia King's Warriors   ; v;     River City Rovers  ;   Farris Stadium; v;Centre College  
-7/12/2014 1900;  Chicago Fire U-23     ; v;    K-W United FC    ;   Wilfrid Laurier University University Stadium  
-7/12/2014 1930;  Toronto Lynx; v;       Michigan Bucks  ;  Ultimate Soccer Arenas   
-7/12/2014 1930;  F.A. Euro   ; v;       Northern Virginia Royals ;  Westfield High School   
-7/12/2014 1930;  NJ LUSO Parma         ; v;      Long Island Rough Riders;    St. Anthony's High School     
-7/12/2014 2030;  St. Louis Lions       ; v;      Des Moines Menace; Valley Stadium          
-7/12/2014 2115;  Mississippi Brilla    ; v;      Laredo Heat     ;  Texas A&M Intl Univ Soccer Complex      
-7/12/2014 2130;  BYU Cougars; v;        Albuquerque Sol F.C.     ;  St. Pius X     
-7/12/2014 2230; Real Colorado Foxes   ; v;         FC Tucson      ;Kino Sports Complex     
+7/9/2014 2200;   OC Pateadores Blues    ; 0-3;     Ventura County Fusion        ;   Ventura College ; Israel Fernandez, Andres Lopez, Emiliano Lopez; 900
+; Abu Danladi (Laurie Bell) 35, Abu Danladi (Laurie Bell) 43, Tony Alfaro (James Kiffe) 54
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421492
 
-7/13/2014 1400; Western Mass Pioneers    ; v;     CFC Azul      ;  Western Connecticut State University    
-7/13/2014 1700;  Victoria Highlanders FC  ; v;     Sounders FC U23; Sunset Stadium      
-7/13/2014 1700;  GPS Portland Phoenix; v;  Montreal Impact U23; Saputo Stadium Turf Field   
-7/13/2014 1900;  Washington Crossfire; v;  Portland Timbers U-23s ;    Liberty HS   
-7/13/2014 1900;  Panama City Beach Pirates; v;      Floridians F.C.;   Central Broward Regional Park        
-7/13/2014 2030;  Midland/Odessa Sockers FC; v;      Houston Dutch Lions;       HDL FC Soccer Complex        
+7/9/2014 2245;   San Jose Earthquakes   ; 1-1;     LA Misioneros FC             ;   Glendale Sports Complex ; Jeff Arthurhultz, Oscar Meza, Kamal Mallof; 80
+Matt Wisenforth 90; Kyrian Nwabueze 63
+Red Card: Matt Wisenforth 90; Adam Hobbs 90
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421489
 
-7/14/2014 1900;  SW Florida Adrenaline    ; v;     Ocala Stampede ; Trinity Catholic High School    
-7/14/2014 2130;  Las Vegas Mobsters       ; v;     Real Colorado Foxes ;    Shea Stadium  
+7/10/2014 1900;  River City Rovers; 0-1;     SC United Bantams  ;     Spring Valley Soccer Stadium    ; Rick Rogers, Dallas Rosier, Izlen Peksenare, Jason Kent
+; Russell Parker (Koty Millard) 71
+Red Card: Dylan Terry 87;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421495
+
+7/10/2014 2115;  Mississippi Brilla       ; 2-3; Laredo Heat     ;     Texas A&M Intl Univ Soccer Complex      ; Christopher Mercado, Ricardo Mercado, Jr., Clio Martinez, Lane Burris; 609
+Stephen Roberson (Amine Rahmani) 35, Leonard Smith III (Amine Rahmani) 90; Genaro Hernandez 44, Irving Villanueva 68, Genaro Hernandez 73
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421494
+
+7/11/2014 1700;  Real Boston Rams ; 1-5;     Montreal Impact U23  ;   Saputo Stadium Turf Field       ; Oscar Mitchell, Marie Jose Charbonneau, Marianne Gagnon, Andrew Buciera; 75
+Cole Denormandie 47; Charles Joly (Belguendouz) 31, Franck Zoue (Beland Goyette) 54, Jems Geffrard (Belguendouz) 71, Frederic Lajoie Gravelle (Luarca) 89, Anthony Jackson (Ndiaye) 92
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421303
+
+7/11/2014 1900;  Cincinnati Dutch Lions   ; 1-2;      West Virginia Chaos;   Schoenbaum Stadium  ; Danielle Chesley, James Brooks, Chris Scheve; 135
+Tanner Patrick (Kyle Smith)  90     ; Dion Peters (Jake Szabo) 32, Jake Szabo (Tyler Fabian) 61
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421507
+
+7/11/2014 1900;  Panama City Beach Pirates; 1-3;      SW Florida Adrenaline; Barron Collier High School   ; Randy Cook, Felix Carranza, Jeremy Perez; 380
+Allasane Kane 40; Bebey Bertrand (Davier Walcott) 6, Charles Miles (Kevin Le Braz) 15, Kevin Le Bras 72    
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421504
+
+7/11/2014 1900;  IMG Academy Bradenton    ; 3-1;      Orlando City U23     ; Seminole Soccer Complex   ; Patrick O'Brian, Paul Kelley, Matt Osterhouse
+Myles Englis (David Abidor) 44, David Abidor (Raul Gonzalez) 55, Jesus Pineda 60       ; Lucas Diniz (Andrew Brody) 35
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421502
+
+7/11/2014 1900;  Reading United AC        ; 1-1;      Ocean City Nor'easters;         Carey Stadium; 521
+Gaeton Caltabiano 42; Zoncher Dennis (Aaron Dennis) 78           
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421501
+
+7/11/2014 1930;  Seacoast United Phantoms ; 1-0;      Western Mass Pioneers ;         Lusitano Stadium ; Ken Koopmans, Chris Chen, Dusan Basta; 1048
+Grant 84;       
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421508
+
+7/11/2014 1930;  Chicago Fire U-23        ;   0-2;      Forest City London     ;        German Club   ; Joe Sa, Susan V, Joe H, Al W; 1307
+; James Pucci (Yannis Becker) 16, Danny Deakin 90          
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421497
+
+7/11/2014 2000;  Chicago Inferno          ; np;      WSA Winnipeg            ;       Winnipeg Soccer Complex 
+
+7/11/2014 2030;  Midland/Odessa Sockers FC; 2-2;      Austin Aztex             ;      House Park Stadium; Artem Sher, Kip Jackson, Chris Rizzo, Curt Berry; 2380
+Rory Knibbs (Conrod Goulbourne) 28, Walker Hume (Victor Parreiras) 49; Kalen Ryden (Chuy Cortes) 78, Marshall Tucker 90      
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421496
+
+7/11/2014 2200; Portland Timbers U-23s; 1-0; Lane United FC;  Willamalane Center for Sports & Recreati ; Oscar Rivas, Cesar Tercero, Andrew Deuker, Jason Perlewitz; 570
+Dennis Castillo (Kharlton Belmar) 66;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421499
+
+7/11/2014 2200; Victoria Highlanders FC  ; 3-1;  Puget Sound Gunners FC; Issaquah HS       
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421500
+
+7/11/2014 2200; Las Vegas Mobsters  ; 0-2;  Ventura County Fusion ;   Ventura College ; Reed Christy, Luis Gutierrez, Tyler Baxter; 1200
+; Abu Danladi (Laurie Bell) 18, Jordan Vale (Kip Colvey) 86     
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421505
+
+7/11/2014 2200; San Jose Earthquakes; 4-0;  Southern California Seahorses ;   La Mirada HS ; Jesse Yzaguirre, Jessue Chanves, Max Alatorre; 125
+Maxwell Oldham 36, Maxwell Oldham 55, Matthew Sheldon (Daniel Kuczynski) 77, Mathew Sheldon (Nicholas Cashmere) 85;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421503
+
+7/11/2014 2215; OC Pateadores Blues ; 0-1;  LA Misioneros FC   ; Linda Marquez High School ; Michael Radchuk, Cameron Blanchard, Eduardo Jeff; 100
+; Chris Smith (Alex Mendoza) 16
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421498
+
+7/11/2014 2230; Kitsap Pumas ; 3-1;    Washington Crossfire    ; Redmond High School   ; Manuel Solevad, Scott Cooper, Ryan Fairhurst; 103
+Miguel Gonzalez 32, Miguel Gonzalez 40, Miguel Gonzalez 55;  Liam Kelly 60    
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421506
 
 
-7/15/2014 1900;  Carolina Dynamo  ; v;     Southern West Virginia King's Warriors;  East River Soccer Complex, Stadium Field 
-7/15/2014 1930;  Reading United AC; v;     Northern Virginia Royals     ; Westfield High School       
-7/15/2014 2030;  St. Louis Lions  ; v;     Chicago Inferno;   Wheaton College       
-7/15/2014 2130;  Las Vegas Mobsters       ; v;     Real Colorado Foxes  ;           Shea Stadium    
-7/15/2014 2200; Fresno Fuego             ; v;     San Jose Earthquakes   ;         Cal State Stanislaus    
+7/12/2014 1400; Westchester Flames       ; 0-3;     CFC Azul   ;     Western Connecticut State University    ; Howard Jaslow, Ian Mangione, Joe Poremba; 250
+; Reco McLaren (Luke Perry) 2, Ryan Kinne 19, Reco McLaren 56
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421512
 
-7/16/2014 1800;  Western Mass Pioneers    ; v;     Vermont Voltage; Applejack Field 
-7/16/2014 1900;  K-W United FC            ; v;     Toronto Lynx   ; Sheridan College        
-7/16/2014 1900;  SW Florida Adrenaline    ; v;     Orlando City U23   ;      Seminole Soccer Complex        
-7/16/2014 1900;  Michigan Bucks           ; v;     Pittsburgh Riverhounds U23 ;       Highmark Stadium      
-7/16/2014 2000;  Baltimore Bohemians      ; v;     Jersey Express     ;    NJIT Stadium        
-7/16/2014 2200; Kitsap Pumas             ; v;     Sounders FC U23    ;    Sunset Stadium      
+7/12/2014 1900;  Cincinnati Dutch Lions   ; 1-3;     Carolina Dynamo; Macpherson Stadium  ; Dustin Thorne, Justin Howard, Patrick Schmidt; 2004
+Jeff McClure 78; Monbo Bokar (Brandt Bronico) 14, Raby George 36, Reed Norton (Mamadee Nyepon) 81
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421511
 
-7/17/2014 1900;  Real Boston Rams ; v;     Seacoast United Phantoms   ;     Portsmouth High School  
-7/17/2014 2030;  Houston Dutch Lions      ; v;      Austin Aztex       ;    House Park Stadium      
-7/17/2014 2030;  Chicago Inferno          ; v;      Springfield Demize ;    Cooper Sports Complex   
+7/12/2014 1900;  GPS Portland Phoenix     ; 1-1;     Vermont Voltage; Collins-Perley Sports Complex   ; 450
+Connor Davis 10; Adrian Saldana 40
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421521
 
-7/18/2014 1830;  Ocala Stampede   ; v;     IMG Academy Bradenton  ; IMG Academy     
-7/18/2014 1900;  Floridians F.C.  ; v;     Orlando City U23      ;  Seminole Soccer Complex 
-7/18/2014 1900;  Forest City London       ; v;     Pittsburgh Riverhounds U23 ;     Highmark Stadium        
-7/18/2014 1900;  Carolina Dynamo          ; v;     SC United Bantams   ;   WC Hawkins Stadium Irmo          
-7/18/2014 2030;  WSA Winnipeg             ; v;     Des Moines Menace   ;   Valley Stadium     
+7/12/2014 1900;  Southern West Virginia King's Warriors   ; 3-0;     River City Rovers  ;   Farris Stadium; v;Centre College  
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421520
 
-7/19/2014 1400;  Seacoast United Phantoms ; v;     GPS Portland Phoenix ;   Deering Memorial Field  
-7/19/2014 1800;  Real Boston Rams         ; v;     CFC Azul  ;   Western Connecticut State University       
-7/19/2014 1800;  Springfield Demize       ; v;     St. Louis Lions ;     Tony Glavin Complex                
-7/19/2014 1900;  Montreal Impact U23      ; v;     Vermont Voltage  ;    Collins-Perley Sports Complex      
-7/19/2014 1900;  Baltimore Bohemians      ; v;     Ocean City Nor'easters  ;            Carey Stadium       
-7/19/2014 1900;  NJ LUSO Parma            ; v;     Reading United AC       ;            Gurski Stadium      
-7/19/2014 1900;  Long Island Rough Riders ; v;     Jersey Express; NJIT Stadium         
-7/19/2014 1900;  West Virginia Chaos      ; v;     Southern West Virginia King's Warriors;  East River Soccer Complex, Stadium Field 
-7/19/2014 1930;  Cincinnati Dutch Lions   ; v;     River City Rovers  ;    Woehrle Field    
-7/19/2014 1930;  Chicago Fire U-23        ; v;     Michigan Bucks     ;    Ultimate Soccer Arenas   
-7/19/2014 1930;  Westchester Flames       ; v;     Western Mass Pioneers;  Lusitano Stadium         
-7/19/2014 2030;  Laredo Heat; v;           Houston Dutch Lions;  HDL FC Soccer Complex              
-7/19/2014 2030;  WSA Winnipeg             ; v;     Des Moines Menace;   Valley Stadium              
-7/19/2014 2030;  Mississippi Brilla       ; v;     Panama City Beach Pirates ; Gavlak Stadium       
+7/12/2014 1900;  Chicago Fire U-23     ; 1-3;    K-W United FC    ;   Wilfrid Laurier University University Stadium  ; M. Orellana, M. Mohemed, H. Rasheed, R. MiriMiri; 222
+Chipper Root 9; Jarek Whiteman 23, Jay Chapman (Ricky Garbanzo) 41, Sergio Camargo (Wesley Cain) 87
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421515
 
-7/20/2014 1300;  Forest City London       ; v;     Pittsburgh Riverhounds U23 ;     Highmark Stadium        
-7/20/2014 1400;  Ocala Stampede           ; v;     Floridians F.C.   ;     Central Broward Regional Park
+7/12/2014 1930;  Toronto Lynx; 0-2;       Michigan Bucks  ;  Ultimate Soccer Arenas   ; Brandon Artis, Igor Reznik, Shawn Smith, Stephen Nelson; 402
+; Bradley Vanino (Dzenan Catic) 7, Bradley Vanino (Dzenan Catic) 58
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421518
+
+7/12/2014 1930;  F.A. Euro   ; v;       Northern Virginia Royals ;  Westfield High School   ; James Walker, Jason Blight, Ryan White
+; Conor Thomson (Eber Martinez) 58, Bernardo Majano (Ricky Burke) 70, Eber Martinez 87
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421191
+
+7/12/2014 1930;  NJ LUSO Parma         ; 0-8;      Long Island Rough Riders;    St. Anthony's High School     ; Aldi Kleri, Andreas Santibanez, Stephan Jennison Jr.; 547
+; Keith Detelj (Stephan Barea) 15, Stephan Barea (Joesph Holland) 22, Joesph Holland (Keith Detelj) 42, Tyler Arnone (Joesph Holland) 54, Joseph Holland 57, Dan Brown (Keith Detelj) 70, Keith Detelj (Tyler Arnone) 77, Glen Reid (Keith Detelj) 81
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421517
+
+7/12/2014 2030;  St. Louis Lions       ; 1-1;      Des Moines Menace; Valley Stadium ; Jack Feldman, Richard Voyek, Chris Civitate, Royce Van Rockel; 3378
+Jordan Roberts 13; Richard Ballard (Chris Hellmann) 68         
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421513
+
+7/12/2014 2115;  Mississippi Brilla    ; 0-2;      Laredo Heat     ;  Texas A&M Intl Univ Soccer Complex      ; Artem Sher, Kip Jackson, Michael Lavergne, Clio Martinez; 549
+; Felix Garcia (Joao Monteiro) 16, Miguel Fernandez (Francisco Lara) 43
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421516
+
+7/12/2014 2130;  BYU Cougars; 1-2;        Albuquerque Sol F.C.     ;  St. Pius X     ; Wilfredo Mendez; 1520
+Winston Schnitz 77; Nathaniel Pacheco (Isaiah Madrid) 41, Isaiah Madrid 56
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421510
+
+7/12/2014 2230; Real Colorado Foxes   ; 0-2;         FC Tucson      ;Kino Sports Complex     ; Charles Farr, Matthew Stewart, Alicia Messer; 1427
+; Odaine Sinclair 44, Austin Ledbetter (Vance Rookwood) 53
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421514
+
+
+7/13/2014 1200; Western Mass Pioneers    ; 1-0;     CFC Azul      ;  Western Connecticut State University    ; Alex Cerjan, Joe Poremba, Matt Maloney; 250
+Maxi Vieira 19;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421522
+
+7/13/2014 1700;  Victoria Highlanders FC  ; 2-1;     Sounders FC U23; Sunset Stadium      ; Scott Conner, Joshua Haimes, Tony Johnson; 234
+Cam Hundal 32, Austin Dunker (og) 90; Luis Esteves (Mo Dumbuya) 47
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421527
+
+7/13/2014 1200;  GPS Portland Phoenix; 2-4;  Montreal Impact U23; Saputo Stadium Turf Field   ; Lyes Arfa, Suzanne Morissette, Jean Sebastien Caron, Mathieu Souare; 25
+Connor Davis (Redomond) 4, Connor Davis (Redmond) 8; Kevin Luarca (Beland-Goyette) 10, Charles Joly (Ndiaye) 13, Charles Joly 70, Nazim Belgouendouz (Bilak) 85
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421525
+
+7/13/2014 1900;  Washington Crossfire; np;  Portland Timbers U-23s ;    Liberty HS   
+
+7/13/2014 1900;  Panama City Beach Pirates; 2-1;      Floridians F.C.;   Central Broward Regional Park        
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421523
+
+7/13/2014 1900;  Midland/Odessa Sockers FC; 3-1;      Houston Dutch Lions;       HDL FC Soccer Complex        ; Chris Mercado, Ian Chapman, Tony Obas; 120
+Rory Knibbs (Tucker Hume) 30, Isaac Sanchez (Penalty Kick) 37, Ricardo Diegus 87; Wessel Verhaar (Joe Jackson) 60
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421524
+
+7/13/2014 2030; Jersey Express; 8-0; FA Euro; Aviator Sports Center; Crawford-Smith, David Bork, David Breckner, Dario Urrutio
+Andrew Morgan (Conor Fitzpatrick) 4, Christopher Lebo (Tinary) 12, Walter Hines (Christopher Lebo) 31, Kene Eze (Walter Hines) 35, Christopher Karcz (Walter Hines) 40, Walter Hines 54, Joseph Ovenseri 54, Joseph Overseri 86
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421441
+
+7/14/2014 1900;  SW Florida Adrenaline    ; 1-1;     Ocala Stampede ; Trinity Catholic High School   ; Agostino Minasola, Chris Gruwell, Erin Forst, Daniel Manherz; 501
+Arnaud Cesarini 34; Samuel Mansour (Lewis Hilton) 43 
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421528
+
+7/14/2014 2130;  Las Vegas Mobsters       ; 3-2;     Real Colorado Foxes ;    Shea Stadium  ; Urbina, Barnon, Tomas, Web; 100
+Sal Bernal (Carlos Lara) 17, Sal Bernal (Oscar Velasquez) 58, Sal Bernal 60; Chris Salvaggione (Joseph Madigan) 12, Jeff Jennings (Matt Hammett) 85
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421529
+
+7/14/2014 2130; Washington Crossfire; 1-1; Portland Timbers U-23s; Liberty HS; Lucas Brooks, Edwin Tercero, Ian Miller, Jonathan Kaminski; 475
+Parker Holland (Lars Ludwigs) 90; Foster Langsdorf (Sam Werner) 16
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421526
+
+
+7/15/2014 1900;  Carolina Dynamo  ; 2-2;     Southern West Virginia King's Warriors;  East River Soccer Complex, Stadium Field ; Ryan White, Amber Ross, Justin Sharpe; 195
+Mamadee Nyepon (Tony Murillo) 69, Mamadee Nyepon (James Brace) 86; Jeremy Payne (Harry Sherwood) 82, Jorge Mackenna 90
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421534
+
+7/15/2014 1930;  Reading United AC; 4-1;     Northern Virginia Royals     ; Westfield High School      ; C. Carson, C. Schavy, P. Rosas; 126
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421531 
+
+7/15/2014 2030;  St. Louis Lions  ; np;     Chicago Inferno;   Wheaton College       
+
+7/15/2014 1200;  St. Louis Lions  ; 1-0;    Thunder Bay Chill; Shattuck St. Mary's Academy; Kyle Burkhardt, Zach Johnson, Matt Printup, Tyler Dalsin
+Jai Maw 87;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421435
+
+7/15/2014 2130;  Las Vegas Mobsters       ; 0-3;     Real Colorado Foxes  ;           Shea Stadium     ; Brean Roman, Chris Greer, Oscar Arias, Ryan Barron; 200
+; Chris Salvagianno (Joseph Madigan) 51, Akio Gordon-Otake (Joseph Madigan) 87, Akio Gordon-Otake (Kyle Woodson) 90
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421532
+
+7/15/2014 2200; Fresno Fuego             ; 1-3;     San Jose Earthquakes   ;         Cal State Stanislaus    
+Paul Islas 10; Nicholas Cashmere (Matthew Sheldon) 41, Nicholas Cashmere (Christian Carranza) 54, Daniel Kuczynski 57
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421533
+
+7/15/2014; Des Moines Menace; 1-0; Springfield Demize; Coopers Sports Complex; Shane Kennard, Andy Ellsworth, Andy Wilkinson; 139
+Muenghenshime Goshit 52;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421388
+
+7/16/2014 1200; St. Louis Lions; 3-1; WSA Winnipeg; O'Connor,Oconisrillo,Stupa,Bolkin; 70
+Garbhan Grant (Carson Pryor) 28, Carson Pryor (Jonathan Brown) 39, Jacob Cawsey (Jordan Roberts) 71; Moses Danto (Enrique Garcea)77
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421509
+
+7/16/2014 1800;  Western Mass Pioneers    ; 1-1;     Vermont Voltage; Applejack Field ; 300
+Pau Rodrigez 75; Nick Jackson 35
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421540
+
+7/16/2014 1900;  K-W United FC            ; 6-2;     Toronto Lynx   ; Sheridan College        ; S. Bowman, S Sahraeinetad, Z Taylor, A Alexander; 200
+Jay Chapman  16, Ricardo Garbonzo (Jay Chapman)  42, Stefan Vukovik   53, Stefan Vukovik  63, Sergio Carmargo  (Jarek Whiteman)  81,  Sergio Carmargo  85; Mikael McNamara  (Justin Gordon) 4, Leigh Veidman (William Grocott)  28 
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421539
+
+7/16/2014 1900;  SW Florida Adrenaline    ; 1-0;     Orlando City U23   ;      Seminole Soccer Complex        ; Hassan Belmanahia, Kyle Longville, Hevert Castano
+Alcides Thomas (Kevin Le Bras) 74;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421536
+
+7/16/2014 1900;  Michigan Bucks           ; 2-0;     Pittsburgh Riverhounds U23 ;       Highmark Stadium      ; Justin Frear, Lucas Feathers, Nathaniel Buck; 175
+Dzenan Catic (Nick Kolarac)  25, Dzenan Catic (PK) 79
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421537
+
+7/16/2014 2000;  Baltimore Bohemians      ; 0-1;     Jersey Express     ;    NJIT Stadium        ; Jaime Herera, Patrick O'Conell, Carlos Escobar; 88
+; Walter Hines 5
+Red Card: David Witoff 90;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421535
+
+7/16/2014 2200; Kitsap Pumas             ; 2-0;     Sounders FC U23    ;    Sunset Stadium      ; Jeff Aurthurholtz, Seth Martin, Logan Griffis; 308
+Septi Dancui 74, Andy Devlin (Seb Jansen) 81;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421538
+
+7/16/2014; Vancouver Whitecaps U-23; 7-2; Victoria Highlanders; Royal Athletic Park; Darnell Smit, Evan Fryer, Cameron Olive, Brett Hartmann; 1531
+Cody Cook (Brett Levis) 6, Jordian Farahani 8, Cody Cook (Penalty Shot) 18, Niall Cousens (Reynold Stewart) 43, Kianz Froese 53, Niall Cousens 72, Kianz Froese 85; Blair Sturrock 51, Jordie Hughes (Blair Sturrock) 54
+Red Card: ; Tyler Hughes 70
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4664871
+
+
+7/17/2014 1900;  Real Boston Rams ; 1-3;     Seacoast United Phantoms   ;     Portsmouth High School ; Ian McKay, Russ Wolf, Miguel Lara; 350
+Fabio Machado (Luke Finklestein) 3; Anthony Grant (Trent Lougheed) 29, Abel Perez 45, Ugo Uche (Frantzy Pierott) 89 
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421543
+
+7/17/2014 2030;  Houston Dutch Lions      ; 0-5;      Austin Aztex       ;    House Park Stadium      
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421542
+
+7/17/2014 2030;  Chicago Inferno          ; np;      Springfield Demize ;    Cooper Sports Complex   
+
+
+7/18/2014 1830;  Ocala Stampede   ; 3-2;     IMG Academy Bradenton  ; IMG Academy     ; Hassan B, Kersten Schroeder, Edin Kapazio, Todd Lazelle; 100
+Kyle Breitmeyer 5, Kyle Breitmeyer 23, Lewis Hilton 24; David Abidor 39, Joey Hutchinson 60
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421546
+
+7/18/2014 1900;  Floridians F.C.  ; 2-2;     Orlando City U23      ;  Seminole Soccer Complex ; Agnostino Minasola, Edinson Aragon, Julio Noboa
+Ryan Price (Juan Gonzales) 19, Miguel Benito (Juan Gonzales) 34; Romario Williams (ua) 82, Romario Williams (Gorka Aperribay) 84
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421547
+
+7/18/2014 1900;  Forest City London       ; 4-1;     Pittsburgh Riverhounds U23 ;     Highmark Stadium        ; James, Brooks, John Safar, Jeff Forward; 75
+Sandro Rajkovic (Aaron Schneebell) 4, James Pucci (Danny Deakin) 11, Yannis Becker (Younan Samra) 39, Samra (Jamie Dell) 85; Arkangelo James 59
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421548
+
+7/18/2014 1900;  Carolina Dynamo          ; 0-4;     SC United Bantams   ;   WC Hawkins Stadium Irmo ; Kevin Roberts, Wayne Pavlicek, James Boswell, Marion Shull
+; Robbie Seaton (Avery Ryan) 27, Avery Ryan 40, Avery Ryan 74, Caleb Fenner (Kevin Fielden) 89         
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421549
+
+7/18/2014 2030;  WSA Winnipeg             ; 0-5;     Des Moines Menace   ;   Valley Stadium     ; Trent Payne, John Mullins, Sean McVeigh, Rob Sorey; 3580
+; Chris Hellmann (Ralphie Lundy) 4, Grant Bell (Hellmann) 52, Anthony Jeffries (Hellmann) 81, Jonny Macadam 86, Michael Semenza 89
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421545
+
+7/19/2014 1400;  Seacoast United Phantoms ; 3-1;     GPS Portland Phoenix ;   Deering Memorial Field  ; Mounir Idmalak, Will Hasselman, D. Busta; 400
+Abel Perez 2, Anthony Grant 40, Frandzy Pierott (Ugo Uche) 87; Mackenzie Hogund (Peder Knoth) 78
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421552
+
+7/19/2014 1800;  Real Boston Rams         ; 2-2;     CFC Azul  ;   Western Connecticut State University ; Mat Richardson, Sin Hang Lai, George Frascione; 450
+Fabio Machado 53, Wilber Arboleda (Fabio Machado) 55      ; Jonas Folstad 25, Reco McLaren 45
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421550
+
+7/19/2014 1800;  Springfield Demize       ; 2-0;     St. Louis Lions ;     Tony Glavin Complex ; Dule Djurasevic, Milos Vranic, Matt Geringer, Spenser Scopel; 396
+Jack Griffin ( Brandon Mazonelli) 39, Marco Stegman (Maarten Smit) 73;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421561
+
+7/19/2014 1900;  Montreal Impact U23      ; 2-1;     Vermont Voltage  ;    Collins-Perley Sports Complex      ; 156
+own goal 13, Belquendous 44; Nate Olukanmi 11 
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421562
+
+7/19/2014 1900;  Baltimore Bohemians      ; 3-0;     Ocean City Nor'easters  ;            Carey Stadium 
+own goal 35, Thomas Quaranta (Marquez Fernandez) 51, Kingsley Onwuka 54      ;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421556
+
+7/19/2014 1900;  NJ LUSO Parma            ; 0-3;     Reading United AC       ;            Gurski Stadium ; Ryan Dos Reis, Jaroslaw Werel, Mark Treilman, Geoffrey Spector; 609
+; Brett Campbell (Quincy Thomas) 30, Andrew Morales (Timothy Lazorko) 32, Emanuel Sanchez (Graham Smith) 42     
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421558
+
+7/19/2014 1900;  Long Island Rough Riders ; 2-2;     Jersey Express; NJIT Stadium  ; Bartosz Cielak, Logan Brown, Zbno (Gyu Ho) Cho; 125
+Tyler Arnone (Dan Brown) 15, Dan Brown (Joseph Holland) 32; Joseph Ovenseri (Nick Viaggio) 77, Kene Eze (Nick Viaggio) 83       
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421554
+
+7/19/2014 1900;  West Virginia Chaos      ; 1-1;     Southern West Virginia King's Warriors;  East River Soccer Complex, Stadium Field 
+Nick McDonald  50; Jeremy Payne (Elijah Ukpong) 87
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421560
+
+7/19/2014 1930;  Cincinnati Dutch Lions   ; 3-3;     River City Rovers  ;    Woehrle Field    
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421559
+
+7/19/2014 1930;  Chicago Fire U-23        ; 0-4;     Michigan Bucks     ;    Ultimate Soccer Arenas   ; Marc Lawrence, Stephen Nelson, Anthony Ingle, Justin Tatsak; 878
+; Dzenan Catic (Gerlad Ben) 1, Dzenan Catic (Tanner Sica) 15, Dzenan Catic (Zach Steinberger) 20, Zach Steinberger (Tanner Sica) 57
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421555
+
+7/19/2014 1930;  Westchester Flames       ; 1-7;     Western Mass Pioneers;  Lusitano Stadium         ; Michael Dee, Stephen Dileo, Devin Miller; 1456
+Rilawan Salawu (Nana-Yaw Mensan) 54; Maxi Viera 5, Ben Maurey (Maxi Viera) 6, Ben Maurey (Will Daniels) 38, Will Daniels (James Beeston) 53, Ben Maurey (Will Daniels) 56, Pau Delgado (James Beeston) 85, Mike Gonzalves (Juan Correa) 89
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421563
+
+7/19/2014 1900;  Laredo Heat; 3-1;           Houston Dutch Lions;  HDL FC Soccer Complex              ; William Tomunson, Joel Mckell, Jeff Greeson; 120
+Miguel Fernandez (Joao Monteiro) 36, Felix Garcia 52, Luna Salvador 73; Joe Jackson (Rimario Gordon) 33
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421553
+
+7/19/2014 2030;  WSA Winnipeg             ; 0-2;     Des Moines Menace;   Valley Stadium   ; Tyler Turner, Tom McCuloch, Royce Van Roekel, Jim Elmer; 3711
+; Michael Semenza 6, Sean Dong (Jonny Macadam) 81           
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421551
+
+7/19/2014 2030;  Mississippi Brilla       ; 4-4;     Panama City Beach Pirates ; Gavlak Stadium       ; Robert Mann, Timothy Wann, Taiwo Madyn, Brandon Neal; 450
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421557
+
+7/19/2014 2130; LA Misioneros; 1-2; FC Tucson; Peter Johann Memorial Field; C. Scott, Tervor Lorell, K. Preston, Charles Fare
+Kyrian Nwabueze 49; Peter Kelly 28, Christian Velezky 29
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4664872
+
+7/19/2014 1155; BYU Cougars; 0-1; Ventura County Fusion; Peter Johann Memorial Field; Charles Farr, Juan Calazo, Luis Baez, Scott Comer
+; Duran Stanley (Laurie Bell) 41
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4664873
+
+7/20/2014 1300;  Forest City London       ; 2-1;     Pittsburgh Riverhounds U23 ;     Highmark Stadium        ; Corey Yerace, Paul Deverse, Samantha Ryan
+James Pucci (Yannis Becker) 21, Dan Deakin (PK) 33; Anthony Virgara ( Josh Gray) 34
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421565
+
+7/20/2014 1400;  Ocala Stampede           ; 1-1;     Floridians F.C.   ;     Central Broward Regional Park
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421564
+
+7/20/2014; NJ LUSO Parma; 3-4; FA Euro; Aviator Sports Center; L. Kharma, A. Kharma, M. Kharma
+Rafael Braga (Sen Kerolophian) 32, Raheem Stennent , Sen Kepolophian 70; Jason Lampkin 25, Adam Marcu 30, Alagie Janneh (Jason Lampkin) 56, Adam Marcu 68
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4421310
+
+7/22/2014; CFC Azul; 3-0; Reading United AC; Gurski Stadium; Jaroslaw Werel, Eric Weisbrod, Michael Piercey, Brandon Smith; 411
+Luke Perry (Reco McLaren) 29, Jeremy Tavares 36, Sean Weir (DJ Pereira) 66;
+Source: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+Elements/Display+E+47107+Stats/+4668837
+
+
+Stage: playoffs
+
