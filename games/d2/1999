@@ -178,7 +178,7 @@ Source: http://www.socceramerica.com/article/8892/a-league-standings-and-game-su
 
 5/8/1999; Hampton Roads; 1-0; Toronto; Virginia Beach, VA; 3540
 Valencia (Maier) 18; 
-Hampton Roads.: Tucker, Wygonik, Mitchell, Fletcher, Hooper, Maier (Haley 62), Owens, Kraemer, Bailey (Scrofani 52), Siikala (Kinturi 42), Valencia (Fenger 68)
+Hampton Roads: Tucker, Wygonik, Mitchell, Fletcher, Hooper, Maier (Haley 62), Owens, Kraemer, Bailey (Scrofani 52), Siikala (Kinturi 42), Valencia (Fenger 68)
 Toronto: Larkin, Reda, Kojic, Munguia, Serioux (Ryta 56), DeSerpa (Pozniak 46), Ashton, Nunes, Alves, DiPlacido (Holness 46), Jefferson (Arghitto, 46)
 Red card: ; Munguia 88
 Source: http://www.socceramerica.com/article/8892/a-league-standings-and-game-summaries-through-ma.html
@@ -255,10 +255,12 @@ Tennessee: Burke, Fisher, McNamee, Cohen, Tomlinson (Mittlesteadt 87), Schenkel,
 Project-40: Vallow, Martin, Eastman, Sahaydak (Bilyk 46), Lewis, Sawatzky, Slivinski (Kozic 68), Daniv, Anderson, Kovalenko (Hayes 64), Quijano (DaSilva 60)
 Source: http://www.socceramerica.com/article/8918/a-league-standings-and-game-summaries-through-ma.html
 
-5/14/1999; Boston; 1-0 (ot); Pittsburgh, PA; 337
+5/14/1999; Boston; 1-0 (ot); Pittsburgh; ; 337
 Ceccarelli (Proctor) 100;
 Boston: Latronica, Daley, Nicol, Crompton, Bradley, Ceccarelli, Poltl, Lujan, Vita (Proctor 95), Conteh (London 82), Rocha
 Pittsburgh: Dedini, Jaworski, Ihekononye, Bonsev, Kot (Child 82), Haitonic, Evans, Bell (DePalma 64), Fedoruk, Butler, Karn (Flavius 67)
+* check location
+
 5/14/1999; Charleston; 3-1; Richmond; Charleston, SC; 4317
 T.Miller (Spooner) 38, T.Miller (Brownell) 50, Brisson (Wilson) 88; Ferruzzi (Glasgow) 61
 Charleston: Hudock, R.Miller, Limniatis, Jean-Baptiste, Wilson, T.Miller (Sewell 75), Spooner (Ilarionov 83), Conway, Brownell (Mekelburg 70), Burke, Turner (Brisson 64)
@@ -266,7 +268,7 @@ Richmond: Deegan, Scott, Fox, Pizzolitto, Williams, Lekics, Jonas, Bueso (Ferruz
 Source: http://www.socceramerica.com/article/8918/a-league-standings-and-game-summaries-through-ma.html
 
 5/14/1999; Atlanta; 0-2; Staten Island; DeKalb, GA; 1304
-Dugas (Sloan) 15, Sloan 53
+; Dugas (Sloan) 15, Sloan 53
 Atlanta: Oshoniyi, Bednar, Norcott (Tardley, 40), Markov, Court, Jean-Louis, Silva (Bahr, 67), Mohyeldin, Renfurm, Gailey, Moleka
 Staten Island: Pappas, Mohammed (Cotarelo, 31), Diffley, Dugas, da Silva (Daly, 20), Oliviero, Villagra, Marcotrigiano, Sloan (Cadet, 55), Oliver, Johnson
 Red card: ; Diffley 52, Villagra 87
@@ -304,7 +306,7 @@ Hershey: Petras, Penny, Goodlett (Lima 60), Williams, Titus, Feniger, Mittendorf
 Source: http://www.socceramerica.com/article/8918/a-league-standings-and-game-summaries-through-ma.html
 
 5/15/1999; Long Island; 3-0; Connecticut; Uniondale, NY; 2895
-Kolic (Ovalle) 72, Weinstein (Kolic) 78, Doherty (Ragusa) 85
+Kolic (Ovalle) 72, Weinstein (Kolic) 78, Doherty (Ragusa) 85;
 Long Island: Carou, Nealis, Price, Lucey (Wiseman 72), Ragusa, Blanchard, Sullivan (Weinstein 61), Pitturo, Diallo (Ovalle 61), Wolyniec (Doherty 81)
 Connecticut: Gatti, Collins, Samol, Kelly, Joseph (Dieterle 86), Navarrete, Cardoza, Fairweather, Faris (Bokole 79), Fernandez (Bliss 79), Hokayma
 Source: http://www.socceramerica.com/article/8918/a-league-standings-and-game-summaries-through-ma.html
@@ -329,7 +331,7 @@ Cincinnati: Wanamaker, Strang, Scheer, Henderson, Roettker (Schulte 89), Roberts
 Source: http://www.socceramerica.com/article/8918/a-league-standings-and-game-summaries-through-ma.html
 
 5/15/1999; Tennessee; 0-2; Pro-40; Franklin, TN; 850
-Sawatzky (Quijano) 15, DaSilva (Bilyk) 88
+; Sawatzky (Quijano) 15, DaSilva (Bilyk) 88
 Tennessee: Burke, Howle (Moss 60), Cohen, Fisher, McNamee, Schenkel, Barrett (Parrish 66), Cole (Zujovic 65), Tomlinson, Van Atta, Ziyenge (Fraiser 82)
 Pro-40: Welch, Lewis, Martin, Eastman, Sawatzky, Slivinski, Daniv, Anderson, Bilyk, Quijano (Kovalenko 46), Hayes (DaSilva 47)
 Source: http://www.socceramerica.com/article/8918/a-league-standings-and-game-summaries-through-ma.html
@@ -349,7 +351,7 @@ Red card: Tomaro 19;
 Source: http://www.socceramerica.com/article/8918/a-league-standings-and-game-summaries-through-ma.html
 
 5/16/1999; San Francisco Bay; 0-1; Minnesota; Berkeley, CA; 1279
-Nowak (Gramenz) 56
+; Nowak (Gramenz) 56
 San Francisco Bay: Wozniak, Davini, Conrad, Gore (Taylor 75), Soebye, Harty, Sablo, Huber, Cairel, Viera (Cruz 54), Ratzburg
 Minnesota: Swallen, Coughlin (Gramenz 54), Raines, Bankov, Sylvester (Zeba 60), Nowak, Leventhal, Mladenov, Labastida, Saunders (Schneider 62), Magee (Abboud 73)
 Source: http://www.socceramerica.com/article/8918/a-league-standings-and-game-summaries-through-ma.html
@@ -368,13 +370,13 @@ Source: http://www.socceramerica.com/article/8918/a-league-standings-and-game-su
 *(Note: 4 points are awarded for a win in regulation or overtime, 2 points for a shootout win, 1 point for a shootout loss, and a bonus point is awarded for scoring three or more goals in a game.) RESULTS 
 
 5/20/1999; Maryland; 1-1; Atlanta; Baltimore, MD; 312
-Penalty kicks: 1-2in Baltimore Maryland 1 Atlanta 1 (Atlanta wins shootout, 2-1). Goals: 
+Penalty kicks: 1-2
 Haskins (Barker) 23; Moleka (Valcourt) 82
 Maryland: Payne, Brown (Love 27), Peay, Young, Haskins, Echeverry (Shaw 68), Ellis, LeCrom, Simmons, Knapman (Vega 102), Barker (Sampson 74)
 Atlanta: Oshoniyi, Norcott, Roberto (Bahr 60), Valcourt (Bednar 89), Silva (Davenport 86), Castillo, Renfrum, Handsor, Markov, Gailey, Moleka
 
 5/20/1999; Pittsburgh; 7-0; Raleigh; Bethel Park, PA; 3605
-Evans (Fedoruk) 12, Butler (Fedoruk) 33, Apple (Fedoruk) 40, Butler (Haitonic) 51, Apple (Fedoruk) 54, Tripoli (Flavius) 69, Karn (Tripoli) 75
+Evans (Fedoruk) 12, Butler (Fedoruk) 33, Apple (Fedoruk) 40, Butler (Haitonic) 51, Apple (Fedoruk) 54, Tripoli (Flavius) 69, Karn (Tripoli) 75;
 Pittsburgh: Dedini (Moscatiello 85), Evans, Haitonic (Karn 61), Kot, Butler (Flavius 63), Fedoruk (Eller 56), Apple (Meyer 75), Ihekononye, Bonsev, Tripoli, Jaworski
 Raleigh: Morton (Sadin 46), McDermott, Parry (Beachum 70), DeSantis, Pao, Thomas, Carithers (Dugan 60), White, Merkel (Ferris 57), Warham, Knights
 
@@ -415,8 +417,8 @@ Cincinnati: Wanamaker, Henderson, DiGuardi (Rockey 85), Strang, Roettker (Franci
 Pittsburgh: Dedini, Evans (Child 73), Haitonic, Kot, Butler (Karn 68), Fedoruk, Apple (Flavius 57), Tripoli, Bonsev, Ihekononye, Jaworski (DePalma 69)
 
 5/22/1999; Hampton Roads; 1-2; Richmond; Virginia Beach, VA; 2940
-Valencia (Owens) 4, Glasgow 43, Ukrop (Lekics) 65
-Hampton Roads.: Tucker, Branigan, Wygonik, Fletcher, Hooper, Maier, Owens (Brady 73), McCreath (Kraemer 63), Scrofani (Siikala 85), Valencia (Browder 56), Donnelly
+Valencia (Owens) 4; Glasgow 43, Ukrop (Lekics) 65
+Hampton Roads: Tucker, Branigan, Wygonik, Fletcher, Hooper, Maier, Owens (Brady 73), McCreath (Kraemer 63), Scrofani (Siikala 85), Valencia (Browder 56), Donnelly
 Richmond: Deegan, Ellis (Da.Etienne 73), Williams, Fox, Scott (McKay 33), Pizzolito, Lekics, Ferruzzi (Radzki 80), Jonas (De.Etienne 89), Ukrop, Glasgow
 
 5/22/1999; Hershey; 3-1; Atlanta; 
@@ -439,7 +441,7 @@ Minnesota: Warren (Swallen 78), Coughlin, Sylvester (Bankov 46), Abboud, Castma,
 da Silva 27, Oliviero (Johnson) 68, Oliver (Oliviero) 89;
 Staten Island: Pappas, Dugas, da Silva, Mohammed, Diffley, Marcotrigiano (Villagra 85), Oliviero, Sloan, Oliver, Cadet, Johnson (Inneh 72)
 Connecticut: Gatti, Fairweather, Samol, Ezeugo (Bokole 75), Collins, Navarrete (Reidy 85), Faris, Cardoza, Bliss (Joseph 46), Barbieri, Caporrella
-Att.: 1,284. 
+
 
 5/23/1999; Maryland; 1-4; Rochester; Baltimore, MD; 560
 Corneli (Haskins) 4; Biello (Miller) 19, Allnutt (Schweitzer) 33, Biello (Glenn) 59, Allnutt (Zavala) 67
@@ -581,7 +583,7 @@ Toronto: Zagar, Reda, Munguia, Kojic, Black (Pozniak 59), Ashton (Bartolomeu 59)
 Connecticut: Gatti, Collins, Samol, Kelly, Fairweather, Cardoza, Caporella (Bliss 87), Navarrete (Hokayma 46), Ezuego (Joseph 76), Faris, Domm (Bokole 72)
 
 6/3/1999; Orange County; 1-1; San Diego; Santa Ana, CA
-Penatly kicks: 2-1
+Penalty kicks: 2-1
 Soto 60; Farias (pk) 62
 Orange County: Littman, Saunders, Hesse, Lak, Lippens (McDonnell 46), Sanchez, M.Vasquez (Foster 46), Polowski, J.Vasquez, Patterson, Soto (Leal 75)
 San Diego: Tate, Cruz, Chaisongkram, N'Doumbe, Watson (Gins 78), Farias, Alegre (Phillips 96), Farace (Adair 46), Hetherington, Robles, Dumitru (Legg 75)
@@ -641,7 +643,7 @@ Simmonds (Smith) 11, DiFlorio (Smith) 56; Bonseu (pk) 63
 Hershey: Petras, Penny, Williams, Titus, Swords, Klein, DiFlorio, Ferry (Feniger 59), Simmonds, Smith (Mitchell 59), Mittendorf (Leonard 69)
 Pittsburgh: Dedini, Meyer, Jaworski, Terlecky, Evans, Kot (DePalma 78), Haitonic (Karn 81), Bonseu, Tripoli (Butler 59), Fedoruk, Apple (Flavius 58)
 
-6/5/1999; Atlant; 0-2; Hampton Roads; DeKalb, GA; 1387
+6/5/1999; Atlanta; 0-2; Hampton Roads; DeKalb, GA; 1387
 ; Valencia (Scrofani) 53, Martinez 66
 Atlanta: Oshoniyi, Silva (Gailey 56), Castillo, Bednar, Handsor (Valcourt 85), Renfrum, Norcott, Markov, Roberto, Moleka (Bahr 65), Mohyeldin
 Hampton Roads: Busch, Branigan, Kraemer, Maier, Mitchell, Bailey (Martinez 46), Owens, Dominguez, Scrofani (Thomas 78), Donnelly (Hooper 68), Valencia (Kinturi 75)
@@ -687,7 +689,7 @@ Pro-40: Welch, Sahaydak, Abukusumo, Lewis, Soto, Bilyk, Flores (Daniv 28), Cooks
 Red card: ; Sahaydak 58
 
 6/6/1999; Staten Island; 0-2; Boston; Staten Island, NY; 1332
-London 11, Ceccarelli (Wheeler) 60
+; London 11, Ceccarelli (Wheeler) 60
 Staten Island: Pappas (Zaratin 36), DaSilva, Diffley (Williams 29), Mohammed, Boney (Inneh 66), Johnson, Oliviero, Dugas, Sloan, Wilson, Oliver
 Boston: Latronica, Crompton, Daley, Nicol, Ndlovu (Lujan 19), Poltl, Vita (Levesque 86), Ceccarelli, Wheeler, London (Rocha 66), Conteh (Simpson 60)
 
@@ -703,13 +705,13 @@ Note: this was the completion of a 5/14/1999; game postponed due to lightning in
 
 6/11/1999; Indiana; 1-1; Tennessee; Indinapolis, IN; 2440
 Penalty kicks: 2-0
-Dresser (Sweeney) 61; Frazier (Ziyenge) 8;
+Dresser (Sweeney) 61; Frazier (Ziyenge) 8
 Indiana: Browder, Foster, Menk, Donaldson (Cowan 85), Parrish, Sweeney, Baah, Duff (Oliveira 78), Phillips, James (Crawford 41), Carver (Dresser 46)
 Tennessee: Burke, Howle (Cohen 46), McNamee, Fisher, Cole, DeVall, Comeaux, Potter (Schenkel 72), Barrett (Van Atta 46), Frazier (Tomlinson 51), Ziyenge
 
 6/11/1999; Charleston; 1-1; Raleigh; Charleston, SC; 3264
 Penalty kicks: 0-3
-; Sewell (Anderson) 89; Knights 63
+Sewell (Anderson) 89; Knights 63
 Charleston: Hudock, Sewell, Limniatis, Jean-Baptiste, T.Miller, Mekelburg, Spooner (J.Wilson 61), Conway, Thelen (Rocke 79), Burke (Turner 79), Brisson (Anderson 61)
 Raleigh: Morton, Warham, McDermott (Merkel 16), Nunley, Parry, DeSantis, Farris (Pao 46), C.White (Dugan 68), Rodriguez, Beachum (Carithers 61), Knights
 Red card: Limniatis 35;
@@ -724,7 +726,7 @@ Mohyeldin (Renfrum) 105;
 Atlanta: Oshoniyi, Norcott, Bednar, Markov, Renfrum, Crane, Castillo (Valcourt 56), Handsor, Moleka (Silva 77), Shishkov (Gailey 39), Thomas (Mohyeldin 19)
 Hershey: Petronis, Penny, Williams, Ford, Smith, Swords, Titus, Klein (Mitchell 70), Simmonds, Mittendorf, DiFlorio
 
-6/11/1999; Milwaukee; 5-2; Milwaukee, WI; 3281
+6/11/1999; Milwaukee; 5-2; Cincinnati; Milwaukee, WI; 3281
 Willan (Stebbins) 4, Willan 13, Stebbins (Willan) 42, P.White (Stebbins) 84, Willan (Stebbins) 87; Yacks (Scheer) 47, Caution (Cairns) 77
 Milwaukee: Green, Ackah, Iribarren, Cerro, Timbers, Storm, Szczepanski (P.White 46), Dalombo (Ross 74), Loftin (Igel 74), Stebbins, Willan
 Cincinnati: Wanamaker, DiGuardi (Dusosky 46), Strang, Keenan (Schulte 46), Roettker, Roberts, Scheer (Rockey 83), Mossel, Schilten (Caution 62), Yacks, Cairns
@@ -796,10 +798,10 @@ Pro-40: Welch, Abukusumo, Onalfo, Sawatzky, Bilyk, K.Wilson, Alavanja, Sahaydak,
 Red card: ; Onalfo 90
 
 * 6/16-6/22
-http://www.socceramerica.com/article/8635/a-league-standings-and-summaries-through-june-20.html
+*http://www.socceramerica.com/article/8635/a-league-standings-and-summaries-through-june-20.html
 
 *-Jacksonville has been penalized one point for using too many foreign players in a 
-5/29/1999; match against Rochester. (Note: 4 points are awarded for a win in regulation or overtime, 2 points for a shootout win, 1 point for a shootout loss, and a bonus point is awarded for scoring three or more goals in a game.) RESULTS 
+* 5/29/1999; match against Rochester. (Note: 4 points are awarded for a win in regulation or overtime, 2 points for a shootout win, 1 point for a shootout loss, and a bonus point is awarded for scoring three or more goals in a game.) RESULTS 
 
 
 6/16/1999; Minnesota; 1-1; Milwaukee; St. Paul, MN; 2949
@@ -821,7 +823,7 @@ Staten Island: Zaratin, da Silva, Mohammed, C.Williams, Oliviero, Dugas, Villagr
 6/18/1999; Richmond; 2-1; Hampton Roads; Richmond, VA; 1835
 Lowe (DeRosario) 21, DeRosario 23; Scrofani (Onalfo) 16
 Richmond: Deegan, Pizzolito, Fox, McKay, T.Williams, Lekics, Ferruzzi (Jonas 77), Radzki (Da.Etienne 64), Glasgow (De.Etienne 85), Lowe (Ukrop 87), DeRosario
-Hampton Roads.: Busch, Branigan, Kramer, Onalfo, Scrofani, Dominguez, Owens (Maier 65), Fletcher (Mitchell 59), Kinturi (Martinez 37), Donnelly (McCreath 71), Valencia
+Hampton Roads: Busch, Branigan, Kramer, Onalfo, Scrofani, Dominguez, Owens (Maier 65), Fletcher (Mitchell 59), Kinturi (Martinez 37), Donnelly (McCreath 71), Valencia
 
 6/18/1999; Boston; 1-4; Long Island; Framingham, MA; 561
 Rocha (D.Simpson) 3; Kolic (Blanchard) 2, Wolyniec (Ragusa) 30, Kolic (Blanchard) 35, Weinstein (pk) 90
@@ -829,7 +831,7 @@ Boston: Latronica, Nicol, Crompton, Vita, Ceccarelli, Poltl, Lujan (Flores 57, L
 Long Island: Carou, Price, Nealis, Pitturo, Ragusa, Fernandes, Blanchard (Leon 65), B.Sullivan, Lucey, Kolic (Weinstein 73), Wolyniec
 
 6/18/1999; Rochester; 3-0; Toronto; Rochester, NY; 11089
-Biello (D.Miller) 10, Biello (Hardy) 27, Biello (Glenn) 63
+Biello (D.Miller) 10, Biello (Hardy) 27, Biello (Glenn) 63;
 Rochester: Onstad, Demmin, Hardy, Schweitzer (Restrepo 74), Daligcon, Tanner (Sedgewick 61), Allnutt, Kirmse, Glenn, D.Miller (Tilley 46), Biello
 Toronto: Larkin, Reda, Mattacchione (DiPlacido 75), Kojic, Barker, Ashton (Pozniak 84), Vignjevic, Gaucho, Serioux, Doliscat (De Serpa 59), Dos Santos
 
@@ -871,11 +873,20 @@ Red card: Keyes 45;
 Hampton Roads: Busch, Branigan (Scrofani 33), Kraemer, Mitchell, Brady, Maier, Bailey (Dominguez 68), Owens (Lima 91), McCreath, Martinez (Kinturi 64), Valencia
 Richmond: McGinty, Fox, Pizzolito, McKay, T.Williams, Lekics, Jones, Bueso (Ferruzzi 81), Tri.Ellis (DeRosario 46), Glasgow, Ukrop (Lowe 46)
 
-6/19/1999; in New Britain, Conn. Connecticut 3 Long Island 2. Goals: Caporrella 50, Barbieri (Navarrete) 56, Barbieri (Bokole) 79; Lucey 5, Leon 27. Connecticut: Gatti, Samol (D.Sullivan, 75), Collins, Fairweather, Bliss, Joseph, Navarrete, Caporrella, Cordoza, Barbieri (Keegan, 84), Domm (Bokole, 75). Long Island: Carou, Price, Nealis, Pitturo, Lucey, B.Sullivan, Ragusa (Hutson, 84), Leon, Fernandes (Blanchard, 58), Kolic (Weinstein, 49), Wolyniec. Att.: 1,193. 
+6/19/1999; Connecticut; 3-2; Long Island; New Britain, CT; 1193
+Caporrella 50, Barbieri (Navarrete) 56, Barbieri (Bokole) 79; Lucey 5, Leon 27
+Connecticut: Gatti, Samol (D.Sullivan 75), Collins, Fairweather, Bliss, Joseph, Navarrete, Caporrella, Cordoza, Barbieri (Keegan 84), Domm (Bokole 75)
+Long Island: Carou, Price, Nealis, Pitturo, Lucey, B.Sullivan, Ragusa (Hutson 84), Leon, Fernandes (Blanchard 58), Kolic (Weinstein 49), Wolyniec
 
-6/19/1999; in Hershey, Pa. Hershey 1 Pittsburgh 2 (OT). Goals: DiFlorio (Ferry) 36; Bonseu (pen.) 72, Karn (Evans) 94. Hershey: Petras, Penny, M.Williams, Titus, Swords (Kopp, 87), Smith, Klein, DiFlorio, Ferry (Feniger, 54), Mittendorf, Simmonds (Mitchell, 54). Pittsburgh: Dedini, Ihekononye, Bonseu, Terlecky, Evans, Eller, Kot, Tripoli, Bell (DePalma, 72), Butler (Apple, 63), Flavius (Karn, 59). Att.: 5,695. 
+6/19/1999; Hershey; 1-2 (ot); Pittsburgh; Hershey, PA; 5695
+DiFlorio (Ferry) 36; Bonseu (pk) 72, Karn (Evans) 94
+Hershey: Petras, Penny, M.Williams, Titus, Swords (Kopp 87), Smith, Klein, DiFlorio, Ferry (Feniger 54), Mittendorf, Simmonds (Mitchell 54)
+Pittsburgh: Dedini, Ihekononye, Bonseu, Terlecky, Evans, Eller, Kot, Tripoli, Bell (DePalma 72), Butler (Apple 63), Flavius (Karn 59)
 
-6/19/1999; in DeKalb, Ga. Atlanta 3 Boston 2. Goals: Moleka (Shishkov) 26, Moleka (Handsor) 71, Mohyeldin (Handsor) 86; London (Ceccarelli) 30, Vita (London) 65. Atlanta: Oshoniyi, Castillo, Bednar, Norcott, Crane, Handsor, Renfrum, Raeburn (Silva, 65), Valcourt (Gailey, 60), Moleka (Bahr 87), Shishkov (Mohyeldin, 46). Boston: Latronica, Nicol, Crompton, Lips, LaRochelle, Ceccarelli (Proctor, 73), Poltl, Vita, Kerr, London, Rocha. Att.: 2,521. 
+6/19/1999; Atlanta; 3-2; Boston; DeKalb, GA; 2521
+Moleka (Shishkov) 26, Moleka (Handsor) 71, Mohyeldin (Handsor) 86; London (Ceccarelli) 30, Vita (London) 65
+Atlanta: Oshoniyi, Castillo, Bednar, Norcott, Crane, Handsor, Renfrum, Raeburn (Silva 65), Valcourt (Gailey 60), Moleka (Bahr 87), Shishkov (Mohyeldin 46)
+Boston: Latronica, Nicol, Crompton, Lips, LaRochelle, Ceccarelli (Proctor 73), Poltl, Vita, Kerr, London, Rocha
 
 6/19/1999; Minnesota; 2-0; Indiana; Blaine, MN; 2609
 Zeba (Mladenov) 22, Magee (Saunders) 60;
@@ -919,7 +930,7 @@ Red card: ; Baena 48
 * http://www.socceramerica.com/article/8606/a-league-standings-and-game-summaries-june-22-27.html
 
 *Jacksonville has been penalized one point for using too many foreign players in a 
-5/29/1999; match against Rochester. (Note: 4 points are awarded for a win in regulation or overtime, 2 points for a shootout win, 1 point for a shootout loss, and a bonus point is awarded for scoring three or more goals in a game.) RESULTS 
+*5/29/1999; match against Rochester. (Note: 4 points are awarded for a win in regulation or overtime, 2 points for a shootout win, 1 point for a shootout loss, and a bonus point is awarded for scoring three or more goals in a game.) RESULTS 
 
 6/22/1999; Toronto; 4-0; Lehigh Valley; Toronto, ON; 1379
 Kojic (Vignjevic) 3, Vignjevic (Serioux) 19, Vignjevic 42, Vignjevic 80;
@@ -974,7 +985,7 @@ Jacksonville: Larusson, De Los Santos, Vilhjalmsson, Schmidt, Tomaro (Santora 81
 Maryland: Yetso, Tre.Ellis, C.Brown, Love, Bates, Swift, D.Phillips (Payton 82), LeCrum (Echeverry 65), Shaw (Vega 65), Armas (Knapman 82), Haskins
 
 6/26/1999; Lehigh Valley; 0-2; Connecticut; Scranton, PA; 2133
-Navarrete (pk) 30, Bokole 89
+; Navarrete (pk) 30, Bokole 89
 Lehigh Valley: Dutra, Franzke (Zaun 46), Edwards (Watkins 80), Imler, Zavagnin, Oudin, Stockton, Henderson, Checcio (Jahr 60), Garcia (Marshall 65), Houser
 Connecticut: Gatti, Samol, Collins, Fairweather, Kelly, Joseph, Caporrella (Bliss 59), Navarrete, Cardoza, Barbieri, Domm (Bokole 70)
 Red card: Houser 30;
@@ -1002,7 +1013,7 @@ Orange County: Littman, Lak, Hesse, Engesser, McDonnell (Leal 63), Sanchez, Polo
 
 6/26/1999; San Francisco Bay; 4-1; Sacramento; San Francisco, CA; 926
 Harty (Soebye) 30, Salazar (Harty) 42, Harty (Salazar) 70, Harty 90; Rohrer 65
-San Francisco Bay: Wozniak, Huber, R.Edwards, Gore, Sablo, Duncan, Ratzburg, Schultz (Hurd 75) Soebye (Babk 78), Harty, Salazar (Cairel 74)
+San Francisco Bay: Wozniak, Huber, R.Edwards, Gore, Sablo, Duncan, Ratzburg, Schultz (Hurd 75), Soebye (Babk 78), Harty, Salazar (Cairel 74)
 Sacramento: Rothling, Finley, Edge, Gile, Wolf, Maestretti, Canarelli, Cohmanschi, Gonzales (Cano 46), Farfan, Rohrer (Harvey 83)
 
 6/26/1999; Seattle; 0-3; San Diego; Renton, WA; 1943
@@ -1084,7 +1095,7 @@ Red card: Zaun 51;
 Source: http://www.socceramerica.com/article/8525/a-league-standings-and-game-summaries-through-ju.html
 
 7/16/1999; Atlanta; 1-1; Charleston; Clarkston, GA; 2389
-Penalt kicks: 3-2
+Penalty kicks: 3-2
 Silva 34; Conway (pk) 57
 Atlanta: Oshoniyi, Bednar, Crane, Valcourt, Silva (Samuels 83), Castillo, Finlay, Renfrum, Suri (Mohyeldin 58), Moleka (Shishkov 100), Raeburn (Handsor 58)
 Charleston: Hudock, R.Miller (Rocke 97), Limniatis, Jean-Baptiste, J.Wilson, Ilarionov, T.Miller, Conway (Sewell 83), Bates, Burke (Brisson 60), Dougherty (Mekelburg 88)
@@ -1102,7 +1113,10 @@ Milwaukee: Green, Ackah, Cerro (Timbers 61), Ross, Iribarren, Szczepanski, Igel,
 Toronto: Zagar, Munguia, Kojic, Ashton, Vignjevic, Gaucho, Serioux, Doliscat (DiPlacido 38), Buzalli (Barker 38), Black, Dos Santos
 Source: http://www.socceramerica.com/article/8525/a-league-standings-and-game-summaries-through-ju.html
 
-7/16/1999; in Indianapolis Indiana 2 Sacramento 1. Goals: M.Phillips (Sweeney) 31, C.James (A.Parrish) 89; Cano (Edge) 4. Indiana: Browder, Foster, Pickup, A.Parrish, Menk, Crawford (Dresser, 59), Sweeney (Weiger, 71), Baah, Duff, C.James, M.Phillips. Sacramento: Landon, Edge, Temblador, Maestretti, Gile, Lively (Rothling, 66), K.Mercado, Wiley (Gonzalez, 60), Cano, Rohrer (Galvan, 82), Cohmanschi (Valdez, 46). Att.: 1,038. 
+7/16/1999; Indiana; 2-1; Sacramento; Indianapolis, IN; 1038
+M.Phillips (Sweeney) 31, C.James (A.Parrish) 89; Cano (Edge) 4
+Indiana: Browder, Foster, Pickup, A.Parrish, Menk, Crawford (Dresser 59), Sweeney (Weiger 71), Baah, Duff, C.James, M.Phillips
+Sacramento: Landon, Edge, Temblador, Maestretti, Gile, Lively (Rothling 66), K.Mercado, Wiley (Gonzalez 60), Cano, Rohrer (Galvan 82), Cohmanschi (Valdez 46)
 Source: http://www.socceramerica.com/article/8525/a-league-standings-and-game-summaries-through-ju.html
 
 7/16/1999; El Paso; 1-3; Orange County; El Paso, TX; 1176
@@ -1166,7 +1180,7 @@ Red card: ; DiPlacido 88
 Source: http://www.socceramerica.com/article/8525/a-league-standings-and-game-summaries-through-ju.html
 
 7/18/1999; Tennessee; 3-0; Sacramento; Franklin, TN; 1052
-Ziyenge (Cohen) 54, Potter 57, Schenkel (Comeaux) 67
+Ziyenge (Cohen) 54, Potter 57, Schenkel (Comeaux) 67;
 Tennessee: Burke, Fisher, Cohen, McNamee, DeVall, Schenkel, Comeaux, Potter (Van Atta 61), K.Parrish (Cole 61), Ziyenge (Mittelstaedt 71), Tomlinson (Frazier 71)
 Sacramento: Landon, Edge (Cohmanschi 73), Temblader, Gile, Wiley, Lively, K.Mercado, Rohrer, Cano (Galven 52), Gonzalez, Rothling (Valdez 64)
 Red card: ; Lively 85
@@ -1191,8 +1205,8 @@ Vancouver: Shepherd, Bodnark, Hardy, MacDonald, Fonseca, Dailly, Berg, Hall (D'O
 Cincinnati: Cwiklik, Schulte, Michalak (Perzigian 63), Haitonic, Roberts (Strang 82), Scheer, Rockey, Mossel, Yacks, Schilten (Roettker 69), Lowey
 Source: http://www.socceramerica.com/article/8525/a-league-standings-and-game-summaries-through-ju.html
 
-7/20-7/25
-http://www.socceramerica.com/article/8489/a-league-standings-and-game-summaries-through-ju.html
+*7/20-7/25
+*http://www.socceramerica.com/article/8489/a-league-standings-and-game-summaries-through-ju.html
 
 *El Paso deducted one point for using an ineligible player. (Note: 4 points are awarded for a win in regulation or overtime, 2 points for a shootout win, 1 point for a shootout loss, and a bonus point is awarded for scoring three or more goals in a game.) RESULTS 
 
@@ -1288,7 +1302,7 @@ Hershey: Petras, Penny, M.Williams, Kopp (Ford 62), Henning, Leonard (Titus 70),
 Hampton Roads: Busch, Bailey, B.Mitchell, C.Williams (Brady 24), Kraemer, Dominguez (Carver 74), Owens, Maier, Scrofani (Branigan 46), Valencia, Siikala (Kinturi 66)
 
 7/25/1999; Jacksonville; 0-3; Charleston; Jacksonville, FL; 1115
-Conway (Dougherty) 15, Burke (Conway) 27, Rodriguez (Brisson) 84
+; Conway (Dougherty) 15, Burke (Conway) 27, Rodriguez (Brisson) 84
 Jacksonville: Larusson, Simutowe, Viljhalmson (Broderick 46), Care, Schmidt (Tomaro 46), Bryan, Ledesma, Gonzalez (Munoz 46), De Oliveira, Nickerson, Cozier
 Charleston: Hudock, R.Miller, Limniatis, Jean-Baptiste, J.Wilson (Rocke 86), T.Miller, Rodriguez (Sewell 86), Dougherty, Ilarionov (Brownell 68), Burke (Brisson 60), Conway
 
@@ -1304,7 +1318,7 @@ Rochester: Onstad, Sedgewick, Schweitzer, Demmin, Kirmse, Biello, Allnutt (Zaval
 Red card: Doliscat 89;
 
 7/25/1999; Minnesota; 1-0; Tennessee; Blaine, MN; 1204
-Gramenz (Mladenov) 76
+Gramenz (Mladenov) 76;
 Minnesota: Swallen, Coughlin, Sylvester, Raines, Gramenz, Leventhal, Zeba (Labastida 77), Gentile, Mladenov, Schneider (Saunders 60), Lagos (Magee 66)
 Tennessee: Germaine, Fisher, Howle (Woodruff 62), McNamee, DeVall, McAlpine (Van Atta 70), Cole, Schenkel (K.Parrish 83), Comeaux (Potter 61), Ziyenge, Tomlinson
 Red card: ; Tennessee: Woodruff 83
@@ -1315,8 +1329,8 @@ Seattle: Burpo, Jenkins (Nguyen 74), Barton, Annicchero, Waibel, Gaw, Robertson,
 Pro-40: Vallow, Chulis, Conrad, O'Brien, Bilyk, Ki.Wilson, Alavanja, Alvarado (Gomez 46), Jara, Van Saun (M.Rocha 46), Kozic
 
 
-7/28-8/3
-http://www.socceramerica.com/article/8457/a-league-standings-and-game-summaries-through-au.html
+*7/28-8/3
+*http://www.socceramerica.com/article/8457/a-league-standings-and-game-summaries-through-au.html
 
 *Vancouver's 7-0 win over Sacramento on 
 
@@ -1359,7 +1373,7 @@ Staten Island: Pappas, Namazi, Cotarelo (Titus 46), Birusingh (Cadet 81), Leanti
 Connecticut: King, Collins, Ezeugo, Keevan, Cardoza, Bliss, Vaughan, de Oliveira, Cornett (Samol 60), Barbieri (Reidy 76), Bokole
 
 7/30/1999; Toronto; 1-0; Boston; Toronto, ON; 2424
-Dos Santos (Mattacchione) 88
+Dos Santos (Mattacchione) 88;
 Toronto: Larkin, Kojic, Black, Serioux, Ashton, Holness, Vignjevic (DiPlacido 89), Nunes (Mattacchione 78), Krivochtchekov, Dos Santos, Bolsonello (Barker 46)
 Boston: Latronica, Nicol (LaRochelle 46), John, Franklin, Bradley, Lujan (Ndlovu 66), Poltl, Vita, Ceccarelli, Gregory (London 66), Kerr
 Red card: 35;
@@ -1397,12 +1411,12 @@ Seattle: Burpo, Jenkins (Hattrup 103), B.James, Barton, Waibel, Heald, S.Henders
 Red card: ; Heald 75
 
 7/31/1999; Lehigh Valley; 2-0; Raleigh; Downington, PA; 517
-Boney (Stockton) 16, Houser 21
+Boney (Stockton) 16, Houser 21;
 Lehigh Valley: Dutra, Zaun, D.Edwards, Oudin, Imler, Zavagnin, Houser (Frantzke 35), Boney, Stockton (Bader 71), Trotman (Dotsenko 76), J.Henderson (Checcio 87)
 Raleigh: Sommer, Whyte, Warham, Parry (White 46), DeSantis, Pao (Dugan 55), Farris (Knights 46), Nunley, Merkel (Carithers 65), Watkins, Mekelburg
 Red card: Boney 29;
 
-7/31/1999; Long Island; 1-2; Stten Island; Uniondale, NY; 2823
+7/31/1999; Long Island; 1-2; Staten Island; Uniondale, NY; 2823
 Kolic (pk) 42; Inneh (da Silva) 16, Mueller (da Silva) 86
 Long Island: Carou, Rambo (Nealis 46), Wiseman, Ragusa, Piturro, Kolic, Fernandes, Leon (Lucey 46), B.Sullivan, Wolyniec, Weinstein
 Staten Island: Zaratin, Namazi, da Silva, Birusingh, Titus, Leanti (Cotarelo 77), Villagra, Oliver (Marcotrigiano 47), Tschantret, Sloan, Inneh (Mueller 78)
@@ -1423,7 +1437,7 @@ El Paso: Estrada, Delgado (Galindo 46), McFarlane, Banuelos (Mancera 74), Juarez
 San Diego: Tate, Cruz, P.Brown, Sinohui (B.Smith 78), Legg (Calderon 68), Alegre (Gins 26), Farias, Chaisongkram (Farace 60), Hetherington, Dumitru, Watson
 
 8/1/1999; Milwaukee; 0-3; Orange County; Milwaukee, WI
-Patterson (M.Vasquez) 2, Soto (Boyce) 51, Patterson (M.Vasquez) 82
+; Patterson (M.Vasquez) 2, Soto (Boyce) 51, Patterson (M.Vasquez) 82
 Milwaukee: Green, Lopez, Ackah (Ja.Provan 76), Ross (Marquinhos 59), Iribarren, Cerro (Timbers 66), Szczepanski, Jo.Provan, Stebbins, Loftin, Willan
 Orange County: Littman, Hesse, M.Foster, Engesser, M.Vasquez, Robles (Guthrie 35), Polowski, J.Vasquez, Soto (Leal 63), Boyce, Patterson
 
@@ -1449,7 +1463,7 @@ Toronto: Larkin, Munguia, Kojic, Doliscat, Black, Ashton (Mattacchione 61), Vign
 Atlanta: Oshoniyi, Stadler, Castillo, Samuels (Mohyeldin 58), Bahr, Silva, Renfrum, Handsor, Moleka, Raeburn, Shishkov
 
 8/1/1999; San Francisco Bay; 0-2; Vancouver; San Francisco, CA; 491
-Sulentic (Sebrango) 24, Sebrango (Mobilio) 36
+; Sulentic (Sebrango) 24, Sebrango (Mobilio) 36
 San Francisco Bay: Wozniak, Hurd (Salazar 60), Huber (Utush 38), Gore, S.Simpson, Duncan, Cairel, R.Edwards (Davini 52), Sablo, Ratzburg, Soebye (Babic 69)
 Vancouver: Shepherd, MacDonald, Hardy, Fonseca, Berg, Dailly, Sulentic, Thompson (Bodnark 70), D'Onofrio, Mobilio, Sebrango
 
@@ -1459,14 +1473,14 @@ Vancouver: Shepherd, MacDonald, Hardy, Fonseca, Berg, Dailly, Sulentic, Thompson
 * (Note: 4 points are awarded for a win in regulation or overtime, 2 points for a shootout win, 1 point for a shootout loss, and a bonus point is awarded for scoring three or more goals in a game.) RESULTS 
 
 8/4/1999; Staten Island; 0-1; Toronto; Staten Island, NY; 1235
-Dos Santos (Bolsonello) 55
+; Dos Santos (Bolsonello) 55
 Staten Island: Pappas, Birusingh (Mueller 79), Namazi, Titus, da Silva, Leanti, Villagra, Oliver (Marcotrigiano 38), Sloan, Tschantret, Inneh
 Toronto: Larkin, Munguia, Kojic, Doliscat, Black, Ashton, Nunes, Holness (Serioux 68), Vignjevic, Bolsonello (Arghitto 85), Dos Santos (Barker 80)
 
 8/4/1999; New Orleans; 4-2; Pro-40; Metairie, LA; 1045
 Beech (J.Russell) 21, Beech (Hansen) 36, Veselka (Guastaferro) 63, Beech 88; Bilyk (Sawatzky) 37, Kovalenko (Bilyk) 83 
 New Orleans: Andrews, Mikulski, Samples, C.Brown (Descombs 77), J.Russell, Smotherman, Tadlock, Guastaferro (Adjanohouh 82), Beech, Veselka, Hansen (Allen 58)
-U.S. Pro-40: Nyman, Chulis, Abukusumo, Conrad, Bilyk, Van Saun, Kozic, Gomez, O'Brien, Kovalenko, Sawatzky
+Pro-40: Nyman, Chulis, Abukusumo, Conrad, Bilyk, Van Saun, Kozic, Gomez, O'Brien, Kovalenko, Sawatzky
 Red card: ; Gomez 90, Kozic 90, Conrad 90
 
 8/6/1999; Jacksonville; 3-2 (ot); Atlanta; Jacksonville, FL
@@ -1546,7 +1560,7 @@ Pittsburgh: Dedini, Terlecky, Bell (Vasic 67), Tripoli (Jaworski 52), Evans, Bon
 Hershey: Petras, Penny, M.Williams, Leonard (Ford 66), Henning, Kopp, Klein (Mittendorf 89), Ferry (Feniger 84), DiFlorio (Smith 70), J.Mitchell, Simmonds
 
 8/7/1999; Minnesota; 0-1 (ot); Indiana; Blaine, MN; 3086
-E.Moneme 93
+; E.Moneme 93
 Minnesota: Swallen, Coughlin, Sylvester, Bankov, Gramenz, Gentile, Zeba, Nowak (Labastida 71), Mladenov, Lagos (Saunders 46), Schneider (Magee 57)
 Indiana: Browder, T.Foster, Parrish, Pickup, Crawford (Blackbourne 71), Duff, Sweeney, Menk, Baah, C.James, E.Moneme
 
@@ -1567,7 +1581,7 @@ Richmond: McGinty, Pizzolitto, McKay (Scott, 46), Tri.Ellis, Lekics, Ferruzzi, R
 Rochester: Onstad, Hardy, Demmin, Schweitzer, Walton, Sedgewick (Daligcon, 54), Allnutt (Zavala, 73), Biello, Tanner (Dietrich, 85), Young, Tilley (Kirmse, 67)
 
 8/8/1999; Staten Island; 4-0; Maryland; Staten Island, NY; 1331
-Ke.Wilson (Inneh) 11, Inneh (Tschantret) 37, Ke.Wilson (Sloan) 78, Oliver (Mohammed) 84
+Ke.Wilson (Inneh) 11, Inneh (Tschantret) 37, Ke.Wilson (Sloan) 78, Oliver (Mohammed) 84; 
 Staten Island: Pappas, Mohammed, Namazi, Titus, Villagra (da Silva 56), Leanti (Cadet 69), Tschantret (Sloan 76), Oliver, Johnson, Ke.Wilson, Inneh (Diffley 79)
 Maryland: Hunter, S.Phillips, LeCrum, Love, Pusey, Vega, Haskins, Armas, Newland, Knapman, Echeverry (Anderson 68)
 
@@ -1683,7 +1697,7 @@ San Diego: Tate, P.Brown, Sinouhui, Cruz, Legg, Calderson (Alegre 36), Watson, C
 New Orleans: Andrews, C.Brown, Mikulski, Gaunt, Smotherman, J.Russell, Tadlock, Guastaferro (Samples 73), Alcero (Rebuck 78), Maxwell (Adjanohouh 46), Allen
 
 8/15/1999; Maryland; 0-4; Hershey; Arnold, MD; 250
-DiFlorio 12, DiFlorio 57, Simmonds (Klein) 63, Mittendorf (Kvello) 81
+; DiFlorio 12, DiFlorio 57, Simmonds (Klein) 63, Mittendorf (Kvello) 81
 Maryland: Yetso Se.Phillips, Haskins, LeCrum, Simmons, Love, Knapman, De.Phillips (Hunter 73), Armas, Pusey, Anderson
 Hershey: Petronis (Sletvold 76), Goodlett, Feniger, Ford (Mittendorf 62), Henning, J.Mitchell (Kvello 64), Smith, Kopp, Simmonds, Klein (M.Williams 76), DiFlorio (Nicolarsen 76)
 
@@ -1729,11 +1743,11 @@ Red card: Warham 60;
 
 
 *8/17-8/24
-http://www.socceramerica.com/article/6970/a-league-standings-and-game-summaries-through-au.html
+*http://www.socceramerica.com/article/6970/a-league-standings-and-game-summaries-through-au.html
 
 * Clinched playoff berth. (Note: 4 points are awarded for a win in regulation or overtime, 2 points for a shootout win, 1 point for a shootout loss, and a bonus point is awarded for scoring three or more goals in a game.) RESULTS 
 
-8/17/1999; New Orleans; 5-4 (ot); Tennesse; Metairie, LA
+8/17/1999; New Orleans; 5-4 (ot); Tennessee; Metairie, LA
 Alcero (Tadlock) 38, J.Russell (Alcero) 77, Hansen (Descombs) 86, Allen (Smotherman) 88, Descombs (Adjanohouh) 97; Cole (Potter) 9, Tomlinson 11, DeVall (Ziyenge) 75, Mittelstaedt 89
 New Orleans: Andrews (Hoogerwerf 29), Mikulski, C.Brown (Allen 61), Gaunt, J.Russell, Tadlock (Adjanohouh 76), Smotherman, Gaustaferro (Alcero 32), Veselka, Maxwell (Descombs 86), Hansen
 Tennessee: Germaine, Fisher, McNamee, Cohen (Howle 81), DeVall, McAlpine (Moss 66), Londono (Van Atta 76), Cole, Potter (Mittelstaedt 65), Ziyenge, Tomlinson
@@ -1761,7 +1775,7 @@ Red cards: Dal.Edwards 100; Weinstein 100
 Pittsburgh: Dedini, Bell, Terlecky, Tripoli, Bonseu, Ihekononye (Husbands 65), Butler, Kot (Jaworski 77), Eller (Vasic 68), Evans, Karn (Apple 72)
 Rochester: Onstad, Restrepo, Ti.Hardy, Schweitzer, Walton, Tanner (Daligcon 63), Young (Kirmse 55), Allnutt, Sedgewick, Biello, Tilley (D.Miller 70)
 
-8/20/1999; Raleigh; 0-1; Atlnta; Raleigh, NC; 1277
+8/20/1999; Raleigh; 0-1; Atlanta; Raleigh, NC; 1277
 ; Suarez (pk) 89
 Raleigh: Sommer, Whyte, Dan.Edwards, Pinon, DeSantis, Pao (Parry 76), Merkel, Nunley, Carithers, Watkins, Mekelburg (Knights 87)
 Atlanta: Oshoniyi, Crane (Samuels 80), Renfrum, Norcott, Silva, Valcourt, Raeburn (Suri 83), Castillo, Bednar, Suarez, Shishkov (Mohyeldin 57)
@@ -1779,7 +1793,7 @@ Cincinnati: Wanamaker, DiGuardi, Perzigian (Schaeffer 17), Haitonic, Yacks, Sche
 El Paso: Plummer, Juarez, McFarlane, O.Mercado, Sells, Orozco (E.Wilson 46), Galindo, Castro, Lomeli, Griego (Delgado 74), Mora
 
 8/20/1999; Boston; 6-0; Maryland; Framingham, MA; 811
-Lips (O.Simpson) 7, Poltl 8, Montes (D.Simpson) 12, Montes (John) 25, Poltl (Kerr) 44, Lujan (Vita) 90
+Lips (O.Simpson) 7, Poltl 8, Montes (D.Simpson) 12, Montes (John) 25, Poltl (Kerr) 44, Lujan (Vita) 90;
 Boston: Latronica (Fouts 46), Nicol (Coye 46), Lips, LaRochelle, Ceccarelli, John, Poltl, Kerr (Franklin 46), Vita, D.Simpson (Lujan 66), Montes (London 83)
 Maryland: Yetso, Kitson, Pusey, Knapman, Echeverry, Anderson, Newland, LeCrum, D.Phillips, Se.Phillips, Hunter
 
@@ -1883,11 +1897,11 @@ Staten Island: Zaratin, Namazi, da Silva, Mohammed, Titus, Villagra, Dugas (Cade
 
 8/25/1999; Vancouver; 8-0; Sacramento; Burnaby, BC; 4137
 Thompson (Valente) 3, Thompson (Berg) 23, Sulentic (Thompson) 25, Sebrango (Sulentic) 30, Jordan (Sebrango) 46, Thompson (Sulentic) 54, Sebrango (pk) 58, Thompson (Berg) 67;
-Vancouver: Shepherd, To.Hardy (Lyall 9), MacDonald, Fonseca (Franks 59), Hall, Skinner, Berg, Valente (Jordan 46) Sulentic (Morris 70) Thompson, Sebrango
+Vancouver: Shepherd, To.Hardy (Lyall 9), MacDonald, Fonseca (Franks 59), Hall, Skinner, Berg, Valente (Jordan 46), Sulentic (Morris 70) Thompson, Sebrango
 Sacramento: Landon, Edge, Maestretti (Galvan 61), Nelson, Bruckner (Fabian 46), Barbe, Cohmanschi, Perez, Willey, Farfan, K.Mercado
 
 8/27/1999; Jacksonville; 0-2; Hershey; Jacksonville, FL; 325
-J.Mitchell (Simmonds) 76, Simmonds (J.Mitchell) 89
+; J.Mitchell (Simmonds) 76, Simmonds (J.Mitchell) 89
 Jacksonville: Larusson, Simutowe, Schmidt, Tomaro, Bryan (Santora 75), Nickerson (Munoz 77), Care, Gonzalez, De Oliveira (Ledesma 53), Nunez, Cozier (Marsh 79)
 Hershey: Petronis, Penny, M.Williams, Leonard (Simmonds 67), Henning, J.Smith (Ford 48), Kopp (Goodlett 32), Mittendorf (Swords 79), Klein, DiFlorio, J.Mitchell
 * Red card: De Los Santos (bench) 79
@@ -1927,7 +1941,7 @@ Tennessee: Burke, Fisher, McNamee, Cohen, McAlpine (Barrett 59, Van Atta 79), De
 Minnesota: Swallen, Bankov, Coughlin, Gramenz, Sylvester, Gentile, Zeba, Nowak, Mladenov, Lagos, Magee (M.Saunders 82)
 
 8/27/1999; Seattle; 2-0; Milwaukee; Renton, WA; 2749
-I.Russell (Baena) 22, Own goal (Lopez) 80
+I.Russell (Baena) 22, Own goal (Lopez) 80;
 Seattle: May, Barton, Annicchero, Waibel, Heald, Gaw (Robertson 75), S.Henderson, Nguyen (Jenkins 75), I.Russell, Nouri (Mann 78), Baena
 Milwaukee: Burdge, Lopez, Ackah, Timbers, Iribarren, S.Provan (Storm 69), Marquinhos (Dalombo 69), Szczepanski, Stebbins, D.Marshall, Haynes
 
@@ -2005,8 +2019,8 @@ Red cards: ; Ti.Hardy 57, Schweitzer 75, Restrepo 85
 *Att.: 1,356. (Note: the 8/29/1999; match between Hershey and Charleston was postponed due to Hurricane Dennis and has been rescheduled for Sept. 6.)
 
 
-9/1-9/6
-http://www.socceramerica.com/article/8195/a-league-standings-and-game-summaries-through-se.html
+*9/1-9/6
+*http://www.socceramerica.com/article/8195/a-league-standings-and-game-summaries-through-se.html
 
 *Advanced to playoffs. (Note: 4 points are awarded for a win in regulation or overtime, 2 points for a shootout win, 1 point for a shootout loss, and a bonus point is awarded for scoring three or more goals in a game.) RESULTS 
 
@@ -2058,7 +2072,7 @@ Raleigh: Morton, Warham, Pinon, Parry, Mekelburg (Nunley 67), Pao (Danielson 86)
 Charleston: Hudock, Sewell, Spooner, Jean-Baptiste, J.Wilson, T.Miller, Limniatis, Rodriguez (R.Miller 62), Thelen (Krakowiak 55), Burke (Brownell 81), Conway
 
 9/4/1999; Maryland; 0-5; Hampton Roads; Arnold, MD; 153
-Donnelly (Busch) 19, Donnelly (pk) 32, Hooper (Scrofani) 49, Owens 66, Valencia (Owens) 81
+; Donnelly (Busch) 19, Donnelly (pk) 32, Hooper (Scrofani) 49, Owens 66, Valencia (Owens) 81
 Maryland: Hunter, S.Phillips (Darcy 46), Vega, Echeverry, LeCrum, Simmons, Love, Knapman, D.Phillips (Robinson 56), Armas, Anderson
 Hampton Roads: Busch (Tucker 67), Branigan (Bailey 54), Fletcher, Hooper (Owens 56), Donnelly (Carver 62), Siikala, Dominguez (C.Williams 74), Kraemer, Maier, Scrofani, Valencia
 
@@ -2179,7 +2193,7 @@ Red card: ; Zeba 14.
 Source: http://www.socceramerica.com/article/7984/a-league-playoffs-results-oct-3-11.html
 
 10/9/1999; Rochester; 1-0; Hershey; Rochester, NY; 9024
-D.Miller (Kirmse) 80
+D.Miller (Kirmse) 80;
 Rochester: Andracki, Restrepo, Walton, Daligcon, Tanner (Tim Hardy 60), Allnutt, Sedgewick, Kirmse (Young 87), D.Miller, Tilley, Zavala
 Hershey: Petras, Goodlett, Feniger (J.Smith 60), M.Williams, Henning, J.Mitchell, Kopp (Mittendorf 87), Simmonds, Klein, Swords (Ford 83), DiFlorio (Leonard 70)
 Red card: ; Ford 89
