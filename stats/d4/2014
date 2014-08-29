@@ -1,0 +1,2119 @@
+Competition: USL Premier Developmental League
+Season: 2014
+Key: number; position; name; games_played; points; minutes; goals; assists; shots; fouls; nothing
+
+
+Team: Chicago Fire
+BlockSource: http://www.uslpdl.com/teams/2014/22315.html#STATS
+
+5; D; Albrecht, Mitch; 3; -; 83; -; -; -; -; ; 
+56; M; Bennett, Louis; 2; -; 139; -; -; -; -; ; 
+7; M; Borge, Elliot; 12; -; 458; -; -; 6; 3; ; 
+19; F; Brindle, Jacob; 3; -; 60; -; -; -; -; ; 
+8; D; Caban, David; 14; 4; 1136; 2; -; 5; -; ; 
+55; F; Calistri, Joey; 7; 9; 517; 3; 3; 6; 1; ; 
+14; M; Conner, Andrew; 13; 2; 1128; 1; -; 1; 8; ; 
+6; M; Cortez, Felipe; 7; -; 151; -; -; -; 1; ; 
+35; F; Doody, Patrick; 4; 2; 360; -; 2; -; -; ; 
+18; F; Engel, Tyler; 12; 11; 738; 4; 3; 7; 10; ; 
+17; F; Epps, Roderick; 8; 3; 513; 1; 1; 7; 2; ; 
+4; M; Fawke, James; 13; -; 1062; -; -; 1; 6; ; 
+9; D; Haberkorn, Trevor; 6; -; 540; -; -; 1; 4; ; 
+16; F; Jones, Nick; 9; 5; 507; 2; 1; 5; 5; ; 
+3; M; Keller, Daniel; 12; -; 1065; -; -; 1; 5; ; 
+11; D; Kozielek, Michael; 12; 2; 707; 1; -; 2; 2; ; 
+93; GK; Lyon, Charlie; 8; -; 720; -; -; -; -; ; 
+37; M; Masri, Layth; 5; -; 198; -; -; 2; 1; ; 
+13; M; Medina, Luis; 1; -; 33; -; -; 1; -; ; 
+1; GK; Miller, Tyler; 4; -; 360; -; -; -; -; ; 
+33; F; Montague, Adam; 6; -; 219; -; -; 1; -; ; 
+15; M; Ogbonna, Chisom; 8; 5; 424; 2; 1; 6; 2; ; 
+44; M; Oliver, Charlie; 8; 2; 350; 1; -; 2; -; ; 
+2; D; Polster, Matthew; 3; -; 236; -; -; -; -; ; 
+31; D; Pothast, John; 6; 2; 411; 1; -; 1; 3; ; 
+93; GK; Putna, Andrew; 1; -; 90; -; -; -; -; ; 
+12; M; Root, Charles; 13; 6; 734; 3; -; 5; 6; ; 
+82; D; Salmeron, Joel; 2; -; 38; -; -; 2; -; ; 
+14; D; Schnitman, Nathaniel; 2; -; 58; -; -; -; -; ; 
+80; F; Selvaggi, David; 5; -; 81; -; -; 1; 2; ; 
+79; D; Taylor, Jake; 5; 1; 352; -; 1; 1; -; ; 
+10; F; Vitalis, Will; 2; -; 119; -; -; -; -; ; 
+44; M; Wahl, Brady; 2; -; 62; -; -; -; -; ; 
+5; D; Witkowski, Cody; 2; -; 112; -; -; -; 1; ; 
+
+
+Team: Forest City London
+BlockSource: http://www.uslpdl.com/scripts/runisa.dll?M2:gp::72014+L2/+E+108+745690
+
+21; F; Becker, Yannis; 14; 27; 1217; 10; 7; 21; 15; ; 
+12; F; Bujouves, Anastasios; 6; -; 47; -; -; 2; 1; ; 
+20; D; De Carolis, Alexander; 10; -; 720; -; -; 5; 6; ; 
+11; M; Deakin, Kevin; 11; 2; 966; 2; 1; 19; 7; ; 
+9; M; Dell, James; 8; 2; 294; 1; 1; 3; 2; ; 
+17; D; Duncan, Quinton; 11; -; 517; -; -; 1; 2; ; 
+1; GK; Haynes, Mark; 11; -; 990; -; -; -; 1; ; 
+24; D; Hemming, Tyler; 11; 3; 820; 1; 1; 7; 8; ; 
+3; M; Hughes, Joshua; 10; 3; 769; 1; 1; 9; 10; ; 
+7; D; Johnson, Beau; 7; -; 291; -; -; -; 3; ; 
+15; M; Jones, Eddie; 13; 7; 1003; 2; 3; 32; 21; ; 
+6; M; Koerperich, Thilo; 10; 1; 391; -; 1; -; 2; ; 
+5; F; Lewis, Alex; 2; -; 54; -; -; -; -; ; 
+22; D; Marcoccia, Michael; 7; 2; 188; 1; -; 3; 1; ; 
+18; M; McFall, Connor; -; -; -; -; -; -; -; ; 
+26; GK; McMurray, Aaron; 2; -; 180; -; -; -; -; ; 
+29; D; Norest, Aurelien; 13; 2; 1170; 1; -; 4; 11; ; 
+12; M; Orritt, Sam; 13; 2; 989; 1; -; 25; 11; ; 
+10; F; Pucci, James; 13; 23; 1042; 10; 3; 46; 11; ; 
+7; M; Rajkovic, Sandro; 10; 3; 788; 1; 1; 6; 13; ; 
+23; D; Savory, Daniel; 2; -; 103; -; -; 2; 1; ; 
+6; D; Schneebeli, Aaron; 5; 1; 174; -; 1; -; 4; ; 
+28; GK; Shewfelt, Scott; 1; -; 90; -; -; -; -; ; 
+27; M; Spearman, Denver; 12; 1; 746; -; 1; 5; 13; ; 
+8; M; Whitcomb, Benjamin; 2; -; 130; -; -; 4; 2; ; 
+
+
+Team: K-W United
+BlockSource: http://www.uslpdl.com/teams/2014/33862327.html#STATS
+
+24; M; Addai, Jeffrey; 11; 2; 479; 1; -; 7; 5; 
+26; F; Bateman, Paris; 10; 4; 657; 2; -; 10; 6; 
+5; D; Bradshaw, Adam; 3; -; 96; -; -; -; -; 
+22; F; Cain, Wesley; 12; 3; 391; 1; 1; 4; 4; 
+9; D; Camargo, Sergio; 9; 8; 438; 4; -; 12; 7; 
+10; M; Chapman, Jay; 11; 9; 824; 3; 3; 20; 24; 
+6; M; Garbanzo, Ricardo; 12; 4; 591; 1; 2; 18; 11; 
+1; GK; Ingham, Nathan; 7; -; 630; -; -; -; -; 
+18; D; Keely, Shane; 9; -; 521; -; -; 7; 4; 
+13; GK; MacLeod, Darrin; 7; -; 583; -; -; 1; 1; 
+12; D; Murrell, Jordan; 6; 3; 540; 1; 1; 3; 9; 
+16; F; Musambi, Dave; 2; -; 44; -; -; 2; 3; 
+15; D; Nikola, Paunic; 8; -; 657; -; -; 5; 4; 
+21; D; Ononye, Emeka; 14; -; 1260; -; -; 3; 7; 
+11; D; Perea, Nicolas; 9; 1; 708; -; 1; 8; 3; 
+19; D; Robinson, Ridge; 12; 2; 1035; 1; -; 3; 10; 
+2; D; Rose, Deon; 2; -; 360; -; -; 1; 5; 
+4; D; Sargeant, Alain; 8; -; 565; -; -; 4; 5; 
+7; F; Tyler, Jordan; 13; -; 614; -; -; 6; 3; 
+17; F; Vukovic, Stefan; 10; 18; 532; 7; 4; 13; 4; 
+8; M; Warburton, Jack; 13; -; 1083; -; -; 10; 10; 
+20; M; Ware, Ryan; 8; -; 209; -; -; -; -; 
+14; F; Whiteman-Asiamah, Jarek; 14; 12; 968; 5; 2; 30; 13; 
+25; F; Woodfull, Brendan; 3; -; 28; -; -; -; 1; 
+
+
+; Team: Michigan Bucks
+; http://www.uslpdl.com/teams/2014/22344.html#STATS
+
+27; M; Adkins, Jeffrey; 6; 3; 96; 1; 1; 4; 2
+16; F; Ben, Gerald; 13; 7; 564; 1; 5; 10; 2
+30; GK; Bennett, Zachary; 1; -; 90; -; -; -; -
+4; M; Beresford, Brandon; 11; 2; 543; -; 2; 9; 7
+23; D; Carroll, Zach; 10; 2; 794; 1; -; 3; 5
+9; F; Catic, Dzenan; 14; 35; 1104; 16; 3; 42; 19
+8; F; Ebangwese, Ngwese; 2; 2; 48; 1; -; 1; -
+8; D; Foreman, Brett; 2; -; 90; -; -; -; -
+13; D; Givens, Stewart; 3; -; 142; -; -; -; 1
+21; F; Goldsmith, David; 14; 11; 756; 4; 3; 28; 10
+1; GK; Grinwis, Adam; 10; -; 900; -; -; -; -
+15; D; Kaba, Mahamoudou; 7; 1; 490; -; 1; 6; 2
+3; D; Keener, Ryan; 3; -; 199; -; -; -; -
+14; M; Kolarac, Nicholas; 13; 5; 914; 1; 3; 18; 8
+18; M; Murphy, James; 3; 2; 127; 1; -; 3; 1
+7; D; Ogilvie, Gary; 7; 3; 325; 1; 1; 3; 7
+6; M; Owens, Thomas; 12; -; 846; -; -; 14; 7
+5; D; Postlewait, Caleb; 9; -; 649; -; -; 1; 7
+30; GK; Richardson, Reece; 3; -; 270; -; -; -; -
+22; M; Roberts, William; 4; 4; 106; 1; 2; 2; 1
+12; D; Ruhaak, Bradley; 10; -; 892; -; -; 2; 10
+5; D; Selemani, Ahinga; 1; -; 9; -; -; -; 2
+19; M; Sica, Tanner; 8; 2; 169; -; 2; 6; 1
+25; M; Steinberger, Zach; 12; 11; 957; 5; 1; 18; 9
+11; M; Tribbett, Ken; 13; 3; 977; 1; 1; 8; 6
+26; M; Ugarte, Marcos; 1; -; 45; -; -; -; -
+20; M; Vanino, Bradley; 10; 8; 330; 3; 2; 11; 7
+7; M; Wysong, Nick; 6; 2; 418; 1; -; 5; 1
+2; D; de Vries, Francis; 12; 2; 1030; -; 2; 3; 4
+
+
+Team: Pittsburgh Riverhounds U23
+http://www.uslpdl.com/teams/2014/66637160.html#MAIN
+
+33; M; Campos, Luca; 10; -; 557; -; -; 5; 2; ; 
+34; M; Canello, Dominic; 2; -; 18; -; -; -; -; ; 
+35; M; Charron, Romeo; 3; -; 184; -; -; 1; 1; ; 
+31; GK; Civitarese, Albert; 3; -; 225; -; -; -; -; ; 
+36; M; Cullen, Bruce; 13; 6; 752; 3; -; 14; 18; ; 
+38; D; Fatschel, Andreas; 5; -; 304; -; -; -; -; ; 
+39; M; Flick, Max; 2; -; 32; -; -; 1; 1; ; 
+40; M; Gray, Joshua; 14; 4; 1099; 1; 2; 17; 9; ; 
+41; M; Hemphill, Trey; 1; -; 7; -; -; -; -; ; 
+34; D; Henry, Francio; 5; -; 428; -; -; 1; 5; ; 
+42; M; Heuler, Robert; 12; -; 789; -; -; 3; 5; ; 
+24; GK; Hulings, Ryan; 10; -; 764; -; -; -; 2; ; 
+43; F; James, Arkangelo; 6; 6; 435; 2; 2; 11; 7; ; 
+55; M; Joe, Deron; 2; -; 117; -; -; -; 3; ; 
+44; M; Klingenberg, Drew; 2; -; 58; -; -; -; -; ; 
+; M; Kyei, Jeffrey; 4; -; 278; -; -; 1; 6; ; 
+32; GK; Lynd, Daniel; 3; -; 226; -; -; -; -; ; 
+44; F; Merriam, James; 5; 2; 447; 1; -; 7; 4; ; 
+49; M; Munn, Steven; 4; -; 61; -; -; 1; 1; ; 
+50; M; Myers, Ryan; 8; -; 119; -; -; 2; 6; ; 
+; D; Newcomer, Nicholas; 2; -; 165; -; -; -; 2; ; 
+51; F; Pantophlet, Geordhy; 10; 7; 669; 3; 1; 12; 9; ; 
+53; D; Phillips, Colin; 14; 2; 1190; 1; -; 11; 7; ; 
+54; M; Reid, Carl; 6; -; 316; -; -; 4; 3; ; 
+45; M; Rudy, Tyler; 6; 1; 720; -; 1; 11; 12; ; 
+56; D; Scheidemantel, Andrew; 8; -; 381; -; -; -; -; ; 
+57; D; Seidu, Nigel; 4; -; 360; -; -; -; 2; ; 
+59; F; Taylor, William; 11; 2; 497; 1; -; 4; 7; ; 
+60; D; Turnley, Joshua; 13; -; 1170; -; -; 2; 8; ; 
+58; F; Velazquez, Anthony; 3; -; 50; -; -; 1; 1; ; 
+61; F; Virgara, Anthony; 11; 2; 840; 1; -; 2; 9; ; 
+62; M; Williams, Devon; 9; -; 511; -; -; 4; 1; ; 
+
+
+Team: Toronto Lynx
+http://www.uslpdl.com/teams/2014/22392.html#STATS
+
+3; D; Brennan, Francis; 8; -; 700; -; -; -; 8; ; 
+4; M; Collins, Liam; 14; 4; 1203; 2; -; 8; 12; ; 
+5; D; Crawford, Eric; 4; -; 315; -; -; -; 1; ; 
+21; M; Derayeh, Andrew; 1; -; 7; -; -; -; -; ; 
+15; M; Doran, Anthony; 6; -; 272; -; -; 4; -; ; 
+20; M; Ellis, Khody; 9; -; 377; -; -; 3; 4; ; 
+19; M; Giffin, Gary; 11; -; 246; -; -; 2; 3; ; 
+25; M; Gordon, Justin; 10; 2; 468; -; 2; 4; 6; ; 
+8; M; Grocott, William; 14; 2; 1127; -; 2; 10; 18; ; 
+11; D; Henderson, Jamie; 13; 2; 991; 1; -; 6; 6; ; 
+1; GK; Henry, Triston; 3; -; 270; -; -; -; -; ; 
+6; D; Home, Callum; 14; 4; 1260; 2; -; 5; 11; ; 
+21; M; Hutchinson, Grant; 8; -; 387; -; -; 4; 3; ; 
+22; D; Keith, Grant; 4; -; 122; -; -; -; 1; ; 
+13; F; McCoubrey, Scott; 8; 5; 504; 2; 1; 12; 4; ; 
+14; D; McNamara, Mikael; 14; -; 1127; -; -; 6; 18; ; 
+23; F; Novak, Anthony; 12; 3; 612; 1; 1; 10; 7; ; 
+17; M; Risto, Lukas; 6; -; 289; -; -; 1; 4; ; 
+1; GK; Silva, Matthew; 11; -; 988; -; -; -; -; ; 
+16; D; Smith, Terence; 4; -; 71; -; -; -; -; ; 
+9; F; Veidman, Leigh; 14; 10; 1179; 5; -; 32; 22; ; 
+7; F; Wilde, Mackenzie; 9; -; 178; -; -; 2; 3; ; 
+2; D; Wynter, Tevin; 11; -; 904; -; -; 7; 15; ; 
+
+
+
+Team: Chicago Inferno
+http://www.uslpdl.com/teams/2014/42834719.html#STATS
+
+21; M; Aiello, Fabio; 4; -; 290; -; -; 4; 2; ; 
+8; M; Alvarez, Noel; 4; -; 360; -; -; 9; 2; ; 
+7; M; Baptista, Jacob; 1; -; 23; -; -; -; -; ; 
+5; D; Berruezo, Eduardo; 3; -; 58; -; -; -; -; ; 
+8; D; Carvalho, Ricardo; 4; -; 360; -; -; 5; 8; ; 
+3; F; Gurson, Gordon; 2; -; 156; -; -; 5; 5; ; 
+24; M; Kankam, Frederick; 1; -; 27; -; -; -; 2; ; 
+12; F; Kennedy, George; 1; -; 81; -; -; 1; -; ; 
+45; M; Lange, Martin; 4; -; 276; -; -; 3; 2; ; 
+4; D; Maiorano, Aldo; 4; -; 329; -; -; 3; 7; ; 
+20; F; Maiorano, Michael; 4; -; 73; -; -; -; 2; ; 
+14; D; McGivern, Declan; 3; -; 270; -; -; 2; 3; ; 
+13; F; Montague, Adam; 1; -; 40; -; -; 1; -; ; 
+19; GK; Petricek, Brett; 2; -; 180; -; -; -; -; ; 
+2; D; Pineda, Sebastian; 4; 2; 326; 1; -; 2; 1; ; 
+16; D; Pothast, John; 4; -; 360; -; -; 2; 4; ; 
+34; M; Raine, Jake; 1; -; 3; -; -; -; -; ; 
+1; GK; Richardson, Reece; 2; -; 180; -; -; -; -; ; 
+11; M; Schillinger, Donald; 1; -; 67; -; -; 1; 1; ; 
+23; M; Sodal, Ali; 1; -; 90; -; -; 2; 1; ; 
+22; M; Trombini Filho, Carlos; 2; -; 99; -; -; 2; 1; ; 
+18; M; Wilks, Ben; 4; -; 277; -; -; 4; 1; ; 
+6; M; Williams, Kiel; 2; -; 27; -; -; -; -; ; 
+15; F; Zeman, Czar; 1; -; 31; -; -; -; -; ; 
+
+
+Team: Des Moines Menace
+http://www.uslpdl.com/teams/2014/22322.html#STATS
+
+; ; Baker, Stephen; 1; -; 5; -; -; 1; -; ; 
+19; D; Bales, Charles; 13; -; 1088; -; -; 6; 8; ; 
+25; M; Ballard, Richard; 10; 3; 412; 1; 1; 8; 3; ; 
+13; D; Bartlett, Alec; 12; 2; 1080; 1; -; 5; 10; ; 
+23; D; Becker, Jordan; 2; 1; 145; -; 1; -; -; ; 
+24; D; Bell, Grant; 12; 3; 792; 1; 1; 7; 14; ; 
+0; GK; Blanchette, Paul; 7; -; 630; -; -; -; -; ; 
+10; F; Dong, Hyun; 13; 5; 864; 1; 3; 27; 6; ; 
+8; D; Fricke, Brandon; 12; 2; 1061; 1; -; 2; 5; ; 
+2; M; Goshit, Muenghenshime; 8; 6; 663; 3; -; 9; 6; ; 
+26; F; Hellmann, Christopher; 12; 25; 918; 9; 7; 36; 14; ; 
+17; M; Hoek, Sean; 11; 6; 445; 3; -; 8; 11; ; 
+18; D; Howe, Ryan; 12; -; 422; -; -; 2; 8; ; 
+5; M; Jeffries, Anthony; 9; 2; 226; 1; -; 1; -; ; 
+13; F; Krautheim, Tim; 5; -; 67; -; -; 2; -; ; 
+6; D; Kubik, Lubos; 1; -; 1; -; -; -; -; ; 
+16; M; Lax, Dylan; 12; -; 705; -; -; 3; 12; ; 
+3; D; Lopez Mochon, Javier; 10; 6; 462; 3; -; 9; 8; ; 
+11; M; Lujano, John; 9; -; 612; -; -; 5; 8; ; 
+7; M; Lundy, Ralph; 10; 9; 654; 3; 3; 20; 3; ; 
+; ; Macadam, Jonathan; 3; 3; 136; 1; 1; 4; -; ; 
+22; M; Machado, Fernando; 7; -; 451; -; -; 3; 6; ; 
+; GK; Marscheider, Erich; 1; -; 90; -; -; -; -; ; 
+14; F; McIvor, Keane; 1; -; 46; -; -; 1; 1; ; 
+1; GK; Meves, David; 6; -; 540; -; -; -; -; ; 
+; D; Nembhard, Deshawon; 3; -; 270; -; -; 2; 6; ; 
+12; F; Semenza, Michael; 8; 4; 206; 2; -; 12; 2; ; 
+; ; Sodal, Ali; 1; -; 55; -; -; 3; 1; ; 
+12; F; Wright, Nico; 10; 7; 823; 2; 3; 21; 15; ; 
+
+
+
+Team: Springfield Demize
+http://www.uslpdl.com/teams/2014/6188458.html#STATS
+
+15; M; Alvarez, Noel; 2; -; 50; -; -; -; 2; ; 
+13; D; Best, Jordy; 7; 2; 326; 1; -; 1; 1; ; 
+4; M; Cairns, Rhys; 9; -; 609; -; -; 1; 14; ; 
+11; F; Christianson, Garet; 7; 2; 431; 1; -; 6; 2; ; 
+18; M; Ellis, Lewis; 9; -; 413; -; -; 5; 10; ; 
+5; D; Fitzgerald, Samuel; 9; -; 626; -; -; 3; 3; ; 
+8; M; Gabe, Christianson; 5; -; 271; -; -; -; 8; ; 
+19; M; Griffin, Jack; 9; 2; 759; 1; -; 11; 10; ; 
+3; D; Griffiths, Ben; 11; -; 806; -; -; 8; 5; ; 
+14; M; Keen, Thomas; 5; -; 102; -; -; -; 4; ; 
+7; M; Manzonelli, Brandon; 11; 1; 663; -; 1; 10; 16; ; 
+22; D; Miller, Nicholas; 11; -; 932; -; -; -; 9; ; 
+23; F; Morales, Eduardo; 5; -; 132; -; -; 1; 1; ; 
+16; M; Moses, Dallas; 3; -; 42; -; -; -; -; ; 
+6; M; Newport, Devon; 11; 4; 880; 1; 2; 9; 9; ; 
+0; GK; Nomura, Yuta; 10; -; 900; -; -; -; -; ; 
+4; ; Paul, Robert; 1; -; 90; -; -; -; -; ; 
+; M; Perez, Jesus; 1; -; 2; -; -; -; -; ; 
+6; M; Routledge, James; 4; -; 245; -; -; 2; 1; ; 
+25; M; Salas, Julian; 6; -; 305; -; -; 9; 4; ; 
+17; D; Scheipeter, Paul; 9; -; 472; -; -; 6; 3; ; 
+15; M; Smit, Maarten; 3; -; 56; -; -; 1; 2; ; 
+24; M; Stegman, Marco; 8; -; 298; -; -; 3; 7; ; 
+19; F; Thomas, James; 4; 4; 284; 2; -; 6; 1; ; 
+16; D; Turner, Andrew; 8; -; 664; -; -; 3; 7; ; 
+16; D; Van Berkom, Philip; 3; -; 191; -; -; -; 2; ; 
+25; ; Van Nieuwkerk, Nick; 1; -; 7; -; -; -; -; ; 
+0; GK; Wright, Kevin; 2; -; 180; -; -; -; -; ; 
+21; F; de Hoog, Jeremy; 4; -; 187; -; -; 4; 1; ; 
+
+
+
+Team: St. Louis Lions
+http://www.uslpdl.com/teams/2014/4069049.html#STATS
+
+29; F; Beasley, Ryan; 6; -; 142; -; -; 2; 2; ; 
+v; D; Bond, Jacob; 13; -; 933; -; -; 3; 8; ; 
+11; F; Brown, Jonathan; 10; 1; 805; -; 1; 9; 12; ; 
+3; D; Cassidy, Dylan; 9; -; 854; -; -; 1; 10; ; 
+6; M; Cawsey, Jacob; 13; 4; 1021; 1; 2; 6; 19; ; 
+9; F; Chvojan, Jan; 3; -; 207; -; -; 3; 4; ; 
+3; D; Clarke, Alexander; 6; -; 237; -; -; 1; 4; ; 
+8; F; Cojocov, Vadim; 14; 7; 967; 3; 1; 32; 25; ; 
+16; D; Edemba, Ifeanyi; 5; -; 381; -; -; 3; 4; ; 
+10; M; Grant, Garbhan; 5; 4; 225; 2; -; 7; 1; ; 
+30; GK; Hamerlinck, Andrew; 3; -; 270; -; -; -; -; ; 
+14; D; Jones, Blake; 14; 5; 1182; 2; 1; 1; 14; ; 
+7; M; Jones, Andrew; 1; -; 90; -; -; 1; 3; ; 
+2; D; Kranz, Greg; 6; -; 197; -; -; 1; 5; ; 
+12; M; LaMont, Scott; 4; 2; 47; 1; -; 2; -; ; 
+15; D; Matthews, Chris; 9; -; 298; -; -; -; 1; ; 
+12; D; Maw, Jai; 10; 2; 628; 1; -; 8; 7; ; 
+26; M; McAnany, Stephen; 12; -; 789; -; -; 3; 5; ; 
+1; GK; McTurk, Iain; 11; -; 990; -; -; -; -; ; 
+21; F; Pryor, Carson; 13; 10; 828; 4; 2; 24; 12; ; 
+10; F; Roberts, Jordan; 14; 12; 1115; 4; 4; 31; 8; ; 
+7; M; Smith, Steven; 2; -; 46; -; -; -; 1; ; 
+5; D; Sowerby, Mitchell; 2; -; 173; -; -; -; -; ; 
+25; M; Walsh, Zachary; 10; -; 478; -; -; 6; 8; ; 
+18; D; Ward, Joshua; 1; -; 39; -; -; -; -; ; 
+5; D; Woolmore, Lee; 11; 2; 739; 1; -; 6; 15; ; 
+13; D; Zvosec, Devin; 4; -; 124; -; -; -; 1; ; 
+
+
+
+Team: Thunder Bay Chill
+http://www.uslpdl.com/teams/2014/22389.html#STATS
+
+1; GK; Alvarado, Daniel; 11; -; 976; -; -; -; 1; ; 
+9; F; Argos Ocerin, Ivan; 10; 13; 770; 6; 1; 22; 5; ; 
+8; F; Cote-Kougnima, Simon-Pierre; 10; 5; 617; 2; 1; 14; 12; ; 
+4; D; Crace, Adrian; 7; 1; 442; -; 1; 1; 4; ; 
+2; D; Dillon, Paul; 14; 1; 1260; -; 1; 5; 3; ; 
+20; M; Garcia Casabella, Roberto; 11; 1; 740; -; 1; 1; 17; ; 
+14; M; Hoy, Gavin; 12; 2; 558; 1; -; 12; 5; ; 
+10; F; Huvos, Vitor; 11; 5; 830; 2; 1; 32; 10; ; 
+18; D; Intermoia, Nolan; 14; 9; 1260; 4; 1; 17; 9; ; 
+21; D; Moe, Conner; 10; -; 588; -; -; 3; 6; ; 
+7; F; Oliveira Silva, Sullivan; 3; -; 132; -; -; 4; 2; ; 
+23; F; Poncet, Jeremy; 8; 1; 303; -; 1; 4; 4; ; 
+3; M; Roberts, Dominic; 14; 5; 1048; 1; 3; 22; 28; ; 
+24; D; Robertson, Zetroy; 14; -; 1236; -; -; 3; 8; ; 
+6; M; Rodriguez, Declan; 14; 8; 1213; 4; -; 16; 22; ; 
+11; M; Rodriguez Prat, Arturo; 12; 2; 404; 1; -; 3; 12; ; 
+12; GK; Thorn, Mitchell; 5; -; 287; -; -; -; -; ; 
+5; D; Van Doten, Stuart; 14; 3; 1125; -; 3; 4; 15; ; 
+19; D; Zanette, Kristian; 6; -; 77; -; -; -; 3; ; 
+
+
+
+Team: WSA Winnipeg
+http://www.uslpdl.com/teams/2014/33862333.html#STATS
+
+9; F; Badescu, Aaron; 4; -; 101; -; -; 3; 3; ; 
+12; M; Borka, Ivan; 12; 2; 661; 1; -; 5; 11; ; 
+32; M; Budhoo, Caelan; 14; 2; 855; 1; -; 9; 8; ; 
+11; F; Danto, Moses; 11; 10; 913; 5; -; 27; 21; ; 
+3; M; Del Grosso, Paulo; 14; 4; 830; 1; 2; 11; 12; ; 
+2; GK; Del Grosso, Lucas; 5; -; 450; -; -; -; -; ; 
+16; D; Garcea, Enrique; 11; 1; 778; -; 1; 3; 6; ; 
+5; D; Hidalgo-Mazzei, Braeden; 10; -; 869; -; -; -; 7; ; 
+13; M; Hidalgo-Mazzei, Aaron; 14; 3; 729; 1; 1; 8; 7; ; 
+6; M; Hiebert, Kyle; 14; 1; 1032; -; 1; 7; 9; ; 
+41; M; Iida, Jiyu; 11; 1; 620; -; 1; -; 16; ; 
+8; D; Mustapha, Hamza; 13; -; 1061; -; -; -; 12; ; 
+1; GK; Partaker, Josh; 9; -; 810; -; -; -; -; ; 
+27; M; Ramjiawan, Ryan; 4; 2; 237; 1; -; 5; 6; ; 
+23; M; Sangha, Jashandeep; 10; 1; 646; -; 1; 2; 11; ; 
+4; M; Silva, Braden; 9; 2; 452; 1; -; 1; 9; ; 
+71; D; Smith, Eric; 9; -; 241; -; -; -; 3; ; 
+17; D; Smith, Jordan; 13; -; 1100; -; -; 3; 22; ; 
+14; M; Szulc, Krzysztof; 12; -; 938; -; -; 6; 22; ; 
+20; F; Thompson, Matthew; 11; -; 369; -; -; 4; 4; ; 
+
+
+
+Team: Baltimore Bohemians
+http://www.uslpdl.com/teams/2014/42834749.html#STATS
+
+11; F; Allen, Brandon; 2; 2; 180; 1; -; 10; 1; 
+1; GK; Back, Tyler; 2; -; 180; -; -; -; -; 
+17; F; Banjo, Olakunle; 1; 2; 90; 1; -; 3; -; 
+22; D; Bender, Jacob; 2; -; 117; -; -; 2; 1; 
+33; M; Burrell, Justin; 4; -; 76; -; -; 1; 3; 
+21; D; DeGraffenreidt, Jeremy; 6; -; 438; -; -; 4; 5; 
+6; M; Eskay, Jackson; 1; -; 134; -; -; 3; 3; 
+5; D; Fernandez, Marquez; 11; 4; 951; 1; 2; 9; 7; 
+19; M; Graham, Brian; 10; 1; 432; -; 1; 7; 5; 
+20; D; Greatwich, Philip; 10; -; 873; -; -; 1; 6; 
+30; GK; Harris, Andrew; 10; -; 810; -; -; -; -; 
+27; M; Harris, Malcolm; 13; 3; 957; 1; 1; 10; 13; 
+16; M; Heinrich, Ian; 8; -; 528; -; -; 2; 5; 
+9; M; Ho, Stephen; 5; -; 231; -; -; -; 1; 
+26; M; Jlopleh, John; 2; -; 88; -; -; -; -; 
+21; M; Kansaye, Mamadou; 9; 2; 551; 1; -; 4; 4; 
+15; M; Marshall, Dominic; 3; -; 206; -; -; 4; 7; 
+6; M; Martz, Austin; 12; 14; 1075; 5; 4; 36; 9; 
+20; D; Nelson, Jacob; 2; -; 93; -; -; -; 1; 
+13; M; Neuberth, David; 3; -; 119; -; -; 1; 1; 
+14; F; Onwuka, Kingsley; 13; 16; 870; 7; 2; 18; 14; 
+31; F; Osifeso, Babatunji; 2; -; 14; -; -; 1; -; 
+0; M; Ossie, Jake; 1; -; 90; -; -; -; -; 
+14; F; Panian, Chris; 11; 2; 365; 1; -; 7; 2; 
+13; M; Quaranta, Thomas; 2; 3; 180; 1; 1; 5; 4; 
+2; D; Seiler, Cole; 8; -; 720; -; -; 2; 5; 
+34; GK; Sheerin, Daniel; 1; -; 90; -; -; -; -; 
+2; D; Shinsky, Matt; 3; -; 141; -; -; -; 3; 
+29; M; Snoh, Melvin; 8; 3; 531; 1; 1; 7; 3; 
+24; M; Thompson, Connor; 10; 4; 794; 2; -; 20; 11; 
+3; D; Tuck, Ryan; 12; -; 999; -; -; -; 12; 
+30; M; Witkoff, David; 8; 1; 475; -; 1; 4; 10; 
+; ; Yaro, Joshua; 2; -; 180; -; -; 1; 2; 
+
+
+Team: FA Euro
+http://www.uslpdl.com/teams/2014/58152751.html#STATS
+
+18; M; Amvrosiatos, Dennis; 3; -; 29; -; -; -; -; ; 
+14; D; Balsamo, Marco; 6; -; 387; -; -; -; 3; ; 
+3; D; Billington, Alexander; 3; -; 265; -; -; 1; 5; ; 
+5; D; Brnada, Bernard; 4; -; 280; -; -; -; 1; ; 
+12; F; Crossman, Carvel; 2; -; 163; -; -; -; -; ; 
+13; F; Duratovic, Dino; 3; -; 54; -; -; -; -; ; 
+3; D; Falanga, Dominick; 4; -; 278; -; -; -; 1; ; 
+12; M; Fisher, Tyler; 7; -; 590; -; -; 15; 5; ; 
+4; M; Gargurevich, Dusan; 5; -; 297; -; -; 2; 2; ; 
+18; M; Goktekin, Ugur; 2; -; 107; -; -; -; -; ; 
+30; M; Goldberg, Brian; 3; -; 114; -; -; -; -; ; 
+1; GK; Hernandez, Fabio; 6; -; 540; -; -; -; 2; ; 
+8; M; Huerfano, Andres; 7; -; 585; -; -; 1; 6; ; 
+14; F; Janneh, Alagie; 7; 6; 603; 3; -; 13; 5; ; 
+5; D; Jean-Baptiste, Matthieu; 7; -; 522; -; -; 1; 6; ; 
+7; M; Konbloa, Ibrahim; 4; -; 294; -; -; 2; 2; ; 
+17; F; Lampkin, Jason; 10; 6; 862; 3; -; 16; 3; ; 
+6; D; Laveglia, Massimo; 5; -; 420; -; -; -; 4; ; 
+10; M; Love, Jacob; 9; 3; 637; 1; 1; 7; 9; ; 
+20; D; Mansah, Omar; 3; 1; 77; -; 1; 1; 2; ; 
+2; D; Marcu, Benjamin; 11; -; 616; -; -; -; 3; ; 
+23; M; Marcu, Adam; 12; 4; 586; 2; -; 5; 5; ; 
+6; F; Mills, Emmanuel; 2; -; 171; -; -; -; -; ; 
+1; GK; Orologio, Eric; 4; -; 360; -; -; -; -; ; 
+8; M; Pardo, David; 3; -; 125; -; -; -; 2; ; 
+11; F; Persampieri, Alessandro; 3; -; 69; -; -; 1; 1; ; 
+1; GK; Purygin, Stanley; 1; -; 90; -; -; -; -; ; 
+9; M; Ramos, Jovani; 11; 2; 918; 1; -; 5; 15; ; 
+20; M; Rocco, Shane; 5; -; 32; -; -; -; -; ; 
+27; M; Sackoon, Musa; 1; -; 30; -; -; -; -; ; 
+4; D; Saqui, Nadim; 3; -; 99; -; -; -; -; ; 
+10; M; Stemma, Pietro; 2; -; 152; -; -; -; -; ; 
+8; M; Watkin, Jonathon; 6; 4; 540; 2; -; 4; 6; ; 
+23; D; Weitsman, Mark; 3; -; 225; -; -; -; -; ; 
+15; D; Williams, Jonah; 7; 4; 585; 2; -; 3; 3; ; 
+
+
+
+Team: Jersey Express
+http://www.uslpdl.com/teams/2014/8986443.html#STATS
+
+11; F; Bastos, Thiago; 1; -; 45; -; -; 1; 1; ; 
+18; M; Bilay, Alex; 2; -; 63; -; -; -; -; ; 
+14; D; Caso, Clint; 6; 1; 495; -; 1; 5; 3; ; 
+12; M; Correa, Juan; 6; 3; 341; 1; 1; 14; 6; ; 
+22; GK; Cunha, Daniel; 1; -; 90; -; -; -; -; ; 
+13; M; DeSousa, Fabio; 6; -; 139; -; -; 1; 2; ; 
+17; F; Eze, Kene; 10; 14; 588; 7; -; 11; 2; ; 
+3; D; Fayemi, Christiano; 4; -; 214; -; -; -; 5; ; 
+10; M; Ferraro, Daniele; 2; 2; 43; 1; -; 5; -; ; 
+5; M; Fitzpatrick, Conor; 13; 6; 1069; 1; 4; 9; 8; ; 
+23; GK; Greczek, David; 1; -; 90; -; -; -; -; ; 
+19; M; Hackett, Marcus; 10; 3; 571; 1; 1; 8; 4; ; 
+11; M; Hines, Walter; 9; 17; 641; 6; 5; 8; 5; ; 
+9; F; Ilhan, Hakan; 1; -; 7; -; -; -; -; ; 
+6; D; Janneh, Lamin; 12; -; 421; -; -; -; 6; ; 
+9; F; Johnson, Jakeem; 8; 5; 386; 2; 1; 7; 4; ; 
+8; F; Karcz, Christopher; 10; 15; 802; 6; 3; 17; 11; ; 
+18; D; Lazarof, David; 4; -; 43; -; -; 3; 4; ; 
+2; D; Lebo, Christopher; 12; 4; 993; 1; 2; 6; -; ; 
+4; D; Mahoney, Matthew; 9; 2; 792; -; 2; 2; 1; ; 
+4; D; Manuel, Laurent; 1; -; 90; -; -; -; -; ; 
+10; M; Martinez, Brayan; 7; -; 201; -; -; 1; 3; ; 
+21; D; Morgan, Andrew; 8; 2; 558; 1; -; -; 5; ; 
+16; D; N'guessan, Kouassi Sylvain; 12; 4; 1006; 2; -; 6; 9; ; 
+8; F; Otto, Ansger; 10; 11; 467; 5; 1; 20; 6; ; 
+20; F; Ovenseri, Joseph; 10; 12; 490; 5; 2; 17; 5; ; 
+7; M; Sadaoui, Noah; 8; 11; 566; 4; 3; 17; 9; ; 
+7; M; Tinari, Andrew; 3; 3; 215; -; 3; -; 1; ; 
+12; M; Torreson Paulino, William; 3; -; 231; -; -; 6; 3; ; 
+1; GK; Trakany, Nick; 1; -; 90; -; -; -; -; ; 
+1; GK; Turner, Matthew; 11; -; 990; -; -; -; 1; ; 
+15; M; Viaggio, Nicholas; 13; 3; 1095; -; 3; 4; 14; ; 
+
+
+Team: Long Island Rough Riders
+http://www.uslpdl.com/teams/2014/22341.html#STATS
+
+15; M; Arnone, Tyler; 2; 5; 180; 2; 1; 2; -; ; 
+19; D; Barea, Stephan; 8; 3; 365; 1; 1; 5; 2; ; 
+17; F; Brown, Dan; 13; 9; 504; 4; 1; 11; 7; ; 
+14; F; Detelj, Keith; 14; 14; 1079; 5; 4; 39; 17; ; 
+18; D; Egan, John; 3; -; 29; -; -; -; -; ; 
+3; D; Foster, Shaun; 14; 2; 1162; 1; -; 4; 14; ; 
+10; M; Gabriele, Adriano; 13; -; 789; -; -; 11; 13; ; 
+6; D; Gwyther, Daniel; 11; 1; 862; -; 1; 2; 12; ; 
+12; GK; Haberman, Joshua; 1; -; 18; -; -; -; -; ; 
+20; D; Hawkins, Harri; 10; -; 796; -; -; 4; 3; ; 
+29; M; Holland, Joseph; 6; 7; 490; 2; 3; 13; 2; ; 
+7; M; Iovino, Dominic; 7; -; 286; -; -; 5; 2; ; 
+2; D; Kramer, Danny; 6; 1; 540; -; 1; -; 2; ; 
+1; GK; Lafferty, Brendan; 2; -; 180; -; -; -; -; ; 
+22; GK; Martin, Joseph; 11; -; 972; -; -; -; 1; ; 
+8; M; McVey, Jack; 3; 4; 199; 2; -; 4; 2; ; 
+9; D; Mueller, Stefan; 13; -; 887; -; -; 3; 3; ; 
+4; D; Pierre, Stephane; 9; -; 521; -; -; 3; 8; ; 
+16; M; Reid, Glen; 13; 6; 980; 3; -; 13; 9; ; 
+23; M; Roche, Stephen; 8; 2; 654; -; 2; 17; 5; ; 
+13; F; Sarle, Dominick; 13; 8; 977; 3; 2; 18; 15; ; 
+12; GK; Scheck, Daniel; 1; -; 90; -; -; -; -; ; 
+24; M; Sepe, Sean; 6; 4; 338; 2; -; 13; 7; ; 
+5; D; Wharf, Thomas; 10; 2; 900; 1; -; 4; 4; ; 
+
+
+
+Team: NJ Luso Parma
+http://www.uslpdl.com/teams/2014/8986441.html#STATS
+
+8; M; Akinyode, Boluwatife; 10; 3; 900; 1; 1; 8; 18; ; 
+1; GK; Baird, Ryan; 6; -; 534; -; -; -; -; ; 
+15; M; Balik, Zack; 5; -; 183; -; -; -; -; ; 
+14; M; Braga, Rafael; 13; 2; 681; 1; -; 8; 7; ; 
+23; D; Brito, Alex; 3; -; 270; -; -; -; 1; ; 
+2; D; Cunha, Phillip; 8; -; 668; -; -; 1; 12; ; 
+3; D; Fracchia, Matias; 4; -; 315; -; -; -; 2; ; 
+2; D; Garcia, Christopher; 4; -; 281; -; -; -; 2; ; 
+11; D; Gaspar, Michael; 1; -; 90; -; -; -; 2; ; 
+18; F; Golestani, Jared; 6; 2; 327; 1; -; 5; 3; ; 
+7; M; Greco, James; 10; -; 576; -; -; 7; 5; ; 
+15; M; Hamza, Yusuf; 13; 4; 904; 2; -; 9; 5; ; 
+13; D; James, Jason; 1; -; 90; -; -; -; -; ; 
+4; D; Keane, Benjamin; 7; -; 557; -; -; 3; 4; ; 
+16; D; Kennedy, Christopher; 10; -; 873; -; -; 6; 8; ; 
+11; F; Kherlopian, Sevag; 9; 5; 596; 2; 1; 11; 4; ; 
+1; GK; Krauze, Rafal; 4; -; 276; -; -; -; -; ; 
+23; D; Lochhead, Jameson; 2; -; 143; -; -; -; 1; ; 
+10; M; Malijani, Samson; 4; -; 287; -; -; 5; -; ; 
+5; M; Ramirez, Kevin; 13; 1; 857; -; 1; 9; 8; ; 
+15; M; Ramos, Alex; 4; -; 181; -; -; -; 2; ; 
+19; F; Stennett, Rahim Ali; 12; 3; 790; 1; 1; 6; 10; ; 
+7; M; Taylor, Clay; 8; 2; 234; 1; -; 2; 4; ; 
+21; D; Taylor, Grant; 9; -; 397; -; -; 2; 2; ; 
+10; M; Terci, Lucas; 3; -; 200; -; -; 2; -; ; 
+11; M; Trought, Kazari; 2; -; 186; -; -; 2; 2; ; 
+17; D; Vilar, Pedro; 10; -; 764; -; -; 1; 11; ; 
+12; GK; Zehner, Thomas; 4; -; 360; -; -; -; -; ; 
+
+
+Team: Northern Virginia Royals
+http://www.uslpdl.com/teams/2014/22363.html#STATS
+
+9; F; Asihel, Mulu; 3; -; 123; -; -; -; 1; ; 
+23; F; Barnd, Joseph; 2; -; 16; -; -; -; -; ; 
+5; D; Bowman, Zachary; 4; 1; 325; -; 1; 1; 1; ; 
+31; GK; Brown, Calle; 5; -; 450; -; -; -; -; ; 
+12; F; Burke, Richard; 12; 1; 1013; -; 1; 9; 24; ; 
+16; F; Cartegena, Carlos; 5; -; 48; -; -; -; 1; ; 
+17; F; Clancy, Forrest; 7; -; 325; -; -; 5; 3; ; 
+10; F; Diaz, Erwin; 2; -; 69; -; -; 1; 1; ; 
+4; D; Eng, Sam; 7; -; 546; -; -; 4; 3; ; 
+16; D; Flott, Allan; 8; -; 672; -; -; 5; 2; ; 
+1; GK; Flott, Robert; 2; -; 89; -; -; -; 1; ; 
+25; D; Glos, Joseph; 7; -; 265; -; -; 1; 4; ; 
+16; M; Gonzalez, Abthony; 2; -; 18; -; -; -; -; ; 
+31; GK; Helmick, Joel; 8; -; 642; -; -; -; 2; ; 
+6; D; Lauko, Adam; 10; -; 900; -; -; 1; 5; ; 
+14; F; Majano, Bernardo; 13; 2; 633; 1; -; 18; 7; ; 
+11; M; Martinez, Eber; 13; 15; 1154; 6; 3; 21; 15; ; 
+19; F; Martinez, Irvin; 1; -; 90; -; -; 1; 2; ; 
+27; M; Mashinski, Steven; 5; 1; 372; -; 1; 4; 3; ; 
+15; D; O'Reilly, Sean; 12; 2; 1080; 1; -; 7; 10; ; 
+10; F; O'Shea, Kennedy; 7; 2; 295; 1; -; 11; 2; ; 
+24; M; Pacheco, Saul; 1; -; 25; -; -; -; -; ; 
+21; F; Piriz, Bryan; 4; 4; 288; 2; -; 4; 4; ; 
+21; M; Pittman, Travis; 8; 2; 574; 1; -; 21; 8; ; 
+8; D; Renfrow, Grady; 1; -; 90; -; -; -; -; ; 
+22; F; Schneider, Powell; 3; -; 67; -; -; -; 2; ; 
+2; M; Sheta, Ahmed; 12; 5; 1012; 2; 1; 37; 21; ; 
+18; D; Teran, Andrew; 5; 1; 216; -; 1; -; 4; ; 
+30; F; Thomson, Conor; 12; 2; 672; 1; -; 7; 4; ; 
+14; F; Torres, Aladino; 2; -; 91; -; -; -; -; ; 
+20; D; Zhu, Kevin; 5; -; 409; -; -; -; 2; ; 
+
+
+Team: Ocean City Nor'easters
+http://www.uslpdl.com/teams/2014/22383.html
+
+
+Team:  Reading United AC
+http://www.uslpdl.com/teams/2014/22373.html#STATS
+
+8; M; Amaya, Juan; 1; -; 6; -; -; -; -; ; 
+8; M; Baldin, Lucas; 1; -; 17; -; -; -; -; ; 
+18; D; Ballo, Oumar; 7; 2; 627; 1; -; 3; 3; ; 
+0; GK; Bono, Alexander; 11; 1; 990; -; 1; -; 1; ; 
+10; M; Caltabiano, Geaton; 11; 4; 607; 2; -; 5; 4; ; 
+7; F; Campbell, Brett; 7; 9; 435; 3; 3; 11; 2; ; 
+5; D; Campbell, William; 1; -; 45; -; -; 1; -; ; 
+20; D; Campbell, Shane; 10; 1; 645; -; 1; 4; 8; ; 
+5; D; Charpie, Wesley; 6; 3; 501; -; 3; 3; 9; ; 
+6; D; DeArmas, Yosmul; 1; -; 45; -; -; -; -; ; 
+17; F; Delgado, Nicolas; 8; 1; 392; -; 1; 7; 9; ; 
+0; GK; Froschauer, Chris; 3; -; 270; -; -; -; -; ; 
+12; M; Griffith, Owen; 10; 1; 669; -; 1; 7; 10; ; 
+14; D; Herr, Andrew; 1; -; 1; -; -; -; -; ; 
+15; M; Holzer, Michael; 4; -; 260; -; -; 1; 6; ; 
+11; D; Lazorko, Timothy; 10; 1; 433; -; 1; 1; 7; ; 
+9; F; Leon Delgado, Guillermo; 9; 5; 472; 2; 1; 14; 9; ; 
+11; F; Madison, Darius; 7; 13; 547; 6; 1; 19; 14; ; 
+19; F; Maganto, Ignacio; 9; 5; 662; 2; 1; 11; 10; ; 
+15; M; Maloney, Connor; 1; -; 6; -; -; -; -; ; 
+19; D; Martinez, Matthew; 1; -; 45; -; -; -; -; ; 
+17; M; Morales, Andrew; 8; 5; 516; 2; 1; 9; 4; ; 
+0; GK; Morton, Kyle; 1; -; 90; -; -; -; -; ; 
+15; M; Muckette, Karl; 1; -; 45; -; -; -; -; ; 
+4; M; Olofson, Alex; 8; -; 376; -; -; 1; 1; ; 
+20; F; Pena, Guido; 2; -; 43; -; -; 1; -; ; 
+5; D; Pratzner, Todd; 1; -; 3; -; -; -; -; ; 
+5; D; Sagel, Robert; 9; 2; 753; 1; -; 4; 4; ; 
+8; F; Sanchez, Emanuel; 9; 6; 395; 3; -; 16; 2; ; 
+7; M; Smith, Graham; 11; 5; 681; 1; 3; 6; 5; ; 
+15; M; Storm, Colton; 2; -; 90; -; -; -; 4; ; 
+9; F; Surkamp, Nicholas; 10; 9; 577; 4; 1; 19; 4; ; 
+3; D; Thomas, Skylar; 6; -; 411; -; -; 2; 8; ; 
+18; M; Thomas, Quincy; 11; 1; 790; -; 1; 2; -; ; 
+12; F; Touloute, Max; 5; 3; 226; 1; 1; 8; 2; ; 
+7; M; Vance, Jevaughn; 5; -; 142; -; -; -; 4; ; 
+3; D; Webber, James; 11; 2; 688; 1; -; 3; 4; ; 
+5; D; Wilson, Jordan; 5; 2; 405; 1; -; 1; 3; ; 
+16; M; Witmer, Tyler; 1; -; 45; -; -; 1; -; ; 
+14; F; del Rosario, Joaquin; 2; -; 63; -; -; -; -; ; 
+
+
+
+Team: CFC Azul
+http://www.uslpdl.com/teams/2014/42834731.html#STATS
+
+12; F; Baccielo, Daniel; 7; 4; 265; 1; 2; 5; 1; ; 
+14; F; Bogle, Edward; 14; 4; 1120; 1; 2; 19; 5; ; 
+2; D; Boucher, Patrick; 12; -; 1025; -; -; 1; 9; ; 
+6; M; Brems, Sebastian; 4; 4; 208; 2; -; 2; -; ; 
+19; M; Carvalho, Raphael; 8; -; 472; -; -; 4; 4; ; 
+20; D; Do Rosario, Ailton; 2; -; 47; -; -; -; 1; ; 
+23; M; Doig, James; 9; 2; 511; 1; -; 4; 5; ; 
+5; D; Esche, Tobias; 5; 2; 383; 1; -; 1; 4; ; 
+1; GK; Esposito, Andrew; 1; -; 90; -; -; -; -; ; 
+4; D; F�lstad, Jonas; 14; 4; 1232; 2; -; 5; 2; ; 
+22; M; Grant, Mark; 3; -; 145; -; -; -; -; ; 
+16; M; Hemat, Shahin; 8; 2; 214; 1; -; 1; 1; ; 
+9; M; Kinne, Ryan; 8; 8; 695; 4; -; 21; 5; ; 
+7; M; McLaren, Reco; 9; 18; 724; 9; -; 27; 6; ; 
+12; F; Moura, Raphael; 6; -; 45; -; -; -; 2; ; 
+3; M; Naef, Tyler; 2; -; 39; -; -; -; 1; ; 
+23; M; Narro, Sony; 3; -; 195; -; -; 5; -; ; 
+11; M; Nobre, Manuel; 4; -; 149; -; -; -; 5; ; 
+11; M; Pereira, Durval (DJ); 7; -; 528; -; -; 4; 4; ; 
+8; F; Perry, Luke; 14; 9; 1083; 4; 1; 20; 7; ; 
+21; M; Ricke, Sven; 9; 4; 467; 1; 2; 14; 3; ; 
+24; D; Sandoval, Stanley; 9; -; 192; -; -; 5; 4; ; 
+0; GK; Sasso, Stephen; 12; -; 1080; -; -; -; -; ; 
+25; D; Tavares, Jeremy; 13; 2; 1170; -; 2; 1; 7; ; 
+10; M; Templeton, Paul; 14; -; 1022; -; -; 6; 14; ; 
+3; F; Thomas, Amare; 3; -; 170; -; -; 1; 2; ; 
+15; D; Ulmer, Clayton; 2; -; 135; -; -; -; 1; ; 
+18; GK; Venezia, Eric; 1; -; 90; -; -; -; -; ; 
+17; D; Weir, Sean; 4; -; 360; -; -; 3; 2; ; 
+16; F; Zubillaga, Jorge; 1; -; 12; -; -; -; -; ; 
+
+
+
+
+Team: GPS Portland Phoenix
+http://www.uslpdl.com/teams/2014/20204270.html#STATS
+
+9; F; Anderson, Eric; 3; -; 103; -; -; 1; 2; ; 
+10; M; Barden, Jonathan; 5; 2; 420; 1; -; 2; 4; ; 
+5; D; Bougrat, Paul; 1; 1; 80; -; 1; -; -; ; 
+3; F; Crowley, Matthew; 2; -; 180; -; -; -; -; ; 
+4; M; Davis, Connor; 7; 6; 457; 3; -; 1; 3; ; 
+15; M; Garcia-Carrillo, Juan; 10; 4; 749; 2; -; 6; 2; ; 
+17; D; Gwinnett, Raiff; 10; -; 869; -; -; -; 3; ; 
+22; F; Hoglund, Mackenzie; 1; -; 30; 1; -; -; -; ; 
+18; GK; Johnston, Lee; 5; -; 450; -; -; -; -; ; 
+22; M; Kaurin, Nemanja; 3; -; 117; -; -; -; -; ; 
+0; GK; Knaub, Chris; 2; -; 180; -; -; -; -; ; 
+27; M; Knoth, Peder; 4; 2; 281; -; 2; -; 5; ; 
+25; D; Lasso, Forrest; 6; -; 292; -; -; 2; 2; ; 
+22; D; Lentine, Robert; 6; -; 397; -; -; -; -; ; 
+2; D; Lupinelli, Jonathan; 9; 2; 775; 1; -; 5; 2; ; 
+16; M; Magee, David; 1; -; 63; -; -; 1; -; ; 
+3; D; Manier, Gilbert; 4; -; 335; -; -; 3; 2; ; 
+23; M; McPike, Mitch; 1; -; 90; -; -; 1; -; ; 
+23; M; Melville, Nicholas; 6; 6; 393; 3; -; 2; 6; ; 
+22; M; Moyo, Sean; 6; 1; 285; -; 1; -; 4; ; 
+12; F; Nirennold, Victor; 9; 2; 551; 1; -; 4; 4; ; 
+29; D; Omsberg, Wyatt; 4; -; 145; -; -; 1; 1; ; 
+14; D; Omsberg, Cameron; 3; -; 270; -; -; -; -; ; 
+28; GK; Perron, Adam; 4; -; 360; -; -; -; -; ; 
+8; F; Remond, Jonathan; 8; 5; 398; 1; 3; 3; 1; ; 
+24; M; Semwayo, Tafadzwa; 3; -; 208; -; -; 1; -; ; 
+19; M; Shangraw, Kyle; 8; -; 597; -; -; 3; 5; ; 
+21; F; Tulloch, McKauley; 4; 6; 296; 3; -; 10; -; ; 
+6; D; VanCompernolle, Jacob; 10; 1; 900; -; 1; -; 1; ; 
+11; F; Zurita, Zach; 6; 6; 423; 3; -; 11; 4; ; 
+
+
+
+Team: Montreal Impact U23
+http://www.uslpdl.com/teams/2014/66637418.html#STATS
+
+57; F; Ait Slimane, Yacine; 11; 2; 635; 1; -; -; -; ; 
+49; M; Béland Goyette, Louis; 8; 2; 566; -; 2; -; 3; ; 
+62; M; Belguendouz, Nazim; 12; 14; 969; 6; 2; 7; 7; ; 
+47; M; Bilak, Michael; 3; 1; 19; -; 1; -; -; ; 
+60; D; Bringolf, Mitchel; 1; -; 90; -; -; -; -; ; 
+66; D; Charbonneau, Janouk; 11; -; 812; -; -; -; 4; ; 
+54; D; Dinkota, Bangala John; 10; -; 675; -; -; 2; 4; ; 
+50; M; Gagnon Laparé, Jérémy; 6; -; 494; -; -; 3; 4; ; 
+69; D; Geffrard, Jems; 11; 2; 884; 1; -; -; 3; ; 
+75; GK; Gouabe, Karl Lister; 2; -; 110; -; -; -; -; ; 
+68; D; Hocine, Chakib Nazim; 9; -; 656; -; -; -; 15; ; 
+59; M; Houache, Emad; 10; -; 313; -; -; 3; 2; ; 
+56; F; Jackson Hamel, Anthony; 6; 8; 457; 4; -; 3; 1; ; 
+63; F; Joly, Charles; 11; 6; 731; 3; -; 3; 7; ; 
+58; D; Lafond, Kévin Benitez; 9; -; 455; -; -; -; 2; ; 
+67; F; Lajoie Gravelle, Frédéric; 11; 10; 628; 5; -; 5; 2; ; 
+65; GK; Leone, Luca Andrea; 12; -; 1060; -; -; -; 1; ; 
+46; M; Lincourt-Joseph, Philippe; 13; -; 574; -; -; 1; 4; ; 
+48; M; Luarca Echeverria, Kevin Ovidio; 10; 8; 724; 3; 2; 5; 7; ; 
+88; D; Meftouh, Amine; 9; -; 591; -; -; -; 1; ; 
+45; F; Ndiaye, Victor Omar; 12; 6; 730; 1; 4; 3; 1; ; 
+53; M; Rumuri, Chris-Michel; 7; -; 139; -; -; -; 3; ; 
+61; D; Zoue, Kehassemae Fran; 12; 2; 635; 1; -; -; 2; ; 
+
+
+
+Team: Real Boston Rams
+http://www.uslpdl.com/teams/2014/58152654.html#STATS
+
+
+22; F; Anderson, Eric; 8; 2; 402; 1; -; 2; 4; ; 
+20; M; Arboleda, Wilder; 10; 2; 819; 1; -; 7; 5; ; 
+14; F; Badji, Dominique; 6; 3; 335; 1; 1; 6; 5; ; 
+6; D; Bedrosian, Jacob; 13; -; 817; -; -; 2; 6; ; 
+11; D; Branco, Jordan; 5; -; 436; -; -; 1; 3; ; 
+; GK; Broome, Keasel; 4; -; 336; -; -; -; -; ; 
+16; F; DeNormandie, Cole; 6; 5; 540; 2; 1; 8; 4; ; 
+2; D; Devoy, Devin; 3; -; 187; -; -; -; -; ; 
+12; D; Eckford, Jonathan; 9; -; 714; -; -; -; 5; ; 
+5; M; Finkelstein, Luke; 12; 3; 521; 1; 1; 3; 4; ; 
+13; D; Griffith, Willis; 13; 2; 1170; 1; -; 1; 10; ; 
+23; M; Hilger, John; 6; -; 264; -; -; 1; -; ; 
+8; F; Hoppenot, Maxime; 8; 2; 277; 1; -; 3; 2; ; 
+; M; Lewis, Zeiko; 7; 8; 619; 4; -; 12; 8; ; 
+9; F; Machado, Fabio; 11; 16; 833; 7; 2; 24; 16; ; 
+19; M; Machado, Dominik; 11; 5; 841; 1; 3; 11; 10; ; 
+10; ; Morias, Homero; 2; 1; 143; -; 1; 2; 1; ; 
+0; GK; Nugent, Ciaran; 2; -; 119; -; -; -; -; ; 
+7; M; Pereira, Jonathan; 5; -; 206; -; -; 6; 1; ; 
+3; M; Rashid, Mohammed; 11; 2; 469; 1; -; 7; 4; ; 
+4; M; Resendes, Ruben; 7; -; 492; -; -; 1; 5; ; 
+18; M; Smith, Khano; 1; -; 90; -; -; -; 1; ; 
+15; F; Tabares, Diego; 3; -; 155; -; -; 4; -; ; 
+21; D; Taintor, Mitchell; 12; -; 1004; -; -; 6; 5; ; 
+0; GK; Thomson, Nicholas; 9; -; 715; -; -; -; -; ; 
+17; D; Williams, Sam; 9; -; 293; -; -; 3; 2; ; 
+
+
+
+
+Team: Seacoast United Phantoms
+http://www.uslpdl.com/teams/2014/22354.html#STATS
+
+18; D; Agudo Pelayo, Pablo; 11; 3; 994; 1; 1; 8; 11; ; 
+29; D; Brewster, Benjamin; 13; 2; 1164; 1; -; 2; 5; ; 
+10; F; Carter, Terence; 13; 9; 1070; 3; 3; 20; 19; ; 
+15; M; Chaput, Andrew; 12; -; 1035; -; -; 1; 6; ; 
+0; GK; Colman, Dominic; 1; -; 90; -; -; -; -; ; 
+1; GK; Dimaggio, Dominic; 13; -; 1170; -; -; -; -; ; 
+16; D; DuBois, Adrian; 10; 2; 567; -; 2; 5; 5; ; 
+8; D; Goff, James; 14; -; 1260; -; -; 1; 7; ; 
+4; D; Goodwin, James; 1; -; 90; -; -; -; -; ; 
+11; F; Grant, Anthony; 10; 29; 851; 14; 1; 25; 16; ; 
+4; M; Havey, Benjamin; 7; 1; 515; -; 1; 1; 5; ; 
+20; M; Houghton, Amory; 7; -; 135; -; -; 2; 3; ; 
+18; M; Lougheed, Trent; 11; 6; 797; 2; 2; 6; 11; ; 
+11; M; McLean, Malcolm; 7; -; 115; -; -; -; -; ; 
+2; F; Perez Cardona, Francisco Abel; 11; 3; 1040; 3; 1; 16; 12; ; 
+19; F; Pierrot, Frantzdy; 2; 3; 44; 1; 1; -; -; ; 
+14; M; Ryan, Alex; 12; 2; 931; 1; -; 5; 9; ; 
+20; D; Samuel, Dominic; 6; -; 147; -; -; -; -; ; 
+23; M; Simmond, Andre; 11; 3; 920; 1; 1; 3; 10; ; 
+5; F; Steele, Andre; 7; -; 163; -; -; 2; 3; ; 
+6; M; Twum-Barima, Joey; 10; -; 655; -; -; 6; 1; ; 
+30; F; Uche, Ugochukwu; 9; 3; 88; 1; 1; 2; -; ; 
+
+
+
+
+Team: Vermont Voltage
+http://www.uslpdl.com/teams/2014/22396.html#STATS
+
+7; M; Antic, Uros; 13; -; 899; -; -; 4; 6; ; 
+13; M; Benson, Mark; 1; -; 90; -; -; -; -; ; 
+20; D; Butler, Adam; 12; 2; 1027; 1; -; 1; 9; ; 
+0; GK; Coughlin, Andrew; 10; -; 897; -; -; -; 1; ; 
+5; GK; Djekic, Aleksandar; 4; -; 273; -; -; -; -; ; 
+15; D; Itoafa, David; 12; -; 639; -; -; 4; 1; ; 
+9; F; Jackson, David; 5; 2; 393; 1; -; 2; 5; ; 
+14; M; Kay, Adam; 14; 2; 1260; -; 2; 3; 10; ; 
+16; D; Markovic, Danilo; 10; -; 671; -; -; 3; 5; ; 
+17; GK; Masseana, Pierre; 2; -; 105; -; -; -; -; ; 
+17; F; McGowan, Jack; 2; -; 180; -; -; 4; -; ; 
+8; F; Milic, Svetislav; 13; -; 725; -; -; 8; 8; ; 
+2; D; Milicevic, Luka; 13; -; 1164; -; -; 1; 4; ; 
+13; M; Milicevic, Stefan; 13; 2; 940; -; 2; 10; 12; ; 
+20; F; Oakley, Ovan; 10; 7; 849; 3; 1; 20; 8; ; 
+11; M; Olukamni, Nathan; 12; 2; 989; 1; -; 7; -; ; 
+6; M; Saldana, Adrian; 10; 2; 710; 1; -; 6; 10; ; 
+22; F; Shand, Duran; 10; 2; 488; 1; -; 7; 4; ; 
+18; M; Tauss, Ryan; 10; -; 409; -; -; 1; 3; ; 
+19; D; Torquato, Jordan; 10; -; 614; -; -; -; 2; ; 
+24; D; Vuckovic, Bojan; 7; 3; 355; 1; 1; 8; 3; ; 
+4; D; Williams, Ben; 2; -; 180; -; -; -; 1; ; 
+
+
+Team: Westchester Flames
+http://www.uslpdl.com/teams/2014/22400.html#STATS
+
+19; M; ABAGALI, BERNARD; 7; -; 605; -; -; 1; 3; ; 
+21; D; Alexieff, Kristian; 2; -; 79; -; -; -; 4; ; 
+19; F; Bartoah, Abraham; 8; 3; 720; 1; 1; 12; 12; ; 
+14; D; Borea, Salvatore; 9; -; 678; -; -; 4; 9; ; 
+22; D; CLEMENTS, THOMAS; 2; -; 180; -; -; -; 2; ; 
+12; M; Chehebar, Abraham; 5; -; 111; -; -; 2; 1; ; 
+20; D; Danaher, Matthew; 10; 1; 611; -; 1; -; 6; ; 
+9; F; Doyle, Stephen; 4; 2; 341; 1; -; 5; 2; ; 
+4; D; Gosse, Zachary; 2; -; 180; -; -; -; 2; ; 
+7; M; Heredia, Richard; 2; -; 169; -; -; 1; 3; ; 
+; GK; Hickok, James; 2; -; 116; -; -; -; -; ; 
+0; GK; Kiourkenidis, Alexandros; 5; -; 77; -; -; -; -; ; 
+4; D; Kramarchuk, Mark; 10; 1; 900; -; 1; 1; 3; ; 
+22; M; Legg, John; 3; 2; 173; -; 2; -; -; ; 
+12; F; MAXWELL-ORDAIN, RICARDO; 4; -; 109; -; -; -; 1; ; 
+17; M; Maley, Joshua; 4; -; 330; -; -; 1; 8; ; 
+5; D; Manz, Thomas; 8; 1; 662; -; 1; 2; 4; ; 
+9; F; Mcbride, Lucas; 8; 2; 481; 1; -; 8; 2; ; 
+21; M; Mensan, Nana-Yaw; 3; -; 260; -; -; 1; 7; ; 
+11; F; Nadaner, Evin; 5; -; 434; -; -; 1; 8; ; 
+7; M; Norris, Daniel; 5; -; 399; -; -; 2; 3; ; 
+16; M; Ogoo, Housainou; 3; 1; 201; -; 1; 3; -; ; 
+8; F; Petras, Jaret; 2; -; 180; -; -; -; -; ; 
+3; F; Poetzsch, Kyle; 1; -; 45; -; -; -; -; ; 
+10; M; Reiter, Alan; 9; 2; 629; -; 2; 7; 3; ; 
+17; F; Rizzi, Roger; 5; -; 208; -; -; -; -; ; 
+15; F; Salawu, Rilwan; 11; 8; 873; 4; -; 10; 13; ; 
+2; D; Salmon, Luke; 11; 4; 960; 2; -; 5; 10; ; 
+5; D; Sorice, Nicholas; 4; -; 291; -; -; 1; 2; ; 
+1; GK; Spenser, Thomas; 12; -; 1006; -; -; -; -; ; 
+18; M; Taylor, Daniel; 4; 2; 314; 1; -; 1; 2; ; 
+8; F; Trymbulak, Connor; 8; -; 261; -; -; -; -; ; 
+17; M; Williams, Ryan; 8; 2; 385; 1; -; 3; 2; ; 
+
+
+Team: Western Mass Pioneers
+http://www.uslpdl.com/teams/2014/22401.html
+
+
+Team: Carolina Dynamo
+http://www.uslpdl.com/teams/2014/22307.html#STATS
+
+22; D; Ali, Mahdi; 1; -; 45; -; -; -; -; ; 
+2; M; Barnes, Patrick; 4; -; 122; -; -; 5; -; ; 
+5; F; Bokar, Fitzpatrick; 10; 2; 499; 1; -; 13; 16; ; 
+7; F; Bonilla, Kenneth; 3; -; 216; -; -; 6; 1; ; 
+4; M; Brace, James; 5; 2; 266; -; 2; 4; 2; ; 
+3; D; Brennan, Biko; 2; 1; 270; 1; 1; 2; 1; ; 
+18; M; Bronico, Brandt; 10; 4; 732; 1; 2; 10; 15; ; 
+3; D; Campbell, Jonathan; 3; -; 246; -; -; -; 2; ; 
+12; F; Da Silva, Cau�; 3; 4; 154; 2; -; 5; 3; ; 
+4; D; Faytol, Scott; 2; -; 54; -; -; -; -; ; 
+1; GK; Ferrell, Alec; 1; -; 90; -; -; -; -; ; 
+3; D; Fink, Sam; 2; -; 171; -; -; -; 2; ; 
+15; F; Francois, Jacques; 8; 2; 321; 1; -; 10; 6; ; 
+21; M; George, Raby; 5; 2; 325; 1; -; 3; 8; ; 
+22; D; Goodwin, Nathaniel; 4; -; 284; -; -; -; 2; ; 
+2; M; Grosh, John; 7; 4; 375; 2; -; 7; 9; ; 
+8; D; Gueguen, Ollivier; 12; -; 847; -; -; 1; 7; ; 
+17; D; Jones, Aaron; 9; 1; 683; -; 1; 6; 4; ; 
+16; F; Kouyateh, Hassan; 1; -; 21; -; -; -; -; ; 
+24; F; Little, Hayden; 1; -; 24; -; -; -; -; ; 
+4; D; Mansour, Samuel; 5; -; 368; -; -; -; 9; ; 
+19; M; Marshall, Warren; 6; -; 90; -; -; -; 1; ; 
+24; D; McBride, Sam; 5; -; 435; -; -; 2; 4; ; 
+26; GK; McCauley, Stephen; 5; -; 450; -; -; -; -; ; 
+14; D; McCrary, Jordan; 1; -; 90; -; -; -; 5; ; 
+23; M; Minogue IV, Roland; 2; -; 53; -; -; 1; 1; ; 
+1; GK; Moffit, Stephen; 3; -; 270; -; -; -; -; ; 
+11; D; Morton, Taylor; 1; -; 3; -; -; -; -; ; 
+14; M; Murillo, Antonio; 7; 3; 355; 1; 1; 2; 4; ; 
+13; M; Norton, Reed; 9; 9; 719; 4; 1; 21; 8; ; 
+17; F; Nyepon, Mamadee; 9; 11; 579; 5; 1; 19; 12; ; 
+3; D; Oakes, Ryan; 5; -; 302; -; -; -; 3; ; 
+18; D; October, David; 3; 1; 128; -; 1; 1; 1; ; 
+1; GK; Palmer, Kody; 4; -; 360; -; -; -; -; ; 
+23; M; Parker, Philip; 1; -; 100; -; -; 1; 1; ; 
+15; M; Richeme, Darion; 2; -; 156; -; -; 1; 3; ; 
+18; M; Salazar, Miguel; 7; -; 455; -; -; 2; 4; ; 
+17; D; Sandidge, Robert; 2; 1; 178; -; 1; -; -; ; 
+6; M; Smith, James; 11; -; 573; -; -; 12; 4; ; 
+22; M; Sunol, Marco; 7; 5; 497; 2; 1; 8; 16; ; 
+11; M; Wannemuehler, Travis; 7; -; 524; -; -; 9; 5; ; 
+25; D; Yearwood, Austin; 10; -; 628; -; -; 1; 2; ; 
+19; D; Zargas, Lukas; 7; -; 520; -; -; 5; 6; ; 
+
+
+Team:  Cincinnati Dutch Lions
+http://www.uslpdl.com/teams/2014/66637498.html#STATS
+
+2; D; Causey, Bryan; 10; -; 587; -; -; 6; 4; ; 
+3; D; Desalvatore, Nick; 13; -; 905; -; -; 6; 7; ; 
+8; M; Dupont, Christopher; 7; -; 274; -; -; 2; 6; ; 
+17; M; Grant, Jordan; 9; 9; 757; 4; 1; 14; 12; ; 
+20; M; Grothaus, Kyle; 7; 1; 62; -; 1; -; 3; ; 
+; ; Gumbert, Tyler; 2; -; 5; -; -; -; -; ; 
+18; D; Gumbert, Logan; 12; -; 521; -; -; 3; -; ; 
+16; D; Halfhill, Garrett; 13; -; 1170; -; -; 3; 5; ; 
+7; M; Harmon, Chris; 12; 12; 1042; 4; 4; 25; 11; ; 
+14; D; Hill, Matthew; 9; -; 274; -; -; 2; 1; ; 
+9; F; McClure, Jeff; 13; 17; 1112; 8; 1; 40; 16; ; 
+4; M; Meyer, Steven; 12; 2; 755; 1; -; 6; 9; ; 
+0; GK; Osswald, Eric; 12; -; 1080; -; -; -; -; ; 
+6; M; Petrick, Tanner; 10; 4; 497; 2; -; 7; 3; ; 
+12; M; Pierce, Austin; 11; 2; 216; 1; -; 5; 2; ; 
+10; M; Smith, Kyle; 13; 5; 1018; 1; 3; 19; 11; ; 
+5; D; Stovall, Jake; 13; -; 1155; -; -; 3; 14; ; 
+21; M; Tanner, Colton; 8; -; 46; -; -; -; 1; ; 
+19; F; Walker, Kevin; 13; 4; 429; 1; 2; 7; 15; ; 
+25; GK; Wilson, Robert; 1; -; 90; -; -; -; -; ; 
+11; F; van Zaanen, Rowin; 11; 10; 879; 4; 2; 13; 8; ; 
+
+
+Team: River City Rovers
+http://www.uslpdl.com/teams/2014/33862330.html#STATS
+
+19; M; Andriot, Walker; 2; -; 49; -; -; -; -; ; 
+11; M; Berra, Louis; 9; 3; 578; -; 3; 1; 11; ; 
+0; GK; Carey, Christian; 1; -; 90; -; -; -; -; ; 
+15; D; Craig, Joel; 12; -; 1080; -; -; 1; 3; ; 
+20; M; DeChurch-Silva, Dimitri; 2; -; 66; -; -; -; -; ; 
+19; F; DeLeon, Julio; 1; -; 6; -; -; -; -; ; 
+14; D; Fox, Kaelon; 7; 4; 530; 2; -; 5; 1; ; 
+10; F; Gale, Brad; 4; -; 150; -; -; -; -; ; 
+20; F; Garcia, Alejandro; 6; 10; 471; 5; -; 15; 6; ; 
+7; F; Gonya, Lwandiso; 2; 2; 179; 1; -; 8; 1; ; 
+0; GK; Hafling, Taylor; 2; -; 53; -; -; -; -; ; 
+14; F; Hamilton, Shaquille; 7; 1; 326; -; 1; 4; 1; ; 
+0; GK; Hawes, Dalyan; 13; -; 1117; -; -; -; 1; ; 
+23; M; Khan, Suleiman; 4; -; 297; -; -; -; 1; ; 
+20; M; M'feka, Lindokuhle; 3; -; 264; -; -; 2; 7; ; 
+15; M; Matsoso, Napo; 6; 1; 512; -; 1; 2; 11; ; 
+13; D; May, Peter; 3; 1; 270; -; 1; -; 1; ; 
+10; M; Miller, Asa; 6; -; 267; -; -; -; 1; ; 
+12; F; Moore, Chris; 1; -; 45; -; -; -; -; ; 
+22; M; Moshoeshoe, Setho; 4; -; 247; -; -; 1; 2; ; 
+23; D; Mudd, Daniel; 2; -; 35; -; -; 1; -; ; 
+18; M; Nieto, Eric; 3; -; 83; -; -; -; -; ; 
+4; D; Ramirez, Luis Jerry; 10; -; 830; -; -; 1; 5; ; 
+22; D; Robbins, Jarrett; 7; -; 549; -; -; -; 5; ; 
+10; M; Romero, Luis; 2; -; 206; -; -; -; 6; ; 
+21; M; Seetane, Lepekola; 2; -; 180; -; -; 1; -; ; 
+12; M; Sejdic, Amar; 6; 2; 383; -; 2; 5; 3; ; 
+16; M; Shehan, Phillip; 9; -; 418; -; -; 1; 6; ; 
+3; D; Tarver, Robbe; 12; 2; 983; 1; -; 5; 9; ; 
+5; F; Terry, Dylan; 12; 16; 1025; 7; 2; 35; 4; ; 
+12; F; Thomas, Suleiman; 9; 3; 668; 1; 1; 19; 6; ; 
+21; F; Thomas, Cory; 2; -; 116; -; -; -; -; ; 
+18; F; Wells, Trae; 3; -; 47; -; -; 1; -; ; 
+
+
+Team: SC United Bantams
+http://www.uslpdl.com/teams/2014/42834752.html#STATS
+
+4; M; Acree, Zach; 4; 2; 248; 1; -; 1; 3; ; 
+1; GK; Beebe, Robert; 4; -; 360; -; -; -; -; ; 
+20; D; Bray, Stephen; 9; -; 635; -; -; 1; 4; ; 
+5; D; Carr, Alan; 8; 2; 718; 1; -; 2; 8; ; 
+0; GK; Costa, Brandon; 4; -; 294; -; -; -; -; ; 
+24; M; Fenner, Caleb; 6; 4; 141; 2; -; 2; 1; ; 
+16; D; Fielden, Kevin; 7; -; 526; -; -; 4; 6; ; 
+18; M; Freiburger, Ryan; 9; 1; 438; -; 1; 3; 7; ; 
+6; M; Gonzalez, Steven; 9; 2; 370; -; 2; 10; 1; ; 
+21; M; Gonzalez, Anthony; 7; -; 321; -; -; 2; 1; ; 
+19; M; Hatungimana, Elias; 8; 4; 435; 1; 2; 9; 3; ; 
+25; M; Hawkins, Dakota; 5; -; 132; -; -; -; 1; ; 
+14; D; Lesko, John; 1; -; 27; -; -; -; -; ; 
+17; D; McManis, Matthew; 10; 1; 900; -; 1; -; 14; ; 
+11; M; Millard, James; 11; 3; 857; 1; 1; 6; 5; ; 
+26; GK; Nielsen, Barett; 5; -; 450; -; -; -; 1; ; 
+3; D; Parker, Russell; 11; 3; 933; 1; 1; 7; 10; ; 
+23; M; Rafferty, John; 6; 1; 331; -; 1; 3; 3; ; 
+15; M; Ryan, Avery; 11; 11; 842; 5; 1; 27; 8; ; 
+10; F; Savage, Austin; 5; 2; 320; 1; -; 12; -; ; 
+22; M; Seaton, Robert; 8; 2; 494; 2; -; 9; 3; ; 
+8; M; Sloan, Mark; 4; -; 366; -; -; 9; 10; ; 
+9; F; Suarez, Eric; 8; 3; 171; 1; 1; 5; -; ; 
+12; M; Thomas, Robert; 9; 2; 636; 1; -; 5; 8; ; 
+13; M; Troyer, Braeden; 7; 2; 541; 1; -; 15; 7; ; 
+2; M; Watson, Nicholas; 4; 2; 298; 1; -; 4; -; ; 
+
+
+Team: Southern West Virginia King's Warriors
+http://www.uslpdl.com/teams/2014/42834755.html#STATS
+
+8; M; Asante, Gideon; 14; 9; 1225; 3; 3; 27; 9; ; 
+5; D; Atemafac, Vitalis; 8; 1; 557; -; 1; 1; -; ; 
+7; M; Bardales, Benjamin; 12; 6; 518; 3; -; 5; 11; ; 
+9; M; Blackman, Samuel; 12; 2; 704; 1; -; 13; 20; ; 
+24; F; Copeland, Morgan; 6; 2; 172; 1; -; 6; 2; ; 
+0; GK; Davis, Jonathan; 4; -; 360; -; -; -; -; ; 
+23; D; Defeugaing, Samson; 2; -; 42; -; -; 3; 4; ; 
+16; F; Douerty, Simon; 4; -; 127; -; -; -; 1; ; 
+19; D; Evans, Ryan; 3; -; 108; -; -; 1; -; ; 
+27; ; Forbes, Billy; -; -; -; -; -; -; -; ; 
+11; M; Fubara, Itode; 14; 3; 1191; 1; 1; 19; 10; ; 
+31; D; Grant, Lewis; 10; 1; 640; -; 1; 1; 7; ; 
+1; GK; Guyer, Alex; 4; -; 450; -; -; -; -; ; 
+14; F; Hays, Curt; 3; -; 16; -; -; -; -; ; 
+27; M; Johnson, Dean; 10; -; 289; -; -; 2; 4; ; 
+25; D; Kremers, Joshua; 10; 1; 597; -; 1; 2; 5; ; 
+17; D; Kyne, Matthew; 8; -; 693; -; -; -; 2; ; 
+26; F; MacKenna, Jorge; 12; 4; 474; 2; -; 4; 5; ; 
+16; M; Monteith, Scout; 1; -; 3; -; -; -; -; ; 
+14; F; Payne, Jeremy; 11; 10; 791; 4; 2; 23; 7; ; 
+12; M; Ramierz, Brian; 3; 2; 208; -; 2; 4; 3; ; 
+28; M; Ramsay, Jacob; 14; 7; 922; 3; 1; 24; 8; ; 
+21; M; Robbins, Carter; 10; -; 900; -; -; 1; 3; ; 
+3; D; Rowe, Daniel; 1; -; 25; -; -; -; -; ; 
+22; D; Sherwood, Harry; 6; 1; 396; -; 1; 5; 3; ; 
+15; D; Steen, Benjamin; 12; -; 1002; -; -; 1; 12; ; 
+0; GK; Thomas, John-Ramses; 4; -; 450; -; -; -; -; ; 
+4; M; Ukpong, Elijah; 11; 10; 673; 4; 2; 11; 9; ; 
+13; M; Vega, Hector; 8; -; 306; -; -; 1; 5; ; 
+20; F; Wood, Adam; 2; -; 21; -; -; -; -; ; 
+
+
+Team: West Virginia Chaos
+http://www.uslpdl.com/teams/2014/22399.html#STATS
+
+10; F; Arthur, Adam; 9; 2; 518; 1; -; 16; 6; ; 
+1; GK; Atwell, Tyler; 1; -; 90; -; -; -; -; ; 
+15; D; Brent, Travis; 11; -; 881; -; -; 2; 2; ; 
+6; M; Fabian, Tyler; 13; 4; 920; 1; 2; 8; 13; ; 
+8; M; Fox, Adam; 3; -; 3; -; -; -; -; ; 
+14; M; Frota, Guilherme; 12; -; 453; -; -; 1; 6; ; 
+0; GK; Gloston, Bijan; 1; -; 90; -; -; -; -; ; 
+12; D; Grable, Stuart; 10; 3; 822; -; 3; 1; 3; ; 
+18; D; Gueye, Ousmane; 12; 1; 714; -; 1; 5; 6; ; 
+18; M; Hintz, Adam; 6; -; 78; -; -; 2; 2; ; 
+4; D; Ivanovic, Predrag; 2; -; 114; -; -; -; -; ; 
+4; M; McDonald, Nick; 10; 8; 544; 3; 2; 16; 5; ; 
+19; D; Noriega, Jose; 13; 2; 512; 1; -; 6; 3; ; 
+13; F; Osborne, Ryan; 10; 3; 555; 1; 1; 12; 6; ; 
+9; F; Peters, Dion; 9; 13; 789; 6; 1; 22; 7; ; 
+17; D; Radjen, Danilo; 10; -; 662; -; -; -; 13; ; 
+17; M; Russell, Shaun; 11; 4; 778; 1; 2; 1; 12; ; 
+14; M; Smee, Daniel; 12; 5; 1019; 2; 1; 15; 19; ; 
+8; M; Stratford, Daniel; 13; 3; 1134; 1; 1; 8; 13; ; 
+11; F; Szabo, Jake; 12; 13; 808; 5; 3; 24; 7; ; 
+1; GK; Teepen, Sean; 12; -; 1080; -; -; -; -; ; 
+10; F; Washington, Tyler; 5; -; 33; -; -; -; 1; ; 
+19; D; Wilson, Caleb; 8; -; 361; -; -; 2; 2; ; 
+
+
+Team: Austin Aztex
+http://www.uslpdl.com/teams/2014/42834722.html#STATS
+
+23; D; Alcala, Joshua; 11; -; 626; -; -; 1; 11; ; 
+3; D; Ambrose, Michael; 4; 1; 293; -; 1; 1; 5; ; 
+7; M; Beasley, George; 3; 1; 79; -; 1; 1; -; ; 
+8; F; Black, Adam; 14; 13; 668; 5; 3; 22; 11; ; 
+24; M; Campbell, Edward; 11; 9; 512; 4; 1; 9; 5; ; 
+31; D; Clements, Christopher; 2; -; 101; -; -; -; 2; ; 
+0; GK; Cook, Devin; 14; 3; 1247; -; 3; -; 1; ; 
+13; F; Cortes, Jesus; 13; 14; 995; 5; 4; 18; 8; ; 
+11; M; Cuero, Julio; 7; 4; 603; 2; -; 13; 13; ; 
+19; M; Fox, Andrew; 7; 3; 215; 1; 1; 7; 5; ; 
+22; M; Franz, Justin; 8; 1; 224; -; 1; 4; 2; ; 
+4; M; Frid, Danny; 7; -; 374; -; -; 1; 3; ; 
+24; D; Golden, Travis; 12; -; 993; -; -; 1; 8; ; 
+15; M; Gomez, Hector; 6; 2; 260; 1; -; 3; 3; ; 
+3; M; Harwell, Jeff; 11; 4; 621; 2; -; 6; 4; ; 
+30; F; Hume, Tucker; 2; -; 44; -; -; 2; -; ; 
+31; D; Hume, Walker; 2; 2; 180; 1; -; 1; 1; ; 
+12; M; Jobe, Buba; 9; 8; 368; 3; 2; 17; 4; ; 
+29; D; Matamoros, Luis; 2; -; 78; -; -; -; 1; ; 
+33; GK; O'Sullivan, Neil; 1; -; 1; -; -; -; -; ; 
+2; D; Oronos, Cruz; 14; 1; 829; -; 1; 2; 10; ; 
+23; M; Osorio, Alesi; 12; 2; 855; 1; -; 7; 19; ; 
+30; D; Pineda, Sebastian; 1; 1; 77; -; 1; -; 2; ; 
+9; M; Powell, Jacob; 1; -; 21; -; -; 1; 1; ; 
+26; F; Riley, Daniel; 7; -; 136; -; -; 1; 3; ; 
+16; M; Rocha, Antonio; 8; 8; 716; 3; 2; 17; 5; ; 
+5; D; Ryden, Kalen; 14; 7; 1192; 3; 1; 6; 13; ; 
+6; D; Santos, Eduardo; 4; -; 148; -; -; -; 3; ; 
+10; F; Seoane, Jose; 12; 10; 774; 4; 2; 28; 11; ; 
+26; D; Tucker, Marshal; 7; 2; 429; 1; -; 2; 5; ; 
+
+
+Team: Houston Dutch Lions
+
+
+Team: Laredo Heat
+http://www.uslpdl.com/teams/2014/934454.html#STATS
+
+; M; Alihodzic, Fazlo; 7; -; 251; -; -; 4; 2; ; 
+; M; Arata, Marcelo; 1; -; 8; -; -; -; -; ; 
+; F; Bayona, Orlando; 10; 7; 476; 3; 1; 15; 3; ; 
+; D; Braem, Matthieu; 5; -; 288; -; -; 2; 2; ; 
+23; F; Buduri, Placide; 7; -; 321; -; -; 5; 2; ; 
+; D; Fernandes, Kaique; 4; -; 274; -; -; -; 1; ; 
+28; M; Fernandez-Jimenez, Miguel; 13; 8; 894; 4; -; 22; 7; ; 
+20; M; Ferreira, Rafael; 11; 2; 516; 1; -; 9; 6; ; 
+26; F; Garcia, Felix; 10; 7; 669; 3; 1; 31; 6; ; 
+; F; Garza, Daniel; 6; -; 347; -; -; 9; 8; ; 
+21; D; Guerrero, Cesar; 2; -; 2; -; -; -; -; ; 
+5; M; Hernandez, Jose; 10; 1; 693; -; 1; 9; 8; ; 
+; M; Hernandez, Kevin; 2; -; 60; -; -; -; 1; ; 
+4; D; Hernandez, Genaro; 14; 7; 1203; 3; 1; 11; 8; ; 
+10; M; Ibarra-Trevino, Juan de Dios; 9; 2; 710; 1; -; 9; 6; ; 
+17; D; Lara, Francisco; 12; 2; 1039; -; 2; 6; 3; ; 
+18; D; Lopez, Omar; 3; -; 244; -; -; 1; 2; ; 
+; GK; Lukowski, William; 2; -; 107; -; -; -; 1; ; 
+7; D; Luna, Salvador; 12; 11; 857; 5; 1; 11; 22; ; 
+8; F; Monteiro, Joao; 14; 5; 932; 1; 3; 17; 8; ; 
+6; M; Moreno, Martin; 1; -; 90; -; -; -; -; ; 
+11; M; Mulamba, Gregory; 9; -; 746; -; -; 5; 13; ; 
+1; GK; Ortega, Jorge; 14; -; 1160; -; -; -; -; ; 
+; D; Ramirez, Juan; 4; -; 276; -; -; 1; 6; ; 
+; M; Ramos, Carlos; 2; -; 12; -; -; 4; -; ; 
+2; D; Reyna, Alan; 6; -; 318; -; -; -; 2; ; 
+3; D; Rocha, Jorge; 7; -; 543; -; -; 1; 7; ; 
+27; F; Villanueva, Irving; 12; 5; 487; 2; 1; 7; 3; ; 
+15; D; Villavicencio, Adan; 8; -; 418; -; -; 1; 2; ; 
+; D; Watt, Marcus; 4; -; 36; -; -; 1; 2; ; 
+
+
+
+
+
+Team: Midland/Odessa Sockers FC
+http://www.uslpdl.com/teams/2014/13598690.html#STATS
+
+18; M; Alvarez, Mario; 12; -; 501; -; -; 5; 8; ; 
+30; GK; Babyak, Jason; 4; -; 585; -; -; -; -; ; 
+6; M; Brock, Tanner; 11; 1; 517; -; 1; 5; 4; ; 
+20; M; Cabral, Diego; 8; 1; 370; -; 1; 6; 7; ; 
+5; D; Clifford, Johnathan; 12; -; 974; -; -; 6; 9; ; 
+25; M; Cowdrill, Benjamin; 1; -; 16; -; -; -; -; ; 
+9; F; Diegues, Ricardo; 12; 2; 384; 1; -; 10; 2; ; 
+24; D; Edginton, Nicholas; 6; -; 148; -; -; -; 4; ; 
+19; D; Fuerte, Xavier; 6; 2; 431; 1; -; 2; 6; ; 
+17; M; Garcia, Alberto; 11; 3; 615; 1; 1; 22; 7; ; 
+15; M; Goulbourne, Conrod; 11; 8; 890; 3; 3; 23; 10; ; 
+14; F; Hume, Tucker; 11; 13; 881; 4; 5; 22; 16; ; 
+19; D; Hume, Walker; 11; 2; 895; 1; -; 9; 9; ; 
+21; F; Knibbs, Rory; 9; 12; 674; 7; 2; 18; 7; ; 
+2; D; Knowles-Ramirez, Byron; 7; 3; 624; -; 3; 1; 5; ; 
+1; GK; Long, Clint; 7; -; 585; -; -; -; -; ; 
+8; M; McCoubrey, Scott; 1; 2; 27; 1; -; -; -; ; 
+10; M; Parreiras, Victor; 11; 1; 409; -; 1; 13; 2; ; 
+11; M; Pena, Fabio; 9; 1; 880; -; 1; 1; 23; ; 
+26; F; Sanchez, Isaac; 8; 4; 648; 2; -; 5; 7; ; 
+7; D; Slack, Jordan; 8; 3; 658; 1; 1; 4; 2; ; 
+13; M; Smith, Scott; 1; -; 45; -; -; -; 1; ; 
+22; D; Spajic, Ante; 10; -; 643; -; -; -; 12; ; 
+16; F; Yeverino, Ricardo; 13; 6; 465; 3; -; 14; 10; ; 
+
+
+
+
+Team: Mississippi Brilla FC
+http://www.uslpdl.com/teams/2014/6188388.html#STATS
+
+23; F; Abdehou, Dean; 10; -; 431; -; -; 3; 3; ; 
+10; F; Almeida, Lucas; 14; 7; 1138; 3; 1; 18; 9; ; 
+18; F; Arnold, Altrece; 3; -; 19; -; -; -; -; ; 
+12; D; Ashley, Dustin; 14; 2; 1260; 1; -; 10; 8; ; 
+1; GK; Blundell, Carl; 12; -; 1001; -; 1; -; -; ; 
+19; D; Bobo, Graham; 1; -; 9; -; -; -; 1; ; 
+6; F; Brown, Austin; 10; -; 690; -; -; -; 9; ; 
+20; F; Buffington, Phillip; 10; 7; 476; 3; 1; 15; 2; ; 
+15; D; Durr, Michael; 10; -; 837; -; -; 1; 10; ; 
+5; M; Gagnon, Chandler; 13; 3; 1128; 1; 1; 6; 7; ; 
+14; D; Gavin, Tom; 13; 2; 1118; 1; -; 12; 13; ; 
+16; M; Gulley, James; 14; 2; 949; -; 2; 11; 15; ; 
+2; D; Hannon, Alan; 3; -; 166; -; -; -; 1; ; 
+13; M; Kingery, Kase; 13; 4; 246; 2; -; 4; 2; ; 
+24; D; Lang, Daniel; 2; -; 5; -; -; -; -; ; 
+21; D; Mason, Luke; 6; -; 57; -; -; -; -; ; 
+16; D; Muteshi, Cedric; 4; -; 82; -; -; -; 1; ; 
+22; D; Pollak, Alex; 2; -; 5; -; -; -; -; ; 
+8; D; Power, Andrew; 13; 3; 1016; 1; 1; 14; 22; ; 
+7; M; Rahmani, Amine; 11; 3; 659; -; 3; 5; 5; ; 
+3; M; Roberson, Stephen; 12; 8; 770; 4; -; 20; 10; ; 
+17; F; Russell, Harrison; 10; -; 600; 1; -; 8; 8; ; 
+11; M; Saez, Manuel; 8; -; 298; -; 1; 4; 8; ; 
+9; F; Smith III, Leonard; 12; 4; 578; 2; -; 7; 10; ; 
+19; M; Thompson, Cillian; 1; -; 13; -; -; -; -; ; 
+0; GK; Watson, Addison; 2; -; 259; -; -; -; -; ; 
+
+
+Team: Floridians FC
+http://www.uslpdl.com/teams/2014/66637724.html#STATS
+
+10; F; Benito, Miguel; 10; 5; 798; 2; 1; 12; 13; ; 
+25; M; Bozkurt, Deniz; 7; 3; 625; 1; 1; 11; 11; ; 
+2; D; Caicedo, Luis; 9; 1; 810; -; 1; 2; 14; ; 
+1; GK; Crumpton, Jeremy; 8; -; 720; -; -; -; -; ; 
+; D; Fleming, Conner; 4; -; 44; -; -; -; 1; ; 
+0; F; Franco, Alvaro; 2; -; 160; -; -; -; 2; ; 
+11; M; Gonzalez, Juan; 9; 4; 754; 1; 2; 9; 12; ; 
+4; D; Hednerson, William; 9; -; 662; -; -; 3; 8; ; 
+14; M; JEANTY, MARC; 2; -; 33; -; -; 1; 2; ; 
+8; M; James, Brian; 3; 2; 148; 1; -; 3; 5; ; 
+55; GK; Jamilloux, Theo; 3; -; 270; -; -; -; -; ; 
+14; M; Kante, Manuel; 8; -; 720; -; -; 3; 25; ; 
+10; M; Khir, Sami; 3; -; 242; -; -; 1; 8; ; 
+23; F; LIMA, BRYAN; 1; -; 62; -; -; -; -; ; 
+9; F; Marrugo, Daniel; 10; 3; 732; 1; 1; 15; 10; ; 
+6; F; McFarlane, Sean; 5; -; 241; -; -; 2; 4; ; 
+25; M; McKay, Ochando; 2; 2; 78; 1; -; 1; 4; ; 
+; M; Mendes, Daniel; 1; -; 90; -; -; 2; 2; ; 
+8; M; Mendy, Vincent; 2; -; 106; -; -; -; 6; ; 
+15; D; Merrigan, Timothy; 10; 1; 632; -; 1; 3; 3; ; 
+3; D; Morales, Cristian; 4; -; 360; -; -; -; 2; ; 
+; M; Naranjo, Kevin; 3; 1; 109; -; 1; -; 1; ; 
+12; M; Price, Ryan; 11; 8; 854; 4; -; 12; 15; ; 
+17; D; Quinn, Michael; 9; -; 412; -; -; 1; 3; ; 
+23; D; Ruffo, Terry; 1; -; 15; -; -; -; -; ; 
+3; D; Schenfeld, Maximiliano; 2; -; 87; -; -; -; 2; ; 
+13; M; Schultz, Marshall; 2; -; 175; -; -; -; 2; ; 
+18; F; Silva, Xavier; 7; 2; 245; 1; -; 6; 5; ; 
+26; F; Sinclair, Sekani; 1; -; 58; -; -; 1; -; ; 
+5; D; Wilson, Shaunovan; 4; -; 360; -; -; -; 4; ; 
+
+
+
+Team: IMG Academy Bradenton
+http://www.uslpdl.com/teams/2014/22301.html#STATS
+
+3; D; Abidor, David; 13; 3; 1052; 1; 1; 13; 14; ; 
+15; M; Barboto, Daniel; 6; -; 194; -; -; 1; 3; ; 
+12; D; Brown, Theodore; 3; -; 107; -; -; -; 3; ; 
+9; F; Campbell, Christopher; 2; -; 81; -; -; 1; -; ; 
+17; F; Castle, Casey; 3; -; 62; -; -; -; -; ; 
+12; D; Chapman, Jason; 11; -; 392; -; -; -; 1; ; 
+14; D; DeJulio, Eric; 11; 2; 749; 1; -; 1; 7; ; 
+11; F; Delancy, Terry; 6; -; 182; -; -; -; 6; ; 
+6; F; Englis, Myles; 13; 4; 1002; 1; 2; 14; 10; ; 
+19; F; Fergusson, Isaiah; 2; -; 250; -; -; 1; -; ; 
+8; F; Fritz Ruenes, Alejandro; 9; 2; 498; 1; -; 6; 5; ; 
+5; D; Gardner, Mathew; 13; -; 1093; -; -; 2; 11; ; 
+9; F; Gonzalez, Raul; 12; 5; 859; 2; 1; 19; 8; ; 
+10; M; Goodman, Douglas; 8; -; 510; -; -; 2; -; ; 
+17; D; Gourgel, Nuno; 7; 1; 249; -; 1; -; 5; ; 
+16; F; Harvey, Oliver; 6; 1; 237; -; 1; -; 2; ; 
+4; D; Hutchinson, Joseph; 1; -; 161; 1; -; 1; 2; ; 
+4; D; Kucharski, Konrad; 10; -; 439; -; -; 1; 7; ; 
+2; D; McGuinness, Jamie; 12; -; 948; -; -; 3; 8; ; 
+15; D; Mesen, Mario; 8; 2; 720; 1; -; 1; 4; ; 
+18; D; O'Connor, Brendan; 3; -; 190; -; -; -; 3; ; 
+7; F; Olajide, Yussuf; 10; 5; 730; 2; 1; 8; 12; ; 
+22; M; Pineda, Jesus; 4; 1; 306; 1; 1; 1; 2; ; 
+13; M; Rubio, Matias; 2; -; 26; -; -; -; 1; ; 
+1; GK; Shearer, Robert; 1; -; 90; -; -; -; -; ; 
+0; GK; Sparrow, Connor; 9; 4; 765; 2; -; -; 1; ; 
+18; M; Suedois, William; 3; -; 129; -; -; 2; 1; ; 
+8; M; Valenciano, Daniel; 11; 8; 629; 4; -; 9; 9; ; 
+1; GK; Velez, Marco; 5; -; 405; -; -; -; -; ; 
+
+
+
+Team: Ocala Stampede
+http://www.uslpdl.com/teams/2014/42834740.html#STATS
+
+0; GK; Abele, Josef; 1; -; 90; -; -; -; -; ; 
+; D; Ayala, Leonardo; 8; -; 399; -; -; 2; 4; ; 
+9; F; Bailey, Jack; 11; 2; 647; 1; -; 13; 2; ; 
+1; GK; Bolowich, Alexander; 6; -; 521; -; -; 1; -; ; 
+19; F; Breitmeyer, Kyle; 6; 8; 292; 4; -; 14; 5; ; 
+21; M; Burns, Jack; 3; -; 44; -; -; -; -; ; 
+6; D; Campbell, Matthew; 1; -; 5; -; -; -; -; ; 
+8; M; Castro, Bruno; 1; 1; 53; -; 1; -; -; ; 
+15; D; Chirandu, Courage; 9; -; 690; -; -; 4; 15; ; 
+12; M; Clay, Alex; 2; 2; 180; 1; -; 8; -; ; 
+22; D; Copeland, Darion; 6; 4; 520; 2; -; 6; 4; ; 
+1; GK; Craggs, Lex; 7; -; 585; -; -; -; -; ; 
+18; D; Craig, Paco; 12; 5; 1056; 2; 1; 11; 13; ; 
+2; D; Duininck, Samuel; 12; 2; 973; -; 2; 2; 1; ; 
+4; D; Gourlay, Liam; 1; -; 90; -; -; -; 1; ; 
+23; F; Hilton, Lewis; 13; 12; 1149; 3; 6; 15; 14; ; 
+6; F; Hogg, Kenneth; 4; 5; 207; 2; 1; 2; -; ; 
+14; F; Ilic, Ilija; 13; 18; 1098; 8; 2; 27; 11; ; 
+7; M; Ireland, Kevin; 1; -; 13; -; -; 1; -; ; 
+17; M; Jack, Tamunosaki; 4; -; 143; -; -; 4; 3; ; 
+10; M; Janneh, Karamba; 11; 6; 793; 3; -; 27; 3; ; 
+; M; Karl, Khalil; 2; -; 7; -; -; -; -; ; 
+17; D; Kay, Jackie; 1; -; 1; -; -; -; -; ; 
+3; D; Knight, Ben; 13; 1; 1146; -; 1; 4; 7; ; 
+4; D; Mansour, Samuel; 6; 2; 540; 1; -; 2; 8; ; 
+16; M; Roberts, Wayne; 1; -; 37; -; -; -; -; ; 
+11; F; Ruiz, Freddy; 9; 5; 443; 2; 1; 5; 3; ; 
+7; M; Walmsley, Stephen; 10; -; 734; -; -; -; 1; ; 
+19; F; Zapponi, Gabriel; 3; -; 54; -; -; 1; 2; ; 
+
+
+Team: Orlando City U23
+http://www.uslpdl.com/teams/2014/22309.html#STATS
+
+11; F; Aperribay, Gorka; 7; 4; 430; 1; 2; 17; 3; ; 
+20; D; Bjoernoe, Eirik; 13; -; 1091; -; -; 4; 8; ; 
+17; F; Blackwood, Tyler; 8; 2; 396; -; 2; 10; 2; ; 
+19; D; Brinkman, Daan; 8; -; 353; -; -; 1; -; ; 
+8; M; Brody, Andrew; 11; 5; 745; 2; 1; 9; 4; ; 
+3; D; Clavijo, Javier; 7; -; 385; -; -; -; 2; ; 
+10; M; Clowes, Paul; 8; 3; 551; 1; 1; 5; 12; ; 
+25; F; Diniz, Lucas; 11; 6; 576; 3; -; 9; 1; ; 
+24; M; Djabi, Omar; 1; -; 50; -; -; -; -; ; 
+3; F; Elney, Sebastian; 4; -; 161; -; -; 4; 5; ; 
+5; D; Franke, Noah; 12; 2; 860; 1; -; 14; 7; ; 
+21; GK; Gomez, Tomas; 3; -; 270; -; -; -; -; ; 
+11; M; Hernandez, Romilio; 4; -; 239; -; -; 2; 3; ; 
+6; M; Johnson, Daniel; 8; -; 430; -; -; 10; 4; ; 
+18; M; Michel, Benjamin; 5; -; 193; -; -; 2; 3; ; 
+22; D; Millay, Michael; 10; -; 404; -; -; 2; 8; ; 
+18; F; Morrell, Robert; 4; -; 159; -; -; 4; 3; ; 
+4; D; Nartowicz, John; 3; -; 32; -; -; -; -; ; 
+15; D; Norris, Alexander; 5; -; 450; -; -; -; 1; ; 
+2; D; Okwuonu, Boyd; 5; -; 405; -; -; -; 8; ; 
+14; D; Quirino, Diogo; 6; -; 374; -; -; 1; 4; ; 
+13; F; Rittmeyer, Nicholas; 6; 1; 315; -; 1; 2; 3; ; 
+16; D; Russell, Skyler; 9; -; 567; -; -; 2; 2; ; 
+12; M; Sexius, Allan; 11; -; 728; -; -; 2; 13; ; 
+23; M; Souto, Victor; 10; -; 703; -; -; 6; 20; ; 
+21; GK; Stone, Philipp; 1; -; 82; -; -; -; 1; ; 
+7; D; Svantesson, Ian; 9; 2; 667; 1; -; 5; 3; ; 
+4; M; Tosan, Popo; 8; -; 393; -; -; 6; 2; ; 
+1; GK; Trautmann, Delbert; 1; -; 89; -; -; -; -; ; 
+1; GK; Uzcategui, Cody; 10; -; 799; -; -; -; -; ; 
+9; F; Williams, Romario; 11; 15; 628; 7; 1; 29; 11; ; 
+18; M; Zapata, Dennis; 5; -; 182; -; -; 3; -; ; 
+
+
+
+Team: Panama City Beach Pirates
+http://www.uslpdl.com/teams/2014/42834746.html#STATS
+
+22; F; Annarumma, Michael; 9; 5; 638; 2; 1; 15; 3; ; 
+2; M; Arico, Anthony; 10; 3; 700; 1; 1; 10; 10; ; 
+4; D; Assefa, Brook; 6; 2; 333; 1; -; 3; 1; ; 
+15; D; Barber, Joseph; 8; -; 691; -; -; 2; 3; ; 
+32; M; Barbero, Brandon; 8; 2; 713; 1; -; 3; 4; ; 
+7; D; Beasley, Andrew; 8; -; 436; -; -; 2; 2; ; 
+24; D; Botte, Tyler; 4; 2; 354; 1; -; 3; 2; ; 
+17; F; Curriston, Brandon; 9; -; 237; -; -; 2; 2; ; 
+20; D; Da Silva, Vitor; 14; 3; 1249; 1; 1; 11; 6; ; 
+31; D; Djafari, Yanis; 1; -; 5; -; -; -; -; ; 
+3; D; Dreyer, Nicolas; 12; -; 1080; -; -; 2; 8; ; 
+27; M; Fegert, Forrest; 2; -; 54; -; -; 1; 1; ; 
+14; F; Hoegg, Emmerich; 11; 8; 731; 4; -; 19; 6; ; 
+9; F; Kane, Alassane; 14; 8; 668; 4; -; 16; 10; ; 
+11; F; Kavara, Adin; 14; 14; 1087; 7; -; 32; 8; ; 
+23; GK; Lewis, Sean; 12; -; 1057; -; -; -; -; ; 
+21; M; Lightbourne, Michael; 12; 6; 920; -; 6; 11; 8; ; 
+1; GK; Luna, Braeden; 2; -; 113; -; -; -; -; ; 
+8; M; Oliveira, Ricardo; 9; -; 642; -; -; 2; 4; ; 
+16; F; Pajunk, Erik; 3; -; 170; -; -; 2; 4; ; 
+1; GK; Pray, Patric; 1; -; 90; -; -; -; -; ; 
+33; M; Roberts, Jack; 3; -; 206; -; -; 1; 2; ; 
+6; D; Savage, Donald; 7; -; 518; -; -; 3; 2; ; 
+26; M; Swierez, Michael; 3; -; 24; -; -; -; -; ; 
+10; M; Willison, Jack; 13; 2; 855; 1; -; 5; 12; ; 
+
+
+
+Team: SW Florida Adrenaline
+http://www.uslpdl.com/teams/2014/58152491.html#MAIN
+
+5; M; Antunez, David; 6; -; 206; -; -; 2; 2; ; 
+19; F; Bertrand, Bebey; 11; 10; 733; 5; -; 21; 9; ; 
+11; M; Butzke, Joshua; 12; -; 716; -; -; 7; 3; ; 
+6; D; Butzke, David; 11; 2; 841; 1; -; 5; 11; ; 
+23; D; Cerisiers, Wilvanley; 1; -; 3; -; -; -; -; ; 
+22; M; Cesarini, Arnaund; 10; 11; 590; 4; 3; 5; 19; ; 
+12; D; Charlton, DeJean; 6; -; 81; -; -; 1; -; ; 
+1; GK; Claypot, Arthur; 10; -; 900; -; -; -; 1; ; 
+; ; Desousa, Luiz; 1; -; 25; -; -; -; -; ; 
+17; M; Gooden, Jourdan; 12; -; 445; -; -; 5; 3; ; 
+9; F; Juarez, Cristian; 1; -; 17; -; -; -; -; ; 
+18; M; Le Bras, Kevin; 11; 12; 686; 4; 4; 24; 6; ; 
+4; D; Lee, Oliver; 10; 2; 822; 1; -; 8; 14; ; 
+3; D; Luchetta, Christian; 1; -; 1; -; -; -; -; ; 
+14; F; Marinell, Quade; 4; -; 318; -; -; 8; 7; ; 
+20; D; McCorkle, Owen; 12; 1; 1054; -; 1; 1; 17; ; 
+8; M; Miles, Charles; 11; 2; 551; 1; -; 6; 7; ; 
+10; M; Miller, Ashley; 9; 8; 647; 2; 4; 12; 15; ; 
+; M; Oliveri, Steven; 1; -; 72; -; -; -; 1; ; 
+24; D; Terzian, Romain; 10; 3; 676; 1; 1; 2; 12; ; 
+7; F; Thomas, Alcides; 12; 17; 911; 8; 1; 43; 12; ; 
+16; M; Tweedie, Benjamin; 3; -; 112; -; -; -; 2; ; 
+21; M; Walcott, Davier; 9; 1; 491; -; 1; 2; 8; ; 
+6; D; Wilks, Skylar; 6; -; 387; -; -; 3; 6; ; 
+29; GK; Yantz, Michael; 3; -; 270; -; -; -; -; ; 
+
+
+
+
+Team: Kitsap Pumas
+http://www.uslpdl.com/teams/2014/13598692.html#STATS
+
+21; ; Bundy, George; 3; -; 105; -; -; -; 1; ; 
+12; M; Catalano, Tommy; 12; 4; 800; 1; 2; 16; 16; ; 
+16; F; Chamberlain, Michael; 11; 4; 434; 2; -; 5; 14; ; 
+22; F; Danciu, Septi; 9; 4; 208; 2; -; 8; 4; ; 
+9; D; DeZorzi, Rene; 10; -; 900; -; -; 1; 13; ; 
+19; D; Devlin, Andrew; 12; 4; 823; 2; -; 7; 8; ; 
+7; M; Finlayson, Kevin; 13; -; 981; -; -; 2; 19; ; 
+15; F; Gonzalez, Miguel; 10; 14; 808; 6; 2; 19; 20; ; 
+11; M; Gonzalez, Daniel; 4; -; 275; -; -; 8; 2; ; 
+18; GK; Grosey, Matthew; 9; -; 810; -; -; -; 1; ; 
+14; F; Jansen, Sebastiaan; 7; -; 139; -; -; 3; 7; ; 
+5; M; Jensen, Trevor; 12; -; 527; -; -; 2; 13; ; 
+3; D; Keitz, Cory; 14; -; 1226; -; -; 1; 4; ; 
+13; M; Kelly, Patrick; 14; 5; 641; 2; 1; 4; 9; ; 
+20; M; Mendoza, Jose; 11; -; 429; -; -; 2; 7; ; 
+6; M; Olsen-Barr, Kristopher; 2; -; 36; -; -; -; -; ; 
+4; M; Ortinau, Justin; 14; 1; 584; -; 1; 7; 11; ; 
+1; GK; Rayburn, Joseph; 2; -; 154; -; -; -; -; ; 
+17; F; Rivas, Joaquin; 13; 10; 760; 4; 2; 12; 7; ; 
+8; D; Robinson, Blake; 4; -; 173; -; -; -; 2; ; 
+11; D; Rogers, Craig; 1; -; 82; -; -; -; -; ; 
+10; M; Sanchez, Jesus; 11; 12; 975; 5; 2; 17; 15; ; 
+2; D; Shelton, Cody; 10; 2; 897; -; 2; 3; 13; ; 
+23; D; Steigerwald, Brodie; 11; -; 767; -; -; 3; 15; ; 
+0; M; Wilson, Patrick; 1; -; 26; -; -; -; -; ; 
+
+
+
+Team: Lane United FC
+http://www.uslpdl.com/teams/2014/66638049.html#STATS
+
+0; D; Alarcon, Julio; 4; -; 317; -; -; 1; 6; ; 
+13; D; Anderson, Brenden; 8; -; 538; -; -; -; 12; ; 
+0; D; Arbogast, Matt; 4; -; 127; -; -; -; 2; ; 
+18; GK; Bersano, Mattew; 8; -; 675; -; -; -; -; ; 
+14; F; Bevans, Conner; 12; 9; 882; 4; 1; 28; 16; ; 
+15; M; Bolous, Joseph; 7; -; 513; -; -; 4; 8; ; 
+3; M; Chronopoulos, Johnny; 3; -; 201; -; -; 2; 3; ; 
+27; D; Connolly, Luke; 5; -; 434; -; -; -; 2; ; 
+24; M; Dietrich, Christian; 8; -; 576; -; -; 4; 12; ; 
+8; M; Doholis, Mikail; 7; -; 358; -; -; 4; 8; ; 
+20; M; Gomez, Edgar; 9; 2; 196; 1; -; 2; -; ; 
+22; GK; Hamilton, Wade; 3; -; 180; -; -; -; -; ; 
+19; F; Kiembi, Pierce; 7; -; 213; -; -; 4; 5; ; 
+33; D; Lee, Duran; 6; -; 441; -; -; -; 9; ; 
+1; GK; Lowrimore, Chris; 5; -; 405; -; -; -; -; ; 
+10; F; Lukaschik, Martin; 12; 3; 601; 1; 1; 12; 5; ; 
+0; M; Peralt, Alejandro; 1; -; 10; -; -; -; -; ; 
+6; D; Phillips, Casey; 12; 2; 1062; 1; -; 6; 4; ; 
+5; M; Ribes, Josep; 10; 1; 1023; -; 1; 13; 14; ; 
+0; D; Sasivarevic, Amer; 3; -; 270; -; -; 1; 3; ; 
+21; F; Sastre, Francisco; 6; -; 121; -; -; 1; 2; ; 
+12; M; Selles, Mikel; 5; -; 216; -; -; 3; 6; ; 
+31; F; Shelton, Khiry; 5; 7; 450; 3; 1; 7; 5; ; 
+16; D; Stevens, Daley; 11; -; 586; -; -; 1; 2; ; 
+26; D; Stleter, Tyler; 2; -; 78; -; -; -; -; ; 
+2; D; Trutner, Ryan; 3; -; 98; -; -; -; 1; ; 
+9; F; Velasquez, Rolando; 9; 1; 376; -; 1; 6; 6; ; 
+7; M; Vizcaino, Francisco; 13; -; 864; -; -; 5; 9; ; 
+23; D; van der Veld, Dirk; 12; 1; 804; -; 1; -; 12; ; 
+
+
+
+Team: Portland Timbers U-23s
+http://www.uslpdl.com/teams/2014/13598694.html#STATS
+
+19; F; Aguilar, Miguel; 8; 3; 634; 1; 1; 22; 10; ; 
+27; M; Alashe, Fatai; 11; 5; 906; 2; 1; 9; 18; ; 
+12; F; Belmar, Kharlton; 14; 17; 1060; 8; 1; 36; 21; ; 
+30; D; Castillo, Dennis; 10; 5; 869; 2; 1; 8; 12; ; 
+22; D; Conner, Robert; 3; -; 260; -; -; 1; 3; ; 
+4; D; Cross, Louis; 6; -; 505; -; -; -; 2; ; 
+17; M; Cunningham, Kenneth; 3; -; 129; -; -; 3; -; ; 
+18; D; Fisher, Devon; 12; -; 864; -; -; 4; 12; ; 
+2; D; Fisher, Kyle; 11; -; 847; -; -; 8; 14; ; 
+21; F; Gainford, Sam; 7; -; 435; -; -; 10; 1; ; 
+18; M; Garcia-Aguilar, Jesse; 5; 1; 115; -; 1; 1; 2; ; 
+10; F; Hamer, Zachary; 10; -; 391; -; -; 10; 3; ; 
+6; M; Hayes, Jacori; 7; 1; 557; -; 1; 4; 14; ; 
+4; D; Hewett, Evyn; 8; -; 446; -; -; 1; 2; ; 
+14; M; Holness, Omar; 5; 2; 585; 1; -; 10; 9; ; 
+20; M; Langsdorf, Foster; 5; 2; 129; 1; -; 2; -; ; 
+1; GK; Luthy, Justin; 8; -; 630; -; -; -; 1; ; 
+28; F; Macchione, Anthony; 4; -; 54; -; -; -; 1; ; 
+7; M; McKenna, Reed; 7; 2; 428; 1; -; 6; 14; ; 
+20; M; Moore, Nolan; 4; 2; 189; 1; -; 5; 3; ; 
+0; GK; Moore, Brendan; 8; -; 630; -; -; -; -; ; 
+9; D; Rhoads, Hudson; 4; 4; 244; -; 4; 2; 2; ; 
+8; M; Ribas, Jose; 9; -; 396; -; -; 2; 3; ; 
+13; D; Rose, David; 11; 3; 781; -; 3; 3; 16; ; 
+32; D; Seymore, William; 9; 2; 687; 1; -; 5; 10; ; 
+11; M; Stauffer, Lucas; 5; -; 219; -; -; 5; 4; ; 
+5; M; Strong, Benjamin; 7; 5; 518; 2; 1; 14; 3; ; 
+22; M; Werner, Sam; 5; -; 155; -; 1; 6; -; ; 
+
+
+
+Team: Puget Sound Gunners FC
+http://www.uslpdl.com/teams/2014/22407.html#STATS
+
+5; D; A, Michael; 9; 2; 786; 1; -; 3; 12; ; 
+11; F; Amundsen, Justin; 6; -; 87; -; -; -; -; ; 
+; F; Apollon, Ashkanov; 5; 2; 390; 1; -; 10; 9; ; 
+10; F; Ballew, Brady; 7; 3; 515; 1; 1; 10; 5; ; 
+9; F; Beasley, Quinton; 2; -; 180; -; -; 2; 1; ; 
+; M; Blanchard, Beau; 3; -; 120; -; -; 1; 1; ; 
+13; D; Brown, Bryan; 2; -; 29; -; -; -; -; ; 
+13; D; Broz, Luke; 2; -; 180; -; -; 1; 2; ; 
+12; D; Cook, Kevin; 9; 1; 805; -; 1; 3; 10; ; 
+0; GK; Dodson, Jason; 3; -; 270; -; -; -; -; ; 
+2; M; Duerksen, Justice; 9; 5; 796; 2; 1; 8; 7; ; 
+; M; Emerick, Kyle; 1; -; 26; -; -; -; 1; ; 
+4; D; Eronemo, Matthew; 9; -; 805; -; -; 3; 7; ; 
+8; M; Evangelista, Josimar; 1; -; 45; -; -; 1; 2; ; 
+6; M; Hammond, Zachary; 10; -; 703; -; -; 6; 8; ; 
+; F; Heard, Josh; 3; -; 215; -; -; 2; 5; ; 
+; F; Kosaka, Marshall; 4; -; 259; -; -; 7; 6; ; 
+18; F; Mccluskey, Vincent; 1; -; 155; -; -; 1; 3; ; 
+3; D; Miller, Joshua; 5; -; 450; -; -; 1; 4; ; 
+15; F; Ochoa, Esteban; 5; -; 30; -; -; -; -; ; 
+14; F; Ordenana, Fausto; 6; -; 176; -; -; 2; 8; ; 
+; M; Pavel, Bryson; 4; -; 300; -; -; 1; 4; ; 
+; GK; Richey, Spencer; 2; -; 180; -; -; -; -; ; 
+; M; Robertson, Mason; 2; -; 135; -; -; 2; 5; ; 
+1; GK; Rogers, Keegan; 6; -; 540; -; -; -; -; ; 
+7; M; Rose, Jeffrey; 3; 2; 216; 1; -; 1; 6; ; 
+7; M; Smith, Max; 7; -; 114; -; -; -; -; ; 
+; M; Smith, Daniel; 5; -; 430; -; -; 2; 5; ; 
+17; M; Urzua, Erick; 7; 2; 455; 1; -; 3; 4; ; 
+16; M; Williams, Rhys; 3; -; 157; -; -; -; 2; ; 
+
+
+
+Team: Sounders FC U23
+http://www.uslpdl.com/teams/2014/4480101.html#STATS
+
+6; M; Bajza, Michael; 11; 5; 1080; 1; 3; 28; 17; ; 
+33; D; Bjornethun, Kyle; 1; -; 55; -; -; -; -; ; 
+12; D; Brockway, Brandon; 3; -; 82; -; -; -; 1; ; 
+32; GK; Caldwell, Jefferson; 10; -; 900; -; -; -; 1; ; 
+7; F; Cox, Jamael; 10; 2; 484; -; 2; 5; 7; ; 
+27; M; De La Vega, Luis; 3; -; 78; -; -; 1; 3; ; 
+17; F; De Villardi, Thomas; 1; -; 55; -; -; 1; 1; ; 
+12; M; Duffie, Ritchie; 2; -; 44; -; -; 1; 2; ; 
+18; F; Dumbuya, Mohammed; 9; 10; 565; 3; 4; 15; 10; ; 
+2; D; Dunker, Austin; 12; -; 1050; -; -; 5; 8; ; 
+15; F; Esteves, Luis; 9; 10; 571; 5; -; 13; 7; ; 
+31; GK; Feener, Jacob; 3; -; 270; -; -; -; -; ; 
+15; D; Gallagher, Michael; 2; 1; 42; -; 1; -; 1; ; 
+10; F; Gjertsen, Joey; 2; 4; 217; 2; -; 3; 2; ; 
+9; M; Hansen, Nikolaj; 9; 5; 724; 2; 1; 19; 8; ; 
+13; D; Hanson, Chase; 12; -; 1001; -; -; 2; 5; ; 
+1; GK; Jennings, Jordan; 1; -; 90; -; -; -; -; ; 
+23; M; Jimenez, Oscar; 1; -; 90; -; -; -; -; ; 
+28; M; Johnson, Derek; 11; 2; 362; 1; -; 17; 6; ; 
+4; D; King, Michael; 2; -; 106; -; -; -; 2; ; 
+16; D; Lange, Ian; 3; -; 84; -; -; 2; 1; ; 
+9; D; Larson, Balin; 3; -; 116; -; -; 1; 2; ; 
+14; M; Lee, Mark; 12; 2; 1066; 1; -; 11; 14; ; 
+10; M; Lopez, Francisco; 3; -; 125; -; -; 1; -; ; 
+4; D; Mau, John; 2; -; 14; -; -; -; 1; ; 
+19; D; Mohn, Stephen; 10; -; 851; -; -; 7; 8; ; 
+5; F; Morris, Jordan; 4; -; 315; 1; -; 5; 1; ; 
+26; M; Peterson, Troy; 4; -; 135; -; -; 4; 2; ; 
+22; F; Reyes Potenciano, Esteban; 6; 3; 123; 1; 1; 7; 4; ; 
+21; M; Schweitzer, Jordan; 8; -; 446; -; -; 3; 14; ; 
+20; D; Segal, Robert; 1; -; 180; -; -; -; 4; ; 
+3; D; Simonin, Clement; 8; 1; 713; -; 1; 2; 14; ; 
+17; M; Taublieb, Zev; 5; -; 243; -; -; 2; 3; ; 
+11; F; Wehan, Christopher; 8; 2; 594; 1; -; 17; 5; ; 
+5; D; West, Thomas; 1; -; 82; -; -; -; -; ; 
+
+
+
+Team: Vancouver Whitecaps FC U-23
+http://www.uslpdl.com/teams/2014/8986445.html#STATS
+
+25; ; Adekugbe, Samuel; 2; -; 151; -; -; -; 3; ; 
+25; ; Alderson, Bryce; 4; 1; 360; -; 1; 2; 3; ; 
+4; M; Baldisimo, Mark; 7; 1; 275; -; 1; 1; 3; ; 
+8; ; Ballouchy, Mehdi; 4; 1; 199; -; 1; 2; 1; ; 
+10; M; Bustos, Marco; 6; 8; 385; 4; -; 13; 5; ; 
+22; ; Carducci, Marco; 3; -; 270; -; -; -; -; ; 
+24; F; Cook, Cody; 14; 20; 979; 10; -; 19; 22; ; 
+9; F; Cousens, Niall; 13; 15; 1025; 7; 1; 27; 21; ; 
+16; ; Dean, Christian; 3; 1; 270; -; 1; 3; 3; ; 
+13; GK; Diaz, William; 3; -; 270; -; -; -; -; ; 
+18; ; Einarsson, Sean; 6; -; 106; -; -; 1; 2; ; 
+25; ; Essa, Yassin; 1; -; 90; -; -; 3; -; ; 
+6; D; Farahani, Jordian; 12; 3; 1035; 1; 1; 1; 10; ; 
+26; ; Farmer, Jackson; 6; -; 540; -; -; 5; 11; ; 
+19; ; Froese, Kianz; 6; 4; 383; 2; -; 11; 3; ; 
+11; M; Haynes, Jordan; 8; -; 159; -; -; 3; 1; ; 
+16; ; James, Mason; 1; -; 14; -; -; -; -; ; 
+30; M; Jones, Adam; 9; 2; 328; 1; -; 5; 3; ; 
+20; ; Jones, Kyle; 1; -; 4; -; -; -; -; ; 
+7; M; Lakhan, Harpreet; 11; -; 880; -; -; 6; 24; ; 
+14; F; Levis, Brett; 12; 7; 819; 2; 3; 33; 4; ; 
+21; M; Musse, Ali; 4; 5; 101; 2; 1; 4; 2; ; 
+2; D; O'Neill, Colton; 13; 2; 1142; -; 2; 2; 3; ; 
+17; M; Piraux, Mitchell; 8; -; 537; -; -; 9; 6; ; 
+5; D; Prasad, Nicholas; 5; 3; 429; 1; 1; 2; 3; ; 
+28; M; Ramirez Arauz, Marlon; 13; 7; 909; 2; 3; 18; 13; ; 
+3; ; Sampson, Ethen; 1; -; 28; -; -; -; -; ; 
+27; D; Serban, Rares (Chris); 9; -; 698; -; -; 1; 6; ; 
+23; D; Stewart, Reynold; 11; 8; 754; 2; 4; 13; 4; ; 
+22; ; Tornaghi, Paolo; 1; -; 90; -; -; -; -; ; 
+1; ; Wirth, Nolan; 6; -; 540; -; -; -; -; ; 
+
+
+Team: Victoria Highlanders
+http://www.uslpdl.com/teams/2014/13598696.html#STATS
+
+5; D; Ashlee, Ryan; 12; 4; 1080; 2; -; 4; 13; ; 
+4; D; Barrett, Gavin; 10; -; 512; -; -; 2; 4; ; 
+14; M; Barrett, Wesley; 4; 3; 41; 1; 1; 2; -; ; 
+9; F; Basso, Carlo; 12; 10; 772; 4; 2; 19; 7; ; 
+20; M; Bhandal, Tarnvir; 11; -; 667; -; -; 1; 7; ; 
+2; D; Brown, Kevan; 12; -; 748; -; -; 3; 8; ; 
+16; M; Colantonio, Dominic; 1; -; 45; -; -; -; -; ; 
+7; M; Gomez, Emmanuel; 3; 1; 159; -; 1; 1; 1; ; 
+19; F; Greedy, Ian; 10; 6; 303; 2; 2; 9; 5; ; 
+13; D; Hughes, Tyler; 13; 2; 1170; -; 2; 6; 8; ; 
+17; F; Hughes, Jordan; 4; 2; 219; 1; -; 10; 1; ; 
+23; F; Hundal, Kartar; 13; 10; 1082; 4; 2; 20; 8; ; 
+29; GK; Mitrou, Elliott; 6; -; 540; -; -; -; -; ; 
+10; M; O'Neil, Riley; 11; 8; 990; 3; 2; 13; 13; ; 
+26; F; Prette, Sam; 7; 2; 170; 1; -; 5; 4; ; 
+8; D; Ravenhill, Adam; 3; -; 41; -; -; -; 1; ; 
+15; D; Ravenhill, Andrew; 13; 6; 1126; 1; 4; 5; 8; ; 
+6; M; Rowley, Alex; 13; -; 968; -; -; 12; 16; ; 
+18; F; Stokes, Cameron; 12; 8; 570; 3; 2; 7; 4; ; 
+21; F; Sturrock, Blair; 12; 10; 930; 5; -; 27; 10; ; 
+1; GK; Watson, Brandon; 7; -; 630; -; -; -; -; ; 
+11; F; de Graaf, Jordan; 5; 1; 107; -; 1; 1; 6; ; 
+
+
+
+Team: Washington Crossfire
+http://www.uslpdl.com/teams/2014/13598705.html#STATS
+
+23; M; Allison, Austin; 3; -; 158; -; -; 1; 2; ; 
+0; GK; Arguello, Mike; 4; -; 315; -; -; -; 1; ; 
+; D; Bacic, Bryce; 1; -; 30; -; -; -; -; ; 
+17; D; Besagno, Nikolas; 6; -; 505; -; -; -; 11; ; 
+4; D; Carlson, Jeremy; 9; -; 669; -; -; -; 3; ; 
+0; GK; Clark, Ian; 2; -; 135; -; -; -; -; ; 
+15; D; Collings, Jeffrey; 5; -; 120; -; -; -; 2; ; 
+17; M; Drame, Ibrahima; 2; -; 44; -; -; -; -; ; 
+; M; Drame, Ibrahima; 1; 1; 30; -; 1; -; 1; ; 
+; D; Greene, Josh; 1; -; 90; -; -; -; 1; ; 
+9; F; Haddadi, Hamza; 11; 16; 654; 7; 2; 19; 13; ; 
+2; D; Holland, Parker; 5; -; 622; 1; -; 4; 4; ; 
+16; F; Huffer, James; 7; -; 563; -; -; 3; 7; ; 
+; D; Jackson, Garret; 4; -; 335; -; -; 1; 4; ; 
+18; M; Jacobson, Bradley; 4; -; 163; -; -; 1; 3; ; 
+7; D; James, Nick; 11; -; 858; -; -; 2; 15; ; 
+21; F; Kelly, Liam; 8; 4; 312; 2; -; 3; 7; ; 
+15; M; Kollars, Jordan; 10; -; 693; -; -; 4; 6; ; 
+20; M; Ludwigs, Lars; 12; 1; 1072; -; 1; 12; 5; ; 
+19; M; Martinez, Adan; 9; -; 289; -; -; 3; 5; ; 
+; D; Ocampo, Jose; 2; -; 170; -; -; -; -; ; 
+; F; Piacentini, Niccolo; 2; -; 53; -; -; -; 2; ; 
+8; D; Piper, Philip; 5; -; 375; -; -; -; 1; ; 
+28; F; Poplawski, Matthew; 12; 5; 921; 2; 1; 14; 11; ; 
+11; M; Rocha, Cesar; 4; -; 245; -; -; 1; 2; ; 
+; F; Roldan, Christian; 7; 6; 630; 3; -; 18; 7; ; 
+3; M; Russell, Sean; 12; 1; 1050; -; 1; 6; 2; ; 
+10; M; Sanchez, Rafael; 3; 1; 225; -; 1; 3; 2; ; 
+; D; Schmidt, Justin; 6; -; 540; -; -; 1; 7; ; 
+22; M; Schott, Louis; 1; 4; 262; 2; -; 7; 2; ; 
+13; M; Stephenson, Hassani; 3; -; 243; -; -; 4; 2; ; 
+; M; Thoma, Andy; 6; 3; 515; 1; 1; 7; 10; ; 
+; M; Tice, William; 3; -; 130; -; -; 4; 3; ; 
+1; GK; Visten, Tyler; 9; -; 810; -; -; -; -; ; 
+8; F; White, Julian; 3; -; 91; -; -; -; 1; ; 
+
+
+
+
+Team: Albuquerque Sol FC
+http://www.uslpdl.com/teams/2014/66638043.html#STATS
+
+5; D; Braman, Ben; 1; -; 180; -; -; -; -; ; 
+2; ; Campbell, Travis; 12; 1; 977; -; 1; 2; 13; ; 
+3; D; Carbajal, Fabian; 12; 2; 925; 1; -; 7; 10; ; 
+0; GK; Champeois, Lucas; 3; -; 315; -; -; -; 1; ; 
+3; ; Dye, Joshua; 10; -; 848; -; -; 1; 2; ; 
+13; D; Gandarilla, Jacob; 9; 1; 655; -; 1; 2; 7; ; 
+20; M; Gordon, Seth; 4; -; 28; -; -; -; 1; ; 
+9; ; Goss, Josh; 6; -; 440; -; -; 2; 7; ; 
+1; ; Gurule, Chris; 4; -; 192; -; -; -; 2; ; 
+7; ; Kloer, Aaron; 4; -; 110; -; -; -; 4; ; 
+9; ; Lawrence, Zachary; 8; -; 341; -; -; 4; 3; ; 
+11; F; Lawrence, Luke; 11; -; 621; -; -; 12; 8; ; 
+17; M; Madrid, Isaiah; 13; 11; 943; 5; 1; 29; 15; ; 
+20; D; Mason, Deven; 7; -; 643; -; -; 2; 5; ; 
+8; M; McAfee, Darren; 11; -; 816; -; -; 1; 8; ; 
+3; ; Miele, Nicholas; 6; -; 464; -; -; -; 3; ; 
+8; ; Mora Delgado, Adrian; 1; -; 46; -; -; -; 1; ; 
+10; ; Muniz, Nicolo; 9; 2; 701; -; 2; 19; 1; ; 
+18; ; Pacheco, Nathanel; 12; 4; 485; 2; -; 13; 5; ; 
+7; ; Pacheco, Patrick; 6; 2; 437; 1; -; 1; 4; ; 
+2; M; Perez, Ricardo; 11; 2; 590; 1; -; 4; 7; ; 
+8; M; Ramirez, Ivan; 1; -; 240; -; -; -; 5; ; 
+21; ; Robledo, Lawrence; 2; -; 116; -; -; 2; -; ; 
+0; GK; Rodriguez, Victor; 11; -; 945; -; -; -; 1; ; 
+1; M; Rodriguez Serrano, Joaquin; 8; 2; 289; 1; -; 9; 3; ; 
+18; ; Schafer, Kevin; 3; -; 185; -; -; 1; 2; ; 
+14; F; Scibilia, Wayde; 1; -; 7; -; -; -; -; ; 
+22; D; Urbany, James; 9; -; 695; -; -; 2; 9; ; 
+8; ; Velasquez, Julio; 10; 2; 228; 1; -; 2; 12; ; 
+23; ; Velsquez, Jason; 2; -; 37; -; -; -; -; ; 
+21; F; Windsor, Bryan; 3; -; 163; -; -; 5; 3; ; 
+18; ; Wood, Kyle; 3; -; 158; -; -; -; 2; ; 
+
+
+Team: BYU Cougars
+http://www.uslpdl.com/teams/2014/22298.html#MAIN
+
+3; M; Bauer, Colby; 14; 2; 893; 1; -; 6; 14; ; 
+18; D; Buhler, Jacob; 1; -; 14; -; -; -; -; ; 
+20; D; Cowan, Zackary; 6; -; 49; -; -; -; -; ; 
+12; M; Critchlow, Kip; 13; 2; 1116; 1; -; 7; 7; ; 
+6; F; Dearden, Jerry; 12; -; 171; -; -; 3; 1; ; 
+15; M; Dossett, Andrew; 5; -; 70; -; -; -; 3; ; 
+9; F; Frischknecht, Blake; 13; 10; 1064; 4; 2; 34; 19; ; 
+7; F; Gee, Garrett; 12; 4; 598; 2; -; 13; 4; ; 
+19; M; Green, Jace; 14; 7; 1018; 3; 1; 22; 7; ; 
+0; GK; Hale, Brian; 8; -; 720; -; -; -; -; ; 
+17; F; Heaton, Scott; 14; 6; 1069; 1; 4; 17; 11; ; 
+2; D; Henderson, Trevor; 13; -; 318; -; -; -; 3; ; 
+4; M; Hunter, Joshua; 13; -; 256; -; -; 1; 5; ; 
+8; D; Junca, Jonathan; 14; 3; 1235; 1; 1; 3; 15; ; 
+13; D; Lartey, Emmanuel; 14; -; 814; -; -; 2; 9; ; 
+5; D; Meyer, Ethan; 13; -; 1170; -; -; 11; 15; ; 
+0; GK; Petersen, Michael; 6; -; 540; -; -; -; -; ; 
+14; D; Rider, Matt; 14; 2; 1260; 1; -; 4; 9; ; 
+11; F; Sorhaitz, Winston; 14; 15; 829; 7; 1; 25; 10; ; 
+16; F; Tobler, Christian; 4; -; 51; -; -; -; -; ; 
+10; M; Vasconcelos, Pedro; 9; 6; 610; 2; 2; 8; 10; ; 
+
+
+Team: FC Tucson
+http://www.uslpdl.com/teams/2014/42834737.html#STATS
+
+8; D; Acosta, Andres; 4; -; 208; -; -; -; 1; ; 
+21; F; Antoniuk, Daniel; 4; 1; 114; -; 1; -; 1; ; 
+11; M; Brandt, Connor; 11; 12; 879; 6; -; 15; 7; ; 
+20; D; Carter, Greg; 8; -; 690; -; -; 1; 6; ; 
+12; F; De Rada, Sebastian; 11; 5; 679; 1; 3; 14; 9; ; 
+4; ; DeGraffenreidt, Michael; 7; -; 630; -; -; -; 3; ; 
+2; ; Earle, Otis; 5; -; 213; -; -; 1; 1; ; 
+24; ; Felix, Ryan; 12; -; 641; -; -; 1; 3; ; 
+13; ; Galbraith-Knapp, Elijah; 4; 1; 215; -; 1; -; 2; ; 
+15; ; Gutierrez, Yaincy; 9; 1; 425; -; 1; 3; 5; ; 
+7; ; Hackett, Jason; 1; -; 16; -; -; -; -; ; 
+19; D; Harbison, Tim; 12; -; 1040; -; -; 3; 6; ; 
+10; ; Jackson, Trevor; 1; -; 7; -; -; -; -; ; 
+18; ; Jaye, Dallas; 1; -; 90; -; -; -; -; ; 
+5; M; Kelly, Peter; 6; 2; 369; 1; -; 2; 7; ; 
+6; D; Ledbetter, Austin; 12; 3; 836; 1; 1; 6; 10; ; 
+20; ; McGovern, Riley; 4; -; 125; -; -; 1; -; ; 
+18; GK; McIntosh, Kendall; 1; -; 45; -; -; -; -; ; 
+16; ; Morley, Trevor; 2; 2; 110; 1; -; 1; 1; ; 
+12; D; Ornstil, Max; 5; -; 285; -; -; 2; 3; ; 
+14; D; Phillips, Joshua; 10; 1; 642; -; 1; 3; 1; ; 
+14; ; Phillips, Clark; 9; 9; 404; 4; 1; 12; 3; ; 
+7; F; Ramos, Thomas; 10; 4; 401; 2; -; 11; 3; ; 
+22; ; Rapella, Martino; 2; -; 112; -; -; 2; 1; ; 
+17; D; Reyna, Edgar; 12; -; 849; -; -; 5; 8; ; 
+23; F; Rookwood, Vance; 9; 9; 330; 3; 3; 14; 12; ; 
+3; F; Sinclair, Odaine; 13; 17; 973; 6; 5; 21; 12; ; 
+0; ; Taillole, Justin; 2; -; 56; -; -; -; -; ; 
+1; GK; Thompson, William; 13; -; 1080; -; -; -; -; ; 
+9; F; Velasco, Ricardo; 14; 18; 1100; 7; 4; 24; 18; ; 
+25; ; Velez, Santiago; 2; -; 12; -; -; -; -; ; 
+10; F; Volesky, Christian; 6; 4; 290; 2; -; 8; 4; ; 
+
+
+Team: Las Vegas Mobsters
+http://www.uslpdl.com/teams/2014/66638046.html#STATS
+
+11; M; Abrego, Richard; 4; -; 289; -; -; 4; 5; ; 
+21; D; Arbelaez, Victor; 3; 2; 148; 1; -; 1; -; ; 
+10; F; Ayim, Emmanuel; 10; 6; 452; 3; -; 21; 13; ; 
+3; M; Bernal, Salvador; 12; 11; 1014; 5; 1; 20; 11; ; 
+15; D; Brink, Matt; 10; -; 464; -; -; -; 5; ; 
+15; D; Burgos, Sergio; 2; -; 86; -; -; 1; 6; ; 
+14; M; Carney, Craig; 11; 4; 990; 2; -; 8; 12; ; 
+19; D; Costano, Daniel; 2; -; 28; -; -; -; 2; ; 
+7; F; Dragomir, Julien; 5; 2; 133; 1; -; 2; 1; ; 
+2; D; Eng, Jason; 12; -; 852; -; -; 2; 8; ; 
+13; F; Favela, Victor; 4; -; 78; -; -; -; 1; ; 
+12; D; Garcia, Dennis; 9; -; 623; -; -; 4; 4; ; 
+16; D; Guerrero Ibarra, Jose Octavio; 2; 2; 135; 1; -; 1; 8; ; 
+8; M; Halley, Francky; 5; 1; 222; -; 1; 5; 6; ; 
+5; D; Hines, Robert; 14; -; 1215; -; -; 4; 10; ; 
+13; M; Iohara, Sakae; 2; -; 150; -; -; 4; -; ; 
+25; GK; Konstantino, Andrew; 5; -; 450; -; -; -; 1; ; 
+23; M; Lara, Carlos; 14; 1; 1061; -; 1; 10; 20; ; 
+9; F; Musovski, Daniel; 7; 2; 454; 1; -; 15; 4; ; 
+19; D; Nayigihugu, Noce; 6; 1; 518; -; 1; -; 3; ; 
+15; D; Noon, Harry; 5; -; 450; -; -; -; -; ; 
+22; GK; Oliver, Bryan; 1; -; 90; -; -; -; -; ; 
+10; M; Parra, Victor; 4; -; 139; -; -; 1; 3; ; 
+6; M; Partida, Kevin; 13; 3; 1025; 1; 1; 15; 3; ; 
+17; M; Pemberton, Payden; 9; 1; 286; -; 1; 5; 3; ; 
+18; M; Portugal, Julian; 10; 2; 719; 1; -; 6; 6; ; 
+20; D; Rodrigues, Caue; 3; -; 272; -; -; -; 1; ; 
+1; GK; Solis, Abraham; 1; -; 90; -; -; -; -; ; 
+4; M; Velazquez, Oscar; 11; 1; 592; -; 1; 13; 10; ; 
+26; GK; Wilcox, Lewis; 8; -; 645; -; -; -; -; ; 
+
+
+
+Team: Real Colorado
+http://www.uslpdl.com/teams/2014/13598684.html#STATS
+
+20; D; AMAYA, RAFAEL; 4; -; 395; -; -; 3; 1; ; 
+11; D; Armstrong, Ri; 10; 2; 601; 1; -; 4; 7; ; 
+15; ; Beerman, Jake; 1; -; 8; -; -; 1; -; ; 
+19; M; Berg, Dustin; 9; 2; 541; 1; -; 7; 6; ; 
+14; F; Bolden, Zachary; 7; 2; 586; 1; -; 15; 6; ; 
+16; ; Center, Cory; 3; -; 74; -; -; 2; 2; ; 
+6; D; DePuy, Nicholas; 3; -; 270; -; -; 5; 7; ; 
+19; ; Dia, Amadou; 3; -; 248; -; -; 2; 2; ; 
+3; ; Donaldson, Lorne; 9; -; 810; -; -; 10; 9; ; 
+23; D; Dotseth, Mark; 10; -; 900; -; -; 5; 2; ; 
+7; ; Elias, Raul; 4; -; 133; -; -; 1; 4; ; 
+19; M; Gilbert, Jamie; 9; -; 787; -; -; 7; 3; ; 
+4; F; Hammett, Matthew; 8; 2; 400; -; 2; 3; 6; ; 
+6; M; Hemmi, Masaki; 4; -; 354; -; -; 3; 3; ; 
+8; ; Jackson, Spencer; 5; -; 93; -; -; 2; 2; ; 
+5; M; Jennings, Jeffrey; 14; 2; 1236; 1; -; 6; 16; ; 
+24; D; LaCouture, John; 11; -; 517; -; -; -; 7; ; 
+1; GK; Lissek, Jacob; 4; -; 215; -; -; -; -; ; 
+16; M; Madigan, Joseph; 7; 6; 526; 1; 4; 8; 2; ; 
+18; M; Mejia, Andrew; 12; -; 896; -; -; 13; 11; ; 
+15; D; Ogletree, Michael; 6; -; 454; -; -; -; 2; ; 
+18; M; Ohtake-Gordon, Akio; 7; 4; 274; 2; -; 10; 4; ; 
+12; F; Palma, Estevan; 9; 2; 283; 1; -; 8; 3; ; 
+18; ; Perez, Jesus; 4; 2; 195; 1; -; 7; 4; ; 
+3; ; Rehl, John; 3; -; 242; -; -; 1; 3; ; 
+6; ; Remaley, Matt; 1; -; 54; -; -; 2; -; ; 
+1; GK; Rosales, Miguel; 12; -; 1045; -; -; -; -; ; 
+9; F; Salvaggione, Chris; 4; 6; 309; 3; -; 18; 5; ; 
+2; D; Sandoval, Sean; 2; -; 180; -; -; -; 4; ; 
+15; ; Session IV, Hammie; 3; -; 46; -; -; -; -; ; 
+8; ; Thompson, Craig; 1; -; 90; -; -; 1; 2; ; 
+8; M; Townsend, Jaret; 1; -; 43; -; -; -; -; ; 
+17; D; Woodson, Kyle; 13; 1; 1042; -; 1; 8; 4; ; 
+
+
+
+Team: Fresno Fuego
+http://www.uslpdl.com/teams/2014/22326.html#STATS
+
+15; F; Antognoli, Gregory; 10; 4; 442; 2; -; 8; 3; ; 
+27; M; Bettencourt, Kurtis; 5; 4; 125; 2; 1; 2; 2; ; 
+24; M; Biswell, Tren; 2; -; 41; -; -; 1; -; ; 
+5; F; Campos, Abraham; 13; 8; 1144; 3; 2; 8; 15; ; 
+0; GK; Castillo, Cesar; 3; -; 226; -; -; -; -; ; 
+8; M; Cignetti, Gaston; 10; 1; 706; -; 1; 14; 7; ; 
+14; M; Colunga, Jonathan; 3; 1; 214; -; 1; 3; 2; ; 
+10; M; Cuevas, Jose; 11; 13; 938; 3; 7; 27; 7; ; 
+1; GK; Diaz, Beau; 4; -; 315; -; -; -; -; ; 
+13; M; Dominguez, Jorge; 1; -; 6; -; -; -; -; ; 
+12; D; Edmonds, Alfred; 10; -; 641; -; -; 1; 4; ; 
+2; D; Ellison, Kenneth; 9; 2; 810; 1; -; -; 5; ; 
+13; D; Escobar, Matthew; 2; -; 360; -; -; -; 2; ; 
+16; D; Finch, Justin; 5; -; 343; -; -; 2; -; ; 
+7; M; Garcia, Robert; 11; 5; 484; 1; 3; 8; 2; ; 
+20; M; Garcia, Jesus; 8; -; 502; -; -; 2; 8; ; 
+3; D; Gonzalez, Edison; 5; -; 342; -; -; 2; 3; ; 
+24; M; Hernandez, Alexis; 1; -; 6; -; -; -; -; ; 
+21; GK; Hernandez, Francisco; 7; -; 629; -; -; 2; 1; ; 
+4; M; Hord, Elliott; 11; -; 641; -; -; 3; 5; ; 
+11; M; Islas, Paul; 13; 8; 749; 4; -; 14; 3; ; 
+35; M; Medina, Jon-Paul; 3; 1; 40; -; 1; -; -; ; 
+18; F; Najera Jr, Luis; 1; -; 82; -; -; -; 3; ; 
+6; F; Reinhart, Tyler; 8; 7; 478; 3; 1; 12; 12; ; 
+22; M; Salciccia, Anthony; 13; 2; 496; 1; -; 7; 8; ; 
+19; F; Santoyo, Omar; 6; 4; 168; 1; 2; 4; 2; ; 
+9; M; Silva, Gustavo; 12; 6; 787; 3; -; 9; 14; ; 
+17; D; Spurgeon, Trevor; 13; 2; 1076; 1; -; 7; 9; ; 
+
+
+
+Team: LA Misioneros FC
+http://www.uslpdl.com/teams/2014/4069051.html#STATS
+
+3; D; Alvarado, Christian; 6; -; 279; -; -; -; -; ; 
+8; M; Anguiano, Rene; 5; -; 372; -; -; 1; 4; ; 
+9; F; Behrad, Brian; 9; 6; 394; 3; -; 1; -; ; 
+13; D; Bejarano, Kleyner; 10; 3; 676; 1; 1; 1; -; ; 
+19; F; Cardoso, Victor; 1; -; 3; -; -; -; -; ; 
+7; F; Castro, Javier; 7; 17; 490; 7; 3; 6; 4; ; 
+15; M; Chagonda, Victor; 8; 1; 188; -; 1; -; -; ; 
+22; D; Contreras, Edgar; 5; 2; 365; 1; -; 1; 2; ; 
+4; D; De Alba, Angel; 9; -; 702; -; -; 3; 1; ; 
+11; M; De La Fuente, Bryan; 13; 11; 933; 4; 3; 15; 5; ; 
+3; D; Flores, Zayd; 2; -; 70; -; -; -; -; ; 
+15; D; Garcia, Erlys; 1; -; 90; -; -; -; -; ; 
+2; D; Giron, Mynor; 10; -; 829; -; -; 1; 2; ; 
+10; M; Gonzalez, Edgar; 10; 4; 629; -; 4; 6; 1; ; 
+24; GK; Hobbs, Adam; 5; -; 360; -; -; -; -; ; 
+21; D; Holait, Jamiesh; 6; -; 517; -; -; -; 2; ; 
+13; M; King, Christian; 3; -; 210; -; -; 4; -; ; 
+16; M; Klerks, Mason; 1; -; 6; -; -; -; -; ; 
+18; M; Lomeli, Angel; 2; -; 80; -; -; 1; -; ; 
+2; F; Lopez, Joseph; 1; -; 45; -; -; 3; -; ; 
+12; M; Mendoza, Alexander; 11; 3; 910; 1; 1; 4; 6; ; 
+1; GK; Miranda Boudy, Jose; 6; -; 485; -; -; -; 1; ; 
+6; F; Mosqueda, Ulises; 1; -; 20; -; -; -; 2; ; 
+16; F; Nwabueze, Kyrian; 7; 13; 473; 6; 1; 10; 1; ; 
+5; D; Ortega, Jose; 6; 1; 473; -; 1; -; 1; ; 
+1; GK; Paldino, Vincent; 5; -; 450; -; -; -; -; ; 
+18; M; Parra, Victor; 1; -; 1; -; -; -; -; ; 
+18; F; Perez, Adrien; 4; 2; 117; 1; -; -; -; ; 
+16; M; Rivas, Edwin; 5; -; 101; -; -; 2; -; ; 
+9; F; Robinson, Saeed; 14; 4; 978; 2; -; 12; 3; ; 
+16; M; Rosales, Carlos; 5; -; 44; -; -; 1; -; ; 
+16; M; Samayoa, Juan; 1; -; 12; -; -; 1; -; ; 
+20; M; Sandoval, Antonio; 9; 3; 501; 1; 1; 4; -; ; 
+10; M; Smith, Chris; 11; 2; 885; 1; -; 2; 1; ; 
+4; M; Torres JR, Carlos; 4; -; 198; -; -; -; 1; ; 
+14; M; Vieira, Jadilson; 7; -; 359; -; -; 1; 5; ; 
+17; D; Wallace, Jamel; 6; -; 520; -; -; 1; 1; ; 
+
+
+
+Team: OC Pateadores Blues
+http://www.uslpdl.com/teams/2014/4069052.html#STATS
+
+15; F; Abolfathi, Dersu; 1; 2; 62; 1; -; 1; 2; ; 
+6; D; Afsarifard, Kayvon; 3; -; 225; -; -; -; 2; ; 
+19; D; Amick, Michael; 3; -; 270; -; -; -; 1; ; 
+15; D; Bell, Mitchell; 1; -; 90; -; -; -; -; ; 
+4; M; Bjurman, Mats; 14; 4; 1206; 1; 2; 10; 5; ; 
+13; M; Carerra-Garcia, Jose; 7; -; 447; -; -; 5; 10; ; 
+31; F; Craven, Andrew; 5; 3; 323; 1; 1; 4; 2; ; 
+18; F; De La Torre, Kevin; 3; -; 225; -; -; 3; -; ; 
+42; M; Dhillon, Sean; 2; -; 39; -; -; 1; 2; ; 
+12; D; Diehl, Nathan; 2; -; 180; -; -; -; -; ; 
+60; GK; Elias, David; 3; -; 225; -; -; -; -; ; 
+15; F; Escudero, Roberto; 6; 1; 401; -; 1; 7; 3; ; 
+14; D; Estrada, Ray; 9; 2; 566; 1; -; 3; 4; ; 
+61; GK; Fenlason, Jake; 2; -; 90; -; -; -; -; ; 
+5; D; Fives, Phil; 2; -; 122; -; -; -; 1; ; 
+6; F; Gonzalez, Eric; 6; -; 161; -; 1; 2; 1; ; 
+17; F; Gonzalez, Christian; 7; 4; 329; 2; -; 7; -; ; 
+15; M; Gould, Kevin; 3; -; 184; -; -; -; -; ; 
+60; GK; Hauser, Chase; 2; -; 90; -; -; -; -; ; 
+17; F; Hayes, Tre; 11; 4; 756; 1; 2; 19; 10; ; 
+4; M; Howe, Grady; 2; -; 97; -; -; 1; -; ; 
+12; F; Iwasa, Cameron; 9; 6; 661; 2; 2; 17; 2; ; 
+20; D; Janjigian, Thomas; 8; -; 667; -; -; 1; -; ; 
+26; D; Kim, Jae Hyeong; 5; 1; 122; -; 1; 3; 2; ; 
+9; F; MacLeod, Kyle; 3; 2; 179; 1; -; 2; 2; ; 
+22; D; Mahmood, Sam; 4; -; 309; -; -; 1; -; ; 
+4; D; Mamadou, Kebe; 9; -; 693; -; -; 2; 11; ; 
+1; GK; McGuire, Jake; 7; -; 855; -; -; 1; -; ; 
+17; M; O'Brien, Kyle; 2; -; 82; -; -; 2; 1; ; 
+13; M; Park, Su Hyun; 4; -; 116; -; -; 2; 2; ; 
+13; F; Paz, Nahum; 2; -; 65; -; -; -; 1; ; 
+25; M; Raygoza, William; 9; 7; 736; 3; 1; 7; 6; ; 
+26; D; Romo, Hector; 1; -; 14; -; -; -; -; ; 
+7; F; Salazar, Michael; 3; 4; 122; 2; -; 6; 2; ; 
+14; D; Sekine, Bobby; 6; 1; 463; -; 1; 1; 2; ; 
+3; D; Simmons, Aaron; 6; 1; 383; -; 1; -; 2; ; 
+32; M; Sperber, Michael; 5; -; 254; -; -; -; 3; ; 
+20; D; Sperber, Bennett; 2; -; 34; -; -; -; 1; ; 
+12; F; Stenberg, Jake; 8; 1; 592; -; 1; 5; 4; ; 
+9; F; Thierjung, Christian; 8; 2; 495; 1; -; 12; 2; ; 
+9; F; Valencia, Ruben; 3; 4; 196; 2; -; 5; 1; ; 
+15; D; Villalba, Fermin; 5; -; 424; -; -; -; 1; ; 
+18; M; ten Bosch, Daniel; 6; -; 260; -; -; 2; -; ; 
+
+
+Team: San Jose Earthquakes (PDL)
+http://www.uslpdl.com/teams/2014/66641538.html#STATS
+
+8; M; Aquino, Jairo; 9; -; 329; -; -; -; 8; ; 
+13; M; Brubaker, Luc; 4; -; 173; -; -; 4; 2; ; 
+23; M; Carranza, Christan; 10; 3; 646; -; 3; 3; 11; ; 
+19; F; Cashmere, Nicholas; 12; 9; 840; 3; 3; 20; 8; ; 
+14; M; Casiple, Seth; 9; 5; 616; 1; 3; 7; 6; ; 
+12; M; Cervantes, Julio; 4; -; 220; -; -; 3; 3; ; 
+14; F; Cruz, Christian; 2; -; 135; -; -; -; 6; ; 
+4; D; Diaz, Jose; 2; -; 47; -; -; -; 1; ; 
+18; D; Dubose, Devante; 14; -; 1037; -; -; 4; 4; ; 
+1; GK; Finney, Evan; 7; -; 810; -; -; -; 2; ; 
+7; M; Garcia, Armando; 2; -; 119; -; -; 1; 2; ; 
+24; D; Goldsmith, Gabriel; 3; -; 85; -; -; -; -; ; 
+1; GK; Guzman, Jesus; 5; -; 450; -; -; -; 1; ; 
+17; M; Hagen, Tyler; 1; -; 90; -; -; 1; 1; ; 
+22; M; Jimison, Brady; 2; -; 54; -; -; 2; -; ; 
+4; D; Kelly, Andrew; 2; -; 42; -; -; -; -; ; 
+7; M; Kirkland, Daniel; 10; 1; 335; -; 1; 6; 3; ; 
+9; F; Kuczynski, Daniel; 14; 11; 585; 5; 1; 14; 10; ; 
+3; D; Martin del Campo, Ramon; 14; -; 1260; -; -; 2; 6; ; 
+23; M; Martinez, Luis; 9; 9; 788; 4; 1; 14; 5; ; 
+7; M; Mendoza, Roberto; 2; -; 94; -; -; 1; 1; ; 
+16; M; Oldham, Maxwell; 8; 1; 612; 2; 1; 14; 5; ; 
+15; D; Serrano, Dylan; 8; 2; 877; 1; -; 1; 2; ; 
+11; M; Sheldon, Matthew; 14; 13; 955; 6; 1; 13; 12; ; 
+6; D; Silva, Gustavo; 4; -; 276; -; -; -; -; ; 
+5; D; Silveira, Gabriel; 8; 1; 302; -; 1; 3; 3; ; 
+2; D; Smith, Joshua; 11; 4; 1080; 2; -; 3; 5; ; 
+10; M; Wisenfarth, Matthew; 12; 4; 394; 1; 2; 12; 5; ; 
+
+
+
+
+Team: Southern California Seahorses
+http://www.uslpdl.com/teams/2014/22384.html#STATS
+
+24; F; Adams, Daryl; 14; -; 317; -; -; 3; 4; ; 
+17; D; Beltran, Alvaro; 13; 4; 1155; 2; -; 2; 7; ; 
+23; D; Bogdanovich, James; 13; -; 773; -; -; 1; 8; ; 
+18; M; Bowman, Geoffrey; 12; 10; 922; 4; 2; 17; 11; ; 
+13; D; Catano, Cody; 8; -; 527; -; -; -; 3; ; 
+16; M; Clark, Jonathan; 9; 3; 378; -; 3; 1; 3; ; 
+15; M; Clark, Joshua; 8; -; 541; -; -; 6; 8; ; 
+8; GK; Coffman, John; 14; -; 1260; -; -; -; 2; ; 
+10; F; Cunningham, Michael; 14; 3; 1041; 1; 1; 19; 7; ; 
+25; D; Hodgen, Michael; 10; 2; 783; 1; -; 1; 11; ; 
+14; M; Kelly, Keyran; 9; 1; 431; -; 1; 3; 4; ; 
+19; D; Kiser, Kevin; 5; 1; 392; -; 1; -; 1; ; 
+6; M; Klindworth, Zachary; 12; -; 355; -; -; 4; 7; ; 
+5; M; Lamb, Colton; 6; -; 440; -; -; 4; 3; ; 
+28; D; Mellen, Kevin; 1; -; 15; -; -; -; -; ; 
+12; D; Navarrete, Jose; 1; -; 8; -; -; -; -; ; 
+4; M; Nugen, Nathaniel; 10; 4; 771; 2; -; 6; 17; ; 
+20; D; Odenbeck, Jared; 11; -; 945; -; -; 3; 6; ; 
+6; D; Paur, Mitchell; 11; -; 880; -; -; 2; 3; ; 
+9; F; Raines, Matthew; 12; 4; 573; 2; -; 7; 7; ; 
+11; M; Smith, Sage; 1; -; 65; -; -; 1; 1; ; 
+22; M; Trower, Josiah; 8; -; 296; -; -; 6; 2; ; 
+7; F; Wright, Jeremiah; 10; 5; 663; 2; 1; 14; 5; ; 
+
+
+
+Team: Ventura County Fusion
+http://www.uslpdl.com/teams/2014/6188518.html#MAIN
+
+15; D; Alfaro, Tony; 10; 6; 900; 3; -; 2; 3; ; 
+21; M; Bell, Laurie; 10; 10; 742; 2; 6; 14; 11; ; 
+4; F; Bryan, Raffique; 2; -; 32; -; -; 1; -; ; 
+13; GK; Castro, Isiah; 2; -; 77; -; -; -; -; ; 
+6; M; Cazarez, Agustin; 12; 2; 1029; 1; -; 4; 13; ; 
+8; F; Chongo, Kennedy; 5; -; 126; -; -; 3; -; ; 
+17; D; Colvey, Kip; 12; 5; 1073; 2; 1; 6; 4; ; 
+36; GK; Corby, Kevin; 2; -; 135; -; -; -; -; ; 
+9; F; Danladi, Abu; 3; 5; 190; 3; 1; 13; 3; ; 
+9; ; Delgado Davila, Danchrisandre; 5; 3; 421; -; 3; 3; 4; ; 
+1; GK; Edwards, Earl; 1; -; 90; -; -; -; -; ; 
+10; ; Gregory, Peter; 2; -; 49; -; -; 1; -; ; 
+5; D; Hancock, Sterling; 12; -; 1049; -; -; -; 1; ; 
+3; ; Iloski, Brian; 1; -; 90; -; -; 1; -; ; 
+19; M; Jome, Ismaila; 9; 4; 618; 1; 2; 14; 8; ; 
+22; D; Keny-Guyer, Evan; 9; -; 321; -; -; -; -; ; 
+20; D; Kiffe, James; 13; 11; 998; 3; 5; 20; 17; ; 
+14; M; LaGrassa, Matt; 10; 2; 517; 1; -; 10; 7; ; 
+16; F; Livingston, Brennan; 5; -; 102; -; -; 1; 2; ; 
+4; ; Lopez, John; 4; 2; 101; 1; -; 3; 1; ; 
+7; M; Lopez, Elias; 4; -; 59; -; -; 1; -; ; 
+5; D; Minter, Chase; 7; -; 330; -; -; 2; -; ; 
+1; GK; Mitchell, Trey; 11; -; 868; -; -; -; 2; ; 
+23; M; Moya, Andy; 6; -; 242; -; -; -; 3; ; 
+16; ; Noon, Harry; 1; -; 45; -; -; -; -; ; 
+24; ; Oliver, Paul; 2; 2; 69; 1; -; -; 1; ; 
+18; M; Palacios, Steve; 5; -; 190; -; -; 3; 4; ; 
+16; F; Rideout, Jordan; 6; 10; 432; 4; 2; 15; 4; ; 
+14; D; Rodriguez, Ruben; 4; -; 143; -; -; -; 1; ; 
+12; F; Roman, Michael; 7; 4; 369; 1; 2; 5; 2; ; 
+16; F; Stanley, Duran; 2; -; 111; -; -; 6; 3; ; 
+13; ; Steenhuis, Sheldon; 1; -; 90; -; -; -; -; ; 
+11; D; Torre Howell, Javan; 11; 1; 933; -; 1; 7; 12; ; 
+7; F; Vale, Jordan; 8; 4; 362; 2; -; 11; 3; ; 
