@@ -101,8 +101,8 @@ BlockSource: http://www.uslpdl.com/teams/2014/33862327.html#STATS
 25; F; Woodfull, Brendan; 3; -; 28; -; -; -; 1; 
 
 
-; Team: Michigan Bucks
-; http://www.uslpdl.com/teams/2014/22344.html#STATS
+Team: Michigan Bucks
+BlockSource: http://www.uslpdl.com/teams/2014/22344.html#STATS
 
 27; M; Adkins, Jeffrey; 6; 3; 96; 1; 1; 4; 2
 16; F; Ben, Gerald; 13; 7; 564; 1; 5; 10; 2
@@ -136,7 +136,7 @@ BlockSource: http://www.uslpdl.com/teams/2014/33862327.html#STATS
 
 
 Team: Pittsburgh Riverhounds U23
-http://www.uslpdl.com/teams/2014/66637160.html#MAIN
+BlockSource: http://www.uslpdl.com/teams/2014/66637160.html#MAIN
 
 33; M; Campos, Luca; 10; -; 557; -; -; 5; 2; ; 
 34; M; Canello, Dominic; 2; -; 18; -; -; -; -; ; 
@@ -173,7 +173,7 @@ http://www.uslpdl.com/teams/2014/66637160.html#MAIN
 
 
 Team: Toronto Lynx
-http://www.uslpdl.com/teams/2014/22392.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22392.html#STATS
 
 3; D; Brennan, Francis; 8; -; 700; -; -; -; 8; ; 
 4; M; Collins, Liam; 14; 4; 1203; 2; -; 8; 12; ; 
@@ -202,7 +202,7 @@ http://www.uslpdl.com/teams/2014/22392.html#STATS
 
 
 Team: Chicago Inferno
-http://www.uslpdl.com/teams/2014/42834719.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/42834719.html#STATS
 
 21; M; Aiello, Fabio; 4; -; 290; -; -; 4; 2; ; 
 8; M; Alvarez, Noel; 4; -; 360; -; -; 9; 2; ; 
@@ -231,7 +231,7 @@ http://www.uslpdl.com/teams/2014/42834719.html#STATS
 
 
 Team: Des Moines Menace
-http://www.uslpdl.com/teams/2014/22322.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22322.html#STATS
 
 ; ; Baker, Stephen; 1; -; 5; -; -; 1; -; ; 
 19; D; Bales, Charles; 13; -; 1088; -; -; 6; 8; ; 
@@ -266,7 +266,7 @@ http://www.uslpdl.com/teams/2014/22322.html#STATS
 
 
 Team: Springfield Demize
-http://www.uslpdl.com/teams/2014/6188458.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/6188458.html#STATS
 
 15; M; Alvarez, Noel; 2; -; 50; -; -; -; 2; ; 
 13; D; Best, Jordy; 7; 2; 326; 1; -; 1; 1; ; 
@@ -301,7 +301,7 @@ http://www.uslpdl.com/teams/2014/6188458.html#STATS
 
 
 Team: St. Louis Lions
-http://www.uslpdl.com/teams/2014/4069049.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/4069049.html#STATS
 
 29; F; Beasley, Ryan; 6; -; 142; -; -; 2; 2; ; 
 v; D; Bond, Jacob; 13; -; 933; -; -; 3; 8; ; 
@@ -334,7 +334,7 @@ v; D; Bond, Jacob; 13; -; 933; -; -; 3; 8; ;
 
 
 Team: Thunder Bay Chill
-http://www.uslpdl.com/teams/2014/22389.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22389.html#STATS
 
 1; GK; Alvarado, Daniel; 11; -; 976; -; -; -; 1; ; 
 9; F; Argos Ocerin, Ivan; 10; 13; 770; 6; 1; 22; 5; ; 
@@ -359,7 +359,7 @@ http://www.uslpdl.com/teams/2014/22389.html#STATS
 
 
 Team: WSA Winnipeg
-http://www.uslpdl.com/teams/2014/33862333.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/33862333.html#STATS
 
 9; F; Badescu, Aaron; 4; -; 101; -; -; 3; 3; ; 
 12; M; Borka, Ivan; 12; 2; 661; 1; -; 5; 11; ; 
@@ -385,7 +385,7 @@ http://www.uslpdl.com/teams/2014/33862333.html#STATS
 
 
 Team: Baltimore Bohemians
-http://www.uslpdl.com/teams/2014/42834749.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/42834749.html#STATS
 
 11; F; Allen, Brandon; 2; 2; 180; 1; -; 10; 1; 
 1; GK; Back, Tyler; 2; -; 180; -; -; -; -; 
@@ -423,7 +423,7 @@ http://www.uslpdl.com/teams/2014/42834749.html#STATS
 
 
 Team: FA Euro
-http://www.uslpdl.com/teams/2014/58152751.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/58152751.html#STATS
 
 18; M; Amvrosiatos, Dennis; 3; -; 29; -; -; -; -; ; 
 14; D; Balsamo, Marco; 6; -; 387; -; -; -; 3; ; 
@@ -464,7 +464,7 @@ http://www.uslpdl.com/teams/2014/58152751.html#STATS
 
 
 Team: Jersey Express
-http://www.uslpdl.com/teams/2014/8986443.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/8986443.html#STATS
 
 11; F; Bastos, Thiago; 1; -; 45; -; -; 1; 1; ; 
 18; M; Bilay, Alex; 2; -; 63; -; -; -; -; ; 
@@ -501,7 +501,7 @@ http://www.uslpdl.com/teams/2014/8986443.html#STATS
 
 
 Team: Long Island Rough Riders
-http://www.uslpdl.com/teams/2014/22341.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22341.html#STATS
 
 15; M; Arnone, Tyler; 2; 5; 180; 2; 1; 2; -; ; 
 19; D; Barea, Stephan; 8; 3; 365; 1; 1; 5; 2; ; 
@@ -531,7 +531,7 @@ http://www.uslpdl.com/teams/2014/22341.html#STATS
 
 
 Team: NJ Luso Parma
-http://www.uslpdl.com/teams/2014/8986441.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/8986441.html#STATS
 
 8; M; Akinyode, Boluwatife; 10; 3; 900; 1; 1; 8; 18; ; 
 1; GK; Baird, Ryan; 6; -; 534; -; -; -; -; ; 
@@ -564,7 +564,7 @@ http://www.uslpdl.com/teams/2014/8986441.html#STATS
 
 
 Team: Northern Virginia Royals
-http://www.uslpdl.com/teams/2014/22363.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22363.html#STATS
 
 9; F; Asihel, Mulu; 3; -; 123; -; -; -; 1; ; 
 23; F; Barnd, Joseph; 2; -; 16; -; -; -; -; ; 
@@ -600,11 +600,11 @@ http://www.uslpdl.com/teams/2014/22363.html#STATS
 
 
 Team: Ocean City Nor'easters
-http://www.uslpdl.com/teams/2014/22383.html
+BlockSource: http://www.uslpdl.com/teams/2014/22383.html
 
 
 Team:  Reading United AC
-http://www.uslpdl.com/teams/2014/22373.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22373.html#STATS
 
 8; M; Amaya, Juan; 1; -; 6; -; -; -; -; ; 
 8; M; Baldin, Lucas; 1; -; 17; -; -; -; -; ; 
@@ -650,7 +650,7 @@ http://www.uslpdl.com/teams/2014/22373.html#STATS
 
 
 Team: CFC Azul
-http://www.uslpdl.com/teams/2014/42834731.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/42834731.html#STATS
 
 12; F; Baccielo, Daniel; 7; 4; 265; 1; 2; 5; 1; ; 
 14; F; Bogle, Edward; 14; 4; 1120; 1; 2; 19; 5; ; 
@@ -687,7 +687,7 @@ http://www.uslpdl.com/teams/2014/42834731.html#STATS
 
 
 Team: GPS Portland Phoenix
-http://www.uslpdl.com/teams/2014/20204270.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/20204270.html#STATS
 
 9; F; Anderson, Eric; 3; -; 103; -; -; 1; 2; ; 
 10; M; Barden, Jonathan; 5; 2; 420; 1; -; 2; 4; ; 
@@ -723,7 +723,7 @@ http://www.uslpdl.com/teams/2014/20204270.html#STATS
 
 
 Team: Montreal Impact U23
-http://www.uslpdl.com/teams/2014/66637418.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/66637418.html#STATS
 
 57; F; Ait Slimane, Yacine; 11; 2; 635; 1; -; -; -; ; 
 49; M; Béland Goyette, Louis; 8; 2; 566; -; 2; -; 3; ; 
@@ -752,7 +752,7 @@ http://www.uslpdl.com/teams/2014/66637418.html#STATS
 
 
 Team: Real Boston Rams
-http://www.uslpdl.com/teams/2014/58152654.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/58152654.html#STATS
 
 
 22; F; Anderson, Eric; 8; 2; 402; 1; -; 2; 4; ; 
@@ -786,7 +786,7 @@ http://www.uslpdl.com/teams/2014/58152654.html#STATS
 
 
 Team: Seacoast United Phantoms
-http://www.uslpdl.com/teams/2014/22354.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22354.html#STATS
 
 18; D; Agudo Pelayo, Pablo; 11; 3; 994; 1; 1; 8; 11; ; 
 29; D; Brewster, Benjamin; 13; 2; 1164; 1; -; 2; 5; ; 
@@ -815,7 +815,7 @@ http://www.uslpdl.com/teams/2014/22354.html#STATS
 
 
 Team: Vermont Voltage
-http://www.uslpdl.com/teams/2014/22396.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22396.html#STATS
 
 7; M; Antic, Uros; 13; -; 899; -; -; 4; 6; ; 
 13; M; Benson, Mark; 1; -; 90; -; -; -; -; ; 
@@ -842,7 +842,7 @@ http://www.uslpdl.com/teams/2014/22396.html#STATS
 
 
 Team: Westchester Flames
-http://www.uslpdl.com/teams/2014/22400.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22400.html#STATS
 
 19; M; ABAGALI, BERNARD; 7; -; 605; -; -; 1; 3; ; 
 21; D; Alexieff, Kristian; 2; -; 79; -; -; -; 4; ; 
@@ -880,11 +880,11 @@ http://www.uslpdl.com/teams/2014/22400.html#STATS
 
 
 Team: Western Mass Pioneers
-http://www.uslpdl.com/teams/2014/22401.html
+BlockSource: http://www.uslpdl.com/teams/2014/22401.html
 
 
 Team: Carolina Dynamo
-http://www.uslpdl.com/teams/2014/22307.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22307.html#STATS
 
 22; D; Ali, Mahdi; 1; -; 45; -; -; -; -; ; 
 2; M; Barnes, Patrick; 4; -; 122; -; -; 5; -; ; 
@@ -932,7 +932,7 @@ http://www.uslpdl.com/teams/2014/22307.html#STATS
 
 
 Team:  Cincinnati Dutch Lions
-http://www.uslpdl.com/teams/2014/66637498.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/66637498.html#STATS
 
 2; D; Causey, Bryan; 10; -; 587; -; -; 6; 4; ; 
 3; D; Desalvatore, Nick; 13; -; 905; -; -; 6; 7; ; 
@@ -958,7 +958,7 @@ http://www.uslpdl.com/teams/2014/66637498.html#STATS
 
 
 Team: River City Rovers
-http://www.uslpdl.com/teams/2014/33862330.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/33862330.html#STATS
 
 19; M; Andriot, Walker; 2; -; 49; -; -; -; -; ; 
 11; M; Berra, Louis; 9; 3; 578; -; 3; 1; 11; ; 
@@ -996,7 +996,7 @@ http://www.uslpdl.com/teams/2014/33862330.html#STATS
 
 
 Team: SC United Bantams
-http://www.uslpdl.com/teams/2014/42834752.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/42834752.html#STATS
 
 4; M; Acree, Zach; 4; 2; 248; 1; -; 1; 3; ; 
 1; GK; Beebe, Robert; 4; -; 360; -; -; -; -; ; 
@@ -1027,7 +1027,7 @@ http://www.uslpdl.com/teams/2014/42834752.html#STATS
 
 
 Team: Southern West Virginia King's Warriors
-http://www.uslpdl.com/teams/2014/42834755.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/42834755.html#STATS
 
 8; M; Asante, Gideon; 14; 9; 1225; 3; 3; 27; 9; ; 
 5; D; Atemafac, Vitalis; 8; 1; 557; -; 1; 1; -; ; 
@@ -1062,7 +1062,7 @@ http://www.uslpdl.com/teams/2014/42834755.html#STATS
 
 
 Team: West Virginia Chaos
-http://www.uslpdl.com/teams/2014/22399.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22399.html#STATS
 
 10; F; Arthur, Adam; 9; 2; 518; 1; -; 16; 6; ; 
 1; GK; Atwell, Tyler; 1; -; 90; -; -; -; -; ; 
@@ -1090,7 +1090,7 @@ http://www.uslpdl.com/teams/2014/22399.html#STATS
 
 
 Team: Austin Aztex
-http://www.uslpdl.com/teams/2014/42834722.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/42834722.html#STATS
 
 23; D; Alcala, Joshua; 11; -; 626; -; -; 1; 11; ; 
 3; D; Ambrose, Michael; 4; 1; 293; -; 1; 1; 5; ; 
@@ -1128,7 +1128,7 @@ Team: Houston Dutch Lions
 
 
 Team: Laredo Heat
-http://www.uslpdl.com/teams/2014/934454.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/934454.html#STATS
 
 ; M; Alihodzic, Fazlo; 7; -; 251; -; -; 4; 2; ; 
 ; M; Arata, Marcelo; 1; -; 8; -; -; -; -; ; 
@@ -1166,7 +1166,7 @@ http://www.uslpdl.com/teams/2014/934454.html#STATS
 
 
 Team: Midland/Odessa Sockers FC
-http://www.uslpdl.com/teams/2014/13598690.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/13598690.html#STATS
 
 18; M; Alvarez, Mario; 12; -; 501; -; -; 5; 8; ; 
 30; GK; Babyak, Jason; 4; -; 585; -; -; -; -; ; 
@@ -1197,7 +1197,7 @@ http://www.uslpdl.com/teams/2014/13598690.html#STATS
 
 
 Team: Mississippi Brilla FC
-http://www.uslpdl.com/teams/2014/6188388.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/6188388.html#STATS
 
 23; F; Abdehou, Dean; 10; -; 431; -; -; 3; 3; ; 
 10; F; Almeida, Lucas; 14; 7; 1138; 3; 1; 18; 9; ; 
@@ -1228,7 +1228,7 @@ http://www.uslpdl.com/teams/2014/6188388.html#STATS
 
 
 Team: Floridians FC
-http://www.uslpdl.com/teams/2014/66637724.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/66637724.html#STATS
 
 10; F; Benito, Miguel; 10; 5; 798; 2; 1; 12; 13; ; 
 25; M; Bozkurt, Deniz; 7; 3; 625; 1; 1; 11; 11; ; 
@@ -1264,7 +1264,7 @@ http://www.uslpdl.com/teams/2014/66637724.html#STATS
 
 
 Team: IMG Academy Bradenton
-http://www.uslpdl.com/teams/2014/22301.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22301.html#STATS
 
 3; D; Abidor, David; 13; 3; 1052; 1; 1; 13; 14; ; 
 15; M; Barboto, Daniel; 6; -; 194; -; -; 1; 3; ; 
@@ -1299,7 +1299,7 @@ http://www.uslpdl.com/teams/2014/22301.html#STATS
 
 
 Team: Ocala Stampede
-http://www.uslpdl.com/teams/2014/42834740.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/42834740.html#STATS
 
 0; GK; Abele, Josef; 1; -; 90; -; -; -; -; ; 
 ; D; Ayala, Leonardo; 8; -; 399; -; -; 2; 4; ; 
@@ -1333,7 +1333,7 @@ http://www.uslpdl.com/teams/2014/42834740.html#STATS
 
 
 Team: Orlando City U23
-http://www.uslpdl.com/teams/2014/22309.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22309.html#STATS
 
 11; F; Aperribay, Gorka; 7; 4; 430; 1; 2; 17; 3; ; 
 20; D; Bjoernoe, Eirik; 13; -; 1091; -; -; 4; 8; ; 
@@ -1371,7 +1371,7 @@ http://www.uslpdl.com/teams/2014/22309.html#STATS
 
 
 Team: Panama City Beach Pirates
-http://www.uslpdl.com/teams/2014/42834746.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/42834746.html#STATS
 
 22; F; Annarumma, Michael; 9; 5; 638; 2; 1; 15; 3; ; 
 2; M; Arico, Anthony; 10; 3; 700; 1; 1; 10; 10; ; 
@@ -1402,7 +1402,7 @@ http://www.uslpdl.com/teams/2014/42834746.html#STATS
 
 
 Team: SW Florida Adrenaline
-http://www.uslpdl.com/teams/2014/58152491.html#MAIN
+BlockSource: http://www.uslpdl.com/teams/2014/58152491.html#MAIN
 
 5; M; Antunez, David; 6; -; 206; -; -; 2; 2; ; 
 19; F; Bertrand, Bebey; 11; 10; 733; 5; -; 21; 9; ; 
@@ -1434,7 +1434,7 @@ http://www.uslpdl.com/teams/2014/58152491.html#MAIN
 
 
 Team: Kitsap Pumas
-http://www.uslpdl.com/teams/2014/13598692.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/13598692.html#STATS
 
 21; ; Bundy, George; 3; -; 105; -; -; -; 1; ; 
 12; M; Catalano, Tommy; 12; 4; 800; 1; 2; 16; 16; ; 
@@ -1465,7 +1465,7 @@ http://www.uslpdl.com/teams/2014/13598692.html#STATS
 
 
 Team: Lane United FC
-http://www.uslpdl.com/teams/2014/66638049.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/66638049.html#STATS
 
 0; D; Alarcon, Julio; 4; -; 317; -; -; 1; 6; ; 
 13; D; Anderson, Brenden; 8; -; 538; -; -; -; 12; ; 
@@ -1500,7 +1500,7 @@ http://www.uslpdl.com/teams/2014/66638049.html#STATS
 
 
 Team: Portland Timbers U-23s
-http://www.uslpdl.com/teams/2014/13598694.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/13598694.html#STATS
 
 19; F; Aguilar, Miguel; 8; 3; 634; 1; 1; 22; 10; ; 
 27; M; Alashe, Fatai; 11; 5; 906; 2; 1; 9; 18; ; 
@@ -1534,7 +1534,7 @@ http://www.uslpdl.com/teams/2014/13598694.html#STATS
 
 
 Team: Puget Sound Gunners FC
-http://www.uslpdl.com/teams/2014/22407.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22407.html#STATS
 
 5; D; A, Michael; 9; 2; 786; 1; -; 3; 12; ; 
 11; F; Amundsen, Justin; 6; -; 87; -; -; -; -; ; 
@@ -1570,7 +1570,7 @@ http://www.uslpdl.com/teams/2014/22407.html#STATS
 
 
 Team: Sounders FC U23
-http://www.uslpdl.com/teams/2014/4480101.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/4480101.html#STATS
 
 6; M; Bajza, Michael; 11; 5; 1080; 1; 3; 28; 17; ; 
 33; D; Bjornethun, Kyle; 1; -; 55; -; -; -; -; ; 
@@ -1611,7 +1611,7 @@ http://www.uslpdl.com/teams/2014/4480101.html#STATS
 
 
 Team: Vancouver Whitecaps FC U-23
-http://www.uslpdl.com/teams/2014/8986445.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/8986445.html#STATS
 
 25; ; Adekugbe, Samuel; 2; -; 151; -; -; -; 3; ; 
 25; ; Alderson, Bryce; 4; 1; 360; -; 1; 2; 3; ; 
@@ -1647,7 +1647,7 @@ http://www.uslpdl.com/teams/2014/8986445.html#STATS
 
 
 Team: Victoria Highlanders
-http://www.uslpdl.com/teams/2014/13598696.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/13598696.html#STATS
 
 5; D; Ashlee, Ryan; 12; 4; 1080; 2; -; 4; 13; ; 
 4; D; Barrett, Gavin; 10; -; 512; -; -; 2; 4; ; 
@@ -1675,7 +1675,7 @@ http://www.uslpdl.com/teams/2014/13598696.html#STATS
 
 
 Team: Washington Crossfire
-http://www.uslpdl.com/teams/2014/13598705.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/13598705.html#STATS
 
 23; M; Allison, Austin; 3; -; 158; -; -; 1; 2; ; 
 0; GK; Arguello, Mike; 4; -; 315; -; -; -; 1; ; 
@@ -1717,7 +1717,7 @@ http://www.uslpdl.com/teams/2014/13598705.html#STATS
 
 
 Team: Albuquerque Sol FC
-http://www.uslpdl.com/teams/2014/66638043.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/66638043.html#STATS
 
 5; D; Braman, Ben; 1; -; 180; -; -; -; -; ; 
 2; ; Campbell, Travis; 12; 1; 977; -; 1; 2; 13; ; 
@@ -1754,7 +1754,7 @@ http://www.uslpdl.com/teams/2014/66638043.html#STATS
 
 
 Team: BYU Cougars
-http://www.uslpdl.com/teams/2014/22298.html#MAIN
+BlockSource: http://www.uslpdl.com/teams/2014/22298.html#MAIN
 
 3; M; Bauer, Colby; 14; 2; 893; 1; -; 6; 14; ; 
 18; D; Buhler, Jacob; 1; -; 14; -; -; -; -; ; 
@@ -1780,7 +1780,7 @@ http://www.uslpdl.com/teams/2014/22298.html#MAIN
 
 
 Team: FC Tucson
-http://www.uslpdl.com/teams/2014/42834737.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/42834737.html#STATS
 
 8; D; Acosta, Andres; 4; -; 208; -; -; -; 1; ; 
 21; F; Antoniuk, Daniel; 4; 1; 114; -; 1; -; 1; ; 
@@ -1817,7 +1817,7 @@ http://www.uslpdl.com/teams/2014/42834737.html#STATS
 
 
 Team: Las Vegas Mobsters
-http://www.uslpdl.com/teams/2014/66638046.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/66638046.html#STATS
 
 11; M; Abrego, Richard; 4; -; 289; -; -; 4; 5; ; 
 21; D; Arbelaez, Victor; 3; 2; 148; 1; -; 1; -; ; 
@@ -1852,8 +1852,8 @@ http://www.uslpdl.com/teams/2014/66638046.html#STATS
 
 
 
-Team: Real Colorado
-http://www.uslpdl.com/teams/2014/13598684.html#STATS
+Team: Real Colorado Foxes
+BlockSource: http://www.uslpdl.com/teams/2014/13598684.html#STATS
 
 20; D; AMAYA, RAFAEL; 4; -; 395; -; -; 3; 1; ; 
 11; D; Armstrong, Ri; 10; 2; 601; 1; -; 4; 7; ; 
@@ -1892,7 +1892,7 @@ http://www.uslpdl.com/teams/2014/13598684.html#STATS
 
 
 Team: Fresno Fuego
-http://www.uslpdl.com/teams/2014/22326.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22326.html#STATS
 
 15; F; Antognoli, Gregory; 10; 4; 442; 2; -; 8; 3; ; 
 27; M; Bettencourt, Kurtis; 5; 4; 125; 2; 1; 2; 2; ; 
@@ -1926,7 +1926,7 @@ http://www.uslpdl.com/teams/2014/22326.html#STATS
 
 
 Team: LA Misioneros FC
-http://www.uslpdl.com/teams/2014/4069051.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/4069051.html#STATS
 
 3; D; Alvarado, Christian; 6; -; 279; -; -; -; -; ; 
 8; M; Anguiano, Rene; 5; -; 372; -; -; 1; 4; ; 
@@ -1969,7 +1969,7 @@ http://www.uslpdl.com/teams/2014/4069051.html#STATS
 
 
 Team: OC Pateadores Blues
-http://www.uslpdl.com/teams/2014/4069052.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/4069052.html#STATS
 
 15; F; Abolfathi, Dersu; 1; 2; 62; 1; -; 1; 2; ; 
 6; D; Afsarifard, Kayvon; 3; -; 225; -; -; -; 2; ; 
@@ -2017,7 +2017,7 @@ http://www.uslpdl.com/teams/2014/4069052.html#STATS
 
 
 Team: San Jose Earthquakes (PDL)
-http://www.uslpdl.com/teams/2014/66641538.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/66641538.html#STATS
 
 8; M; Aquino, Jairo; 9; -; 329; -; -; -; 8; ; 
 13; M; Brubaker, Luc; 4; -; 173; -; -; 4; 2; ; 
@@ -2052,7 +2052,7 @@ http://www.uslpdl.com/teams/2014/66641538.html#STATS
 
 
 Team: Southern California Seahorses
-http://www.uslpdl.com/teams/2014/22384.html#STATS
+BlockSource: http://www.uslpdl.com/teams/2014/22384.html#STATS
 
 24; F; Adams, Daryl; 14; -; 317; -; -; 3; 4; ; 
 17; D; Beltran, Alvaro; 13; 4; 1155; 2; -; 2; 7; ; 
@@ -2081,7 +2081,7 @@ http://www.uslpdl.com/teams/2014/22384.html#STATS
 
 
 Team: Ventura County Fusion
-http://www.uslpdl.com/teams/2014/6188518.html#MAIN
+BlockSource: http://www.uslpdl.com/teams/2014/6188518.html#MAIN
 
 15; D; Alfaro, Tony; 10; 6; 900; 3; -; 2; 3; ; 
 21; M; Bell, Laurie; 10; 10; 742; 2; 6; 14; 11; ; 
