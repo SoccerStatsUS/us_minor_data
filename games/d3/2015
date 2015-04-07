@@ -2,16 +2,22 @@ BlockSource: http://www.uslsoccer.com/SportSelect.dbml?SPID=157014&SPSID=917141&
 Competition: USL Pro
 Season: 2015
 
-* League - 2015 Schedules
-* DATE	HOME TEAM	SCORE	AWAY TEAM	SCORE	LOCATION	TIME (ET)	MEDIA
+* site:uslsoccer.com CONTENT_ID "scoring summary" 2015
 
-3/21/2015 1930; Charleston Battery; 3-2; Toronto FC II; Blackbaud Stadium
+3/21/2015 1930; Charleston Battery; 3-2; Toronto FC II; Blackbaud Stadium; David Erbacher, Rick Rogers, Ben Jackson, Wayne Pavlischek; 4536
 Dane Kelly (Quinton Griffith) 38, Shawn Ferguson (ua) 57, Taylor Mueller (Jarad van Schaik) 90; Jordan Hamilton (Alex Bono) 8, Molham Babouli (ua) 16
+Charleston Battery: Cooper; Mueller, Ferguson, Woodbine, Griffith; Chang, van Schaik, Portillo, Prince (Rodriguz 80); Kelly (Cordoves 55), Garbanzo (Savage 83)
+Toronto FC II: Alex Bono; Morgan, Charpie, Simonin, Fabrizi; Chapman, Mannella (Bouchard 86), Aparicio (Mirabelli 62); Hamilton, Babouli, Kaye (Uccello 75)
+Source: http://www.uslsoccer.com/ViewContent.dbml?DB_OEM_ID=32800&CONTENT_ID=1217562
 
-3/21/2015 2230; Seattle Sounders FC 2; 4-2; Sacramento Republic FC; Starfire Sports Stadium
-Andy Craven (Damion Lowe) 49, Sam Garza (Pablo Rossi) 70, Pablo Rossi 76, Cristian Roldan (Victor Mansaray) 89; Justin Braun 64, Octavio Guzman 90+
+3/21/2015 2230; Seattle Sounders FC 2; 4-2; Sacramento Republic FC; Starfire Sports Stadium; Boubacarr Jallow, Mike Rottersman, Joshua Haimes, Josh Wilkens; 2951
+Andy Craven (Damion Lowe) 49, Sam Garza (Pablo Rossi) 70, Pablo Rossi (ua) 76, Cristian Roldan (Victor Mansaray) 89; Justin Braun (ua) 64, Octavio Guzman (ua) 90+
+Source: http://www.uslsoccer.com//ViewContent.dbml?DB_OEM_ID=32800&CONTENT_ID=1217563
 
-3/22/2015 2000; LA Galaxy II; 0-0; Real Monarchs SLC; StubHub Center
+3/22/2015 2000; LA Galaxy II; 0-0; Real Monarchs SLC; StubHub Center; 1000
+LA Galaxy II: Diop; Maganto, DeLaGarza, Garcia, Sorto, Jamieson (Covarrubias 77), Mendiola, Steres, Bowen (Lassiter 66), Bli, Amaya (McBean 61)
+Real Monarchs SLC: Fernandez, Okwuono, Phanuel, McGovern, Tavares (Navarro 80), Ovalle (Celestino 78), Velazco (Brown 89), Baldin, Maund, Stertzer, Saucedo (Hernandez 85)
+Source: http://www.uslsoccer.com//ViewContent.dbml?DB_OEM_ID=32800&CONTENT_ID=1221562
 
 3/27/2015 1930; Charlotte Independence; 2-3; Charleston Battery; Transamerica Field
 Thompson (Herrera) 13, Finley (pk) 47; Cordoves 10, Garbanzo (Cordoves) 21, Cordoves (Chang) 38
@@ -19,60 +25,75 @@ Charlotte Independence: J. Berner; C. Eloundou (C. Calvert 67), P. Slogic, A. Ri
 Charleston Battery: O. Cooper; T. Mueller, S. Ferguson, N. Boyd (D. Marini 70), M. Chang, J. Van Schaik, E. Adjetey, H. Cordoves (A. Savage 77), R. Gabanzo (M. Rodriguez 59), J. Portillo, Z. Prince
 Source: http://www.uslsoccer.com/liveStats/v2/soccer/index.dbml?GAME_STAT_ID=1965066&db_oem_id=32800
 
-3/28/2015 1230; FC Montreal; 0-2; Toronto FC II; Olympic Stadium
+3/28/2015 1230; FC Montreal; 0-2; Toronto FC II; Olympic Stadium; Chris Grabas, JF Marchand, Lyes Afa, Pierre-Luc Lauziere; 1301
+; Marcos Nunes (Molham Babouli 38), own goal 71
+FC Montreal: Hassoun Camara, Yann-Alex Fillion, Jonathan Vallee (Goyette-Beland 58), Victor Ndiaye, Alessandro Riggi (Mastanabal Kacher 55), John Dinkota (Joseph-Lincort 78), Yacine Ait-Slimane (Kevin Luarca 72), Mitchel Bringolf, Nazim Belguendouz, Chakib-Nazim Hocine (Janouk Charbonneau 72), Fabio Morelli
+Toronto FC: Alex Bono, Wesley Charpie (Mateo Restrepo 89), Manuel Aparicio (Martin Davis 68), Adam Bouchard, Marcos Nunes (Rahim Thorpe 88), Molham babouli, Massimo Mirabelli (Marcus Godinho 64), Mark Serjeant (Raheem Edwards 64), Mark Anthony Kaye, Luca Uccello, Daniel Fabrizi
+Source: http://www.uslsoccer.com/ViewContent.dbml?DB_OEM_ID=32800&CONTENT_ID=1241562
 
-
-3/28/2015 1400; New York Red Bulls II; 0-0; Rochester Rhinos; Red Bull Arena
+3/28/2015 1400; New York Red Bulls II; 0-0; Rochester Rhinos; Red Bull Arena; Ryan Dos Reis, T.J. Zablocki, Joseph Zawistowski, Dava Braknar; 547
+Rochester Rhinos: Alex Dixon (Marcos Ugarte 79), Sean Totsch (Julian Ringhof 61), Apostolopoulos, Volesky (Forbes 74), Rolfe (Dos Santos 26), Mendoza (Samuels 64), Garzi, McMahon, Van de Casteele, Walls, Miller
+New York Red Bulls II: Sanchez (Clay 68), Stolz, Obekop (Castellanos 89), Castano, Thomas, Zajac, Plewa (Borges 39), Da Fonte, Tsonis (Sanchez 79), Heffron, Manosalvas (Etienne 59)
+Source: http://www.uslsoccer.com/ViewContent.dbml?DB_OEM_ID=32800&CONTENT_ID=1240762
 
 3/28/2015 1500; Louisville City FC; 2-0; Saint Louis FC; Louisville Slugger Field
 Rasmussen 23, Adams (Rasmussen) 65;
 Source: http://www.uslsoccer.com/liveStats/v2/soccer/index.dbml?GAME_STAT_ID=1965468&db_oem_id=32800
 
-3/28/2015 1900; Pittsburgh Riverhounds; 5-2; Harrisburg City Islanders; Highmark Stadium
+3/28/2015 1900; Pittsburgh Riverhounds; 5-2; Harrisburg City Islanders; Highmark Stadium; Charles Murhpy, Ross Kleinsutuber, Kathryn Nesbitt, Corey Yerace; 1100
 Vincent 5, Kerr (Vincent) 11; Pfeffer (McLaughlin) 22
 Source: http://www.uslsoccer.com/liveStats/v2/soccer/index.dbml?GAME_STAT_ID=1965469&db_oem_id=32800
+Source: http://www.uslsoccer.com/ViewContent.dbml?DB_OEM_ID=32800&CONTENT_ID=1236564
 
-3/28/2015 1900; Wilmington Hammerheads FC; 2-2; Richmond Kickers; Legion Stadium
+3/28/2015 1900; Wilmington Hammerheads FC; 2-2; Richmond Kickers; Legion Stadium; Mark Sauro, Mark Buda, Matheu Becker, Evan S. Frank; 1789
 Cole (Moore) 9, Heaney (Campbell) 18; Robinson 41, Delicate 55
 Source: http://www.uslsoccer.com/liveStats/v2/soccer/index.dbml?GAME_STAT_ID=1965568&db_oem_id=32800
+Source: http://www.uslsoccer.com/ViewContent.dbml?DB_OEM_ID=32800&CONTENT_ID=1236566
 
-3/28/2015 2000; Tulsa Roughnecks FC; 1-1; OKC Energy FC; ONEOK Field
+3/28/2015 2000; Tulsa Roughnecks FC; 1-1; OKC Energy FC; ONEOK Field; Jon Freemon, Timothy (Ryan) Cook, Michael Cap, Roy Robinson
+Brady Ballew (ck) 72; Michael Thomas (Chuy Sanchez, ck) 45
+Source: http://www.uslsoccer.com/ViewContent.dbml?DB_OEM_ID=32800&CONTENT_ID=1236565
+
 
 3/28/2015 2100; Austin Aztex; 2-0; Colorado Springs Switchbacks FC; House Park
 Touray 40, Caesar 80;
 Source: http://www.uslsoccer.com/liveStats/v2/soccer/index.dbml?GAME_STAT_ID=1965471&db_oem_id=32800
 
-3/28/2015 2200; Orange County Blues FC; 1-2; Arizona United SC; Anteater Stadium at UCI
+3/28/2015 2200; Orange County Blues FC; 1-2; Arizona United SC; Anteater Stadium at UCI; Christopher Calderon, Eduardo Mariscal, Malouf, Timothy Ford; 1873
+Christopher Cortez (ua) 35; Dennis Chin (Long Tan) 20, Robbie Derschang (Victor Munoz) 23
+Source: http://www.uslsoccer.com/ViewContent.dbml?DB_OEM_ID=32800&CONTENT_ID=1236563
 
 3/28/2015 2230; LA Galaxy II; 2-3; Sacramento Republic FC; StubHub Center
 Source: 
 Steres (Auras) 9, ; Guzman (pk) 
 
-3/29/2015 1900; Seattle Sounders FC 2; v; Vancouver Whitecaps FC 2; Starfire Sports Stadium
+3/29/2015 1900; Seattle Sounders FC 2; 4-0; Vancouver Whitecaps FC 2; Starfire Sports Stadium
 
-3/29/2015 2100; Portland Timbers 2; v; Real Monarchs SLC; Merlo Field
+3/29/2015 2100; Portland Timbers 2; 3-1; Real Monarchs SLC; Merlo Field
 
-4/01/2015 2100; Austin Aztex; v; Vancouver Whitecaps FC 2; House Park
+4/01/2015 2100; Austin Aztex; 0-3; Vancouver Whitecaps FC 2; House Park
 
-4/02/2015 2000; Tulsa Roughnecks FC; v; Saint Louis FC; ONEOK Field
+4/02/2015 2000; Tulsa Roughnecks FC; 0-2; Saint Louis FC; ONEOK Field
 
-4/02/2015 2200; Portland Timbers 2; v; Sacramento Republic FC; Merlo Field
+4/02/2015 2200; Portland Timbers 2; 3-1; Sacramento Republic FC; Merlo Field
 
-4/02/2015 2230; LA Galaxy II; v; Arizona United SC; StubHub Center
+4/02/2015 2230; LA Galaxy II; 1-2; Arizona United SC; StubHub Center
 
-4/03/2015 1900; Wilmington Hammerheads FC; v; Charlotte Independence; Legion Stadium
+4/03/2015 1900; Wilmington Hammerheads FC; 1-1; Charlotte Independence; Legion Stadium
 
-4/04/2015 1500; Colorado Springs Switchbacks FC; v; OKC Energy FC; Sand Creek Stadium
+4/04/2015 1500; Colorado Springs Switchbacks FC; 1-2; OKC Energy FC; Sand Creek Stadium
 
-4/04/2015 1530; New York Red Bulls II; v; Toronto FC II; Red Bull Arena
+4/04/2015 1530; New York Red Bulls II; 4-1; Toronto FC II; Red Bull Arena
 
-4/04/2015 1700; Richmond Kickers; v; Louisville City FC; City Stadium
+4/04/2015 1700; Richmond Kickers; 1-1; Louisville City FC; City Stadium
 
-4/04/2015 1900; Pittsburgh Riverhounds; v; Rochester Rhinos; Highmark Stadium
+4/04/2015 1900; Pittsburgh Riverhounds; 1-2; Rochester Rhinos; Highmark Stadium; Vito Testa Jr., John Safar, Lucas Feathers, Erik Blackburn; 2247
+Max Touloute (Danny Earls) 49; Tony Walls (fk) 28, Alex Dixon (Kenardo Forbes) 51
+Source: http://www.uslsoccer.com/ViewContent.dbml?DB_OEM_ID=32800&CONTENT_ID=1252870
 
-4/04/2015 1930; Charleston Battery; v; Harrisburg City Islanders; Blackbaud Stadium
+4/04/2015 1930; Charleston Battery; 2-0; Harrisburg City Islanders; Blackbaud Stadium
 
-4/04/2015 2000; Tulsa Roughnecks FC; v; Austin Aztex; ONEOK Field
+4/04/2015 2000; Tulsa Roughnecks FC; 0-2; Austin Aztex; ONEOK Field
 
 4/08/2015 2100; Real Monarchs SLC; v; Portland Timbers 2; Rio Tinto Stadium
 
