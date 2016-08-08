@@ -2,6 +2,8 @@ BlockSource: http://www.nasl.com/full-schedule
 Competition: North American Soccer League (2011-)
 Season: 2016
 
+* Fix Jorge / Sidney Rivera for Puerto Rico SC
+
 Stage: Spring
 
 Date: 4/2/2016
@@ -463,89 +465,227 @@ Source: http://www.nasl.com/match-center/1171/fce-vs-ftl
 
 Date: 7/13/2016
 
-1930; Indy Eleven; v; Fort Lauerdale Strikers; Michael A. Carroll Stadium
+1930; Indy Eleven; 3-0; Fort Lauderdale Strikers; Michael A. Carroll Stadium; Alex Chilowicz; 6132
+Zayed (Paterson) 10, Lacroix (Zayed) 21, Janicki (Paterson) 26; 
+Indy Eleven: Busch; Vukovic, Janicki, Miller, Franco; Lacroix, Paterson, Ring, Mares (Gordon 74); Zayed, Braun (Youla 68)
+Fort Lauderdale Strikers: Restrepo; PC, James, Agbossoumonde, Gabriel (Attakora 40); Fernandes, Alexandre (Arguez 72); Pineda (Paulo Junior 60), Nunez, Moura; Angulo
+Red Card: ; Moura 41
+Source: http://www.nasl.com/match-center/1176/ind-vs-ftl
 
-1930; New York Cosmos; v; Jacksonville Armada; James M. Shuart Stadium
+1930; New York Cosmos; 3-0; Jacksonville Armada; James M. Shuart Stadium; Mathieu Bourdeau; 3827
+Flores (Mkosana) 27, Diosa (Flores) 36, Moffat 79;
+New York Cosmos: Maurer; Ayoze, Mendes, Ochieng, Freeman; Moffat, Szetela (Calvillo 90); Diosa (Guenzatti 68), Arango, Flores (Orozco 65); Mkosana
+Jacksonville Armada: Lewis; Wallace, Ruthven, Ouimette, Bahner (Millien 67); George, Jerome; Johnson (Plumhoff 57), Steinberger, Sandoval; Dixon (Eloundou 23)
+Source: http://www.nasl.com/match-center/1177/nyc-vs-jax
 
-2100; Rayo OKC; v; Puerto Rico FC; Miller Stadium
+2100; Rayo OKC; 2-2; Puerto Rico FC; Miller Stadium; Daniel Radford; 3531
+Velasquez 83, Michel (pk) 90; Ramos (Pedro Mendes) 34, Rudy 55
+Rayo OKC: Fernandes; Michel, Hernandez, Danso, Kimura; Forbes, Pecka (Menjivar 45), Boateng (Samaras 67), Velasquez; Sandoval, Findley
+Puerto Rico FC: Meves; Culbertson, Soria, Dawson, Del Campo; Lopez (Marrero 24, Rivera 82), Nurse, Rudy, Paulo Mendes; Pedro Mendes (Berment 73), Ramos
+Source: http://www.nasl.com/match-center/1178/okc-vs-prfc
 
 Date: 7/16/2016
 
-1900; Fort Lauderdale Strikers; v; Carolina RailHawks; Lockhart Stadium
+1900; Fort Lauderdale Strikers; 0-1; Carolina RailHawks; Lockhart Stadium; Geoff Gamble; 1082
+; Shriver (Fondy) 23
+Fort Lauderdale Strikers: Restrepo; Corrales, James, Agbossoumonde, Attakora; Fernandes, Alexandre (Gabriel 46), Arguez (Gonzalez 66); Angulo, Nunez, Paulo Junior
+Carolina RailHawks: Sylvestre; Moses, Mensing, Marcelin, Beckie; Albadawi, Watson; Da Luz, Shriver, Shipalane (Ceballos 71); Fondy (Hassan 79)
+Red Card: Nunez 90+1; 
+Source: http://www.nasl.com/match-center/1180/ftl-vs-car
 
-1930; Tampa Bay Rowdies; v; Puerto Rico FC; Al Lang Stadium
+1930; Tampa Bay Rowdies; 3-0; Puerto Rico FC; Al Lang Stadium; Rubiel Vazquez; 5873
+Cole (ua) 10, Avila (Hristov) 25, Heinemann (Guerra) 90+3; 
+Tampa Bay Rowdies: Pickens; Ramirez, Antonijevic, Chavez, King; Savage (Adu 88), Guerra; Nanchoff, Cole, Avila (Heinemann 74); Hristov
+Puerto Rico FC: Meves; Soria, Dias, Dawson, Martin Del Campo; Paulo Mendes (Sidney Rivera 71), Nurse (Bement 19), Rudy, Frimpong (Jorge Rivera 60); Ramos, Pedro Mendes
+Source: http://www.nasl.com/match-center/1184/tbr-vs-prfc
 
-2000; Miami FC; v; Jacksonville Armada; FIU Stadium
+2000; Miami FC; 1-0; Jacksonville Armada; FIU Stadium; Younes Marrakchi; 3627
+Chavez (ua) 90+2; 
+Miami FC: Vega; Farfan, Trafford, Bernstein, Borrajo (Smith 77); Steele, Ryan (Martinez 68), Lahoud; Poku; Cvitanich (Campos 46), Chavez
+Jacksonville Armada: Lewis; Wallace, Ruthven, Navarro, Burke (Jerome 78); George, Scaglia (Ouimette 13); Sandoval, Eloundou, Plumhoff (Bahner 67); Steinberger
+Red Card: ; Navarro 11
+Source: http://www.nasl.com/match-center/1181/mia-vs-jax
 
-2000; Minnesota United; v; Indy Eleven; NSC Stadium
+2000; Minnesota United; 2-0; Indy Eleven; NSC Stadium; Baboucarr Jallow; 9460
+Ramirez (pk) 3, Ramirez (Pinho) 6; 
+Minnesota United: Ndjock; Davis, Kallman, Lowe, Venegas; Brovsky, Juliano (Blake 14); Pinho, Banks (Speas 72), Cruz (Pitchkolan 79); Ramirez
+Indy Eleven: Busch; Vukovic, Janicki, Miller, Palmer; Lacroix (Gordon 12), Ring, Paterson (Torrado 46), Mares (Youla 72); Zayed, Braun
+Source: http://www.nasl.com/match-center/1182/mnu-vs-ind
 
-2100; Rayo OKC; v; New York Cosmos; Miller Stadium
+2100; Rayo OKC; 3-0; New York Cosmos; Miller Stadium; Tyler Ploeger; 4621
+Michel (pk) 49, Michel (ua) 65, Samars (Boateng) 90+4; 
+Rayo OKC: Fernandes; Van Schaik, Hernandez, Danso, Kimura; Forbes (Menjivar 71), Michel, Pecka (Samaras 86), Velasquez; Findley (Boateng 81), Sandoval
+New York Cosmos: Maurer; Ayoze, Mendes, Ockford, Freeman (Moffat 88); Szetela; Orozco (Diosa 61), Bover (Mkosana 75), Arango, Guenzatti; Arrieta
+Source: http://www.nasl.com/match-center/1183/okc-vs-nyc
 
 Date: 7/17/2016
 
-1600; FC Edmonton; v; Ottawa Fur; Clarke Field
+1600; FC Edmonton; 1-0; Ottawa Fury; Clarke Field; David Barrie; 2861
+Ledgerwood (Nyassi) 82; 
+FC Edmonton:  VanOekel; Eckersley, Watson, Diakite, Nicklaw; Ledgerwood, Shome (Smith 63); Keegan (Smith 76), Fordyce, Corea (Nyassi 76); Ameobi
+Ottawa Fury: Peiser; Tissot, Timbo (de Guzman 80), Alves, Roberts, Edward; Haworth, Rozeboom, Bailey (Olivera 74), Chin (Gentile 69); Stewart
+Red Card: Diakite 60;
+Source: http://www.nasl.com/match-center/1179/fce-vs-ott
 
 Date: 7/22/2016
 
-1930; Carolina RailHawks; v; Miami FC; WakeMed Soccer Park
+1930; Carolina RailHawks; 3-3; Miami FC; WakeMed Soccer Park; Marcos De Oliveira; 6060
+Fondy (ua) 30, Shriver (Shipalane) 61, Bravo (Shipalane) 78; Chavez (Borrajo) 7, Poku (Steele) 37, Chavez (Cvitanich) 80
+Carolina RailHawks: Sylvestre; Moses, Mensing, Marcelin, Beckie; Shriver, Watson (Daly 25), Albadawi (Da Luz 43), Shipalane (Orlando 87); Fondy, Bravo
+Miami FC: Vega; Farfan, Trafford(Adailton 67), Bernstein, Borrajo; Steele (Smith 89), Ryan, Lahoud; Poku; Pablo Campos (Cvitanich 67), Chavez
+Source: http://www.nasl.com/match-center/1185/car-vs-mia
 
 Date: 7/23/2016
 
-1900; Jacksonville Armada; v; Ottawa Fury; Community First Park
+1900; Jacksonville Armada; 0-2; Ottawa Fury; Community First Park; Rubiel Vazquez; 3411
+; Stewart (Olivera) 37, Haworth (Olivera) 60
+Jacksonville Armada: Lewis; Wallace (Johnson 74), Ruthven, Ouimette, Bahner; George (Eloundou 61); Sandoval, Lagerblom (Plumhoff 46), Maripuu, Steinberger; Anderson
+Ottawa Fury: Peiser; Rozeboom, Alves, Roberts; Tissot, Olivera (Williams 72), Bailey (Eustaquio 68), De Guzman (Chin 82), Edward; Haworth, Stewart
+Source: http://www.nasl.com/match-center/1187/jax-vs-ott
 
-1930; Indy Eleven; v; FC Edmonton; Michael A. Carroll Stadium
+1930; Indy Eleven; 1-0; FC Edmonton; Michael A. Carroll Stadium; Daniel Radford; 8119
+Janicki (Mares) 13; 
+Indy Eleven: Busch; Vukovic, Janicki, Miller, Franco; Gordon (Smart 68), Torrado (Paterson 59), Ring, Mares (Palmer 82); Zayed, Braun
+FC Edmonton: VanOekel; Eckersley, Smith, Nicklaw, Zebie (Smith 80); Ledgerwood; Keegan (Salgueiro 76), Ameobi, Shome, Corea (Nyassi 70); Ameobi
+Source: http://www.nasl.com/match-center/1186/ind-vs-fce
 
-1930; Puerto Rico FC; v; Rayo OKC; Juan Ramon Loubriel Stadium
+1930; Puerto Rico FC; 1-0; Rayo OKC; Juan Ramon Loubriel Stadium; Jose Kellys; 4907
+Ramos (Paulo Mendes) 53; 
+Puerto Rico FC: Meves; Soria, Dias, Dawson, Martin Del Campo; Paulo Mendes, Nurse (Agnew 35), Kafari, Rivera (Culbertson 71); Ramos, Pedro Mendes (Bement 85)
+Rayo OKC: Fernandes; Hernandez, Ibeagha (Menjivar 76), Danso, Kimura; Forbes, Michel, Pecka (Samaras 61), Velasquez (Boateng 87); Findley, Sandoval
+Source: http://www.nasl.com/match-center/1189/prfc-vs-okc
 
-1930; Tampa Bay Rowdies; v; New York Cosmos; Al Lang Stadium
+1930; Tampa Bay Rowdies; 2-2; New York Cosmos; Al Lang Stadium
+Ayoze (og) 84, Cole (pk) 90+6; Arango (ua) 53, Duk (Mkosana) 67
+Tampa Bay Rowdies: Pickens; Ramirez, Mkandawire, Chavez, King; Savage, Vingaard; Nanchoff (Preciado 66), Cole, Avila; Hristov (Heinemann 81)
+New York Cosmos: Holt; Ayoze,  Mendes, Ochieng, Freeman; Szetela, Moffat; Diosa (Arrieta 83), Arango, Mkosana (Ockford 89); Duk (Bover 73)
+Source: http://www.nasl.com/match-center/1190/tbr-vs-nyc
 
-2000; Minnesota United; v; Fort Lauderdale Strikers; NSC Stadium
+2000; Minnesota United; 3-1; Fort Lauderdale Strikers; NSC Stadium; Mark Kadlecik; 8379
+Banks (Ibson) 14, Ramirez (Ibson) 23, Jome (Cruz) 70; Paulo Junior (Arguez) 54
+Minnesota United: Ceus; Davis, Kallman, Calvano, Lowe; Brovsky; Pinho (Speas 65), Ibson (Pitchkolan 76), Banks (Jome 63), Cruz; Ramirez
+Fort Lauderdale Strikers: Restrepo; Corrales, James, Agbossoumonde, Gabriel; Alexandre (Gonzalez 52), Fernandes; Paulo Junior, Arguez (Angulo 73), Moura (Pineda 83); Maicon Santos
+Red Card: ; Fernandes 75
+Source: http://www.nasl.com/match-center/1188/mnu-vs-ftl
 
 Date: 7/27/2016
 
-1900; Ottawa Fury; v; Carolina RailHawks; TD Place
+1900; Ottawa Fury; 2-0; Carolina RailHawks; TD Place; Kevin Terry Jr. 4547
+Haworth (Olivera) 8, Beckie (og) 49; 
+Ottawa Fury: Peiser; Rozeboom, Alves, Roberts; Tissot, Olivera (Williams 80), Bailey, Dixon (Eustaquio 65), Edward; Stewart (Chin 72), Haworth
+Carolina RailHawks: Fitzgerald; Black, Mensing, Daly, Miller; Beckie, Da Luz; Shriver (Orlando 75), Ceballos (Hassan 67), Shipalane; Fondy (Schuler 85)
+Source: http://www.nasl.com/match-center/1193/ott-vs-car
 
-2100; FC Edmonton; v; New York Cosmos; Clarke Field
+2100; FC Edmonton; 2-1; New York Cosmos; Clarke Field; Alain Ruch; 2104
+Ledgerwood (ua) 79, Fordyce (ua) 90+1; Arango (Orozco) 6
+FC Edmonton: VanOekel; Eckersley, Watson, Diakite, Nicklaw; Ledgerwood, Nyassi (Ameobi 36); Keegan (Salgueiro 74), Shome (Galvao 76), Corea; Fordyce
+New York Cosmos: Maurer; Ayoze, Mendes, Freeman, Mulligan; Szetela; Orozco (Diosa 64), Bover, Arango (Moffat 87), Guenzatti; Duk (Mkosana 80)
+Source: http://www.nasl.com/match-center/1191/fce-vs-nyc
 
-2100; Rayo OKC; v; Tampa Bay Rowdies; Miller Stadium
+2100; Rayo OKC; 1-0; Tampa Bay Rowdies; Miller Stadium; Baboucarr Jallow; 3413
+Forbes (ua) 43; 
+Rayo OKC: Fernandes; Hernandez, Ibeagha, Danso, Kimura; Velasquez (Pecka 90+3), Boateng, Michel, Forbes (Menjivar 86); Sandoval, Findley
+Tampa Bay Rowdies: Pickens; Ramirez, Mkandawire, Chavez, King; Savage (Nanchoff 57), Guerra (Preciado 66); Hristov, Vingaard, Avila (Alhassan 77); Heinemann
+Source: http://www.nasl.com/match-center/1192/okc-vs-tbr
 
 Date: 7/30/2016
 
-1900; Fort Lauderdale Strikers; v; Jacksonville Armada; Lockhart Stadium
+1900; Fort Lauderdale Strikers; 1-0; Jacksonville Armada; Lockhart Stadium; Tyler Ploeger; 1158
+Maicon Santos (ua) 88
+Fort Lauderdale Strikers: Bruno; Corrales, James, Agbossoumonde, Moura; Arguez, Gonzalez (Kleberson 70); Paulo Junior, Nunez (Adrianinho 86), Gabriel (Angulo 46); Maicon Santos
+Jacksonville Armada: Lewis; Wallace, Ruthven, Jerome, Otte; Scaglia (George 63), Maripuu; Millien, Sandoval (Eloundou 19), Plumhoff (Barrow 46); Anderson
+Source: http://www.nasl.com/match-center/1195/ftl-vs-jax
 
-1900; New York Cosmos; v; Puerto Rico FC; James M. Shuart Stadium
+1900; New York Cosmos; 2-0; Puerto Rico FC; James M. Shuart Stadium; Juan Marquez; 5225
+Dias (og) 16, Arango (Mkosana) 84, Mkosana (Arango) 90+2; 
+New York Cosmos: Ayoze (Guenzatti 76), Ochieng, Freeman, Mulligan; Moffat; Diosa, Bover (Szetela 82), Arango, Mkosana; Duk (Calvillo 90+1)
+Puerto Rico FC: Meves; Soria, Dias, Dawson, Martin Del Campo; Paulo Mendes (Culbertson 78), Rudy, Kafari, Jorge Rivera (Marrero 56); Ramos, Pedro Mendes (Sidney Rivera 71)
+Source: http://www.nasl.com/match-center/1197/nyc-vs-prfc
 
-1900; Ottawa Fury; v; Tampa Bay Rowdies; TD Place
 
-2000; Miami FC; v; Indy Eleven; FIU Stadium
+1900; Ottawa Fury; 3-0; Tampa Bay Rowdies; TD Place; Edvin Jurisevic; 3391
+Roberts (Eustaquio) 2, Mkandawire (og) 36;
+Ottawa Fury: Peiser; Rozeboom, Alves, Roberts; Tissot (Edward 67), De Guzman, Eustaquio, Olivera (Gentile 84), Dixon; Haworth (Williams 75), Stewart
+Tampa Bay Rowdies: Pickens; Ramirez, Mkandawire, Chavez, King; Nanchoff, Vingaard (Burgos 64); Alhassan (Adu 74), Cole, Avila (Heinemann 46); Hristov
+Source: http://www.nasl.com/match-center/1199/ott-vs-tbr
 
-2100; Rayo OKC; v; Minnesota United; Miller Stadium
+
+2000; Miami FC; 2-1; Indy Eleven; FIU Stadium; Nima Saghafi; 5076
+Cvitanich (Poku) 4, Martinez (Smith) 85; Zayed (Smart) 89
+Miami FC: Vega; Farfan (Smith 76), Trafford, Bernstein, Borrajo; Steele, Palacios, Lahoud; Poku (Pablo Campos 90+7); Cvitanich (Martinez 66), Chavez
+Indy Eleven: Cardona; Vukovic, Janicki, Miller, Franco; Gordon (Smart 61), Torrado (Reinoso 80), Ring (Ubiparipovic 74), Mares; Zayed, Braun
+Source: http://www.nasl.com/match-center/1196/mia-vs-ind
+
+2100; Rayo OKC; 2-2; Minnesota United; Miller Stadium; Alex Chilowicz; 3512
+Sandoval (Danso) 60, Danso (Kimura) 90+3; Davis (Cruz) 71, Ramirez (Ibson) 90+2
+Rayo OKC: Fernandes; Hernandez, Ibeagha, Danso, Kimura; Forbes (Van Schaik 87), Michel, Menjivar (Boateng 46), Velasquez; Findley, Sandoval
+Minnesota United: Ceus; Davis, Kallman, Calvano, Lowe; Blake (Ibson 57), Brovsky; Jome, Banks (Speas 57), Cruz (Mendes 80); Ramirez
+Source: http://www.nasl.com/match-center/1198/okc-vs-mnu
 
 Date: 7/31/2016
 
-1600; FC Edmonton; v; Carolina RailHawks; Clarke Field
+1600; FC Edmonton; 1-0; Carolina RailHawks; Clarke Field; Pierre-Luc Lauziere; 1904
+Keegan (Ameobi) 66; 
+FC Edmonton: VanOekel; Eckersley, Watson, Diakite, Nicklaw; Ledgerwood; Keegan (Fisk 86), Fordyce, Shome (Galvao 86), Corea (Salgueiro 88); Ameobi
+Carolina RailHawks: Sylvestre; Black (Ceballos 88), Mensing, Daly, Moses; Orlando (Shriver 69), Beckie, Da Luz, Shipalane; Hassan (Fondy 56), Bravo
+Source: http://www.nasl.com/match-center/1194/fce-vs-car
 
 Date: 8/3/2016
 
-1930; Indy Eleven; v; Jacksonville Armada; Michael A. Carroll Stadium
+1930; Indy Eleven; 5-2; Jacksonville Armada; Michael A. Carroll Stadium; Rosendo Mendoza; 8017
+Braun (Mares) 13, Zayed (Smart) 16, Vukovic (ua) 36, Zayed (Braun) 58, Zayed 65; Keita (ua) 33, Falvey (og) 80
+Indy Eleven: Busch; Vukovic, Janicki, Falvey, Palmer (Franco 62); Mares, Paterson, Ring (Torrado 63), Smart; Zayed, Braun (Youla 69)
+Jacksonville Armada: Lewis; Ruthven, Navarro, Ouimette; Johnson (Steinberger 46), Maripuu, Jerome, Scaglia (Barrow 58), Bahner; Anderson (Eloundou 65), Keita
+Red Card: Janicki 89; Keita 88
+Source: http://www.nasl.com/match-center/1200/ind-vs-jax
 
-2000; Minnesota United; v; Puerto Rico FC; NSC Stadium
+2000; Minnesota United; 1-1; Puerto Rico FC; NSC Stadium; Guido Gonzales Jr.; 6101
+Kafari (og) 46; Ramos (ua) 5
+Minnesota United: Ceus; Davis, Kallman, Pitchkolan, Lowe; Ibson, Brovsky; Jome (Laing 69), Banks (Watson 69), Cruz; Ramirez
+Puerto Rico FC: Meves; Soria, Dias, Dawson, Martin Del Campo; Paulo Mendes (Bement 89), Rudy, Kafari, Marrero (Rivera 70); Pedro Mendes (Rivera 63), Ramos
+Source: http://www.nasl.com/match-center/1201/mnu-vs-prfc
 
 Date: 8/6/2016
 
-1900; Jacksonville Armada; v; Carolina RailHawks; Community First Park
+1900; Jacksonville Armada; 2-2; Carolina RailHawks; Community First Park; Nima Saghafi; 3601
+Eloundou (Scaglia) 19, Eloundou (ua) 50; Fondy (Beckie) 7, Bravo (Miller) 68
+Jacksonville Armada: Lewis; Ruthven, Navarro, Ouimette; Wallace, Scaglia (Lagerblom 58), Maripuu, George (Millien 90), Burke (Barrow 78); Anderson, Eloundou
+Carolina RailHawks: Fitzgerald; Black, Moses, Daly, Miller; Shriver (Orlando 79), Beckie, Da Luz, Shipalane (Ceballos 84); Fondy, Bravo (Watson 72)
+Red Card: ; Da Luz 70
+Source: http://www.nasl.com/match-center/1203/jax-vs-car
 
-1930; Indy Eleven; v; Ottawa Fury; Michael A. Carroll Stadium
+1930; Indy Eleven; 1-0; Ottawa Fury; Michael A. Carroll Stadium; Guido Gonzales Jr.; 7760
+Smart (Mares) 90+2; 
+Indy Eleven: Busch; Vukovic, Miller, Falvey, Franco (Palmer 76); Paterson (Mares 64), Torrado, Ring, Smart; Zayed, Youla (Gordon 64)
+Ottawa Fury: Peiser; Tissot, Rozeboom, Alves, Roberts, Edward; Haworth, Bailey, De Guzman (Eustaquio 87), Williams (Dixon 65); Stewart (Mwanga 71)
+Source: http://www.nasl.com/match-center/1202/ind-vs-ott
 
-1930; Puerto Rico FC; v; FC Edmonton; Juan Ramon Loubriel Stadium
+1930; Puerto Rico FC; 0-1; FC Edmonton; Juan Ramon Loubriel Stadium; William Anderson; 3307
+; Ameobi (Corea) 74
+Puerto Rico FC: Meves; Soria, Dias, Dawson, Martin Del Campo; Sidney Rivera (Bardic 79), Rudy (Agnew 63), Kafari, Jorge Rivera (Frimpong 56); Marrero, Ramos
+FC Edmonton: VanOekel; Eckersley, Watson; Diakite, Nicklaw; Ledgerwood; Keegan (Fisk 70), Fordyce (Di Biase 66), Shome, Corea (Galvao 86); Ameobi
+Source: http://www.nasl.com/match-center/1206/prfc-vs-fce
+* NOTE MULTIPLE RIVERAS
 
-1930; Tampa Bay Rowdies; v; Fort Lauderdale Strikers; Al Lang Stadium
+1930; Tampa Bay Rowdies; 2-1; Fort Lauderdale Strikers; Al Lang Stadium; Ismail Elfath; 4997
+Savage (Cole) 50, Cole (Hristov) 58; Angulo (Gonzalez) 71
+Tampa Bay Rowdies: Pickens; Ramirez, Collins, Mkandawire, King; Savage (Guerra 85), Cole, Vingaard; Hristov (PC 78), Preciado (Heinemann 82), Avila
+Fort Lauderdale Strikers: Bruno; Corrales, James, Agbossoumonde, Attakora; Fernandes, Gonzalez (Arguez 85); Paulo Junior, Nunez (Adrianinho 70), Moura (Angulo 58); Maicon Santos
+Source: http://www.nasl.com/match-center/1207/tbr-vs-ftl
 
-2000; Minnesota United; v; Miami FC; NSC Stadium
+2000; Minnesota United; 0-4; Miami FC; NSC Stadium; Mathieu Bourdeau; 9040
+; Steele (Borrajo) 9, Martinez (Cvitanich) 21, Poku (Borrajo) 26, Dennis (Borrajo) 87
+Minnesota United: Ceus; Davis, Kallman, Calvano, Lowe (Banks 57); Blake, Brovsky; Pinho (Jome 29), Ibson (Juliano 77), Cruz; Ramirez
+Mimai FC: Vega; Farfan, Trafford, Bernstein, Borrajo; Steele, Palacios, Martinez; Poku (Kcira 90); Cvitanich (Dennis 81), Smith
+Source: http://www.nasl.com/match-center/1204/mnu-vs-mia
 
 Date: 8/7/2016
 
-1700; New York Cosmos; v; Rayo OKC; James M. Shuart Stadium
+1700; New York Cosmos; 1-1; Rayo OKC; James M. Shuart Stadium; Sorin Stoica; 2871
+Moffat (pk) 39; Samaras (Forbes) 4
+New York Cosmos: Maurer; Ayoze, Mendes, Freeman, Mulligan; Moffat; Diosa (Arrieta 72), Bover (Flores 63), Arango, Mkosana; Duk
+Rayo OKC: Fernandes; Hernandez, Ibeagha, Danso, Kimura; Forbes (Sandoval 79), Michel, Boateng (Pecka 60), Velasquez (Menjivar 30); Findley, Samaras
+Source: http://www.nasl.com/match-center/1205/nyc-vs-okc
 
 Date: 8/13/2016
 
