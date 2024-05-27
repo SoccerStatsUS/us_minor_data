@@ -1,0 +1,42 @@
+
+Key: position; number; name; nationality; birthdate; birthplace
+
+
+GK; 1; Carlos Avilez; USA; 1/9/1999; Dallas, TX
+GK; 20; Jimmy Maurer; USA
+GK; 30; Kyle Zobeck; USA
+GK; 35; Michael Collodi; 
+GK; 51; Zachary Schawl; USA
+
+D; 2; Cesar Murillo; USA; 2/16/1996
+D; 3; Abdoul Gaffar Ibrahim; Togo
+D; 4; Brecc Evans; USA; 9/6/1999; Santa Monica, CA
+D; 5; Héctor Montalvo; USA
+D; 13; Nicolás Carrera; Mexico
+D; 25; Callum Montgomery; Canada
+D; 26; John Nelson; USA
+D; 29; Bryan Reynolds; USA; 6/28/2001; Fort Worth, TX
+D; 37; Kevin Bonilla; USA; 9/20/2001; Dallas, TX
+D; 38; Julian Hinojosa; USA
+D; 43; Jonathan Gomez; USA
+
+M; 6; Alfusainey Jatta; Gambia; 8/5/1999; Abuko, Gambia
+M; 7; Oscar Romero; USA; 10/8/1996
+M; 8; Arturo Rodriguez; Mexico; 12/15/1998; San Luis Potosi, Mexico
+M; 15; Jacori Hayes; USA; 6/29/1995; Andrews Field, MD
+M; 18; Brandon Servania; USA; 3/12/1999; Birmingham, AL
+M; 21; Bicou Bissainthe; Haiti; 3/15/1999; Cap-Haitien, Haiti
+M; 23; Thomas Roberts; USA; 5/11/2001; Little Rock, AK
+M; 31; Dante Sealy; USA; 4/17/2003; Brooklyn, NY
+M; 33; Edwin Cerrillo; USA; 10/3/2000; Waco, TX
+M; 36; Jorge Almaguer; USA; 9/21/2000; Dallas, TX
+M; 40; Cesar Garcia; USA
+M; 45; Tanner Tessmann; USA; 9/24/2001; Birmingham, AL
+M; 49; Diego Letayf; Mexico; 3/28/2002; Monterrey, Mexico
+M; -; David Rodriguez; USA
+
+F; 9; Ricardo Pepi; USA; 1/9/2003; El Paso, TX
+F; 11; Ronaldo Damus; Haiti
+F; 22; Benjamin Redzic; USA
+F; 39; Gibran Rayo; USA
+F; 44; Johan Gomez; USA; 7/23/2001; Arlington, TX

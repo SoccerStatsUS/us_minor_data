@@ -1,0 +1,307 @@
+Competition: United Soccer League
+Season: 2017
+Source:
+
+
+BlockSource: https://www.uslsoccer.com/bethlehem-steel-fc-player-stats-2017
+
+Team: Bethlehem Steel
+
+Key: games_played; games_started; subs off; minutes
+
+Adam Najem	23	23	6	1,989
+Amoy Brown	3	-	-	65
+Anthony Fontana	11	7	4	693
+Brenden Aaronson	6	2	1	214
+Brian Carroll	2	2	1	152
+Byron Monge	3	1	1	91
+Charles Reymann	9	7	-	636
+Charlie Davies	1	1	-	90
+Chris Nanco	28	18	14	1,688
+Christopher Wingate	6	5	4	361
+Cory Burke	25	22	5	2,040
+Dawson McCartney	3	2	2	155
+Derrick Jones	12	12	1	1,068
+Fabian Herbers	3	3	3	172
+Giliano Wijnaldum	7	7	2	615
+Hugh Roberts	26	23	-	2,091
+Issa Rayyan	1	-	-	9
+Jack Elliott	1	1	1	75
+Jake McGuire	23	23	-	2,070
+James Chambers	28	26	1	2,341
+John McCarthy	3	3	-	270
+Josh Heard	16	2	1	270
+Joshua Yaro	5	5	1	443
+Justin McMaster	1	-	-	2
+Keegan Rosenberry	1	1	-	90
+Kenneth Tribbett	12	12	-	1,080
+Marcus Epps	13	13	9	1,012
+Mark McKenzie	6	6	-	540
+Matthew Mahoney	9	4	-	405
+Matthew Real	18	18	2	1,607
+Maurice Edu	3	3	3	155
+Michael Pellegrino	2	2	-	180
+Richie Marquez	4	4	-	360
+Santi Moar	30	20	14	1,803
+Seku Conneh	26	19	8	1,783
+Seth Kuhn	1	-	-	6
+Tiger Graham	1	-	-	17
+Tomás Romero	7	7	-	630
+Yosef Samuel	21	5	5	533
+
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+
+Adam Najem	897	82.2	67	59.7	40.6	265	173	218	241	74	93.3	8	37	8	37.5
+Amoy Brown	13	61.5	-	-	18	1	2	8	2	60	100	-	2	3	66.7
+Anthony Fontana	224	81.3	23	82.6	29.1	66	43	54	61	73.3	90.3	-	4	4	25
+Brenden Aaronson	62	88.7	3	66.7	26.1	19	13	13	17	80	95.8	-	3	1	-
+Brian Carroll	126	84.1	16	75	74.6	37	17	34	38	72.4	92.9	-	4	1	-
+Byron Monge	48	83.3	5	60	47.5	13	10	7	18	78.3	88	-	-	-	-
+Charles Reymann	283	71.7	38	36.8	40	142	41	8	92	64.5	77.8	-	4	8	12.5
+Charlie Davies	12	83.3	-	-	12	1	6	1	4	75	100	-	1	-	-
+Chris Nanco	405	79	29	51.7	21.6	95	123	113	74	70.5	86.9	2	18	31	16.1
+Christopher Wingate	208	75.5	31	48.4	51.9	63	32	56	57	62.6	85.7	-	3	2	-
+Cory Burke	538	62.1	41	43.9	23.7	189	111	99	139	55.1	79.1	2	20	29	20.7
+Dawson McCartney	63	81	1	100	36.6	16	17	18	12	75	84	-	-	2	-
+Derrick Jones	491	81.3	59	54.2	41.4	171	74	108	138	70.8	92.4	-	13	5	20
+Fabian Herbers	47	70.2	1	100	24.6	11	8	18	10	64.9	85.7	-	3	4	75
+Giliano Wijnaldum	242	72.3	38	44.7	35.4	105	47	9	81	61.9	79.4	-	4	10	30
+Hugh Roberts	772	82.3	80	55	33.2	313	57	253	149	59	90.9	-	4	1	100
+Issa Rayyan	4	100	-	-	40	1	3	-	-	100	-
+Jack Elliott           66           72.7                19         47.4    79.2    25  7   16  18  62.2    86.2    1   1   -   -
+Jake McGuire           714          56.4                514        40.3    31      544 -   105 65  34.9    84.5    1   1   -   -
+James Chambers         1,523        79.8                316        57.3    58.6    586 153 342 442 70.8    89.3    1   24  14  21.4
+John McCarthy          86           72.1                40         40      28.7    44  -   20  22  33.3    87.1    -   -   -   -
+Josh Heard             86           79.1                6          33.3    28.7    17  29  21  19  61.9    86      -   2   6   16.7
+Joshua Yaro            265          88.3                29         55.2    53.8    88  23  93  61  71.2    92.5    -   -   -   -
+Justin McMaster        2            -                   -          -       90      1   -   -   1   -       -       -   -   -   -
+Keegan Rosenberry      55           80                  6          50      55      24  9   21  1   62.1    90      -   1   4   25
+Kenneth Tribbett       607          78.1                101        54.5    50.6    241 44  161 161 65.9    87.6    1   7   1   -
+Marcus Epps            349          76.8                15         66.7    31      66  106 113 64  69.2    82.3    -   11  19  26.3
+Mark McKenzie          252          82.9                34         41.2    42      111 12  63  66  55.6    93.4    -   3   2   50
+Matthew Mahoney        163          74.8                17         17.6    36.2    71  16  40  36  62.5    82.2    -   3   2   50
+Matthew Real           655          72.1                97         32      36.7    336 100 66  153 60.8    79.2    1   10  32  3.1
+Maurice Edu            80           91.3                14         85.7    46.5    16  9   31  24  90      92.5    -   -   -   -
+Michael Pellegrino     89           88.8                7          71.4    44.5    20  19  25  25  84.6    92      -   1   -   -
+Richie Marquez         189          82.5                36         63.9    47.3    91  6   38  54  66.7    89.4    -   1   -   -
+Santi Moar             531          75.9                70         55.7    26.5    129 132 62  208 68.6    83.2    6   36  35  25.7
+Seku Conneh            402          69.4                20         70      20.3    66  148 84  104 62.5    85.1    2   20  12  8.3
+Seth Kuhn              2            -                   -          -       30      1   -   1   -   -       -       -   -   -   -
+Tiger Graham           4            50                  2          -       21.2    2   -   2   -   50      -       -   -   -   -
+Tomás Romero           192          66.7                107        42.1    27.4    128 -   36  28  43.1    76.9    -   -   -   -
+Yosef Samuel           198          78.3                20         45      33.4    57  51  57  33  71.4    86.7    1   7   3   -~
+
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+
+Adam Najem	18	9	2	1	1	-	-	2	-	-	11.1	994.5
+Amoy Brown	1	-	-	-	-	-	-	-	-	-	0	-
+Anthony Fontana	14	5	-	-	-	-	-	-	-	-	0	-
+Brenden Aaronson	-	-	-	-	-	-	-	-	-	-	-	-
+Brian Carroll	1	-	-	-	-	-	-	-	-	-	0	-
+Byron Monge	-	-	-	-	-	-	-	-	-	-	-	-
+Charles Reymann	2	-	-	-	-	-	-	-	-	-	0	-
+Charlie Davies	2	2	1	1	-	-	-	1	-	-	50	90
+Chris Nanco	20	10	4	3	1	-	-	4	-	-	20	422
+Christopher Wingate	-	-	-	-	-	-	-	-	-	-	-	-
+Cory Burke	61	24	9	8	1	-	-	7	2	-	14.8	226.7
+Dawson McCartney	1	-	-	-	-	-	-	-	-	-	0	-
+Derrick Jones	4	2	1	1	-	-	-	1	-	-	25	1,068
+Fabian Herbers	4	2	1	-	1	-	-	1	-	-	25	172
+Giliano Wijnaldum	1	-	-	-	-	-	-	-	-	-	0	-
+Hugh Roberts	7	2	1	-	-	1	-	1	-	-	14.3	2,091
+Issa Rayyan	-	-	-	-	-	-	-	-	-	-	-	-
+Jack Elliott	-	-	-	-	-	-	-	-	-	-	-	-
+Jake McGuire	-	-	-	-	-	-	-	-	-	-	-	-
+James Chambers	31	13	5	4	1	-	-	4	1	-	16.1	468.2
+John McCarthy	-	-	-	-	-	-	-	-	-	-	-	-
+Josh Heard	4	-	-	-	-	-	-	-	-	-	0	-
+Joshua Yaro	1	-	-	-	-	-	-	-	-	-	0	-
+Justin McMaster	-	-	-	-	-	-	-	-	-	-	-	-
+Keegan Rosenberry	-	-	-	-	-	-	-	-	-	-	-	-
+Kenneth Tribbett	8	6	1	-	1	-	-	1	-	-	12.5	1,080
+Marcus Epps	14	6	1	1	-	-	-	1	-	-	7.1	1,012
+Mark McKenzie	-	-	-	-	-	-	-	-	-	-	-	-
+Matthew Mahoney	-	-	-	-	-	-	-	-	-	-	-	-
+Matthew Real	7	3	1	-	1	-	-	1	-	-	14.3	1,607
+Maurice Edu	1	-	-	-	-	-	-	-	-	-	0	-
+Michael Pellegrino	-	-	-	-	-	-	-	-	-	-	-	-
+Richie Marquez	3	1	1	-	-	1	-	1	-	-	33.3	360
+Santi Moar	37	20	6	4	2	-	-	6	-	-	16.2	300.5
+Seku Conneh	49	22	10	9	1	-	-	8	2	-	20.4	178.3
+Seth Kuhn	-	-	-	-	-	-	-	-	-	-	-	-
+Tiger Graham	-	-	-	-	-	-	-	-	-	-	-	-
+Tomás Romero	-	-	-	-	-	-	-	-	-	-	-	-
+Yosef Samuel	4	2	-	-	-	-	-	-	-	-	0	-
+
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+
+Adam Najem	3	-	21	28	18	135	57	29	10
+Amoy Brown	-	-	-	-	-	6	-	1	-
+Anthony Fontana	3	-	1	14	11	79	26	4	-
+Brenden Aaronson	3	-	2	8	7	29	14	4	1
+Brian Carroll	-	-	2	2	2	6	2	-	-
+Byron Monge	-	-	-	3	3	16	6	5	1
+Charles Reymann	19	3	16	11	5	47	27	16	12
+Charlie Davies	-	-	-	-	-	4	2	-	-
+Chris Nanco	3	2	11	19	16	193	64	21	6
+Christopher Wingate	4	1	6	13	8	35	29	8	5
+Cory Burke	18	2	17	37	29	433	201	165	79
+Dawson McCartney	1	-	1	3	2	8	4	-	-
+Derrick Jones	10	3	14	18	14	118	61	13	5
+Fabian Herbers	1	-	2	2	1	14	4	2	-
+Giliano Wijnaldum	8	2	13	22	21	67	40	7	7
+Hugh Roberts	112	23	52	28	19	194	121	111	74
+Issa Rayyan	-	-	-	-	-	3	1	-	-
+Jack Elliott	-	-	2	3	2	11	7	4	3
+Jake McGuire	15	-	2	-	-	18	17	14	13
+James Chambers	29	10	36	29	25	171	92	45	30
+John McCarthy	1	-	-	-	-	4	4	4	4
+Josh Heard	3	-	4	7	6	54	20	10	1
+Joshua Yaro	15	1	13	10	8	27	18	7	3
+Justin McMaster	-	-	-	-	-	-	-	-	-
+Keegan Rosenberry	2	-	6	1	-	5	3	2	1
+Kenneth Tribbett	23	4	40	21	17	105	61	37	28
+Marcus Epps	5	2	7	15	9	118	49	18	9
+Mark McKenzie	25	2	18	6	4	29	18	10	3
+Matthew Mahoney	26	5	7	5	4	17	11	9	6
+Matthew Real               48 8   43 33  23  175    83  44  25
+Maurice Edu                4  -   1  4   3   15     9   2   1
+Michael Pellegrino         2  1   2  2   2   14     7   5   2
+Richie Marquez             7  2   4  4   2   26     11  13  6
+Santi Moar                 10 1   17 33  23  223    103 26  13
+Seku Conneh                5  3   3  18  13  265    99  71  19
+Seth Kuhn                  -  -   -  -   -   2      -   -   -
+Tiger Graham               1  -   -  -   -   1      -   1   -
+Tomás Romero               3  -   1  1   1   4      2   2   -
+Yosef Samuel               5  -   9  13  9   89     35  27  8~
+
+Key: yellow_cards; red_cards; FW; FC
+
+Adam Najem	1	-	12	20
+Amoy Brown	2	-	-	4
+Anthony Fontana	4	-	12	23
+Brenden Aaronson	1	-	1	5
+Brian Carroll	-	-	-	1
+Byron Monge	1	-	2	3
+Charles Reymann	-	-	5	3
+Charlie Davies	-	-	1	-
+Chris Nanco	4	-	25	31
+Christopher Wingate	-	-	9	1
+Cory Burke	10	1	48	64
+Dawson McCartney	-	-	-	-
+Derrick Jones	4	-	17	20
+Fabian Herbers	1	-	2	8
+Giliano Wijnaldum	4	-	11	15
+Hugh Roberts	1	1	17	20
+Issa Rayyan	-	-	1	-
+Jack Elliott	-	-	-	1
+Jake McGuire	2	-	7	-
+James Chambers	6	-	33	33
+John McCarthy	-	-	1	-
+Josh Heard	1	-	11	12
+Joshua Yaro	-	-	3	2
+Justin McMaster	-	-	-	-
+Keegan Rosenberry	-	-	1	-
+Kenneth Tribbett	3	-	13	22
+Marcus Epps	-	-	14	5
+Mark McKenzie	1	-	6	2
+Matthew Mahoney	-	-	-	1
+Matthew Real	6	-	9	32
+Maurice Edu	-	-	4	2
+Michael Pellegrino	-	-	2	1
+Richie Marquez	1	-	1	4
+Santi Moar	6	-	24	20
+Seku Conneh	6	-	49	49
+Seth Kuhn	-	-	-	-
+Tiger Graham	-	-	-	-
+Tomás Romero	-	-	1	-
+Yosef Samuel	3	-	11	17
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
+
+
+
+Team: 
+Key: games_played; games_started; subs off; minutes
+Key: passes; pass_accuracy; long_passes; long_pass_accuracy; passes/90; forward_passes; backward_passes; left_passes; right_passes; PaOp (%); passing_accuracy_own_half; assists; key_passes; c; c_accuracy
+Key: shots; SOnT; goals; right_footed_goals; left_footed_goals; headed_goals; O; GITB; GOTB; GFSP; CR; minutes/goal
+Key: Cl; B; interceptions; T; TW; D; DW; AD; ADW
+Key: yellow_cards; red_cards; FW; FC
