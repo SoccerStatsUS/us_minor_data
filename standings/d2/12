@@ -479,59 +479,59 @@ Key: team; games; wins; losses; shootout_wins; shootout_losses; goals_for; goals
 
 *      Northeast Division
 Rhode Island Stingrays     ; 18 ; 11  ; 7  ; 0  ; 0  ; 39 ; 33 ; 33
-New Hampshire Phantoms     ; 18 ; 12  ; 6  ; 2  ; 0  ; 36 ; 24 ; 32
-Western Mass. Pioneers     ; 18 ; 10  ; 8  ; 0  ; 1  ; 45 ; 34 ; 30
+New Hampshire Phantoms     ; 18 ; 10  ; 6  ; 2  ; 0  ; 36 ; 24 ; 32
+Western Mass. Pioneers     ; 18 ; 10  ; 7  ; 0  ; 1  ; 45 ; 34 ; 30
 Cape Cod Crusaders         ; 18 ;  7  ;11  ; 0  ; 0  ; 23 ; 28 ; 21
-Vermont Voltage            ; 18 ;  3  ;15  ; 1  ; 1  ; 15 ; 43 ;  6
+Vermont Voltage            ; 18 ;  2  ;14  ; 1  ; 1  ; 15 ; 43 ;  6
 **
 
 *      Mid-Atlantic Division
-South Jersey Barons        ; 18 ; 12  ; 6  ; 0  ; 2  ; 40 ; 20 ; 36
+South Jersey Barons        ; 18 ; 12  ; 4  ; 0  ; 2  ; 40 ; 20 ; 36
 Reading Rage               ; 18 ; 10  ; 8  ; 0  ; 0  ; 41 ; 29 ; 30
-New Jersey Stallions       ; 18 ; 10  ; 8  ; 0  ; 1  ; 37 ; 24 ; 30
-Central Jersey Riptide     ; 18 ; 11  ; 7  ; 3  ; 1  ; 33 ; 19 ; 27
+New Jersey Stallions       ; 18 ; 10  ; 7  ; 0  ; 1  ; 37 ; 24 ; 30
+Central Jersey Riptide     ; 18 ;  8  ; 6  ; 3  ; 1  ; 33 ; 19 ; 27
 N.Y.Capital Dist. Alleycats; 18 ;  5  ;13  ; 0  ; 0  ; 19 ; 36 ; 15
 
 *      Atlantic Division
-Delaware Wizards           ; 18 ; 14  ; 4  ; 1  ; 2  ; 43 ; 16 ; 40
-Myrtle Beach Seadawgs      ; 18 ; 13  ; 5  ; 1  ; 0  ; 42 ; 26 ; 37
-Charlotte Eagles           ; 18 ; 11  ; 7  ; 1  ; 1  ; 47 ; 31 ; 30
-Roanoke Wrath              ; 18 ; 10  ; 8  ; 0  ; 2  ; 36 ; 19 ; 30
-South Carolina Shamrocks   ; 18 ;  9  ; 9  ; 1  ; 1  ; 34 ; 32 ; 25
+Delaware Wizards           ; 18 ; 13  ; 2  ; 1  ; 2  ; 43 ; 16 ; 40
+Myrtle Beach Seadawgs      ; 18 ; 12  ; 5  ; 1  ; 0  ; 42 ; 26 ; 37
+Charlotte Eagles           ; 18 ; 10  ; 6  ; 1  ; 1  ; 47 ; 31 ; 30
+Roanoke Wrath              ; 18 ; 10  ; 6  ; 0  ; 2  ; 36 ; 19 ; 30
+South Carolina Shamrocks   ; 18 ;  8  ; 8  ; 1  ; 1  ; 34 ; 32 ; 25
 Wilmington Hammerheads     ; 18 ;  8  ;10  ; 0  ; 0  ; 33 ; 34 ; 24
-Northern Virginia Royals   ; 18 ;  6  ;12  ; 1  ; 0  ; 28 ; 46 ; 16
+Northern Virginia Royals   ; 18 ;  5  ;12  ; 1  ; 0  ; 28 ; 46 ; 16
 Eastern Shore Sharks       ; 18 ;  0  ;18  ; 0  ; 0  ; 16 ; 90 ;  0
 
 *      Southeast Division
 Miami Breakers             ; 18 ; 17  ; 1  ; 0  ; 0  ; 67 ; 21 ; 51
 Orlando Nighthawks         ; 18 ; 12  ; 6  ; 0  ; 0  ; 62 ; 33 ; 36
-Southwest Florida Manatees ; 18 ;  8  ;10  ; 0  ; 1  ; 34 ; 57 ; 24
-Pensacola Barracudas       ; 18 ;  5  ;13  ; 1  ; 1  ; 21 ; 57 ; 13
+Southwest Florida Manatees ; 18 ;  8  ; 9  ; 0  ; 1  ; 34 ; 57 ; 24
+Pensacola Barracudas       ; 18 ;  4  ;12  ; 1  ; 1  ; 21 ; 57 ; 13
 Tallahassee Tempest        ; 18 ;  2  ;16  ; 0  ; 0  ; 12 ; 41 ;  6
 
 *      North Central Division
 Indiana Blast              ; 18 ; 15  ; 3  ; 0  ; 0  ; 57 ; 24 ; 45
-Chicago Stingers           ; 18 ; 13  ; 5  ; 0  ; 1  ; 37 ; 16 ; 39
-Rockford Raptors           ; 18 ; 10  ; 8  ; 1  ; 2  ; 31 ; 25 ; 28
-Cleveland Caps             ; 18 ; 10  ; 8  ; 1  ; 0  ; 33 ; 41 ; 28
+Chicago Stingers           ; 18 ; 13  ; 4  ; 0  ; 1  ; 37 ; 16 ; 39
+Rockford Raptors           ; 18 ;  9  ; 6  ; 1  ; 2  ; 31 ; 25 ; 28
+Cleveland Caps             ; 18 ;  9  ; 8  ; 1  ; 0  ; 33 ; 41 ; 28
 
 *      South Central Division
-Austin Lone Stars          ; 18 ; 13  ; 5  ; 0  ; 1  ; 46 ; 20 ; 39
-Texas Toros                ; 18 ; 13  ; 5  ; 1  ; 0  ; 44 ; 24 ; 37
+Austin Lone Stars          ; 18 ; 13  ; 4  ; 0  ; 1  ; 46 ; 20 ; 39
+Texas Toros                ; 18 ; 12  ; 5  ; 1  ; 0  ; 44 ; 24 ; 37
 San Antonio Pumas          ; 17 ;  7  ;10  ; 0  ; 0  ; 26 ; 44 ; 21
-Tulsa Roughnecks           ; 18 ;  7  ;11  ; 1  ; 0  ; 33 ; 44 ; 16
+Tulsa Roughnecks           ; 18 ;  6  ;11  ; 1  ; 0  ; 33 ; 44 ; 16
 ***
-Houston Hurricanes         ; 18 ;  6  ;11  ; 2  ; 2  ; 25 ; 36 ; 14
+Houston Hurricanes         ; 18 ;  4  ; 9  ; 2  ; 2  ; 25 ; 36 ; 14
 Shreveport/Bossier Lions   ; 18 ;  4  ;14  ; 0  ; 0  ; 24 ; 50 ;  6
 ***
 
 *      West Division
 Arizona Sahuaros           ; 18 ; 14  ; 4  ; 0  ; 0  ; 67 ; 28 ; 42
-Chico Rooks                ; 18 ; 11  ; 7  ; 1  ; 2  ; 39 ; 28 ; 31
-Stanislaus County Cruisers ; 18 ; 13  ; 5  ; 1  ; 0  ; 51 ; 25 ; 37
-Los Angeles Fireballs      ; 18 ;  6  ;12  ; 1  ; 1  ; 21 ; 37 ; 16
-S.F. Valley Golden Eagles  ; 18 ;  5  ;13  ; 0  ; 1  ; 29 ; 51 ; 15
-Reno Rattlers              ; 18 ;  4  ;14  ; 1  ; 0  ; 23 ; 52 ; 10
+Chico Rooks                ; 18 ; 10  ; 5  ; 1  ; 2  ; 39 ; 28 ; 31
+Stanislaus County Cruisers ; 18 ; 12  ; 5  ; 1  ; 0  ; 51 ; 25 ; 37
+Los Angeles Fireballs      ; 18 ;  5  ;11  ; 1  ; 1  ; 21 ; 37 ; 16
+S.F. Valley Golden Eagles  ; 18 ;  5  ;12  ; 0  ; 1  ; 29 ; 51 ; 15
+Reno Rattlers              ; 18 ;  3  ;14  ; 1  ; 0  ; 23 ; 52 ; 10
 
 
 
