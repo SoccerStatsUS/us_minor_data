@@ -230,7 +230,8 @@ Brooklyn Hispano; 16; 10; 2; 4; 22; 31; 24;
 Brookhattan; 15; 7; 3; 5; 17; 39; 35; 
 Kearny Scots; 14; 6; 3; 5; 15; 36; 32; 
 Philadelphia Americans; 15; 4; 4; 7; 12; 29; 35; 
-Kearny Celtic; 15; 4; 3; 9; 11; 30; 37; error
+Kearny Celtic; 16; 4; 3; 9; 11; 30; 37;
+* gp played from 15->16, resolves league standings
 Trenton Americans; 15; 4; 1; 10; 9; 29; 41; 
 Brooklyn Wanderers; 13; 3; 0; 10; 6; 20; 43; 
 
@@ -316,7 +317,8 @@ Ludlow Lusitano; 16; 10; 2; 4; 22; 35; 17;
 Newark Portuguese; 16; 7; 5; 4; 19; 40; 24; 
 Brookhattan; 16; 6; 1; 9; 13; 31; 29; 
 New York Americans; 15; 4; 5; 6; 13; 34; 30; 
-Brooklyn Hakoah; 16; 4; 5; 6; 13; 23; 34; error
+Brooklyn Hakoah; 15; 4; 5; 6; 13; 23; 34;
+* note: games played adjusted down from 16 to 15 to match math
 Brooklyn Hispano; 14; 2; 4; 8; 8; 20; 34; 
 Baltimore Rockets; 16; 1; 2; 13; 4; 21; 77; 
 
@@ -341,7 +343,8 @@ Baltimore Pompeii; 18; 11; 3; 4; 25; 49; 35;
 Brookhattan-Galicia; 16; 9; 0; 7; 18; 43; 36; 
 Fall River S.C.; 18; 6; 3; 9; 15; 23; 40; 
 Elizabeth Falcons; 14; 6; 2; 6; 14; 25; 36; 
-Uhrik Truckers; 14; 4; 4; 9; 12; 33; 43; error
+Uhrik Truckers; 17; 4; 4; 9; 12; 33; 43; error
+* note: games played adjusted from 14 to 17
 Newark Portuguese; 16; 3; 6; 7; 12; 29; 42; 
 Ludlow Lusitano; 15; 2; 3; 10; 7; 19; 44; 
 Brooklyn Italians; 17; 0; 2; 13; 2; 15; 45; error
@@ -415,7 +418,8 @@ Uhrik Truckers; 14; 1; 1; 12; 3; 13; 74;
 
 Season: 1963-1964
 
-Ukrainian Nationals; 13; 11; 2; 1; 24; 44; 13; error
+Ukrainian Nationals; 14; 11; 2; 1; 24; 44; 13;
+* adjusted from 13 games played to 14 to match
 Boston Metros; 13; 9; 3; 1; 21; 21; 7; 
 Newark Ukrainian Sitch; 14; 6; 4; 4; 16; 16; 17; 
 Boca Juniors (New York); 13; 5; 3; 5; 13; 20; 13; 
@@ -519,7 +523,7 @@ Virginia Capitol Cavaliers; 10; 1; 1; 8; 3; 17; 33;
 Season: 1972
 
 New York Greeks; 10; 8; 2; 0; 18; 31; 7; 
-Boston Astros; 9; 4; 3; 3; 11; 26; 19; error
+Boston Astros; 10; 4; 3; 3; 11; 26; 19; error
 Northeast United; 10; 5; 0; 5; 10; 11; 15; 
 New Jersey Schaefer Brewers; 10; 4; 1; 5; 9; 21; 19; 
 Philadelphia Spartans; 10; 6; 3; 1; 15; 25; 12; 
@@ -552,7 +556,8 @@ Season: 1974
 
 New York Apollo; 18; 13; 3; 2; 29; 34; 16; 
 Boston Astros; 18; 9; 3; 6; 21; 33; 20; 
-New Jersey Brewers; 18; 8; 6; 5; 22; 32; 32; error
+New Jersey Brewers; 18; 8; 5; 5; 21; 32; 32; error
+* draws 6->5 to match the math etc.
 Connecticut Wildcats; 18; 6; 4; 8; 16; 27; 31; 
 Delaware Wings; 18; 2; 2; 14; 6; 22; 48; 
 Rhode Island Oceaneers; 18; 16; 2; 0; 34; 47; 9; 
@@ -594,7 +599,8 @@ New York Apollo; 24; 14; 3; 7; 115; 43; 33;
 Cleveland Cobras; 24; 9; 2; 13; 79; 29; 41; 
 Connecticut Yankees; 24; 8; 2; 14; 77; 37; 48; 
 New England Oceaneers; 24; 8; 2; 14; 76; 35; 42; 
-Sacramento Spirits; 24; 18; 4; 4; 122; 35; 23; error
+Sacramento Spirits; 24; 16; 4; 4; 122; 35; 23;
+* note: corrected down from 18; matches kenn tomasch now...
 Los Angeles Skyhawks; 24; 13; 4; 7; 114; 44; 33; 
 California Sunshine; 24; 8; 2; 14; 79; 36; 51; 
 Santa Barbara Condors; 12; 4; 4; 4; 41; 15; 12; 
